@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/njcbanner.gif
       key_highlights:
         - title: For Staff
           description: ""
