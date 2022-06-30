@@ -15,3 +15,12 @@ links:
         url: /admissions/returning-singapore-student
       - title: International Students
         url: /admissions/international-students
+  - title: Curriculum
+    url: /curriculum/overview
+    sublinks:
+      - title: Junior High
+        url: /curriculum/junior-high/overview
+      - title: Senior High
+        url: /curriculum/senior-high/overview
+      - title: Niche Programmes
+        url: /curriculum/niche-programmes/art-elective
