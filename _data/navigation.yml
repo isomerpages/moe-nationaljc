@@ -18,6 +18,8 @@ links:
   - title: Curriculum
     url: /curriculum/overview
     sublinks:
+      - title: Overview
+        url: /curriculum/overview
       - title: Junior High
         url: /junior-high/overview
       - title: Senior High
