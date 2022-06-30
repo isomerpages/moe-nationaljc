@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Eligibility.md
       - IP DSA.md
       - IP Sec 1 Posting.md
       - JC DSA.md
