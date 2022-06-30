@@ -2,5 +2,6 @@ collections:
   admissions:
     output: true
     order:
+      - JC Joint Admissions.md
       - Returning Singaporeans.md
       - International Students.md
