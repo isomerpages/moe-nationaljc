@@ -2,6 +2,7 @@ collections:
   niche-programmes:
     output: true
     order:
+      - Music Programme.md
       - Research.md
       - Malay Language Elective Programme.md
       - Tamil Language Elective Programme.md
