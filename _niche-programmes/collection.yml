@@ -2,5 +2,6 @@ collections:
   niche-programmes:
     output: true
     order:
+      - Malay Language Elective Programme.md
       - Tamil Language Elective Programme.md
       - Humanities Programme@NJC.md
