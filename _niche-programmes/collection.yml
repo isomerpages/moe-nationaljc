@@ -2,4 +2,5 @@ collections:
   niche-programmes:
     output: true
     order:
+      - Tamil Language Elective Programme.md
       - Humanities Programme@NJC.md
