@@ -44,7 +44,7 @@ links:
       - title: Environment
         url: /experience/environment
   - title: About
-    url: /about/overview
+    url: /about-us
     sublinks:
       - title: Mission, Vision, Values
         url: /about/mission-vision-values
@@ -53,7 +53,7 @@ links:
       - title: Strategic Thrusts
         url: /about/strategic-thrusts
       - title: Heritage
-        url: /about/heritage
+        url: /about-us
       - title: Staff
         url: /about/staff
       - title: Alumni
