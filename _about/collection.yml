@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - Parents In Action (PACCT).md
       - Facilities.md
       - Personal Data Protection.md
