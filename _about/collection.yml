@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Staff/Science (JH).md
       - Staff/Science (SH).md
       - Staff/.keep
       - Alumni/Alumni.md
