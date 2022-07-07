@@ -2,5 +2,6 @@ collections:
   experience:
     output: true
     order:
+      - Character/.keep
       - Welfare.md
       - Environment.md
