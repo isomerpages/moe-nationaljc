@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Staff/Mother Tongue.md
       - Staff/Mathematics and Computing (SH & JH).md
       - Staff/Physical Education.md
       - Staff/Science (JH).md
