@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Mission, Vision, Values.md
       - Anthem and Song.md
       - Strategic Thrusts.md
       - Heritage/About Us.md
