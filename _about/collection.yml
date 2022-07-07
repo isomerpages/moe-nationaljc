@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Anthem and Song.md
       - Strategic Thrusts.md
       - Heritage/About Us.md
       - Heritage/1969 Archives.md
