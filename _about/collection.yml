@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Staff/College Management Committee.md
       - Staff/Admin Office.md
       - Staff/Aesthetics.md
       - Staff/Economics.md
