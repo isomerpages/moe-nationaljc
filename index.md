@@ -17,7 +17,7 @@ sections:
           url: /highlight/for-students
         - title: For Alumni
           description: ""
-          url: /highlight/for-alumni
+          url: https://form.gov.sg/#!/605d825b91c0070012eb3e4f
   - infobar:
       title: Infobar title
       subtitle: Subtitle
