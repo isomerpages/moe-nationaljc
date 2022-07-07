@@ -2,6 +2,7 @@ collections:
   experience:
     output: true
     order:
+      - Character/Overview.md
       - Character/Student Management & Discipline.md
       - Character/Leadership.md
       - Character/Sexuality Education (JC).md
