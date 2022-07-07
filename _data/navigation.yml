@@ -43,24 +43,24 @@ links:
         url: /experience/welfare
       - title: Environment
         url: /experience/environment
-  - title: About Us
-    url: /about-us/overview
+  - title: About
+    url: /about/overview
     sublinks:
       - title: Mission, Vision, Values
-        url: /about-us/mission-vision-values
+        url: /about/mission-vision-values
       - title: Anthem and Song
-        url: /about-us/anthem-and-song
+        url: /about/anthem-and-song
       - title: Strategic Thrusts
-        url: /about-us/strategic-thrusts
+        url: /about/strategic-thrusts
       - title: Heritage
-        url: /about-us/heritage
+        url: /about/heritage
       - title: Staff
-        url: /about-us/staff
+        url: /about/staff
       - title: Alumni
-        url: /about-us/alumni
+        url: /about/alumni
       - title: Parents-In-Action
-        url: /about-us/parents-in-action
+        url: /about/parents-in-action
       - title: Facilities
-        url: /about-us/facilities
+        url: /about/facilities
       - title: Personal Data Protection
-        url: /about-us/personal-data-protection
+        url: /about/personal-data-protection
