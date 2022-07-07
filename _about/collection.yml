@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Heritage/1969 Archives.md
       - Heritage/51st eCollege Day.md
       - Heritage/52nd eCollege Day.md
       - Heritage/53rd College Day.md
