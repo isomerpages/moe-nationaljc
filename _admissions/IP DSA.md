@@ -26,3 +26,40 @@ We invite students with special talents and/or achievements in the following are
 | Music | Music Programme **(will be required to take Music as an academic subject for 4 years in Junior High)** |
 | Science, Technology, Engineering, Aesthetics and Mathematics | STEAM (Science, Technology, Engineering, Aesthetics & Mathematics) (**will be required to be engaged in and lead STEAM-based activities for 4 years in Junior High)** |
 | Visual Arts, Design and Media | MOE Art Elective Programme **(will be required to take Art as an academic subject for 4 years in Junior High)** |
+
+**Application**
+
+Applications for the DSA-Sec **are free-of-charge and must be submitted through the online DSA-Sec Portal**. Applications **open on 5 May 2022 (Thu), 11 am and close on 1 June 2022 (Wed), 3 pm**.
+
+Please refer to the MOE website: [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec) for more details.
+
+_Applicants not studying in MOE mainstream primary schools need to apply for a registration number to access the DSA-Sec Portal. More information on this can be found at_ [_http://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school_](http://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school)_._
+
+**Selection Process**
+
+Applicants will be shortlisted and selected based on the following general criteria:
+
+1.  Demonstrate passion for and commitment to the area of interest;
+2.  Exemplify positive character traits, including resilience, motivation and integrity;
+3.  Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve; and
+4.  Possess good academic potential to thrive in the Integrated Programme.
+
+as well as [criteria](https://nationaljc.moe.edu.sg/integrated-programme-direct-school-admission-selection-criteria/) specific to each talent area.
+
+All shortlisted candidates will be **notified via email by mid-July 2022** to attend an in-person audition / trial held in National Junior College. More details on the performance task will be provided in the email notification.
+
+Thereafter, applicants who are further shortlisted will be **notified via email** to attend an in-person interview, also held in National Junior College. The interview panel will comprise School Leaders, HODs and/or the CCA teachers. All interviews will take place by 12 September 2022.
+
+**Offer of Places**
+
+Applicants who are shortlisted for interviews will be notified via email of the results of the DSA-Sec application by **15 September 2022**. Successful applicants will be offered a place in National Junior College’s 6-year Integrated Programme for the academic year 2023.
+
+**Enquiries** 
+
+If you have any enquiries on DSA-Sec, you may call our General Office at 6466 1144 during office hours (9 am to 5 pm) or drop us an email at njc@moe.edu.sg with the subject “DSA-Sec”.
+
+For more information on the DSA-Sec exercise, please refer to the MOE website: [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).  
+  
+Please also see our [Frequently Asked Questions](https://nationaljc.moe.edu.sg/faqs-about-ip-dsa-sec/).
+
+We thank you for your interest in National Junior College.
