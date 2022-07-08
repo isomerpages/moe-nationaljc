@@ -6,7 +6,7 @@ description: ""
 ### Eligibility 
 
 <img src="/images/ad1.png" 
-     style="width:80%">
+     style="width:99%">
 
 At National Junior College, we believe in inspiring our staff and students to see beyond the possibilities in themselves. We do our very best for students who seek to have their unique and diverse talents nurtured.
 
