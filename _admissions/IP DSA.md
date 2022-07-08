@@ -6,7 +6,7 @@ description: ""
 ### Integrated Programme (Direct School Admission)
 
 <img src="/images/ad1.png" 
-     style="width:80%">
+     style="width:99%">
 		 
 **Direct School Admission into 6-year IP Programme for Academic Year 2023 - DSA-Sec Exercise 2022**
 
