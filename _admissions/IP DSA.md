@@ -3,7 +3,7 @@ title: IP DSA
 permalink: /admissions/ip-dsa
 description: ""
 ---
-Integrated Programme (Direct School Admission)
+### Integrated Programme (Direct School Admission)
 
 <img src="/images/ad1.png" 
      style="width:80%">
