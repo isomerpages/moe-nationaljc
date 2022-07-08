@@ -15,7 +15,7 @@ We adopt an innovative and authentic approach, within an inspiring and caring cu
 If you a primary six or secondary four student seeking for an inspiring, caring, exciting and enriching learning environment, we invite you to be part of our NJC family. Our various college activities and curriculum will nurture and develop your creativity and spirit of risk taking, ignite your passion in learning, open and challenge your mind to a world beyond the syllabuses, immerse you in new and exciting experiences to become a vibrant, caring, resilient and outstanding individual.
 
 <img src="/images/ad2.png" 
-     style="width:60%">
+     style="width:40%">
 
 <img src="/images/ad3.png" 
-     style="width:60%">
+     style="width:40%">
