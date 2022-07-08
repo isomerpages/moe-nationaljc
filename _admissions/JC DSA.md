@@ -25,10 +25,10 @@ We invite students with special talents and/or achievements in the following are
 |  |  |
 |---|---|
 | 1. CCA Excellence<br><br>Please refer to this [page](https://moe-nationaljc-staging.netlify.app/co-curricular-activities/overview) for a description of CCAs offered in NJC. | **Sports and Games**<br><br>Basketball<br><br>Canoeing & Dragon Boating<br><br>Shooting<br><br>Squash<br><br>Softball<br><br>Track and Field / Cross Country<br><br>Badminton<br><br>Rock Wall Climbing<br><br>Floorball<br><br>Football (Boys Only)<br><br>Hockey (Boys Only)<br><br>Netball (Girls Only)<br><br>Table Tennis<br><br>Touch Rugby (Girls Only)<br><br><br><br>**Performing Arts**<br><br>Concert Band<br><br>Choir<br><br>Chinese Dance<br><br>Indian Dance<br><br>Malay Dance<br><br>Western Dance<br><br>Guitar Ensemble<br><br>Guzheng Ensemble<br><br>String Ensemble<br><br>Chinese Orchestra<br><br><br>**Clubs & Societies**<br><br>Aesthetics Club – Maker Society (Art), Film and Photography<br><br>AVA & PA Club<br><br>Chinese Language, Drama and Debating (CLDDS)<br><br>English Language, Drama and Debating (ELDDES)<br><br>Indian Language, Drama and Debating (ILDDS)<br><br>Malay Language, Drama and Debating (MLDDS)<br><br>Interact Club (Community Youth Leadership)<br><br>Greenlink Club (Environmental Science)<br><br> |
-| 2. Art Excellence  | MOE Art Elective Programme (AEP) (must offer A-Level H2 Art) |
-| 3. Music Excellence  | Music Programme (must offer A-Level H2 Music) |
-| 4. Science Research Excellence (refer to this page for details) | Science Training and Research Programme (must offer A-Level H3 Science Research) |
-| 5. Language Elective Programme | Malay Language Elective Programme (must offer A-Level H2 Malay Language & Literature)<br><br>Tamil Language Elective Programme (must offer A-Level H2 Tamil Language & Literature) |
+| 2. Art Excellence  | MOE Art Elective Programme (AEP) **(must offer A-Level H2 Art**) |
+| 3. Music Excellence  | Music Programme **(must offer A-Level H2 Music)** |
+| 4. Science Research Excellence (refer to this page for details) | Science Training and Research Programme **(must offer A-Level H3 Science Research)** |
+| 5. Language Elective Programme | Malay Language Elective Programme **(must offer A-Level H2 Malay Language & Literature)**<br><br>Tamil Language Elective Programme **(must offer A-Level H2 Tamil Language & Literature)** |
 
 #### Online Application
 
