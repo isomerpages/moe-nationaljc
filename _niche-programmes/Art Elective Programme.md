@@ -73,4 +73,5 @@ In addition, AEP@NJC also explores and maintains collaborations with institutes 
 Keep up to date with the latest happenings in AEP@NJC:**  
 Follow us! [https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)**
 
-![](/images/niche3.png)
+<img src="/images/niche3.png" 
+     style="width:30%">
