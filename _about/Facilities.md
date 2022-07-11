@@ -47,11 +47,11 @@ We have two large 500-seater lecture theatres (LT1 and LT5) with stage facilitie
 
 **Hall**
 
-<img src="/images/fac7.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> The fully air-conditioned multi-purpose hall can be used for any type of function or event. The size of four badminton courts, the hall is frequently used for concerts, orchestra and dance practices and badminton training.
+<img src="/images/fac7.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> The fully air-conditioned multi-purpose hall can be used for any type of function or event. The size of four badminton courts, the hall is frequently used for concerts, orchestra and dance practices and badminton training. <br> <br> <br>
 
 **Sanctuary**
 
-<img src="/images/fac8.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> This is an air-conditioned discussion area, equipped with cafe-styled tables and chairs that is suitable for staff meetings, discussions and training.
+<img src="/images/fac8.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> This is an air-conditioned discussion area, equipped with cafe-styled tables and chairs that is suitable for staff meetings, discussions and training. <br> <br> <br>
 
 **Atrium**
 
@@ -59,7 +59,7 @@ We have two large 500-seater lecture theatres (LT1 and LT5) with stage facilitie
 
 **Plaza**
 
-<img src="/images/fac10.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> Located in the heart of the NJC campus is a beautiful landscaped garden that proudly features a fountain and a pond teeming with fishes. Stone tables and chairs offer an ideal location for students to unwind and relax.
+<img src="/images/fac10.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> Located in the heart of the NJC campus is a beautiful landscaped garden that proudly features a fountain and a pond teeming with fishes. Stone tables and chairs offer an ideal location for students to unwind and relax. <br> <br> <br>
 
 **Canteen**
 
@@ -96,11 +96,11 @@ We have two large 500-seater lecture theatres (LT1 and LT5) with stage facilitie
 
 **Weights Room**
 
-<img src="/images/fac18.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> A fully air conditioned gym with weights training machines, treadmills and sound system.
+<img src="/images/fac18.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> A fully air conditioned gym with weights training machines, treadmills and sound system. <br> <br> <br>
 
 **Tennis Court**
 
-<img src="/images/fac19.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> We have 3 tennis courts available for booking for recreational or CCA purposes.
+<img src="/images/fac19.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> We have 3 tennis courts available for booking for recreational or CCA purposes. <br> 
 
 **Indoor Sports Hall**
 
