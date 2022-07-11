@@ -6,6 +6,9 @@ third_nav_title: Subjects Offered
 ---
 ### Knowledge and Inquiry
 
+<img src="/images/knowledge1.png" 
+     style="width:80%">
+
 _“We know very little, and yet it is astonishing that we know so much, and still more astonishing that so little knowledge can give us so much power.”  Bertrand Russell_
 
 Knowledge and Inquiry is a subject that focuses on the nature of knowledge and its construction in areas such as the sciences, the social sciences, and the aesthetics. Its application also requires higher-order critical thinking skills to analyse information and arguments for logic and validity. A key component of the KI course is the writing of an Independent Study, where individual students propose and write a research topic, in fulfillment of the course requirements.
