@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Subjects Offered/Foreign Language.md
       - Subjects Offered/Project Work.md
       - Subjects Offered/Biology.md
       - Subjects Offered/Chemistry.md
