@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Subjects Offered/History.md
       - Subjects Offered/Economics.md
       - Subjects Offered/Arty.md
       - Subjects Offered/Music.md
