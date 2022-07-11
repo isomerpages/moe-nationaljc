@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Subjects Offered/Music.md
       - Subjects Offered/Literature in English.md
       - Subjects Offered/Mother Tongue.md
       - Subjects Offered/Knowledge and Inquiry.md
