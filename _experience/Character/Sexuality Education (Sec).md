@@ -103,3 +103,12 @@ Students are taught skills such as decision-making, assertiveness and negotiatio
 |---|---|---|
 | Mass Talk by HPB appointed vendor | ·         Awareness of the different STIs and HIV/AIDS<br>·         Modes of transmission<br>·         Modes of protection, specifically on how the condom is used<br>·         Consequences and impact of STIs/HIV | For Sec 3: Term3 Week 8 |
 | Classroom-based Lesson | ·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | For Sec 3: Term 4 Week 2 |
+
+**Information for Parents**
+
+Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:623d391a-ee1f-4934-8430-6f94f6bdeee4). Please access this [link](https://go.gov.sg/jh-sed-optout) to fill up the opt-out form. You can also scan the QR code to access the form.
+
+<img src="/images/cce5.png" 
+     style="width:50%">
