@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Junior High (Integrated Programme).md
+      - Subjects Offered/SPIRE.md
       - Subjects Offered/STEAM.md
       - Subjects Offered/.keep
