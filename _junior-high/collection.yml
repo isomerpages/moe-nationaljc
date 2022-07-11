@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Junior High (Integrated Programme).md
+      - Subjects Offered/Language Arts.md
       - Subjects Offered/Thinking.md
       - Subjects Offered/Junior High Mathematics.md
       - Subjects Offered/Advanced Inquiry in Mathematics.md
