@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - CCAs offered to both JH and SH/Symphonic Band.md
       - CCAs offered to both JH and SH/Western Dance.md
       - CCAs offered to both JH and SH/.keep
       - Sports and Games/Badminton.md
