@@ -73,3 +73,16 @@ We have two large 500-seater lecture theatres (LT1 and LT5) with stage facilitie
 [Online Public Access Catalogue](https://schoolibrary.moe.edu.sg/nationaljc/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
 [School eResource Repository (SERR)](https://schoolibrary.moe.edu.sg/eresourcesjc/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+
+**BYTZ**
+
+<img src="/images/fac13.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> This is a state-of-the-art IT Resource Room with more than 30 Pentium IV workstations for students to carry out IT research projects. In one corner of the Bytes, there is a rest area for students to relax after a day of lectures and tutorials.
+
+**I&E Hub**
+
+<img src="/images/fac14.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> Setup in collaboration with EDB, this room offers resources on Innovation and Enterprise including games, books and magazines. The room is ideal for projects and team discussions. Ideas Generation workshops are available on request. Find out more about our I&E programme.
+
+**Student Lounge**
+
+<img src="/images/fac15.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> Accessible to all students during college hours, this fully air-conditioned students’ lounge is the place for students to unwind and recharge. Board games may be borrowed from Student Councillors on duty. In addition, the lounge is equipped with a pool table and a foosball table.
+
