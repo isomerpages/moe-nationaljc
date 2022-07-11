@@ -3,6 +3,8 @@ title: IP DSA
 permalink: /admissions/ip-dsa
 description: ""
 ---
+Update [Frequently Asked Questions](https://nationaljc.moe.edu.sg/faqs-about-ip-dsa-sec/). and create page for [criteria](https://nationaljc.moe.edu.sg/integrated-programme-direct-school-admission-selection-criteria/)
+
 ### Integrated Programme (Direct School Admission)
 
 <img src="/images/ad1.png" 
