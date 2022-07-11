@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Clubs-and-Societies/netball
 description: ""
 third_nav_title: Clubs and Societies
 ---
-### Table Tennis
+### Netball (Girls Only)
 
 <img src="/images/netball1.png" style="width:200px;height:320px;margin-left:15px;" align = "right"> NJC Netball (NJNB) is a team of passionate individuals who are good team players. Each member of our team has the opportunity to develop resilience, good sportsmanship and confidence through training and competitions. For the love of the sport, we aim to push ourselves and the team beyond their limits. With the support of caring teachers and coaches, NJNB will be able to work towards a common goal, developing strong team spirit and camaraderie.
 
