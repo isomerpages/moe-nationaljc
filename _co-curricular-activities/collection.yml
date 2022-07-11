@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - CCAs offered to both JH and SH/Guitar Ensemble.md
       - CCAs offered to both JH and SH/Indian Dance.md
       - CCAs offered to both JH and SH/Malay Dance.md
       - CCAs offered to both JH and SH/String Orchestra.md
