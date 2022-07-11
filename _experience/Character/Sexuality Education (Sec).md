@@ -111,4 +111,4 @@ Parents may opt their children out of the Sexuality Education lessons, _eTeens_
 Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:623d391a-ee1f-4934-8430-6f94f6bdeee4). Please access this [link](https://go.gov.sg/jh-sed-optout) to fill up the opt-out form. You can also scan the QR code to access the form.
 
 <img src="/images/cce5.png" 
-     style="width:50%">
+     style="width:20%">
