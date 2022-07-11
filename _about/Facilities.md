@@ -56,3 +56,20 @@ We have two large 500-seater lecture theatres (LT1 and LT5) with stage facilitie
 **Atrium**
 
 <img src="/images/fac9.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> A dome shaped space welcomes our students, staff, parents and the public to the college with our Exuberance sculpture designed by our Alumni. Our four paired values are prominently displayed in the atrium, constantly reminding us the importance of these NJCian values. In this space, it houses the large TV panel where student videos and announcements are displayed. Townhall sessions are conducted at this very place too!
+
+**Plaza**
+
+<img src="/images/fac10.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> Located in the heart of the NJC campus is a beautiful landscaped garden that proudly features a fountain and a pond teeming with fishes. Stone tables and chairs offer an ideal location for students to unwind and relax.
+
+**Canteen**
+
+<img src="/images/fac11.png" style="width:280px;height:180px;margin-right:15px;" align = "left">Located above the Sports Complex, the college canteen boasts of twelve stalls offering a wide variety of food like chicken rice, curry mixed vegetable rice, roti prata, laksa, shrimp dumpling noodles, yong tau fu, spaghetti, fish and chips, sandwiches, ice kachang, to name a few. A small stage area with a piano offers an avenue for students to showcase their musical talent to the lunch time crowd.
+
+
+**Library**
+
+<img src="/images/fac12.png" style="width:280px;height:180px;margin-right:15px;" align = "left">The library has a seating capacity of about three hundred students. It has a wide range of books and titles that are updated regularly. Within the library, there are three special discussion rooms for students to have group meetings and discussions. In another corner is the instructions room for conducting learning workshops. Laptops and digital video cameras may be borrowed from the library counter.
+
+[Online Public Access Catalogue](https://schoolibrary.moe.edu.sg/nationaljc/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+
+[School eResource Repository (SERR)](https://schoolibrary.moe.edu.sg/eresourcesjc/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
