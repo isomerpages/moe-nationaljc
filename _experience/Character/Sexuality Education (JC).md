@@ -70,12 +70,12 @@ Parents may opt their children out of Growing Years and/or supplementary sexuali
 Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form is downloadable [here](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:aac95997-f41c-4e63-bb14-235e5a2e8ce7). Please click on this [link](https://go.gov.sg/sh-gy-optout) to fill out the opt-out form. The completed form is to be submitted by 18 July 2022. You can scan the QR code too.
 
 <img src="/images/cce3.png" 
-     style="width:50%">
+     style="width:20%">
 
 Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form is downloadable [here](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:61f6d511-2640-4f4e-8c79-a3d0af959498). Please click on this [link](https://go.gov.sg/sh-eteens-optout) to fill out the opt-out form. You can scan the QR code too.
 
 <img src="/images/cce4.png" 
-     style="width:50%">
+     style="width:20%">
 
 The completed form is to be submitted by 18 July 2022.
 
