@@ -42,9 +42,12 @@ HOD Humanities: Ms Valerie Cher [cher\_caifeng\_valerie@moe.edu.sg](mailto:cher
 
 <img src="/images/advhum1.png" 
      style="width:60%">
+		 
 <img src="/images/advhum2.png" 
-     style="width:60%"><img src="/images/advhum3.png" 
      style="width:60%">
+		 
+<img src="/images/advhum3.png" 
+     style="width:40%">
 		 
 AH students exploring the Bukit Timah Railway Station with Ms Stella Wee of URA.
 
