@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Subjects Offered/Mother Tongue.md
       - Subjects Offered/Knowledge and Inquiry.md
       - Subjects Offered/General Paper.md
       - Subjects Offered/English Language and Linguistics.md
