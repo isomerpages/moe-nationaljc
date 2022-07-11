@@ -25,6 +25,17 @@ With 12 performing arts CCAs, the need to find dedicated spaces for students to 
 Follow us! [https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)\>
 	
 **Amphitheatre**
-	
-	
-	
+
+<img src="/images/fac3.png" 
+     style="width:80%">
+
+A sheltered open-air amphitheatre that is suitable for cultural performances, gatherings or simply to relax. It serves as an outdoor venue for concerts and performances.
+
+**Science block**
+
+<img src="/images/fac4.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> We have five Physics laboratories, four Chemistry laboratories, two Biology laboratories and two Integrated Sciences laboratories. All laboratories are equipped with LCD projectors and wireless LAN.
+
+**Sigma Labs**
+
+<img src="/images/fac5.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> The Sigma Labs (South Zone Science & Technology Centre) is set up to promote interest in science and research amongst students and teachers, particularly in the area of biomedical sciences. It is equipped with sophisticated instruments and equipment for research and scientific investigation. The centre is the platform for collaboration with Institutes of Higher Learning and Research Institutes & Centres. In addition, it is ideal for sharing among teachers and peer mentoring among students.
+
