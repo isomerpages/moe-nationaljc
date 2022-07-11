@@ -4,6 +4,8 @@ permalink: /junior-high/Subjects-Offered/overview
 description: ""
 third_nav_title: Subjects Offered
 ---
+Not complete
+
 ### Subjects Offered in Junior High 
 
 Here in National Junior College, we offer a wide range of subjects/programmes that may be learned at Junior High.
@@ -18,4 +20,3 @@ Here in National Junior College, we offer a wide range of subjects/programmes th
 
 
 #### Science and Mathematics
-
