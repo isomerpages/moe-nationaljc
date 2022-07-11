@@ -105,3 +105,7 @@ We have two large 500-seater lecture theatres (LT1 and LT5) with stage facilitie
 **Indoor Sports Hall**
 
 <img src="/images/fac20.png" style="width:180px;height:250px;margin-right:15px;" align = "left"> The Indoor Sports Hall (ISH) was progressively phased in as part National Junior College’s vision to provide a holistic, well-rounded education to all students in 2012. With greater flexibility to schedule Physical Education (PE) lessons without having to worry about the weather, and give more students the opportunity to participate in sports and games, the ISH can accommodate a basketball court superimposed with four badminton courts, a volleyball court and a netball court. In addition, it has an extension of about 30% increase in court space as compared to a standardized sports hall which allows for cohort based briefing and activities as an alternative to the existing Hall and lecture facilities in the college. Our distinguished alumnus donated a 3 by 2 meter state of the art mounted electronic scoreboard.
+
+**Indoor Gymnasium**
+
+<img src="/images/fac21.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> A fully air conditioned multi-purpose venue which can be used for any type of function or event such as table tennis and examinations.
