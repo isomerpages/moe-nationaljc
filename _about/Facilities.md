@@ -86,3 +86,14 @@ We have two large 500-seater lecture theatres (LT1 and LT5) with stage facilitie
 
 <img src="/images/fac15.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> Accessible to all students during college hours, this fully air-conditioned students’ lounge is the place for students to unwind and recharge. Board games may be borrowed from Student Councillors on duty. In addition, the lounge is equipped with a pool table and a foosball table.
 
+**PE/CCA Block**
+
+<img src="/images/fac16.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> Students can borrow sports items from the PE teachers who are all stationed at the PE block. Most of the fitness equipment and the nearby weight rooms are available to all students and staff. Sports CCAs take personal care of their own store in this vicinity.
+
+**Field**
+
+<img src="/images/fac17.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> The NJC synthetic field is available to all students and staff for recreational or CCA activities such as soccer, frisbee, softball, or touch rugby.
+
+**Weights Room**
+
+<img src="/images/fac18.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> A fully air conditioned gym with weights training machines, treadmills and sound system.
