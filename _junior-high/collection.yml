@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Junior High (Integrated Programme).md
+      - Subjects Offered/Chemistry.md
       - Subjects Offered/Physics.md
       - Subjects Offered/Advanced Sciences.md
       - Subjects Offered/SPIRE.md
