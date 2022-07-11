@@ -3,7 +3,7 @@ title: Overview
 permalink: /co-curricular-activities/overview
 description: ""
 ---
-Need update
+Not complete
 
 ### Co-Curriculum Activities Overview
 
