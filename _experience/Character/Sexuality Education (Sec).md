@@ -110,5 +110,18 @@ Parents may opt their children out of the Sexuality Education lessons, _eTeens_
 
 Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form is downloadable [here](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:623d391a-ee1f-4934-8430-6f94f6bdeee4). Please access this [link](https://go.gov.sg/jh-sed-optout) to fill up the opt-out form. You can also scan the QR code to access the form.
 
+<img src="/images/cce6.png" 
+     style="width:20%">
+
+The completed form is to be submitted by 10th July 2022.
+
+Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form is downloadable [here](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:434fa505-6230-4342-abc5-78d5c63f39f8). Please access this [link](https://go.gov.sg/jh-eteens-optout) to fill up the opt-out form. You can also scan the QR code to access the form.
+
 <img src="/images/cce5.png" 
      style="width:20%">
+
+The completed form is to be submitted by 10th July 2022.
+
+Parents can contact the school at via telephone at 6466 1144 or via email at njc@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
+
+Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
