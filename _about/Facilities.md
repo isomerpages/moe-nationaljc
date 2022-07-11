@@ -39,3 +39,20 @@ A sheltered open-air amphitheatre that is suitable for cultural performances, ga
 
 <img src="/images/fac5.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> The Sigma Labs (South Zone Science & Technology Centre) is set up to promote interest in science and research amongst students and teachers, particularly in the area of biomedical sciences. It is equipped with sophisticated instruments and equipment for research and scientific investigation. The centre is the platform for collaboration with Institutes of Higher Learning and Research Institutes & Centres. In addition, it is ideal for sharing among teachers and peer mentoring among students.
 
+**Lecture Theatres**
+
+<img src="/images/fac6.png" 
+     style="width:80%">
+We have two large 500-seater lecture theatres (LT1 and LT5) with stage facilities. In addition, there are three smaller lecture theatres (LT2, LT3 and LT4). All lecture theatres are fully equipped.
+
+**Hall**
+
+<img src="/images/fac7.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> The fully air-conditioned multi-purpose hall can be used for any type of function or event. The size of four badminton courts, the hall is frequently used for concerts, orchestra and dance practices and badminton training.
+
+**Sanctuary**
+
+<img src="/images/fac8.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> This is an air-conditioned discussion area, equipped with cafe-styled tables and chairs that is suitable for staff meetings, discussions and training.
+
+**Atrium**
+
+<img src="/images/fac9.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> A dome shaped space welcomes our students, staff, parents and the public to the college with our Exuberance sculpture designed by our Alumni. Our four paired values are prominently displayed in the atrium, constantly reminding us the importance of these NJCian values. In this space, it houses the large TV panel where student videos and announcements are displayed. Townhall sessions are conducted at this very place too!
