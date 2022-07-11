@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
+      - Subjects Offered/Further Mathematics.md
       - Subjects Offered/.keep
       - Subject Combinations.md
