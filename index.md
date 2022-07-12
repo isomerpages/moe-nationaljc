@@ -19,6 +19,13 @@ sections:
           description: ""
           url: https://form.gov.sg/#!/605d825b91c0070012eb3e4f
   - infopic:
+      title: Our Strategic Thrusts
+      description: Learn what are our beliefs to help your child grow and mature.
+      button: Click Here
+      url: https://moe-nationaljc-staging.netlify.app/about/strategic-thrusts
+      image: /images/strategicthrust1.png
+      alt: Strategic Thrusts
+  - infopic:
       title: Our Research
       description: Learn how we nurture your child to be a researcher who will benefit
         society.
@@ -33,11 +40,4 @@ sections:
       url: /voices
       image: /images/reflection1.png
       alt: Reflection
-  - infopic:
-      title: Our Strategic Thrusts
-      description: Learn what are our beliefs to help your child grow and mature.
-      button: Click Here
-      url: https://moe-nationaljc-staging.netlify.app/about/strategic-thrusts
-      image: /images/strategicthrust1.png
-      alt: Strategic Thrusts
 ---
