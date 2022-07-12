@@ -1,0 +1,4 @@
+collections:
+  voices:
+    output: true
+    order: []
