@@ -23,8 +23,4 @@ sections:
       description: Learn what our staff, student and alumni have to say.
       button: Click here
       url: /voices
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
