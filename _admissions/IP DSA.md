@@ -3,8 +3,6 @@ title: IP DSA
 permalink: /admissions/ip-dsa
 description: ""
 ---
-Update [Frequently Asked Questions](https://nationaljc.moe.edu.sg/faqs-about-ip-dsa-sec/). and create page for [criteria](https://nationaljc.moe.edu.sg/integrated-programme-direct-school-admission-selection-criteria/)
-
 ### Integrated Programme (Direct School Admission)
 
 <img src="/images/ad1.png" 
@@ -46,7 +44,7 @@ Applicants will be shortlisted and selected based on the following general crite
 3.  Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve; and
 4.  Possess good academic potential to thrive in the Integrated Programme.
 
-as well as [criteria](https://nationaljc.moe.edu.sg/integrated-programme-direct-school-admission-selection-criteria/) specific to each talent area.
+as well as [criteria](https://moe-nationaljc-staging.netlify.app/integrated-programme-selection-criteria) specific to each talent area.
 
 All shortlisted candidates will be **notified via email by mid-July 2022** to attend an in-person audition / trial held in National Junior College. More details on the performance task will be provided in the email notification.
 
@@ -62,6 +60,6 @@ If you have any enquiries on DSA-Sec, you may call our General Office at 6466 11
 
 For more information on the DSA-Sec exercise, please refer to the MOE website: [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).  
   
-Please also see our [Frequently Asked Questions](https://nationaljc.moe.edu.sg/faqs-about-ip-dsa-sec/).
+Please also see our [Frequently Asked Questions](https://moe-nationaljc-staging.netlify.app/faq/).
 
 We thank you for your interest in National Junior College.
