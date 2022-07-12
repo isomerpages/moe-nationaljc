@@ -1,4 +1,5 @@
 collections:
   research-at-njc:
     output: true
-    order: []
+    order:
+      - Achievements in Research.md
