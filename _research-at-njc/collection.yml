@@ -2,5 +2,6 @@ collections:
   research-at-njc:
     output: true
     order:
+      - Research Facilities.md
       - Partners in Research.md
       - Achievements in Research.md
