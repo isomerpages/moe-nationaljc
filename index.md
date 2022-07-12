@@ -25,10 +25,12 @@ sections:
       button: Click here
       url: https://moe-nationaljc-staging.netlify.app/research-at-njc/
       image: /images/research1.png
+      alt: Research
   - infopic:
       title: Our Reflections
       description: Learn what our staff, student and alumni have to say.
       button: Click here
       url: /voices
       image: /images/reflection1.png
+      alt: Reflection
 ---
