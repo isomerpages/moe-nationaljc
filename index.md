@@ -19,11 +19,10 @@ sections:
           description: ""
           url: https://form.gov.sg/#!/605d825b91c0070012eb3e4f
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Our Reflections
+      description: Learn what our staff, student and alumni have to say.
+      button: Click here
+      url: /voices
   - resources:
       title: Media
       subtitle: Learn more
