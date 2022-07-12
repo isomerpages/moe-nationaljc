@@ -23,4 +23,10 @@ sections:
       description: Learn what our staff, student and alumni have to say.
       button: Click here
       url: /voices
+  - infopic:
+      title: Our Reflections
+      description: Learn what our staff, student and alumni have to say.
+      button: Click here
+      url: /voices
+      image: /images/reflection1.png
 ---
