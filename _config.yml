@@ -3,7 +3,7 @@ url: ""
 favicon: /images/njcfavlogo.png
 colors:
   primary-color: "#fa1717"
-  secondary-color: "#fa1717"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
