@@ -1,5 +1,0 @@
-collections:
-  voices:
-    output: true
-    order:
-      - Overview.md
