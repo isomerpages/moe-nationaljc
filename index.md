@@ -18,6 +18,8 @@ sections:
         - title: For Alumni
           description: ""
           url: https://form.gov.sg/#!/605d825b91c0070012eb3e4f
+      title: College of the Nation
+      subtitle: Home of scholars and leaders who serve with honour
   - infopic:
       title: Our Strategic Thrusts
       description: Learn what are our beliefs to help your child grow and mature.
