@@ -3,7 +3,6 @@ title: Contact
 permalink: /contact-us/
 description: ""
 ---
-
 ### Contact
 
 <img src="/images/contact1.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> **National Junior College**  
@@ -15,5 +14,5 @@ Email: [njc@moe.edu.sg](mailto:njc@moe.edu.sg)
 
 **Nearest MRT:** Tan Kah Kee (Downtown Line)
 
-**Buses:  
-**67, 74, 151, 154, 156, 174, 852, 961
+**Buses:**
+67, 74, 151, 154, 156, 174, 852, 961
