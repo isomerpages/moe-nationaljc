@@ -110,11 +110,9 @@ Boarding Programme 
 
 _Boarding is an integral part of the NJC IP experience. Boarding helps our students to develop independence, and knowledge, skills and values that are fundamental to living in a community. The closer relationships that are forged during Boarding and the memorable experiences would last a lifetime and, even more crucially, contribute towards character and resilience building._  
 
-_Boarding is something every child and parent looks forward to. In the event that there are extenuating circumstances that prohibit a child from boarding,a request to defer boarding may be made to Principal of NJC for consideration.  
-_
+_Boarding is something every child and parent looks forward to. In the event that there are extenuating circumstances that prohibit a child from boarding,a request to defer boarding may be made to Principal of NJC for consideration._
 
-**How much does the boarding programme cost?  
-**
+**How much does the boarding programme cost?**
 
 _Each child nominally pays a substantially subsidised rate of $600-800 per year for Boarding (i.e. to board for about 1 term or 6-7 weeks). Support for students who require financial aid can be provided on a case-by-case basis._ 
 
@@ -128,8 +126,7 @@ CCAs 
 
 _All JH1 students experience the unique Co-curricular Activities for Exposure (CAFÉ) programme in their first year, where they will undergo the experiences of both Sports & Games and Performing Arts CCAs. This will help them make an informed decision in their choice of CCA for their remaining JH years. Please note that there are no Uniformed Groups at NJC._   
 
-_Students who are admitted via the DSA-Sec exercise must commit to their CCA of choice for four years. They may join another CCA in Senior High if they choose to.  
-_
+_Students who are admitted via the DSA-Sec exercise must commit to their CCA of choice for four years. They may join another CCA in Senior High if they choose to._
 
 **How many CCAs can students take up?** 
 
@@ -137,8 +134,7 @@ _Most students from JH will follow MOE guidelines to take up one core CCA activi
 
 Research@NJC
 
-**What research opportunities does NJC provide?  
-**
+**What research opportunities does NJC provide?**
 
 _All JH students will read the Special Programme in Inquiry and REsearch (SPIRE). SPIRE starts in the second half of JH2. Your child will be introduced to the basics of research, specifically to learn how to read academic papers, understand the knowledge creation process, develop capacity in asking and framing research questions and write up a research proposal. Your child is free to explore any academic field (Sciences, Mathematics, Sport Science, Humanities or Language Arts) and will be mentored by a teacher who has expertise in that field. In JH3, your child will continue with what he/she had previously proposed, e.g. conduct experiments, develop models and simulations, administer investigative surveys, etc. The SPIRE experience culminates with a Symposium at the end of JH3._  
 
@@ -180,11 +176,9 @@ _Students who are successfully admitted via the DSA are expected to honour their
 
 **When will the results of the DSA application be announced?** 
 
-_All successful applicants will be informed of the outcome — Confirmed Offer, Waiting List, or Unsuccessful — by 15 Sep 2022.  
-_
+_All successful applicants will be informed of the outcome — Confirmed Offer, Waiting List, or Unsuccessful — by 15 Sep 2022._
 
-_Students given a Confirmed Offer are guaranteed a place in the school, provided that they accept the offer via the DSA-Sec Portal between 31 Oct – 4 Nov 2022, and qualify for the Express stream based on their PSLE results.  
-_
+_Students given a Confirmed Offer are guaranteed a place in the school, provided that they accept the offer via the DSA-Sec Portal between 31 Oct – 4 Nov 2022, and qualify for the Express stream based on their PSLE results._
 
 **If I am unsuccessful under the DSA, how else can I gain admission to NJC?** 
 
@@ -192,17 +186,14 @@ _Primary 6 students can apply through the Secondary One Posting Exercise conduct
 
 Music Programme & AEP
 
-**What does Music Programme or AEP mean?  
-**
+**What does Music Programme or AEP mean?**
 
 _Music Programme or AEP is offered as an academic programme where students who are admitted to either of these programmes are required to read Music or Art as part of their academic curriculum. It is mandatory for students who are in the Music Programme or AEP to attend the curriculum lessons which take place on weekday afternoons._
 
-**If my child is admitted to Music Programme or AEP DSA, can he/she not have a CCA?  
-**
+**If my child is admitted to Music Programme or AEP DSA, can he/she not have a CCA?**
 
 _We believe that CCA is an important aspect of your child’s holistic development, hence it is important that your child is exposed to other areas of development and interaction with other students from other backgrounds and interests. All Music Programme and AEP DSA students are expected to take up a CCA_. 
 
-**If my child is admitted to Music Programme DSA, must he/she be in a music-related CCA?  
-**
+**If my child is admitted to Music Programme DSA, must he/she be in a music-related CCA?**
 
 _As your child’s commitment is to the academic programme, he/she is free to choose to join any CCA that is offered to all Junior High students, be it from Sports & Games or the Performing Arts._
