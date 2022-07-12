@@ -2,4 +2,5 @@ collections:
   research-at-njc:
     output: true
     order:
+      - Partners in Research.md
       - Achievements in Research.md
