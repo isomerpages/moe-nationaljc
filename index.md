@@ -33,4 +33,11 @@ sections:
       url: /voices
       image: /images/reflection1.png
       alt: Reflection
+  - infopic:
+      title: Our Strategic Thrusts
+      description: Learn what are our beliefs to help your child grow and mature.
+      button: Click Here
+      url: https://moe-nationaljc-staging.netlify.app/about/strategic-thrusts
+      image: /images/strategicthrust1.png
+      alt: Strategic Thrusts
 ---
