@@ -2,12 +2,35 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
+### Terms of Use
 
-#### **General Legal Information**
+**Disclaimer**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+National Junior College owns and maintains this website as a service to its students, staff and members of public. We invite you to visit frequently to browse through our pages and download and copy materials for your personal use, subject to the restrictions outlined below.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+**Links to Third Party Information**
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+This website has links to third party information providers who are not affiliated with the College. The College does not endorse any of these sites, nor the information or merchandise contained or offered by these sites. National Junior College cannot make any warranties as to the accuracy, reliability or security of any information you might be requested to give any third party and, in no event shall the College be liable for any damages whatsoever.
+
+**No Warranties**
+
+Information and documents provided on this website are provided “as is” without warranty of any kind, either express or implied, including without limitation warranties of merchantability, fitness for a particular purpose and non-infringement. National Junior College provides, with reasonable effort, accurate and up-to-date information on this website. It does not, however, make any warranties or representations as to its accuracy or completeness. It periodically adds, changes, improves or updates the information and documents on this website without notice.
+
+**Limitation of Liability**
+
+National Junior College assumes no liability or responsibility for any errors or omissions in the content of its website. You are using the website at your own risk. Under no circumstances shall National Junior College or any other party involved in creating, producing or delivering the contents of this website be liable to you or any other person for any direct, indirect, special, incidental or consequential damages arising from your access to, or use of, this website.
+
+**Use of Logo**
+
+The use, reproduction, copying, or redistribution of the National Junior College logo is strictly prohibited. Written permission must be obtained from the Communications & Engagement Office for any such request.
+
+**Downloading of Software and/or Documentation**
+
+All software and/or documentation made available on this website for downloading is the copyrighted work of the relevant suppliers. Ownership of the software and documentation belongs to the copyright holder. Thus ownership is not transferred to you if you download. The use of any such software and/or documentation is subject to the terms of a license agreement as provided by the supplier of the software. Please read the licence agreement if you intend to install the software.
+
+**Governing Law**
+
+These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.
+
+**Use of Open Data  
+**The use of datasets that National Junior College publishes to the public free-of-charge (Open Data) will be governed by the [Singapore Open Data Licence](https://data.gov.sg/open-data-licence).   The Singapore Government may, from time to time, issue new versions of the Singapore Open Data Licence. Your continued use of the datasets constitutes your acceptance of the new version of this Licence.
