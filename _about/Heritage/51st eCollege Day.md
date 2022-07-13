@@ -76,7 +76,7 @@ Professor Tan did his Interventional Cardiology fellowship at Duke University Me
 
       <p>We would like to take this opportunity to sincerely congratulate our teachers, who have dedicated 25, 15 and 10 years to the education service respectively. 
 
-**Click on the name of the teacher awardee** to read his/her heartfelt thoughts. <br>Long Service Award: 25 Years</p>
+**Click on the name of the teacher awardee** to read his/her heartfelt thoughts. <br>Long Service Award: 25 Years <br> <br> <img src="/images/ecol5.png" style="width:200px;height:240px;margin-right:15px;" align = "leftt">“As a teacher, I hope that ultimately my students are able to persevere throughout any trials in life and are able to find something that stirs their passion and gives them happiness. I hope that they will not be afraid of mistakes but rather have the courage to try once more. I want them to be able to not only take away subject knowledge but also values and morals from their journey in NJC.” </p>
 
     </div>
 
