@@ -94,8 +94,8 @@ Click on the name of the teacher awardee to read his/her heartfelt thoughts. <b
 <img src="/images/ecol20.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “I would like my students to enjoy the different aspects of physics that they have encountered, within and outside class. Sure, it’s Physics. They may feel frustrated and challenged sometimes, but that’s all good. Why? Because they are learning.” <br>
 				<img src="/images/ecol21.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “As individuals, each student will have his or her own goal and aspiration. I hope that as they fulfill their dreams in life, they will also be able to think critically, be socially aware, and be able to find their sense of purpose in life and society.” <br>
 				<img src="/images/ecol22.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “My hope for my students is that they take courage to make mistakes but learn from them to stand up and try again. One day when they look back, they would see how that tenacity has built their character and optimism for life.” <br> 
-				<img src="/images/ecol23.png" style="width:200px;height:240px;margin-right:15px;" align = "left">
-				
+				<img src="/images/ecol23.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “更能触动心弦的是一考完试后，学生就立刻发过来的短讯—其中的内容，表达了对老师的感激，甚至觉得自己表现不理想，达不到老师的要求，对不起老师，深感内疚。学生毕业回校探望老师，来到面前告诉你：“老师，我喜欢你的华文课！谢谢你教我华文。”这话会让我睡得很香很甜! 能教出懂得感恩的学生还有什么遗憾呢?” <br>
+				<img src="/images/ecol24.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “I remain hopeful that my students have the ability to attain their personal goals, lead a life that they desire in the future, and demonstrate the College’s Values in whatever they choose to undertake. Be daring to make a difference!” <br><br>
 				
 				
 			</p>
