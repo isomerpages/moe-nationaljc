@@ -44,7 +44,8 @@ Service with Honour.
 
       <p> **Professor Tan Huay Cheem** <br> <img src="/images/ecol3.png" style="width:190px;height:240px;margin-right:15px;" align = "left"> Professor Tan Huay Cheem graduated from the National University of Singapore in 1987 and obtained his Master of Medicine in Internal Medicine and Membership of Royal College of Physician (United Kingdom) in 1992, Fellowship of American College of Cardiology in 2001, Fellowship of Society of Coronary Angiography and Intervention in 2002 and Fellowship of Royal College of Physician in 2004.
 
-Professor Tan did his Interventional Cardiology fellowship at Duke University Medical Centre, North Carolina, USA in 1995, followed by training in Vascular Ultrasonography at St Vincent’s Hospital, Sydney, Australia (2002), and Carotid Stenting at Taiwan National University Hospital (2008).</p>
+Professor Tan did his Interventional Cardiology fellowship at Duke University Medical Centre, North Carolina, USA in 1995, followed by training in Vascular Ultrasonography at St Vincent’s Hospital, Sydney, Australia (2002), and Carotid Stenting at Taiwan National University Hospital (2008).
+			<br> Insert videos here</p>
 
     </div>
 
@@ -58,7 +59,8 @@ Professor Tan did his Interventional Cardiology fellowship at Duke University Me
 
     <div>
 
-      <p>This is a simple one line item</p>
+      <p><img src="/images/ecol4.png" style="width:300px;height:220px;margin-left:15px;" align = "right">Our heartfelt gratitude to Associate Professor Ho Hwee Long, for his unwavering passion, enthusiasm and determination in deeply inspiring many batches of our NJC Symphonic Band members for the past 51 years. Associate Professor Ho Hwee Long has led the evolution of the wind band in Singapore since 1969. He was formerly with the Nanyang Technological University’s National Institute of Education, and a Cultural Medallion Winner in Singapore. <br>
+			Insert video here</p>
 
     </div>
 
@@ -72,7 +74,9 @@ Professor Tan did his Interventional Cardiology fellowship at Duke University Me
 
     <div>
 
-      <p>This is a simple one line item</p>
+      <p>We would like to take this opportunity to sincerely congratulate our teachers, who have dedicated 25, 15 and 10 years to the education service respectively. 
+
+**Click on the name of the teacher awardee** to read his/her heartfelt thoughts. <br>Long Service Award: 25 Years</p>
 
     </div>
 
