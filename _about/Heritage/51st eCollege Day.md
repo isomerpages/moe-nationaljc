@@ -76,7 +76,15 @@ Professor Tan did his Interventional Cardiology fellowship at Duke University Me
 
       <p>We would like to take this opportunity to sincerely congratulate our teachers, who have dedicated 25, 15 and 10 years to the education service respectively. <br> <br>
 
-Click on the name of the teacher awardee to read his/her heartfelt thoughts. <br>Long Service Award: 25 Years <br> <br> <img src="/images/ecol5.png" style="width:200px;height:240px;margin-right:15px;" align = "leftt"> “As a teacher, I hope that ultimately my students are able to persevere throughout any trials in life and are able to find something that stirs their passion and gives them happiness. I hope that they will not be afraid of mistakes but rather have the courage to try once more. I want them to be able to not only take away subject knowledge but also values and morals from their journey in NJC.” </p>
+Click on the name of the teacher awardee to read his/her heartfelt thoughts. <br>Long Service Award: 25 Years <br> <br> <img src="/images/ecol5.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “As a teacher, I hope that ultimately my students are able to persevere throughout any trials in life and are able to find something that stirs their passion and gives them happiness. I hope that they will not be afraid of mistakes but rather have the courage to try once more. I want them to be able to not only take away subject knowledge but also values and morals from their journey in NJC.” <br> <br>
+				Long Service Award: 15 Years <br>
+				<img src="/images/ecol6.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “Respect the knowledge and where it comes from; from authentic sources, my teachers and even if it comes from my own students … that’s where I believe true wisdom is attained. Appreciate it and it will naturally be retained and glow in us.” <br>
+					<img src="/images/ecol7.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “I just want my students to achieve ABC in life – A for Accolade, B for Betterment, C for Compassion. Always strive to be your best, better than yesterday, and be good to all beings in this world.” <br> <img src="/images/ecol8.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “I want students to enjoy learning and take pride in their work. I want students to be a positive force and recognise that everyone of us has different strengths to contribute to the place we live in.” <br>
+				<img src="/images/ecol9.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “I would like students to be able to see relevance in what they have learnt and apply it to their careers or everyday life. They need not necessarily become doctors or scientists, but at the end of the day I hope that they are competent and able to analyse issues and think critically, such that their opinions about certain issues related to Science emerge.” <br>
+	<img src="/images/ecol10.png" style="width:200px;height:240px;margin-right:15px;" align = "left">	“To my students I’d like to say, always do your best, because you deserve nothing better than the best.” <br>
+<img src="/images/ecol11.png" style="width:200px;height:240px;margin-right:15px;" align = "left">				
+				
+			</p>
 
     </div>
 
