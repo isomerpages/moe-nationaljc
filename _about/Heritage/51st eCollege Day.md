@@ -19,7 +19,7 @@ third_nav_title: Heritage
     <div>
 
 ####       <p> Mr. Ang Pow Chew <br>
-<img src="/images/ecol2.png" style="width:183px;height:240px;margin-left:15px;" align = "right"> 2020 marks the start of our College’s 51st year. This is also a year of an unprecedented disruption of school and schooling which we were accustomed to. All stakeholders of our school community have had to adjust to an online mode of teaching and learning enacted outside of the school building. I am glad our teachers and students have been able to exercise mental and behavioural flexibility to adjust quickly to a changed environment.</p>
+<img src="/images/ecol2.png" style="width:283px;height:340px;margin-right:15px;" align = "left"> 2020 marks the start of our College’s 51st year. This is also a year of an unprecedented disruption of school and schooling which we were accustomed to. All stakeholders of our school community have had to adjust to an online mode of teaching and learning enacted outside of the school building. I am glad our teachers and students have been able to exercise mental and behavioural flexibility to adjust quickly to a changed environment.</p>
 
     </div>
 
