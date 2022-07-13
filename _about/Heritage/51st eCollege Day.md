@@ -4,6 +4,10 @@ permalink: /about/Heritage/51st-ecollege-day
 description: ""
 third_nav_title: Heritage
 ---
+### 51st eCollege Day
+
+![](/images/ecol1.png)
+
 <ul class="jekyllcodex_accordion">
 
   <li>
@@ -23,7 +27,7 @@ third_nav_title: Heritage
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">A Message from Guest of Honour </label>
+    <label for="accordion2">A Message from Our Guest of Honour </label>
 
     <div>
 
@@ -34,5 +38,60 @@ Professor Tan did his Interventional Cardiology fellowship at Duke University Me
     </div>
 
 </li>
-</ul>
+	
+	<li>
 
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">An Expression of Our Gratitude</label>
+
+    <div>
+
+      <p>This is a simple one line item</p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion4">
+
+    <label for="accordion4">A Journey in Education and Service</label>
+
+    <div>
+
+      <p>This is a simple one line item</p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion5">
+
+    <label for="accordion5"> A Celebration of Excellence</label>
+
+    <div>
+
+      <p>This is a simple one line item</p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion6">
+
+    <label for="accordion6">A Celebration of the Human Spirit</label>
+
+    <div>
+
+      <p>This is a simple one line item</p>
+
+    </div>
+
+</li>
+</ul>
