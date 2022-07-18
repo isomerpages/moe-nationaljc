@@ -7,7 +7,7 @@ description: ""
 ---
 #### Understanding IP
 
-o all P6 students and parents of P6 students, join us for a Q&A session on 28th Nov.
+To all P6 students and parents of P6 students, join us for a Q&A session on 28th Nov.
 
 Q & A Day on 28th Nov 2020, 9 to 11am
 
