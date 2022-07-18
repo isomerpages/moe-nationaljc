@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: Events
           description: ""
-          url: /events
+          url: resources/events/
         - title: News
           description: ""
-          url: /news
+          url: resources/news/
       title: College of the Nation
       subtitle: Home of scholars and leaders who serve with honour
   - infopic:
@@ -40,4 +40,3 @@ sections:
       image: /images/reflection1.png
       alt: Reflection
 ---
-
