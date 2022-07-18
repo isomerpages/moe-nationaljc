@@ -129,3 +129,95 @@ _Application opens in Term 3._</p>
 </li>
 
 </ul>
+
+**Overseas Research Programmes** 
+
+NJC has eight established IREPs across six different countries. Every IREP offers students the distinctive opportunity of collaborating on a research project with peers from another country, while also immerse themselves in another culture via homestays of their peers. NJC students also get the opportunity to be ambassadors of Singapore and the College by extending their warm hospitality when their peers from another country visits Singapore to work on the research project. This cross-culture research exchange helps broadens perspectives of research and also deepens the global awareness of NJC students. The subject areas of research available in IREP includes Biology, Chemistry, Physics, Mathematics and the Humanities.
+
+<ul class="jekyllcodex\_accordion">
+
+  <li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">Thailand</label>
+
+    <div>
+
+      <p>MWITS – NJC IREP <br> Overseas Institute: Mahidol Wittayanusorn School (MWITS) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/MZh70tCHh9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> Through this partnership with one of the leading high schools in Thailand, students will be able to learn advanced mathematical concepts and tools in various areas of Mathematics and computing (such as graph theory and equivalence relations), Chemistry and Biology. They will apply the tools in a related research problem, such as solving an open problem or developing alternative approaches towards existing real- life problems. Students will get the opportunity to immerse themselves in the rich Thai culture by interacting with the students from Mahidol. Biology, Chemistry, Mathematics</p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">Russia</label>
+
+    <div>
+
+      <p>MCL – NJC IREP <br> Overseas Institute: Moscow Chemical Lyceum (MCL) <Br> <iframe width="560" height="315" src="https://www.youtube.com/embed/TX0XCXVB8EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> </p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">Simple</label>
+
+    <div>
+
+      <p>This is a simple one line item</p>
+
+    </div>
+
+</li>
+	
+<li>
+
+    <input type="checkbox" id="accordion4">
+
+    <label for="accordion4">Simple</label>
+
+    <div>
+
+      <p>This is a simple one line item</p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion5">
+
+    <label for="accordion5">Simple</label>
+
+    <div>
+
+      <p>This is a simple one line item</p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion6">
+
+    <label for="accordion6">Simple</label>
+
+    <div>
+
+      <p>This is a simple one line item</p>
+
+    </div>
+
+</li>
+
+</ul>
