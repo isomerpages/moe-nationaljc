@@ -7,6 +7,8 @@ description: ""
 ---
 #### Class of 2019 Award Recipients – NTU
 
+Every year, NTU honours a group of outstanding students with various awards. These awards are given to those who have not only consistently secured high academic record but also participated in various projects, research and special activities. We are pleased to share with you the following list of Class 2019 award recipients who are alumni of National Junior College.
+
 | Name 	| Course 	| Awards 	|
 |---	|---	|---	|
 | Aisyah Binte Yusoff 	| Bachelor of Arts in Sociology 	| Koh Boon Hwee Scholars Award 	|
