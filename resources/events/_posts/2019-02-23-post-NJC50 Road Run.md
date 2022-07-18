@@ -40,3 +40,12 @@ _\*NJC50 Formation –_ To commemorate NJC’s 50thbirthday, we will be taking 
 <img src="/images/events7.png" style="width:80px;height:100px;margin-left:15px;" align = "right"> **Going Green**
 
 As our College is on a quest in Going Green, you are encouraged to bring your own utensils and tumblers to enjoy the food and drinks at our stalls and Milo van!
+
+**Event Layout**
+
+<img src="/images/events8.png" 
+     style="width:60%">
+
+**Running Route**
+
+3.2km – Lower JH Boys, Girls, Staff, PAACT, Alumni
