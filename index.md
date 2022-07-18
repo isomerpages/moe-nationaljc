@@ -9,15 +9,12 @@ sections:
   - hero:
       background: /images/njcbanner.gif
       key_highlights:
-        - title: For Staff
+        - title: News
           description: ""
-          url: /highlight/for-staff
-        - title: For Students
+          url: /news
+        - title: Events
           description: ""
-          url: /highlight/for-students
-        - title: For Alumni
-          description: ""
-          url: https://form.gov.sg/#!/605d825b91c0070012eb3e4f
+          url: /events
       title: College of the Nation
       subtitle: Home of scholars and leaders who serve with honour
   - infopic:
