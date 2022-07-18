@@ -5,3 +5,6 @@ date: 2019-12-31
 layout: post
 description: ""
 ---
+#### Happy New Year
+
+We wish all NJCians a joyful and peaceful 2020.
