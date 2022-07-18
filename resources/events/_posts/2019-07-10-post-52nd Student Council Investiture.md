@@ -5,3 +5,6 @@ date: 2019-07-10
 layout: post
 description: ""
 ---
+#### 52nd Student Council Investiture
+
+SCI
