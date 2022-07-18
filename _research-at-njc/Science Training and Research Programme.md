@@ -196,11 +196,11 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 
     <input type="checkbox" id="accordion5">
 
-    <label for="accordion5">Simple</label>
+    <label for="accordion5">United Kingdom</label>
 
     <div>
 
-      <p>This is a simple one line item</p>
+      <p>CSIA – NJC IREP <br> #### Overseas Institute: Camborne Science and International Academy (CSIA) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/yoY-M1_RSv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> One of our newest partners, Camborne Science and International Academy is a well-acclaimed academic institution in Cornwall, England. In this research exchange programme, students will focus on application and authentic problem solving based research projects. They will study the applications of nanoparticles in different fields of science, e.g. chemiluminescence and biosensing.  Students will also get the opportunity to immerse themselves in the rich English culture via visits to farms, attending classes and homestays. <br> Area of Research: Biology, Physics, Mathematics</p>
 
     </div>
 
