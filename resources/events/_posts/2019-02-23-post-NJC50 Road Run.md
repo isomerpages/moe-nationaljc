@@ -72,3 +72,14 @@ Email: [njc@moe.edu.sg](mailto:njc@moe.edu.sg)
 SBS: 66, 74, 151, 154, 156, 157, 170, 174  
 SMRT: 67, 171, 852, 961  
 Others: 540, 645
+
+<img src="/images/events11.png" 
+     style="width:60%">
+
+\*\* Parking will be limited.  Please proceed to the Boarding School or park along the left side of Hillcrest Road.  Guests are highly encouraged to take public transport or park at Greenwood estate and walk over for their warm up for the run!  Cars will not be allowed into the College as the roads will be used for the run. Please look out for our friendly marshals at the main school gate who will direct you.
+
+<img src="/images/events12.png" 
+     style="width:60%">
+
+<img src="/images/events13.png" 
+     style="width:60%">
