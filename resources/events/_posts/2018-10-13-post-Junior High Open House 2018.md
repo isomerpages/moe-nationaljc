@@ -5,6 +5,8 @@ date: 2018-10-13
 layout: post
 description: ""
 ---
+#### Junior High Open House 2018
+
 At NJC, we believe in fulfilling your constantly evolving learning needs and nurturing you to be a well-rounded individual who will serve with honour. We believe in making every experience for you enriching and memorable.
 
 If you are looking for the space to stretch your limits and develop your potential, join us!
