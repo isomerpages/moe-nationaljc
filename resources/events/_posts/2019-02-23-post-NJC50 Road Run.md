@@ -49,3 +49,26 @@ As our College is on a quest in Going Green, you are encouraged to bring your ow
 **Running Route**
 
 3.2km – Lower JH Boys, Girls, Staff, PAACT, Alumni
+
+<img src="/images/events9.png" 
+     style="width:60%">
+3.8 km – Upper JH and SH Boys		 
+
+<img src="/images/events10.png" 
+     style="width:60%">
+
+**Getting Here**
+
+**National Junior College**  
+37 Hillcrest Road  
+Singapore 288913  
+Tel: (65) 6466 1144  
+Fax: (65) 6468 4535  
+Email: [njc@moe.edu.sg](mailto:njc@moe.edu.sg)
+
+**Nearest MRT:** Tan Kah Kee (Downtown Line)
+
+**Buses:**  
+SBS: 66, 74, 151, 154, 156, 157, 170, 174  
+SMRT: 67, 171, 852, 961  
+Others: 540, 645
