@@ -10,7 +10,7 @@ description: ""
 <img src="/images/events3.png" 
      style="width:80%">
 
-<img src="/images/events4.png" style="width:100px;height:200px;margin-left:15px;" align = "right"> The year 2019 marks the 50th Anniversary of Singapore’s first Junior College. To kick start the celebrations this year, we are holding a special edition of our annual Road Run! We are honoured to have **Mr Desmond Choo (alumnus 1995-96), Member of Parliament and Mayor of the North East District** as our Guest of Honour.  Also joining us is **Mr Low Wei Loong Brian (alumnus 2005-06)****, SPH Radio UFM100.3 DJ**, who will be emceeing the event.
+<img src="/images/events4.png" style="width:100px;height:200px;margin-left:15px;" align = "right"> The year 2019 marks the 50th Anniversary of Singapore’s first Junior College. To kick start the celebrations this year, we are holding a special edition of our annual Road Run! We are honoured to have **Mr Desmond Choo (alumnus 1995-96), Member of Parliament and Mayor of the North East District** as our Guest of Honour.  Also joining us is **Mr Low Wei Loong Brian (alumnus 2005-06)** **, SPH Radio UFM100.3 DJ**, who will be emceeing the event.
 
 <img src="/images/events5.png" style="width:100px;height:200px;margin-right:15px;" align = "left"> All past staff and students who have been part of our 50 years are invited to return and celebrate together on the 23 Feb (Sat) morning at NJC.
 
