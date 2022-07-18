@@ -7,7 +7,7 @@ description: ""
 ---
 #### E-Open House (Junior High)
 
-Join us at our 2020 e-Open House! [Start your tour here.](https://nationaljc.moe.edu.sg/junior-high-e-open-house/)
+Join us at our 2020 e-Open House! [Start your tour here.](https://moe-nationaljc-staging.netlify.app/junior-high-e-open-house/)
 
 Daily, beginning from 26 May, we will highlight our students’ various experiences: their academic pursuits, the highlights of their CCA , life in the boarding school, and lead you through a day in the life of an NJCian.
 
