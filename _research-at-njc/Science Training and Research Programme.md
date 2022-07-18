@@ -19,3 +19,113 @@ Senior High 1 students who are keen to explore a career as a researcher can take
 Details on these programmes can be found below.
 
 **Local Research Programmes**
+
+<ul class="jekyllcodex\_accordion">
+
+  <li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">H3 Science Training and Research (H3 STaR)</label>
+
+    <div>
+
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/nF0JO4KG_4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> The pinnacle of research programmes, H3 Science Training and Research (H3-STaR) students demonstrate the keen traits of a scientist and have strong intent in heightening their mastery of skills and cognition. H3-STaR students work independently on a research project together with A\*STAR scientists over a period of 7 months, and will write and defend their thesis at a viva in their graduating year. </p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">Enrichment Science Training and Research Programme (ESTaR)</label>
+
+    <div>
+
+      <p><iframe width="560" height="315" src="https://www.youtube.com/embed/uXV2cOYRcGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> Students further their pursuit of knowledge by collaborating with scientists from various academic and research institutes. The Enrichment Science Training and Research Programme is a natural extension from SPIRE. More advanced techniques and methods, deeper concepts and work with more extensive impact are the hallmarks of the STaR Programme. Programmes within E-STaR include the International Research Exchange Programme (IREP), Industrial Research in Environment Attachment Programme (IREAP) and the Institute-Based. </p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">External Research Programme (ERP)</label>
+
+    <div>
+
+      <p>In NJC, all research students in various programmes will participate in Singapore Science & Engineering Fair (SSEF).
+
+**Overseas Student Attachment Programme (OSAP) by MOE**
+
+Eligible SH1 students can apply for the following overseas attachment programmes
+
+1.  [Centre of Excellence in Education Summer Programme](https://www.cee.org/research-science-institute), USA (late Jun to 1st week of Aug)
+2.  [International Summer School for Young Physicists](http://www.perimeterinstitute.ca/outreach/students/programs/international-summer-school-young-physicists), Canada (last 2 weeks of July)
+
+_Application opens in late Jan._ 
+
+**Local Student Attachment Programme (LSAP) by MOE**
+
+Eligible SH1 students can apply for the Student Attachment Programmes at Local Research Institutes:
+
+*   REsearch Attachment Programme (REAP) at Temasek Life Sciences Laboratory (TLL) (last week of Nov to first week of Jan, 6 weeks)
+*   A\*STAR-MOE Research Attachment Programme (RAP) at various Research Institutes (RIs) (3rd week of Nov to 3rd week of Dec, 5 weeks)
+
+Students will have the opportunity to be involved in research projects under the mentorship of practicing scientists in state-of-the-art laboratories in established local RIs. Students must commit fully for the duration of the programme that they are applying for.
+
+_Application opens in Term 3._ 
+
+**  
+[Nanyang Research Programme (NRP)](http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx)**
+
+The Nanyang Research Programme (NRP) and NRP Junior Researcher (NTUjr) are NTU outreach programmes for SH1 students and JH3/4 students respectively. Students students undertake at least 8 months of research activities, either individually or in a pair, under the charge of an NTU faculty member. This programme will culminate in the submission of a Research Paper and a Poster Presentation carried out during the NRP Symposium, held in April annually.
+
+NRP offers a variety of research topics from NTU’s four Colleges – College of Engineering, College of Science, College of Humanities, Arts, & Social Sciences, and College of Business  and the National Institute of Education.
+
+SH1 Students can choose to enrol in either the H3 NTU NRP (examinable) or the enrichment version (non-examinable).
+
+_[Applications](http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/NRP-Application.aspx) must be endorsed by teachers.  Application opens in late Jan/early Feb._
+
+[**Science Research Programme (SRP)**](http://www.science.nus.edu.sg/education/h3-students/h3-science-research-programmes)
+
+SRP is a NUS outreach programmes for SH1 students. Students get to work on research projects in  
+Life/Medical Sciences, Chemical/Physical Sciences, and Engineering under the guidance of  
+mentors from NUS and established research centres. Similarly, students undertake at least 8 months of research activities.  This programme will culminate in the submission of a Research Paper and a Poster Presentation carried out during the SRP Congress, held in April annually.
+
+SH1 Students can choose to enrol in either the H3 NUS SRP (examinable) or the enrichment version (non-examinable).
+
+_Application opens in late Jan/early Feb._
+
+[**SUTD Research Mentorship Programme (RMP)**](https://www.sutd.edu.sg/Admissions/Undergraduate/Outreach)
+
+SUTD offers research project opportunities and provides mentorship to SH1 every year under RMP.
+
+RMP participants will be given special consideration for admissions and scholarships, should they apply to SUTD subsequently.
+
+The timeline for RMP 2019 is as follows:
+
+*   Deadline for application submission by schools: **15 Feb**
+*   Selection/interviews by PIs: Anytime between **15 Feb – 1 Mar**
+*   Allocation of projects to successful students: **By 8 Mar**
+*   RMP duration: **Mar onwards (depending on the project duration determined by faculty)**
+
+Applicants will have to undergo a selection process by the project PIs, which may include interviews.
+
+[**Young Defence Scientists Programme (YDSP)**](https://www.dsta.gov.sg/join-us/student/young-defence-scientists-programme/our-programmes)
+
+YDSP is an initiative co-managed by the Defence Science and Technology Agency (DSTA) and DSO National Laboratories (DSO). YDSP offers various programmes including
+
+Research@YDSP is a 4-month research attachment programme for JH4 to SH1 students. The programme offers students the opportunities to experience research work and work alongside engineers/scientists in a real working/research environment with support from partners such as DSO, Centre for Strategic Infocomm Technologies (CSIT), Temasek Labs (TLs), NTU, NUS, SUTD and their research institutes.
+
+_Application opens in Term 3._</p>
+
+    </div>
+
+</li>
+
+</ul>
