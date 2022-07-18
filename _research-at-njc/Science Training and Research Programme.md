@@ -210,11 +210,14 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 
     <input type="checkbox" id="accordion6">
 
-    <label for="accordion6">Simple</label>
+    <label for="accordion6">Australia</label>
 
     <div>
 
-      <p>This is a simple one line item</p>
+      <p>Overseas Institute: Suzanne Cory High School (SCHS) <br> insert missing image here <br> In this research exchange programme, students will be able to collaborate with teachers and students from SCHS to investigate topics in the Arts and the Humanities.  They will also get the opportunity to broaden their intellectual and cultural exposure by interacting with the SCHS students.
+
+The students will communicate their research by co-presenting at the International Humanities Symposium.
+</p>
 
     </div>
 
