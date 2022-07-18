@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/njcbanner.gif
       key_highlights:
-        - title: News
-          description: ""
-          url: /news
         - title: Events
           description: ""
           url: /events
+        - title: News
+          description: ""
+          url: /news
       title: College of the Nation
       subtitle: Home of scholars and leaders who serve with honour
   - infopic:
