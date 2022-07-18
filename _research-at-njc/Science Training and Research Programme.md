@@ -144,7 +144,7 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 
     <div>
 
-      <p>MWITS – NJC IREP <br> Overseas Institute: Mahidol Wittayanusorn School (MWITS) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/MZh70tCHh9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> Through this partnership with one of the leading high schools in Thailand, students will be able to learn advanced mathematical concepts and tools in various areas of Mathematics and computing (such as graph theory and equivalence relations), Chemistry and Biology. They will apply the tools in a related research problem, such as solving an open problem or developing alternative approaches towards existing real- life problems. Students will get the opportunity to immerse themselves in the rich Thai culture by interacting with the students from Mahidol. Biology, Chemistry, Mathematics</p>
+      <p>MWITS – NJC IREP <br> Overseas Institute: Mahidol Wittayanusorn School (MWITS) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/MZh70tCHh9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> Through this partnership with one of the leading high schools in Thailand, students will be able to learn advanced mathematical concepts and tools in various areas of Mathematics and computing (such as graph theory and equivalence relations), Chemistry and Biology. They will apply the tools in a related research problem, such as solving an open problem or developing alternative approaches towards existing real- life problems. Students will get the opportunity to immerse themselves in the rich Thai culture by interacting with the students from Mahidol. <br>  Biology, Chemistry, Mathematics</p>
 
     </div>
 
@@ -158,7 +158,7 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 
     <div>
 
-      <p>MCL – NJC IREP <br> Overseas Institute: Moscow Chemical Lyceum (MCL) <Br> <iframe width="560" height="315" src="https://www.youtube.com/embed/TX0XCXVB8EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> </p>
+      <p>MCL – NJC IREP <br> Overseas Institute: Moscow Chemical Lyceum (MCL) <Br> <iframe width="560" height="315" src="https://www.youtube.com/embed/TX0XCXVB8EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>  Students will explore organic and organometallic synthesis. Specifically, students will carry out advanced experiments in organic and organometallic synthesis for application in the pharmaceutical industry. Also, students will learn advanced analytical methods: infrared and nuclear magnetic spectroscopies are amongst a host of analytical tools used to support the various projects in this programme. Advanced methods in retrosynthesis and mechanisms form the theoretical basis of the work that is done. Students will, while engaged heavily in research, have an opportunity to immerse themselves in the rich culture of Russia, from ballets to plays to enjoying Russian family life via homestays. <br> Area of Research <br> Chemisty</p>
 
     </div>
 
