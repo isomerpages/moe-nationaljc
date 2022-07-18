@@ -36,3 +36,7 @@ Note: The all-popular Milo Van will be making its appearance!
 12:00 pm       End
 
 _\*NJC50 Formation –_ To commemorate NJC’s 50thbirthday, we will be taking an aerial photo with all attendees gathered to form the words NJC50 on the school’s field. Come and be part of this momentous event as we continue to make history together as one college.  _**Please wear a pre-dominantly white based t-shirt and join us on the field for this!**_
+
+<img src="/images/events7.png" style="width:80px;height:100px;margin-left:15px;" align = "right"> **Going Green**
+
+As our College is on a quest in Going Green, you are encouraged to bring your own utensils and tumblers to enjoy the food and drinks at our stalls and Milo van!
