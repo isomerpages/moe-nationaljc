@@ -5,6 +5,8 @@ date: 2018-08-02
 layout: post
 description: Celebrating Fifty Years as Singapore’s first Junior College
 ---
+#### The National Dream (NJC’s Original Musical)
+
 **Celebrating Fifty Years as Singapore’s first Junior College**
 
 National Junior College will be celebrating fifty years this coming August, with the staging of an original musical involving current students across both its Secondary and Junior College sections, alumni, and teachers.
