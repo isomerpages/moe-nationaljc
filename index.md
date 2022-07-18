@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: National Junior College
 description: Brief site description here
 image: /images/njclogo.png
 permalink: /
@@ -40,3 +40,4 @@ sections:
       image: /images/reflection1.png
       alt: Reflection
 ---
+
