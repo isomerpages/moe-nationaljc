@@ -168,11 +168,11 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Simple</label>
+    <label for="accordion3">Japan</label>
 
     <div>
 
-      <p>This is a simple one line item</p>
+      <p>WUHSHS – NJC IREP <br> Overseas Institute: Waseda University Honjo Senior High School (WUHSHS) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/-hRTU_pzx5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> In its 9th year, the Waseda University Honjo Senior High School – National Junior Science Research Exchange Programme is among the founding programmes in the International Science Research Exchange Programme. Students have the opportunity to explore a range of projects in various fields of Physics. From synthesis, characterisation and analysis of stimuli-responsive polymers to sonoluminescence and its application, students will advance their capacities and interest in materials sciences, spectroscopic methods, electrodynamics and computational methods. Beyond academia, students in this programme will experience Japanese culture both in schools and while hosted by their peers’ families.<br>Area of Research<br>Biology, Chemistry, Humanities, Social Sciences<br> RITS – NJC IREP <br> Overseas Institute: Affiliate Schools of The Ritsumeikan Trust (RITS) <Br> 2016 marked the inaugural tripartite research exchange between National Junior College, Ritsumeikan Junior and Senior High School from Kyoto, and Ritsumeikan Keisho Junior and Senior High School from Hokkaido. Students in this programme will participate in collaborative research projects relating to Environmental Science. With three schools, at three different geographical locations, students will have opportunities to leverage on the differences afforded by the different environments to explore projects of different themes. Apart from research, students will also have many opportunities to explore and learn about the cultural differences between the two countries. <br> Area of Research <br> Biology, Chemistry, Geography </p>
 
     </div>
 
