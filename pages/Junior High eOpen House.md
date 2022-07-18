@@ -30,3 +30,25 @@ To participate:
 **CCA Life in NJC**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PkxLGE29nFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Academic Life in NJC**
+
+**Integrated Science, Mathematics**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/toH4SIW8cL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Humanities, Art, Music**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MNy2gN4RI-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Thinking, Language Arts, Drama, Governance and Society**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/so1Beap-Qgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**A day in the life of an NJCian**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TYEwyhdQHMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Our History**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DSub2lutbBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
