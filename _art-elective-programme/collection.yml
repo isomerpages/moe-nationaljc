@@ -1,4 +1,5 @@
 collections:
   art-elective-programme:
     output: true
-    order: []
+    order:
+      - AEP Contacts.md
