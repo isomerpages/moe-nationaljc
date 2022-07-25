@@ -17,5 +17,4 @@ Head of Department, Aesthetics
 **Mr Ernest Yeo**  
 SH/AEP(ag), Art Tutor, Aesthetic Club – Photographic Society Teacher-in-charge
 
-**Ms Lim Hui Chi**
-Art & Drama Tutor,  Aesthetic Club – Film Society Teacher-in-charge
+**Ms Lim Hui Chi** <br>Art & Drama Tutor,  Aesthetic Club – Film Society Teacher-in-charge
