@@ -2,5 +2,6 @@ collections:
   music-elective-programme:
     output: true
     order:
+      - Frequently Asked Questions.md
       - Testimonials.md
       - Contact.md
