@@ -2,6 +2,7 @@ collections:
   art-elective-programme:
     output: true
     order:
+      - Senior High AEP.md
       - Junior High AEP.md
       - AEP Centre at NJC.md
       - AEP at NJC Learning Spaces.md
