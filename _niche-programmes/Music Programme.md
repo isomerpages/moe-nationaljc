@@ -3,8 +3,6 @@ title: Music Programme
 permalink: /niche-programmes/music-programme
 description: ""
 ---
-Need to create page for this, click [here](https://nationaljc.moe.edu.sg/micrositestandard/musicprogramme/) 
-
 ### Music
 
 ![](/images/niche4.png)
@@ -21,7 +19,7 @@ The Programme is currently exploring possibilities for inter-disciplinary collab
 
 Students may appeal into NJC via DSA or JAE through the NJC Music Programme.
 
-For more information, click [here](https://nationaljc.moe.edu.sg/micrositestandard/musicprogramme/) to visit our Official Music Programme Website or contact our Music teachers:
+For more information, click [here](https://moe-nationaljc-staging.netlify.app/music-elective-programme/) to visit our Official Music Programme Website or contact our Music teachers:
 
 | Name | Email |
 |:---:|:---:|
