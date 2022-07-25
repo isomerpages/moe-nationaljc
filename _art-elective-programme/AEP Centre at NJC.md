@@ -15,7 +15,7 @@ In addition to having the opportunity to take [‘O’ Level Higher Art](https:
 Our external students will be part of a larger 600-strong AEP community, interacting through combined workshops and events. They will so have the opportunity to exhibit their works in school as well as national platforms. Participate in authentic learning experiences through immersion learning journeys to museums, galleries and with artists and other industry practitioners.
 
 <img src="/images/aep4.png" 
-     style="width:80%">
+     style="width:60%">
 
 For more information on NJC as AEP Centre, please visit [MOE website about AEP Centre](https://www.moe.gov.sg/programmes/aep-sec/how-to-join?pt=AEP%20Centre), or contact us at [njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).
 
