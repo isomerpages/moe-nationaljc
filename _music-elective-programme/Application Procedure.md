@@ -19,4 +19,4 @@ The Direct School Admission (DSA) allows students with special talents and achie
 
 Students may also appeal through the Music Excellence Category during the Joint Admission Exercise (JAE).
 
-For more information, please refer to the page on ‘Admission to NJC’ on the school website 
+For more information, please refer to the page on ‘Admission to NJC’ on the school website [here](https://moe-nationaljc-staging.netlify.app/)
