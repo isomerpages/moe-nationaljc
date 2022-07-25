@@ -2,5 +2,6 @@ collections:
   art-elective-programme:
     output: true
     order:
+      - AEP Centre at NJC.md
       - AEP at NJC Learning Spaces.md
       - AEP Contacts.md
