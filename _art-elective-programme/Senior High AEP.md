@@ -25,7 +25,6 @@ _
 
 **For more information on AEP@NJC contact us at [njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
 
-Or Keep up to date with the latest happenings in AEP@NJC:**  
-Follow us! [https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)**
+Or Keep up to date with the latest happenings in AEP@NJC:
+**Follow us! [https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)**
 
-_
