@@ -3,8 +3,6 @@ title: Art Elective Programme
 permalink: /niche-programmes/art-elective
 description: ""
 ---
-Need to create page for this, click [here](https://nationaljc.moe.edu.sg/micrositestandard/sh-aep/)
-
 ### Art Elective Programme
 
 ![](/images/niche1.png)
@@ -64,7 +62,7 @@ In addition, AEP@NJC also explores and maintains collaborations with institutes 
 [Class of 2019](https://njartgradshow2020.wordpress.com/)  
 [Class of 2020](https://sh2aep2020.wixsite.com/my-site)
 
-**For more information on AEP@NJC, click [here](https://nationaljc.moe.edu.sg/micrositestandard/sh-aep/)**
+**For more information on AEP@NJC, click [here](https://moe-nationaljc-staging.netlify.app/art-elective-programme/)**
 
 **For external Secondary School students looking for details on AEP Centre, click [here](https://nationaljc.moe.edu.sg/micrositestandard/aep-centre-njc/)**
 
