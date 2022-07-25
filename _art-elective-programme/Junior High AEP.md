@@ -15,7 +15,8 @@ description: ""
 <img src="/images/aep1.png" 
      style="width:80%">
 
-****Entry Requirements:****  
+***Entry Requirements:***
+
 Keen interest in art-making of all kinds is valued. Students take a selection test in **JH1** at the start of the school year.
 
 Portfolios may be submitted for consideration.
@@ -35,5 +36,5 @@ Thursdays
 
 **For more information on AEP@NJC contact us at [njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
 
-Or Keep up to date with the latest happenings in AEP@NJC:**  
-Follow us! [https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)**
+Or Keep up to date with the latest happenings in AEP@NJC:
+**Follow us! [https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)**
