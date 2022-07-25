@@ -28,3 +28,27 @@ description: ""
 | Harmony and Theory fundamentals<br>Stylistic imitation (e.g. Two-part counterpoint, Bach Chorale, String quartet, Romantic Lieder, Fugal Exposition, Sonata development) 	| Coursework<br>Written Assessment 	|
 
 **Aural & Practical Musicianship Skills**
+
+| Syllabus Requirements 	| Assessment Format 	|
+|:---:	|:---:	|
+| Sight-singing / Sight-reading<br>Keyboard Improvisation/ Harmonisation<br>Transposition and score-reading<br>Chamber Music coaching<br>Basic Conducting skills 	| Practical musicianship tests<br>Written Examinations 	|
+
+##### Senior High Curriculum and Programme Structure (A level H2 Music)
+
+**Music Studies**
+
+| yllabus Requirements 	| Assessment Format 	|
+|:---:	|:---:	|
+| Listening<br>Commentary<br>History & Musical Styles<br>Topics:<br>For specific Western and Asian topics examined, please refer to:<br>https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2019syllabus/9753_2019.pdf 	| Written Examinations 	|
+
+**Performing**
+
+| Syllabus Requirements 	| Assessment Format 	|
+|:---:	|:---:	|
+| Mixed Recital Programme from Western and/or Asian traditions, including both solo and chamber music performance, or 2nd instrument. 	| Recital 	|
+
+**Music Writing**
+
+| Syllabus Requirements 	| Assessment Format 	|
+|:---:	|:---:	|
+| Original composition<br>and<br>Stylistic imitation and/or Composition Techniques 	| Coursework 	|
