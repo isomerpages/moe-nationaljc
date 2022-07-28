@@ -20,7 +20,7 @@ Details on these programmes can be found below.
 
 **Local Research Programmes**
 
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">  
   
   <li>  
   
