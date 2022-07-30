@@ -3,8 +3,6 @@ title: Research
 permalink: /niche-programmes/research
 description: ""
 ---
-Need to create page for this, click [here](https://nationaljc.moe.edu.sg/microsite/researchnjc/)
-
 ### Research
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8glNth9UEtg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -15,7 +13,7 @@ By offering research in Science, Mathematics, Computing, Sports Sciences, Humani
 
 With these rich experiences, Research@NJC students are articulate, critical in thought, effective academic collaborators, resilient in learning and serving the world that they live in.
 
-For more information, click [here](https://nationaljc.moe.edu.sg/microsite/researchnjc/) to visit our Research Website or contact our teachers:
+For more information, click [here](https://moe-nationaljc-staging.netlify.app/research-at-njc/) to visit our Research Website or contact our teachers:
 
 For any queries, you may contact us at the following emails.
 
