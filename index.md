@@ -19,16 +19,17 @@ sections:
       subtitle: Home of scholars and leaders who serve with honour
   - infopic:
       title: Our Strategic Thrusts
-      description: Learn what are our beliefs to help your child grow and mature.
-      button: Click Here
+      description: "Our strategic thrusts are crafted to reflect our vision and
+        mission as we move onward to the next 50 years. "
+      button: Click Here to find out
       url: https://moe-nationaljc-staging.netlify.app/about/strategic-thrusts
       image: /images/strategicthrust1.png
       alt: Strategic Thrusts
   - infopic:
       title: Our Research
-      description: Learn how we nurture your child to be a researcher who will benefit
-        society.
-      button: Click here
+      description: One of the cornerstones of the College. Learn how we nurture your
+        child to be a researcher who will benefit society.
+      button: Click here to find out
       url: https://moe-nationaljc-staging.netlify.app/research-at-njc/
       image: /images/research1.png
       alt: Research
