@@ -133,37 +133,166 @@ A*STAR Talent Search <br>
 *   Victoria Emily Hui Ting Buckland – First Prize (Institute) <br>
 *   Sim Yu Ki & Wang Yuhang – Commendation Prizes <br> <img src="/images/air3.png" 
      style="width:30%"> <img src="/images/air4.png" 
-     style="width:30%"> <br> **2015**
+     style="width:30%"> <br> <br> 2015 <br>
 
-##### Intel International Science and Engineering Fair 
+Intel International Science and Engineering Fair <br>
 
-*   Ching Yi Jie Preston – Finalist
+*   Ching Yi Jie Preston – Finalist <br> <Br>
 
-##### Taiwan International Science and Engineering Fair
+Taiwan International Science and Engineering Fair <br> 
 
-*   Victoria Emily Hui Ting Buckland – First Prize (Chemistry Category): 
+*   Victoria Emily Hui Ting Buckland – First Prize (Chemistry Category): <br> <br>
+
+Singapore Science and Engineering Fair <br>
+
+*   1 Intel International Science and Engineering Fair Finalist <br>
+*   2 Gold Awards <br>
+*   1 Silver Awards <br>
+*   5 Bronze Awards <br>
+*   8 Merit Awards <br> <br>
+
+2014 <br>
+
+Intel International Science and Engineering Fair <br>
+
+*   Lee Xin-Jing, Shannon – Young Scientist Award, Best of Category Award (Energy and Transportation) and First Award (Energy and Transportation) <br> <br>
+
+Singapore Science and Engineering Fair 2014 <br>
+
+*   1 Intel International Science and Engineering Fair Finalist <br>
+*   2 Gold Awards <br>
+*   3 Silver Awards <br>
+*   3 Bronze Awards <br>
+*   4 Merit Awards <br> <img src="/images/air6.png" 
+     style="width:30%"> <br> **2013**
+
+Taiwan International Science Fair
+
+*    Tammy Lim Ting Yi – First Prize (Chemistry Category)
+
+##### Singapore Science and Engineering Fair
+
+*   2 Gold Awards
+*   1 Silver Award
+*   6 Bronze Awards
+*   5 Merit Awards
+
+**2012**
 
 ##### Singapore Science and Engineering Fair 
 
-*   1 Intel International Science and Engineering Fair Finalist
 *   2 Gold Awards
-*   1 Silver Awards
+*   2 Silver Awards
 *   5 Bronze Awards
+*   4 Merit Awards
+
+**2011**
+
+##### Singapore Science and Engineering Fair 
+
+*   2 Silver Awards
+*   2 Bronze Awards
+*   4 Merit Awards
+
+**2010**
+
+##### Intel International Science and Engineering Fair 2010
+
+*   Chua Zheng Fu Edrei – Special Award (Society for Applied Spectroscopy, Northern California Section, Third Award)
+
+##### Singapore Science and Engineering 
+
+*   1 Intel International Science and Engineering Fair Finalist
+*   3 Gold Awards
+*   3 Silver Awards
+*   4 Bronze Awards
+*   3 Merit Awards
+
+**2009**
+
+##### Singapore Science and Engineering Fair
+
+*   1 Intel International Science and Engineering Fair Finalist
+*   6 Gold Awards
+*   2 Silver Awards
+*   1 Bronze Awards
 *   8 Merit Awards
 
-##### 2014
+**2008**
 
-##### Intel International Science and Engineering Fair
+##### Intel International Science and Engineering Fair 
 
-*   Lee Xin-Jing, Shannon – Young Scientist Award, Best of Category Award (Energy and Transportation) and First Award (Energy and Transportation) 
+*   Lim Yi Hui – Forth Award (Chemistry)
 
-##### Singapore Science and Engineering Fair 2014
+##### Singapore Science and Engineering 
+
+*   1 Intel International Science and Engineering Fair Finalist
+*   3 Gold Awards
+*   3 Silver Awards
+*   3 Bronze Awards
+*   4 Merit Awards
+
+**2007**
+
+##### Intel International Science and Engineering Fair 
+
+*   Sewa Du Ying, Navin Brian Ramakrishna – Second Award (Team Projects)
+
+##### Singapore Science and Engineering 
+
+*   1 Intel International Science and Engineering Fair Finalist
+*   4 Gold Awards
+*   5 Silver Awards
+*   2 Bronze Awards
+*   7 Merit Awards
+
+**2006**
+
+##### Intel International Science and Engineering Fair 
+
+*    Wong Kuan Yee, Wong Siew Han – Third Award (Team Projects)
+
+##### Singapore Science and Engineering
 
 *   1 Intel International Science and Engineering Fair Finalist
 *   2 Gold Awards
 *   3 Silver Awards
+*   2 Bronze Awards
+*   6 Merit Awards
+
+**2005**
+
+##### Singapore Science and Engineering Fair
+
+*   2 Gold Awards
+*   3 Silver Awards
+*   1 Bronze Awards
+*   4 Merit Awards
+
+**2004**
+
+##### Singapore Science and Engineering Fair 
+
+*   1 Gold Awards
+*   1 Silver Awards
 *   3 Bronze Awards
-*   4 Merit Awards</p>
+*   3 Merit Awards
+
+**2003**
+
+##### Singapore Science and Engineering Fair
+
+*   2 Gold Awards
+*   1 Merit Awards
+
+**2002**
+
+##### Singapore Science and Engineering Fair 
+
+*   1 Gold Awards
+*   1 Silver Awards
+*   2 Bronze Awards
+*   1 Merit Awards</p>
 
 
     </div>
