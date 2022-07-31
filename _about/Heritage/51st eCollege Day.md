@@ -147,7 +147,7 @@ We also want to express our gratitude to our Technical Support and Operations Su
 
     <div>
 
-      <p>This is a simple one line item</p>
+      <p>Insert videos here</p>
 
     </div>
 
