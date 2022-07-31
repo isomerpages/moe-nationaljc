@@ -34,11 +34,11 @@ description: ""
 
     <div>
 
-      <p> <img src="/images/air2.png" 
+      <p> <img src="/images/air1.png" 
      style="width:30%"> <br> Intel International Science and Engineering Fair <br>
 
 *   Tan Yee Lee was selected to represent Singapore in the Intel International Science and Engineering Fair 2019 held in Phoenix, Arizona, USA and clinched the 3rd Award in the Category of Microbiology. <br>
-*   Tan Yee Lin was conferred Most Outstanding Junior College Science Student Award 2019, jointly sponsored by World Scientific Publishing Company (WSPC) and the Imperial College Alumni Association of Singapore (ICAAS). As the winner of this award, Yee Lin attended the Stockholm International Youth Science Seminar (SIYSS) in early Dec 2019, in conjunction with the Nobel Prize Presentation Ceremony. <br> <img src="/images/air3.png" 
+*   Tan Yee Lin was conferred Most Outstanding Junior College Science Student Award 2019, jointly sponsored by World Scientific Publishing Company (WSPC) and the Imperial College Alumni Association of Singapore (ICAAS). As the winner of this award, Yee Lin attended the Stockholm International Youth Science Seminar (SIYSS) in early Dec 2019, in conjunction with the Nobel Prize Presentation Ceremony. <br> <img src="/images/air2.png" 
      style="width:30%"> <br> <br> Singapore Science and Engineering Fair <br> 
 
 *   1 Intel International Science and Engineering Fair Finalist <br> 
@@ -109,29 +109,61 @@ Singapore Science and Engineering Fair <br>
 *   3 Silver Awards <br>
 *   9 Bronze Awards <Br>
 *   10 Merit Awards <br>
-*   7 Special Awards <br>
+*   7 Special Awards <br> <br>
 
-##### 2016
+2016 <br>
+
+Intel International Science and Engineering Fair <br>
+
+*   Wang Yuhang – Third Award (Chemistry) and Special Award (King Abdul-Aziz & his Companions Foundation for Giftedness and Creativity) <br>
+*   Jia ShuYi- Fourth Award (Chemistry) and Special Award (American Chemical Society, Honourable Mention) <br>
+*    Sim Yu Ki – Special Award (U.S. Agency for International Development, Honourable Mention) <br><br>
+
+Singapore Science and Engineering Fair <br>
+
+*   3 Intel International Science and Engineering Fair Finalists <Br>
+*   4 Gold Awards <br>
+*   4 Silver Awards <br>
+*   7 Bronze Awards <br>
+*   7 Merit Awards <br>
+*   5 Special Awards <br> <br>
+
+A*STAR Talent Search <br>
+
+*   Victoria Emily Hui Ting Buckland – First Prize (Institute) <br>
+*   Sim Yu Ki & Wang Yuhang – Commendation Prizes <br> <img src="/images/air3.png" 
+     style="width:30%"> <img src="/images/air4.png" 
+     style="width:30%"> <br> **2015**
+
+##### Intel International Science and Engineering Fair 
+
+*   Ching Yi Jie Preston – Finalist
+
+##### Taiwan International Science and Engineering Fair
+
+*   Victoria Emily Hui Ting Buckland – First Prize (Chemistry Category): 
+
+##### Singapore Science and Engineering Fair 
+
+*   1 Intel International Science and Engineering Fair Finalist
+*   2 Gold Awards
+*   1 Silver Awards
+*   5 Bronze Awards
+*   8 Merit Awards
+
+##### 2014
 
 ##### Intel International Science and Engineering Fair
 
-*   Wang Yuhang – Third Award (Chemistry) and Special Award (King Abdul-Aziz & his Companions Foundation for Giftedness and Creativity)
-*   Jia ShuYi- Fourth Award (Chemistry) and Special Award (American Chemical Society, Honourable Mention)
-*    Sim Yu Ki – Special Award (U.S. Agency for International Development, Honourable Mention)
+*   Lee Xin-Jing, Shannon – Young Scientist Award, Best of Category Award (Energy and Transportation) and First Award (Energy and Transportation) 
 
-##### Singapore Science and Engineering Fair
+##### Singapore Science and Engineering Fair 2014
 
-*   3 Intel International Science and Engineering Fair Finalists
-*   4 Gold Awards
-*   4 Silver Awards
-*   7 Bronze Awards
-*   7 Merit Awards
-*   5 Special Awards
-
-##### A\*STAR Talent Search 
-
-*   Victoria Emily Hui Ting Buckland – First Prize (Institute)
-*   Sim Yu Ki & Wang Yuhang – Commendation Prizes</p>
+*   1 Intel International Science and Engineering Fair Finalist
+*   2 Gold Awards
+*   3 Silver Awards
+*   3 Bronze Awards
+*   4 Merit Awards</p>
 
 
     </div>
