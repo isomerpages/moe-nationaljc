@@ -61,7 +61,9 @@ From explanatory to predictive science, High Performance Computing is fast becom
      style="width:50%"> <br> <img src="/images/rf7.png" 
      style="width:50%"> <br> IR Spectrometer & UV/vis Spectrophotometer <br>
 
-Critical to synthetic chemistry is the capacity to characterise compounds. Further to NMR spectrometry, FTIR and UV/vis spectrometry is available for students to characterise organic and inorganic compounds, as well as materials adsorbed on surfaces. <br> Insert missing gif here.  </p>
+Critical to synthetic chemistry is the capacity to characterise compounds. Further to NMR spectrometry, FTIR and UV/vis spectrometry is available for students to characterise organic and inorganic compounds, as well as materials adsorbed on surfaces. <br> Insert missing gif here. <br> 3D Printers <Br>
+
+3D printing offers students the opportunity to design and create solutions. Intricate to the design thinking framework, 3D printing prototyping allows students to actualise and build great ideas. A favorite among many groups, and extremely popular as a South Zone workshop for educators and teachers, 3D printing and MakerCentre@SIGMA Labs is fast becoming a key and critical facet of many research fields. </p>
 
 
     </div>
