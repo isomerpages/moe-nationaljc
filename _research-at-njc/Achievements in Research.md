@@ -267,31 +267,31 @@ Singapore Science and Engineering Fair <br>
 *   2 Gold Awards <br>
 *   3 Silver Awards <br>
 *   1 Bronze Awards <br>
-*   4 Merit Awards <br>
+*   4 Merit Awards <br> <Br>
 
-2004
+2004 <br>
 
-##### Singapore Science and Engineering Fair 
+Singapore Science and Engineering Fair <br>
 
-*   1 Gold Awards
-*   1 Silver Awards
-*   3 Bronze Awards
-*   3 Merit Awards
+*   1 Gold Awards <br>
+*   1 Silver Awards <br>
+*   3 Bronze Awards <br>
+*   3 Merit Awards <br> <br>
 
-**2003**
+2003 <br>
 
-##### Singapore Science and Engineering Fair
+Singapore Science and Engineering Fair <br>
 
-*   2 Gold Awards
-*   1 Merit Awards
+*   2 Gold Awards <br>
+*   1 Merit Awards <br> <br>
 
-**2002**
+2002 <br>
 
-##### Singapore Science and Engineering Fair 
+Singapore Science and Engineering Fair <Br>
 
-*   1 Gold Awards
-*   1 Silver Awards
-*   2 Bronze Awards
+*   1 Gold Awards <br>
+*   1 Silver Awards <br>
+*   2 Bronze Awards <br>
 *   1 Merit Awards</p>
 
 
