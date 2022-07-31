@@ -120,7 +120,20 @@ We also want to express our gratitude to our Technical Support and Operations Su
 
     <div>
 
-      <p>This is a simple one line item</p>
+      <p><img src="/images/njca1.png" 
+     style="width:60%"> <br> <img src="/images/njca2.png" 
+     style="width:60%"> <br> <img src="/images/njca3.png" 
+     style="width:60%"> <br> Insert video here <br> <img src="/images/njca4.png" 
+     style="width:60%"> <br> <img src="/images/njca5.png" 
+     style="width:60%"> <br> <img src="/images/njca6.png" 
+     style="width:60%"> <br> <img src="/images/njca7.png" 
+     style="width:60%"> <br> Insert video here <br> <img src="/images/njca8.png" 
+     style="width:60%"> <br> <img src="/images/njca9.png" 
+     style="width:60%"> <br> <img src="/images/njca10.png" 
+     style="width:60%"> <br> <img src="/images/njca11.png" 
+     style="width:60%"> <br> Insert video here <br> <img src="/images/njca12.png" 
+     style="width:60%"> <br> <img src="/images/njca13.png" 
+     style="width:60%"> <br> Insert video here</p>
 
     </div>
 
