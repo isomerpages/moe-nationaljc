@@ -70,11 +70,68 @@ Google Science Fair <br>
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">2017-2018</label>
+    <label for="accordion3">2002-2018</label>
 
     <div>
 
-      <p>text here </p>
+      <p> 2018 <br>
+
+ Intel International Science and Engineering Fair <br>
+
+*   Kee Jin Wen –  3rd Award in the Chemistry Category and a Special Award from Spectroscopy Society of Pittsburgh <br> 
+*   Koo Wei De  – 2nd Award in the Materials Science Category <br> <br>
+
+Singapore Science and Engineering Fair <br>
+
+*   2 Intel International Science and Engineering Fair Finalist <br>
+*   2 Broadcom Masters International 2018 Singapore Representative, Junior Scientist (Emma Tan Xiu Wen , Ho Jia Yi Jenevieve) <br>
+*   6 Gold Awards <br>
+*   6 Silver Awards <br>
+*   4 Bronze Awards <br>
+*   6 Merit Awards <br> 
+*   6 Special Awards <br> <br>
+
+A*STAR Talent Search <br>
+
+*   Kee Jin Wen (Commendation) <br>
+*   Aleena Madathiparambil Saju (Commendation) <br> <br>
+
+2017 <br>
+
+Intel International Science and Engineering Fair <br>
+
+*   Paula Nazarene Evangelista Say – Fourth Award (Translational Medicine) <br> <br>
+
+Singapore Science and Engineering Fair <br>
+
+*   1 Intel International Science and Engineering Fair Finalist <br>
+*   4 Gold Awards <br>
+*   3 Silver Awards <br>
+*   9 Bronze Awards <Br>
+*   10 Merit Awards <br>
+*   7 Special Awards <br>
+
+##### 2016
+
+##### Intel International Science and Engineering Fair
+
+*   Wang Yuhang – Third Award (Chemistry) and Special Award (King Abdul-Aziz & his Companions Foundation for Giftedness and Creativity)
+*   Jia ShuYi- Fourth Award (Chemistry) and Special Award (American Chemical Society, Honourable Mention)
+*    Sim Yu Ki – Special Award (U.S. Agency for International Development, Honourable Mention)
+
+##### Singapore Science and Engineering Fair
+
+*   3 Intel International Science and Engineering Fair Finalists
+*   4 Gold Awards
+*   4 Silver Awards
+*   7 Bronze Awards
+*   7 Merit Awards
+*   5 Special Awards
+
+##### A\*STAR Talent Search 
+
+*   Victoria Emily Hui Ting Buckland – First Prize (Institute)
+*   Sim Yu Ki & Wang Yuhang – Commendation Prizes</p>
 
 
     </div>
