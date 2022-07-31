@@ -31,14 +31,14 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">A Message from Our Guest of Honour </label>
+    <label for="accordion2">Steadfast, We Forge Ahead... To New Beginnings</label>
 
     <div>
 
-      <p> Professor Tan Huay Cheem <br> <img src="/images/ecol3.png" style="width:190px;height:240px;margin-right:15px;" align = "left"> Professor Tan Huay Cheem graduated from the National University of Singapore in 1987 and obtained his Master of Medicine in Internal Medicine and Membership of Royal College of Physician (United Kingdom) in 1992, Fellowship of American College of Cardiology in 2001, Fellowship of Society of Coronary Angiography and Intervention in 2002 and Fellowship of Royal College of Physician in 2004.
-
-Professor Tan did his Interventional Cardiology fellowship at Duke University Medical Centre, North Carolina, USA in 1995, followed by training in Vascular Ultrasonography at St Vincent’s Hospital, Sydney, Australia (2002), and Carotid Stenting at Taiwan National University Hospital (2008).
-			<br> Insert videos here</p>
+      <p> Steadfast, We Forge Ahead<br> <img src="/images/sf1.png" 
+     style="width:60%"> <br> Steadfast, we forge ahead. Steadfast – an unwavering determination, taking one step at a time to progress forward. 2020 was a tough year for all of us, in many aspects. It has not been easy for the whole school community, adjusting to changes, and remaining resilient when challenged by uncertainties that the COVID-19 pandemic has brought. Many new acronyms and many new “norms” were imposed upon our generation of youths, whom despite all these, have adapted, innovated and emerged stronger. This embodies the spirit of being steadfast, pressing on regardless of the difficulties faced, the uncertainties that lurk, and the obstacles to surmount. 2020, a year to remember, a year that we overcame. Steadfast, we march forth stronger, and more determined than ever towards a better future. <br> <img src="/images/sf2.png" 
+     style="width:60%"> <br> <br> To New Beginnings <br> <img src="/images/sf3.png" 
+     style="width:60%"> </p>
 
     </div>
 
