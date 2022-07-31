@@ -13,7 +13,15 @@ description: ""
 
     <div>
 
-        <p> text heere</p>
+        <p> Singapore Science and Engineering Fair <br>
+
+*   4 Gold Awards <br>
+*   4 Silver Awards <br>
+*   6 Bronze Awards <br>
+*   3 Merit Awards <br>
+*   8 Special Awards  <br>
+    
+*   1 Commendation Award for Junior Scientist</p>
 
     </div>
 
