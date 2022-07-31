@@ -70,7 +70,7 @@ Google Science Fair <br>
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">SIGMA Laboratory</label>
+    <label for="accordion3">2017-2018</label>
 
     <div>
 
