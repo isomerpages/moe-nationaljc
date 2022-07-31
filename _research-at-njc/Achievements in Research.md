@@ -164,112 +164,112 @@ Singapore Science and Engineering Fair 2014 <br>
 *   3 Silver Awards <br>
 *   3 Bronze Awards <br>
 *   4 Merit Awards <br> <img src="/images/air6.png" 
-     style="width:30%"> <br> **2013**
+     style="width:30%"> <br> <br> 2013 <br>
 
-Taiwan International Science Fair
+Taiwan International Science Fair <br>
 
-*    Tammy Lim Ting Yi – First Prize (Chemistry Category)
+*    Tammy Lim Ting Yi – First Prize (Chemistry Category) <br><br>
 
-##### Singapore Science and Engineering Fair
+Singapore Science and Engineering Fair <br>
 
-*   2 Gold Awards
-*   1 Silver Award
-*   6 Bronze Awards
-*   5 Merit Awards
+*   2 Gold Awards <br>
+*   1 Silver Award <br>
+*   6 Bronze Awards <br>
+*   5 Merit Awards <br> <br>
 
-**2012**
+2012 <br> 
 
-##### Singapore Science and Engineering Fair 
+Singapore Science and Engineering Fair <br>
 
-*   2 Gold Awards
-*   2 Silver Awards
-*   5 Bronze Awards
-*   4 Merit Awards
+*   2 Gold Awards <br>
+*   2 Silver Awards <br> 
+*   5 Bronze Awards <br>
+*   4 Merit Awards <br> <br>
 
-**2011**
+2011 <br>
 
-##### Singapore Science and Engineering Fair 
+Singapore Science and Engineering Fair <br>
 
-*   2 Silver Awards
-*   2 Bronze Awards
-*   4 Merit Awards
+*   2 Silver Awards <br>
+*   2 Bronze Awards <br>
+*   4 Merit Awards <br> <br>
+ 
+2010 <br>
 
-**2010**
+Intel International Science and Engineering Fair 2010 <br>
 
-##### Intel International Science and Engineering Fair 2010
+*   Chua Zheng Fu Edrei – Special Award (Society for Applied Spectroscopy, Northern California Section, Third Award) <br> <br>
 
-*   Chua Zheng Fu Edrei – Special Award (Society for Applied Spectroscopy, Northern California Section, Third Award)
+Singapore Science and Engineering <br>
 
-##### Singapore Science and Engineering 
+*   1 Intel International Science and Engineering Fair Finalist <br>
+*   3 Gold Awards <br>
+*   3 Silver Awards <br>
+*   4 Bronze Awards <br>
+*   3 Merit Awards <br> <br>
 
-*   1 Intel International Science and Engineering Fair Finalist
-*   3 Gold Awards
-*   3 Silver Awards
-*   4 Bronze Awards
-*   3 Merit Awards
+2009 <br>
 
-**2009**
+Singapore Science and Engineering Fair <br>
 
-##### Singapore Science and Engineering Fair
+*   1 Intel International Science and Engineering Fair Finalist <br>
+*   6 Gold Awards <br>
+*   2 Silver Awards <br>
+*   1 Bronze Awards <br>
+*   8 Merit Awards <br> <br>
 
-*   1 Intel International Science and Engineering Fair Finalist
-*   6 Gold Awards
-*   2 Silver Awards
-*   1 Bronze Awards
-*   8 Merit Awards
+2008 <Br>
 
-**2008**
+Intel International Science and Engineering Fair <br>
 
-##### Intel International Science and Engineering Fair 
+*   Lim Yi Hui – Forth Award (Chemistry) <br> <br>
 
-*   Lim Yi Hui – Forth Award (Chemistry)
+Singapore Science and Engineering <Br>
 
-##### Singapore Science and Engineering 
+*   1 Intel International Science and Engineering Fair Finalist <br>
+*   3 Gold Awards <br>
+*   3 Silver Awards <br>
+*   3 Bronze Awards <br>
+*   4 Merit Awards <br> <br>
 
-*   1 Intel International Science and Engineering Fair Finalist
-*   3 Gold Awards
-*   3 Silver Awards
-*   3 Bronze Awards
-*   4 Merit Awards
+2007 <Br>
 
-**2007**
+Intel International Science and Engineering Fair <br>
 
-##### Intel International Science and Engineering Fair 
+*   Sewa Du Ying, Navin Brian Ramakrishna – Second Award (Team Projects) <br> <br>
 
-*   Sewa Du Ying, Navin Brian Ramakrishna – Second Award (Team Projects)
+Singapore Science and Engineering <br>
 
-##### Singapore Science and Engineering 
+*   1 Intel International Science and Engineering Fair Finalist <Br>
+*   4 Gold Awards <br>
+*   5 Silver Awards <br>
+*   2 Bronze Awards <br>
+*   7 Merit Awards <Br> <br>
 
-*   1 Intel International Science and Engineering Fair Finalist
-*   4 Gold Awards
-*   5 Silver Awards
-*   2 Bronze Awards
-*   7 Merit Awards
+2006 <br> 
 
-**2006**
+Intel International Science and Engineering Fair <br>
 
-##### Intel International Science and Engineering Fair 
+*    Wong Kuan Yee, Wong Siew Han – Third Award (Team Projects) <br> <Br>
 
-*    Wong Kuan Yee, Wong Siew Han – Third Award (Team Projects)
+Singapore Science and Engineering <br>
 
-##### Singapore Science and Engineering
+*   1 Intel International Science and Engineering Fair Finalist <br>
+*   2 Gold Awards <br>
+*   3 Silver Awards <br>
+*   2 Bronze Awards <br>
+*   6 Merit Awards <br> <br>
 
-*   1 Intel International Science and Engineering Fair Finalist
-*   2 Gold Awards
-*   3 Silver Awards
-*   2 Bronze Awards
-*   6 Merit Awards
+2005 <br>
 
-**2005**
+Singapore Science and Engineering Fair <br>
 
-##### Singapore Science and Engineering Fair
+*   2 Gold Awards <br>
+*   3 Silver Awards <br>
+*   1 Bronze Awards <br>
+*   4 Merit Awards <br>
 
-*   2 Gold Awards
-*   3 Silver Awards
-*   1 Bronze Awards
-*   4 Merit Awards
-
-**2004**
+2004
 
 ##### Singapore Science and Engineering Fair 
 
