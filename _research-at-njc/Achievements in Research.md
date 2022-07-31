@@ -50,7 +50,17 @@ description: ""
 
 A*STAR Talent Search <br>
 
-*    Tan Yee Lee (Commendation) </p>
+*    Tan Yee Lee (Commendation) <br> <br>
+Singapore Junior Water Prize
+
+*   Wang Haiyi – First prize for Main Category  
+    Haiyi will be representing Singapore in [Stockholm Junior Water Prize](https://www.pub.gov.sg/news/FeaturedStories#SJWP) in August.  <br><br>
+    
+
+Google Science Fair <br>
+
+*   Global finalists: Emma Tan Xiu Wen , Ho Jia Yi Jenevieve  (the only Singapore team within the TOP 20 global finalists). They will receive a trip to Mountain View, CA, USA for the opportunity to participate in the finalist event in July 2019. Learn more about their project [here](https://www.googlesciencefair.com/projects/2018/0bb7a678208ab51eca17376b31454234f0b4c7c37dbe5e00412629ce167555c5).  <br>
+    The girls’ interviews with [AsiaOne](https://www.asiaone.com/digital/singaporean-google-science-fair-student-finalists-are-converting-energy-banana-peels-and) and [Business Insider.](https://www.businessinsider.sg/2-singapore-students-scored-a-place-in-the-google-science-fair-global-finals-for-their-project-on-converting-food-waste-into-clean-energy/) </p>
 
     </div>
 
