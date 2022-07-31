@@ -17,7 +17,8 @@ description: ""
 
     <div>
 
-        <p> hyperlinks here		</p>
+        <p> <img src="/images/pir1.png" 
+     style="width:30%"><br>hyperlinks here		</p>
 
     </div>
 
@@ -30,7 +31,8 @@ description: ""
 
     <div>
 
-      <p> hyperlinks here </p>
+      <p> <img src="/images/pir2.png" 
+     style="width:30%"> <br>hyperlinks here </p>
 
     </div>
 
@@ -40,11 +42,12 @@ description: ""
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">2002-2018</label>
+    <label for="accordion3">Nanyang Technological University</label>
 
     <div>
 
-      <p> hyperlinks here		 
+      <p> <img src="/images/pir3.png" 
+     style="width:30%"> <br> hyperlinks here		 
 </p>
 
 
@@ -55,11 +58,12 @@ description: ""
 		
   <input type="checkbox" id="accordion4">
 
-    <label for="accordion4"> Research Publications </label>
+    <label for="accordion4"> Singapore University of Technology and Design </label>
 
     <div>
 
-      <p> hyperlinks here		
+      <p> <img src="/images/pir4.png" 
+     style="width:30%"> <br> hyperlinks here		
 			
 			</p>
 
