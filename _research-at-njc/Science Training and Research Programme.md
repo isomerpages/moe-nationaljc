@@ -141,12 +141,11 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 
     <div>
 
-      <p>MWITS – NJC IREP <br> Overseas Institute: Mahidol Wittayanusorn School (MWITS) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/MZh70tCHh9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> Through this partnership with one of the leading high schools in Thailand, students will be able to learn advanced mathematical concepts and tools in various areas of Mathematics and computing (such as graph theory and equivalence relations), Chemistry and Biology. They will apply the tools in a related research problem, such as solving an open problem or developing alternative approaches towards existing real- life problems. Students will get the opportunity to immerse themselves in the rich Thai culture by interacting with the students from Mahidol. <br>  Biology, Chemistry, Mathematics</p>
+        <p> MWITS – NJC IREP <br> Overseas Institute: Mahidol Wittayanusorn School (MWITS) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/MZh70tCHh9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> Through this partnership with one of the leading high schools in Thailand, students will be able to learn advanced mathematical concepts and tools in various areas of Mathematics and computing (such as graph theory and equivalence relations), Chemistry and Biology. They will apply the tools in a related research problem, such as solving an open problem or developing alternative approaches towards existing real- life problems. Students will get the opportunity to immerse themselves in the rich Thai culture by interacting with the students from Mahidol. <br>  Biology, Chemistry, Mathematics		</p>
 
     </div>
 
 </li>
-	
 	<li>
 
     <input type="checkbox" id="accordion2">
@@ -155,7 +154,7 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 
     <div>
 
-      <p>MCL – NJC IREP <br> Overseas Institute: Moscow Chemical Lyceum (MCL) <Br> <iframe width="560" height="315" src="https://www.youtube.com/embed/TX0XCXVB8EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>  Students will explore organic and organometallic synthesis. Specifically, students will carry out advanced experiments in organic and organometallic synthesis for application in the pharmaceutical industry. Also, students will learn advanced analytical methods: infrared and nuclear magnetic spectroscopies are amongst a host of analytical tools used to support the various projects in this programme. Advanced methods in retrosynthesis and mechanisms form the theoretical basis of the work that is done. Students will, while engaged heavily in research, have an opportunity to immerse themselves in the rich culture of Russia, from ballets to plays to enjoying Russian family life via homestays. <br> Area of Research: Chemisty</p>
+      <p> MCL – NJC IREP <br> Overseas Institute: Moscow Chemical Lyceum (MCL) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/TX0XCXVB8EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>  Students will explore organic and organometallic synthesis. Specifically, students will carry out advanced experiments in organic and organometallic synthesis for application in the pharmaceutical industry. Also, students will learn advanced analytical methods: infrared and nuclear magnetic spectroscopies are amongst a host of analytical tools used to support the various projects in this programme. Advanced methods in retrosynthesis and mechanisms form the theoretical basis of the work that is done. Students will, while engaged heavily in research, have an opportunity to immerse themselves in the rich culture of Russia, from ballets to plays to enjoying Russian family life via homestays. <br> Area of Research: Chemisty </p>
 
     </div>
 
@@ -169,13 +168,13 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 
     <div>
 
-      <p>WUHSHS – NJC IREP <br> Overseas Institute: Waseda University Honjo Senior High School (WUHSHS) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/-hRTU_pzx5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> In its 9th year, the Waseda University Honjo Senior High School – National Junior Science Research Exchange Programme is among the founding programmes in the International Science Research Exchange Programme. Students have the opportunity to explore a range of projects in various fields of Physics. From synthesis, characterisation and analysis of stimuli-responsive polymers to sonoluminescence and its application, students will advance their capacities and interest in materials sciences, spectroscopic methods, electrodynamics and computational methods. Beyond academia, students in this programme will experience Japanese culture both in schools and while hosted by their peers’ families.<br>Area of Research<br>Biology, Chemistry, Humanities, Social Sciences<br> RITS – NJC IREP <br> Overseas Institute: Affiliate Schools of The Ritsumeikan Trust (RITS) <Br> 2016 marked the inaugural tripartite research exchange between National Junior College, Ritsumeikan Junior and Senior High School from Kyoto, and Ritsumeikan Keisho Junior and Senior High School from Hokkaido. Students in this programme will participate in collaborative research projects relating to Environmental Science. With three schools, at three different geographical locations, students will have opportunities to leverage on the differences afforded by the different environments to explore projects of different themes. Apart from research, students will also have many opportunities to explore and learn about the cultural differences between the two countries. <br> Area of Research: Biology, Chemistry, Geography </p>
+      <p> WUHSHS – NJC IREP <br> Overseas Institute: Waseda University Honjo Senior High School (WUHSHS) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/-hRTU_pzx5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> In its 9th year, the Waseda University Honjo Senior High School – National Junior Science Research Exchange Programme is among the founding programmes in the International Science Research Exchange Programme. Students have the opportunity to explore a range of projects in various fields of Physics. From synthesis, characterisation and analysis of stimuli-responsive polymers to sonoluminescence and its application, students will advance their capacities and interest in materials sciences, spectroscopic methods, electrodynamics and computational methods. Beyond academia, students in this programme will experience Japanese culture both in schools and while hosted by their peers’ families.<br>Area of Research<br>Biology, Chemistry, Humanities, Social Sciences<br> RITS – NJC IREP <br> Overseas Institute: Affiliate Schools of The Ritsumeikan Trust (RITS) <br> 2016 marked the inaugural tripartite research exchange between National Junior College, Ritsumeikan Junior and Senior High School from Kyoto, and Ritsumeikan Keisho Junior and Senior High School from Hokkaido. Students in this programme will participate in collaborative research projects relating to Environmental Science. With three schools, at three different geographical locations, students will have opportunities to leverage on the differences afforded by the different environments to explore projects of different themes. Apart from research, students will also have many opportunities to explore and learn about the cultural differences between the two countries. <br> Area of Research: Biology, Chemistry, Geography</p>
+
 
     </div>
-
-</li>
+		</li>
 	
-<li>
+	<li>
 
     <input type="checkbox" id="accordion4">
 
@@ -197,7 +196,7 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 
     <div>
 
-      <p>CSIA – NJC IREP <br> #### Overseas Institute: Camborne Science and International Academy (CSIA) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/yoY-M1_RSv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> One of our newest partners, Camborne Science and International Academy is a well-acclaimed academic institution in Cornwall, England. In this research exchange programme, students will focus on application and authentic problem solving based research projects. They will study the applications of nanoparticles in different fields of science, e.g. chemiluminescence and biosensing.  Students will also get the opportunity to immerse themselves in the rich English culture via visits to farms, attending classes and homestays. <br> Area of Research: Biology, Physics, Mathematics</p>
+      <p>CSIA – NJC IREP <br> Overseas Institute: Camborne Science and International Academy (CSIA) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/yoY-M1_RSv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> One of our newest partners, Camborne Science and International Academy is a well-acclaimed academic institution in Cornwall, England. In this research exchange programme, students will focus on application and authentic problem solving based research projects. They will study the applications of nanoparticles in different fields of science, e.g. chemiluminescence and biosensing.  Students will also get the opportunity to immerse themselves in the rich English culture via visits to farms, attending classes and homestays. <br> Area of Research: Biology, Physics, Mathematics</p>
 
     </div>
 
@@ -221,3 +220,9 @@ The students will communicate their research by co-presenting at the Internation
 </li>
 
 </ul>
+
+
+
+
+
+		
