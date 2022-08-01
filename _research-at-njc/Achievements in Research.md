@@ -121,23 +121,23 @@ description: ""
 - Jia ShuYi- Fourth Award (Chemistry) and Special Award (American Chemical Society, Honourable Mention) <br>
 - Sim Yu Ki – Special Award (U.S. Agency for International Development, Honourable Mention) <br><br>
 
-Singapore Science and Engineering Fair <br>
+				<b> Singapore Science and Engineering Fair </b>  <br>
 
-*   3 Intel International Science and Engineering Fair Finalists <Br>
-*   4 Gold Awards <br>
-*   4 Silver Awards <br>
-*   7 Bronze Awards <br>
-*   7 Merit Awards <br>
-*   5 Special Awards <br> <br>
+- 3 Intel International Science and Engineering Fair Finalists <Br>
+- 4 Gold Awards <br>
+- 4 Silver Awards <br>
+- 7 Bronze Awards <br>
+- 7 Merit Awards <br>
+- 5 Special Awards <br> <br>
 
-A*STAR Talent Search <br>
+				<b> A*STAR Talent Search </b> <br>
 
-*   Victoria Emily Hui Ting Buckland – First Prize (Institute) <br>
-*   Sim Yu Ki & Wang Yuhang – Commendation Prizes <br> <img src="/images/air3.png" 
+- Victoria Emily Hui Ting Buckland – First Prize (Institute) <br>
+- Sim Yu Ki & Wang Yuhang – Commendation Prizes <br> <img src="/images/air3.png" 
      style="width:60%"> <img src="/images/air4.png" 
-     style="width:60%"> <br> <br> 2015 <br>
+     style="width:60%"> <br> <br> 2015 <br><br>
 
-Intel International Science and Engineering Fair <br>
+				<b>Intel International Science and Engineering Fair </b><br>
 
 *   Ching Yi Jie Preston – Finalist <br> <Br>
 
