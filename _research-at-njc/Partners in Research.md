@@ -53,7 +53,9 @@ description: ""
     <div>
 
       <p> <img src="/images/pir3.png" 
-     style="width:30%"> <br>  <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| 
+     style="width:30%"> <br>
+				
+<a href="http://www.mse.ntu.edu.sg/Pages/Home.aspx">School of Materials Engineering</a>| <a href="http://www.eee.ntu.edu.sg/Pages/home.aspx">School of Electrical and Electronic Engineering</a>| <a href="http://www.mae.ntu.edu.sg/Pages/Home.aspx">School of Mechanical and Aerospace Engineering</a>| <a href="http://www.spms.ntu.edu.sg/">School of Physical and Mathematical Sciences</a>| <a href="http://www.scbe.ntu.edu.sg/Pages/Home.aspx">School of Chemical and Biomedial Engineering</a>| <a href="http://www.cee.ntu.edu.sg/Pages/Home.aspx">School of Civil and Environmental and Engineering</a>
 </p>
 
 
