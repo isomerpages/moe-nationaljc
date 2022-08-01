@@ -24,7 +24,7 @@ description: ""
 <a href="https://www.a-star.edu.sg/sics/">Singapore Institute of Clinical Sciences</a> | <a href="https://www.a-star.edu.sg/dsi/Home.aspx">Data Storage Institute</a> |  
 <a href="https://www.a-star.edu.sg/ices/">Institute of Chemical and Engineering Sciences</a> | <a href="https://www.a-star.edu.sg/ihpc/">Institute of High Performance Computing</a> |  
 <a href="http://www.i2r.a-star.edu.sg/">Institute for Infocomm Research</a> |<a href="https://www.a-star.edu.sg/imre/">Institute of Materials Research and Engineering</a> |  
-<a href="http://www.simtech.a-star.edu.sg/">Singapore Institute of Manufacturing Technology</a>[Singapore Institute of Manufacturing Technology](http://www.simtech.a-star.edu.sg/) </p>
+<a href="http://www.simtech.a-star.edu.sg/">Singapore Institute of Manufacturing Technology</a> </p>
 
     </div>
 
@@ -38,7 +38,7 @@ description: ""
     <div>
 
       <p> <img src="/images/pir2.png" 
-     style="width:30%"> <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>|   </p>
+     style="width:30%"> <br> <a href="u"></a>| <a href="http://nusmedicine.nus.edu.sg/">Department of Biochemistry, Yong Loo Lin School of Medicine</a>| <a href="http://www.science.nus.edu.sg/">Physics/Chemistry Department</a>| <a href="https://www.ece.nus.edu.sg/">Faculty of Engineering, Department of Electrical and Computer Engineering</a>| <a href="http://www.comp.nus.edu.sg/">School of Computing</a>| <a href="http://www.lsi.nus.edu.sg/corp/">Center of Life Sciences</a>  </p>
 
     </div>
 
