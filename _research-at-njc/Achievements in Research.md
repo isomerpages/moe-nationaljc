@@ -181,141 +181,140 @@ description: ""
 
 				<b> 2012 </b> <br> 
 
-Singapore Science and Engineering Fair <br>
+				<b> Singapore Science and Engineering Fair </b> <br>
 
-*   2 Gold Awards <br>
-*   2 Silver Awards <br> 
-*   5 Bronze Awards <br>
-*   4 Merit Awards <br> <br>
+- 2 Gold Awards <br>
+- 2 Silver Awards <br> 
+- 5 Bronze Awards <br>
+- 4 Merit Awards <br> <br>
 
-2011 <br>
+				<b> 2011 </b> <br>
 
-Singapore Science and Engineering Fair <br>
+				<b> Singapore Science and Engineering Fair </b> <br>
 
-*   2 Silver Awards <br>
-*   2 Bronze Awards <br>
-*   4 Merit Awards <br> <br>
+- 2 Silver Awards <br>
+- 2 Bronze Awards <br>
+- 4 Merit Awards <br> <br>
  
-2010 <br>
+				<b> 2010 </b> <br>
 
-Intel International Science and Engineering Fair 2010 <br>
+				<b> Intel International Science and Engineering Fair 2010 </b> <br>
 
-*   Chua Zheng Fu Edrei – Special Award (Society for Applied Spectroscopy, Northern California Section, Third Award) <br> <br>
+- Chua Zheng Fu Edrei – Special Award (Society for Applied Spectroscopy, Northern California Section, Third Award) <br> <br>
 
-Singapore Science and Engineering <br>
+				<b> Singapore Science and Engineering </b> <br>
 
-*   1 Intel International Science and Engineering Fair Finalist <br>
-*   3 Gold Awards <br>
-*   3 Silver Awards <br>
-*   4 Bronze Awards <br>
-*   3 Merit Awards <br> <br>
+- 1 Intel International Science and Engineering Fair Finalist <br>
+- 3 Gold Awards <br>
+- 3 Silver Awards <br>
+- 4 Bronze Awards <br>
+- 3 Merit Awards <br> <br>
 
-2009 <br>
+				<b> 2009 </b><br>
 
-Singapore Science and Engineering Fair <br>
+				<b> Singapore Science and Engineering Fair </b> <br>
 
-*   1 Intel International Science and Engineering Fair Finalist <br>
-*   6 Gold Awards <br>
-*   2 Silver Awards <br>
-*   1 Bronze Awards <br>
-*   8 Merit Awards <br> <br>
+- 1 Intel International Science and Engineering Fair Finalist <br>
+- 6 Gold Awards <br>
+- 2 Silver Awards <br>
+- 1 Bronze Awards <br>
+- 8 Merit Awards <br> <br>
 
-2008 <Br>
+				<b> 2008 </b> <Br>
 
-Intel International Science and Engineering Fair <br>
+				<b> Intel International Science and Engineering Fair </b> <br>
 
-*   Lim Yi Hui – Forth Award (Chemistry) <br> <br>
+- Lim Yi Hui – Forth Award (Chemistry) <br> <br>
 
-Singapore Science and Engineering <Br>
+				<b> Singapore Science and Engineering </b><Br>
+- 1 Intel International Science and Engineering Fair Finalist <br>
+- 3 Gold Awards <br>
+- 3 Silver Awards <br>
+- 3 Bronze Awards <br>
+- 4 Merit Awards <br> <br>
 
-*   1 Intel International Science and Engineering Fair Finalist <br>
-*   3 Gold Awards <br>
-*   3 Silver Awards <br>
-*   3 Bronze Awards <br>
-*   4 Merit Awards <br> <br>
+				<br> 2007 </b> <Br>
 
-2007 <Br>
+		<b> Intel International Science and Engineering Fair </b><br>
 
-Intel International Science and Engineering Fair <br>
+- Sewa Du Ying, Navin Brian Ramakrishna – Second Award (Team Projects) <br> <br>
 
-*   Sewa Du Ying, Navin Brian Ramakrishna – Second Award (Team Projects) <br> <br>
+		<b> Singapore Science and Engineering </b><br>
 
-Singapore Science and Engineering <br>
+- 1 Intel International Science and Engineering Fair Finalist <Br>
+- 4 Gold Awards <br>
+- 5 Silver Awards <br>
+- 2 Bronze Awards <br>
+- 7 Merit Awards <Br> <br>
 
-*   1 Intel International Science and Engineering Fair Finalist <Br>
-*   4 Gold Awards <br>
-*   5 Silver Awards <br>
-*   2 Bronze Awards <br>
-*   7 Merit Awards <Br> <br>
+		<b> 2006 </b> <br> 
 
-2006 <br> 
+		<b> Intel International Science and Engineering Fair </b> <br>
 
-Intel International Science and Engineering Fair <br>
+- Wong Kuan Yee, Wong Siew Han – Third Award (Team Projects) <br> <Br>
 
-*    Wong Kuan Yee, Wong Siew Han – Third Award (Team Projects) <br> <Br>
+		<b> Singapore Science and Engineering </b><br>
 
-Singapore Science and Engineering <br>
+- 1 Intel International Science and Engineering Fair Finalist <br>
+- 2 Gold Awards <br>
+- 3 Silver Awards <br>
+- 2 Bronze Awards <br>
+- 6 Merit Awards <br> <br>
 
-*   1 Intel International Science and Engineering Fair Finalist <br>
-*   2 Gold Awards <br>
-*   3 Silver Awards <br>
-*   2 Bronze Awards <br>
-*   6 Merit Awards <br> <br>
+		<b> 2005 </b> <br>
 
-2005 <br>
+		<b> Singapore Science and Engineering Fair </b><br>
 
-Singapore Science and Engineering Fair <br>
+- 2 Gold Awards <br>
+- 3 Silver Awards <br>
+- 1 Bronze Awards <br>
+- 4 Merit Awards <br> <Br>
 
-*   2 Gold Awards <br>
-*   3 Silver Awards <br>
-*   1 Bronze Awards <br>
-*   4 Merit Awards <br> <Br>
+		<b> 2004 </b><br>
 
-2004 <br>
+		<b>Singapore Science and Engineering Fair </b><br>
 
-Singapore Science and Engineering Fair <br>
+- 1 Gold Awards <br>
+- 1 Silver Awards <br>
+- 3 Bronze Awards <br>
+- 3 Merit Awards <br> <br>
 
-*   1 Gold Awards <br>
-*   1 Silver Awards <br>
-*   3 Bronze Awards <br>
-*   3 Merit Awards <br> <br>
+		<b> 2003 </b><br>
 
-2003 <br>
+		<b>Singapore Science and Engineering Fair</b> <br>
 
-Singapore Science and Engineering Fair <br>
+- 2 Gold Awards <br>
+- 1 Merit Awards <br> <br>
 
-*   2 Gold Awards <br>
-*   1 Merit Awards <br> <br>
+		<b> 2002 </b><br>
 
-2002 <br>
+		<b> Singapore Science and Engineering Fair </b><Br>
 
-Singapore Science and Engineering Fair <Br>
-
-*   1 Gold Awards <br>
-*   1 Silver Awards <br>
-*   2 Bronze Awards <br>
-*   1 Merit Awards</p>
+- 1 Gold Awards <br>
+- 1 Silver Awards <br>
+- 2 Bronze Awards <br>
+- 1 Merit Awards</p>
 
 
-    </div>
+   </div>
 		</li>
 	
-	<li>
+<li>
 		
   <input type="checkbox" id="accordion4">
 
-    <label for="accordion4"> Research Publications </label>
+ <label for="accordion4"> Research Publications </label>
 
-    <div>
+  <div>
 
       <p> Under the guidance of mentors, some students may even have the opportunity to publish research papers! <br>
 
-Harman Johll, Milla Samuel, Ruey Yi Koo, Hway Chuan Kang, Yee-Chia Yeo and Eng Soon Tok. Influence of hydrogen surface passivation on Sn segregation, aggregation, and distribution in GeSn/Ge(001) materials. Journal of Applied Physics 117, 205302 (2015). <br> <br>  Abstract <br> 
+<b> Harman Johll, Milla Samuel, Ruey Yi Koo, Hway Chuan Kang, Yee-Chia Yeo and Eng Soon Tok. Influence of hydrogen surface passivation on Sn segregation, aggregation, and distribution in GeSn/Ge(001) materials. Journal of Applied Physics 117, 205302 (2015). </b><br> <br>  <b> Abstract </b> <br> 
 
-Plane-wave density functional theory is used to investigate the impact of hydrogen passivation of the p(2×2) reconstructed Ge 1−xSnx surface on Sn segregation, aggregation, and distribution. On a clean surface, Sn preferentially segregates to the surface layer, with surface coverages of 25%, 50%, and 100% for total Sn concentrations of 2.5%, 5.0%, and 10.0%, respectively. In contrast, a hydrogen passivated surface increases interlayer migration of Sn to subsurface layers, in particular, to the third layer from the surface, and results in surface coverages of 0%, 0%, and 50% corresponding to Sn concentrations of 2.5%, 5.0%, and 10.0%, respectively. Hydrogen transfer from a Ge-capped surface to the one enriched with increasing Sn surface coverage is also an unfavorable process. The presence of hydrogen therefore reduces the surface energy by passivating the reactive dangling bonds and enhancing Sn interlayer migration to the subsurface layers. For both clean and hydrogenated surfaces, aggregation of Sn at the surface layer is also not favored. We explain these results by considering bond enthalpies and the enthalpies of hydrogenation for various surface reactions. Our results thus point to reduced Sn segregation to the surface in a Ge 1−xSnx epitaxial thin film if CVD growth, using hydride precursors in the hydrogen limited growth regime, is used. This would lead to a more abrupt interface and is consistent with recent experimental observation. Hydrogenation is therefore a promising method for controlling and manipulating elemental population of Sn in a Ge 1−xSnx epitaxial thin film.  <br> <br> [Click here to view the paper!](https://aip.scitation.org/doi/full/10.1063/1.4921594) <br> <br> Harman Johll, Michael Dao Kang Lee, Sean Peng Nam Ng, Hway Chuan Kang and Eng Soon Tok. Influence of Interconfigurational Electronic States on Fe, Co, Ni-Silicene Materials Selection for Spintronics. Scientific Reports 4, 7594 (2014). <br><br> Abstract<br>
+Plane-wave density functional theory is used to investigate the impact of hydrogen passivation of the p(2×2) reconstructed Ge 1−xSnx surface on Sn segregation, aggregation, and distribution. On a clean surface, Sn preferentially segregates to the surface layer, with surface coverages of 25%, 50%, and 100% for total Sn concentrations of 2.5%, 5.0%, and 10.0%, respectively. In contrast, a hydrogen passivated surface increases interlayer migration of Sn to subsurface layers, in particular, to the third layer from the surface, and results in surface coverages of 0%, 0%, and 50% corresponding to Sn concentrations of 2.5%, 5.0%, and 10.0%, respectively. Hydrogen transfer from a Ge-capped surface to the one enriched with increasing Sn surface coverage is also an unfavorable process. The presence of hydrogen therefore reduces the surface energy by passivating the reactive dangling bonds and enhancing Sn interlayer migration to the subsurface layers. For both clean and hydrogenated surfaces, aggregation of Sn at the surface layer is also not favored. We explain these results by considering bond enthalpies and the enthalpies of hydrogenation for various surface reactions. Our results thus point to reduced Sn segregation to the surface in a Ge 1−xSnx epitaxial thin film if CVD growth, using hydride precursors in the hydrogen limited growth regime, is used. This would lead to a more abrupt interface and is consistent with recent experimental observation. Hydrogenation is therefore a promising method for controlling and manipulating elemental population of Sn in a Ge 1−xSnx epitaxial thin film.  <br> <br> <a href\="https://aip.scitation.org/doi/full/10.1063/1.4921594">Click here to view the paper!</a> <br> <br> <b> Harman Johll, Michael Dao Kang Lee, Sean Peng Nam Ng, Hway Chuan Kang and Eng Soon Tok. Influence of Interconfigurational Electronic States on Fe, Co, Ni-Silicene Materials Selection for Spintronics. Scientific Reports 4, 7594 (2014). </b><br><br> <b> Abstract </b><br>
 
-Growth through controlled adsorption of ferromagnetic elements such as Fe, Co and Ni on two-dimensional silicene provides an alternative route for silicon-based spintronics. Plane wave DFT calculations show that Fe, Co and Ni adatoms are strongly chemisorbed via strong sigma bonds, with adsorption energies (1.55 – 2.29 eV) that are two to six times greater compared to adsorption on graphene. All adatoms adsorb more strongly at the hole site than at the atom site, with Ni adsorbing strongest. Of the dimer configurations investigated, the hole – hole, b-atom – hole, vertically stacked at hole, vertically stacked at b-atom and bridge sites were found to be stable. The Co and Ni dimers are most stable when adsorbed in the hole-hole configuration while the Fe dimer is most stable when adsorbed in the atom-hole configuration. Metal-to-silicene and interconfigurational s-to-d electron transfer processes underpin the trends observed in adsorption energies and magnetic moments for both adatoms and dimers. Adsorption of these metals induces a small band gap at the Dirac Cone. In particular Co adatom adsorption at the hole site induces the largest spin-polarized band gaps of 0.70 eV (spin-up) and 0.28 eV (spin-down) making it a potential material candidate for spintronics applications. <br> [Click here to view the paper!](https://www.nature.com/articles/srep07594) <br><br> Magazine Articles<br>  
-a: [“Reflections on the OCPA8 Poster Awards” by Sharon Tan](https://nationaljc.moe.edu.sg/wp-content/uploads/2016/08/Reflections-on-the-OCPA8-Poster-Awards-by-Sharon-Tan.pdf) PDF link not found <Br> b: [b: “An Adventure into Research” by Michael Lee](/files/An-Adventure-into-Research-by-Michael-Lee.pdf) <br> <br> Journal Articles: WIP			
+Growth through controlled adsorption of ferromagnetic elements such as Fe, Co and Ni on two-dimensional silicene provides an alternative route for silicon-based spintronics. Plane wave DFT calculations show that Fe, Co and Ni adatoms are strongly chemisorbed via strong sigma bonds, with adsorption energies (1.55 – 2.29 eV) that are two to six times greater compared to adsorption on graphene. All adatoms adsorb more strongly at the hole site than at the atom site, with Ni adsorbing strongest. Of the dimer configurations investigated, the hole – hole, b-atom – hole, vertically stacked at hole, vertically stacked at b-atom and bridge sites were found to be stable. The Co and Ni dimers are most stable when adsorbed in the hole-hole configuration while the Fe dimer is most stable when adsorbed in the atom-hole configuration. Metal-to-silicene and interconfigurational s-to-d electron transfer processes underpin the trends observed in adsorption energies and magnetic moments for both adatoms and dimers. Adsorption of these metals induces a small band gap at the Dirac Cone. In particular Co adatom adsorption at the hole site induces the largest spin-polarized band gaps of 0.70 eV (spin-up) and 0.28 eV (spin-down) making it a potential material candidate for spintronics applications. <br> <a href\="https://www.nature.com/articles/srep07594">Click here to view the paper!</a> <br><br><b> Magazine Articles </b><br>  
+a: <a href\="https://nationaljc.moe.edu.sg/micrositestandard/achievements-in-research-2/">Reflections on the OCPA8 Poster Awards</a>  PDF link not found <Br> b: <a href\=/files/An-Adventure-into-Research-by-Michael-Lee.pdf>“An Adventure into Research” by Michael Lee</a> <br> <br> Journal Articles: WIP			
 			
 			</p>
 
