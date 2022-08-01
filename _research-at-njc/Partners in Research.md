@@ -17,14 +17,14 @@ description: ""
 
     <div>
 
-        <p> <img src="/images/pir1.png" 
-     style="width:30%"><br><a href="/files/2020-JH1-Registration-Briefing-General-Matters-23_Dec-2020.pdf">try pdf </a> <b> bold test </b> <i> italics test </i><br> [Bioprocressing Technology Institute](https://www.a-star.edu.sg/bti/) | [Genome Institute of Singapore](https://www.a-star.edu.sg/gis) |  
-[Institute of Bioengineering and Nano Technology](http://www.ibn.a-star.edu.sg/) | [Institute of Medical Biology](http://www.a-star.edu.sg/sbic/) |  
-[Institute of Molecular and Cell Biology](http://www.imcb.a-star.edu.sg/php/main.php) | [Singapore Bioimaging Consortium](http://www.a-star.edu.sg/sbic/) |  
-[Singapore Institute of Clinical Sciences](https://www.a-star.edu.sg/sics/) | [Data Storage Institute](https://www.a-star.edu.sg/dsi/Home.aspx) |  
-[Institute of Chemical and Engineering Sciences](https://www.a-star.edu.sg/ices/) | [Institute of High Performance Computing](https://www.a-star.edu.sg/ihpc/) |  
-[Institute for Infocomm Research](http://www.i2r.a-star.edu.sg/) |[Institute of Materials Research and Engineering](https://www.a-star.edu.sg/imre/) |  
-[Singapore Institute of Manufacturing Technology](http://www.simtech.a-star.edu.sg/) </p>
+        <p>  <img src="/images/pir1.png" 
+     style="width:30%"> <br>  <a href="https://www.a-star.edu.sg/bti/">Bioprocressing Technology Institute</a> <br> |<a href="https://www.a-star.edu.sg/gis">Genome Institute of Singapore</a>  |  
+<a href="http://www.ibn.a-star.edu.sg/">Institute of Bioengineering and Nano Technology</a> | <a href="http://www.a-star.edu.sg/sbic/">Institute of Medical Biology</a> |  
+<a href="http://www.imcb.a-star.edu.sg/php/main.php">Institute of Molecular and Cell Biology</a> | <a href="http://www.a-star.edu.sg/sbic/">Singapore Bioimaging Consortium</a> |  
+<a href="https://www.a-star.edu.sg/sics/">Singapore Institute of Clinical Sciences</a> | <a href="https://www.a-star.edu.sg/dsi/Home.aspx">Data Storage Institute</a> |  
+<a href="https://www.a-star.edu.sg/ices/">Institute of Chemical and Engineering Sciences</a> | <a href="https://www.a-star.edu.sg/ihpc/">Institute of High Performance Computing</a> |  
+<a href="http://www.i2r.a-star.edu.sg/">Institute for Infocomm Research</a> |<a href="https://www.a-star.edu.sg/imre/">Institute of Materials Research and Engineering</a> |  
+<a href="http://www.simtech.a-star.edu.sg/">Singapore Institute of Manufacturing Technology</a>[Singapore Institute of Manufacturing Technology](http://www.simtech.a-star.edu.sg/) </p>
 
     </div>
 
@@ -38,7 +38,7 @@ description: ""
     <div>
 
       <p> <img src="/images/pir2.png" 
-     style="width:30%"> <br>hyperlinks here </p>
+     style="width:30%"> <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>|   </p>
 
     </div>
 
@@ -53,7 +53,7 @@ description: ""
     <div>
 
       <p> <img src="/images/pir3.png" 
-     style="width:30%"> <br> hyperlinks here		 
+     style="width:30%"> <br>  <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| 
 </p>
 
 
@@ -69,7 +69,7 @@ description: ""
     <div>
 
       <p> <img src="/images/pir4.png" 
-     style="width:30%"> <br> hyperlinks here		
+     style="width:30%"> <br>  <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| 	 	
 			
 			</p>
 
