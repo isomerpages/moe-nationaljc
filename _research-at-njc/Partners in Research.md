@@ -68,10 +68,11 @@ description: ""
 
     <label for="accordion4"> Singapore University of Technology and Design </label>
 
+		[Arhitecture and Sustainable Design](http://asd.sutd.edu.sg/) | [Engineering Product Development](https://epd.sutd.edu.sg/) | [Engineering Systems and Design](https://esd.sutd.edu.sg/) | [Information Systems Technology and Desig](https://istd.sutd.edu.sg/)n | [Humanities, Arts and Social Sciences](https://hass.sutd.edu.sg/) | [Science and Mathematics](https://smt.sutd.edu.sg/)
     <div>
 
       <p> <img src="/images/pir4.png" 
-     style="width:30%"> <br>  <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| <a href="u">p</a>| 	 	
+     style="width:30%"> <br>   <a href="http://asd.sutd.edu.sg/">Arhitecture and Sustainable Design</a>| <a href="https://epd.sutd.edu.sg/">Engineering Product Development</a>| <a href="https://istd.sutd.edu.sg/">Information Systems Technology and Design</a>| <a href="https://hass.sutd.edu.sg/">Humanities, Arts and Social Sciences</a>| <a href="https://smt.sutd.edu.sg/">Science and Mathematics</a>
 			
 			</p>
 
