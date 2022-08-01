@@ -76,50 +76,50 @@ description: ""
 
     <div>
 
-      <p> 2018 <br>
+			<p> <b> 2018 </b> <br>
 
- Intel International Science and Engineering Fair <br>
+<b> Intel International Science and Engineering Fair </b> <br>
 
-*   Kee Jin Wen –  3rd Award in the Chemistry Category and a Special Award from Spectroscopy Society of Pittsburgh <br> 
-*   Koo Wei De  – 2nd Award in the Materials Science Category <br> <br>
+- Kee Jin Wen –  3rd Award in the Chemistry Category and a Special Award from Spectroscopy Society of Pittsburgh <br> 
+- Koo Wei De  – 2nd Award in the Materials Science Category <br> <br>
 
-Singapore Science and Engineering Fair <br>
+<b> Singapore Science and Engineering Fair </b> <br>
 
-*   2 Intel International Science and Engineering Fair Finalist <br>
-*   2 Broadcom Masters International 2018 Singapore Representative, Junior Scientist (Emma Tan Xiu Wen , Ho Jia Yi Jenevieve) <br>
-*   6 Gold Awards <br>
-*   6 Silver Awards <br>
-*   4 Bronze Awards <br>
-*   6 Merit Awards <br> 
-*   6 Special Awards <br> <br>
+- 2 Intel International Science and Engineering Fair Finalist <br>
+- 2 Broadcom Masters International 2018 Singapore Representative, Junior Scientist (Emma Tan Xiu Wen , Ho Jia Yi Jenevieve) <br>
+- 6 Gold Awards <br>
+- 6 Silver Awards <br>
+- 4 Bronze Awards <br>
+- 6 Merit Awards <br> 
+- 6 Special Awards <br> <br>
 
-A*STAR Talent Search <br>
+<b> A*STAR Talent Search </b> <br>
 
-*   Kee Jin Wen (Commendation) <br>
-*   Aleena Madathiparambil Saju (Commendation) <br> <br>
+- Kee Jin Wen (Commendation) <br>
+- Aleena Madathiparambil Saju (Commendation) <br> <br>
 
-2017 <br>
+<b> 2017 </b> <br>
 
-Intel International Science and Engineering Fair <br>
+				<b> Intel International Science and Engineering Fair </b> <br>
 
-*   Paula Nazarene Evangelista Say – Fourth Award (Translational Medicine) <br> <br>
+- Paula Nazarene Evangelista Say – Fourth Award (Translational Medicine) <br> <br>
 
-Singapore Science and Engineering Fair <br>
+				<b> Singapore Science and Engineering Fair </b><br>
 
-*   1 Intel International Science and Engineering Fair Finalist <br>
-*   4 Gold Awards <br>
-*   3 Silver Awards <br>
-*   9 Bronze Awards <Br>
-*   10 Merit Awards <br>
-*   7 Special Awards <br> <br>
+- 1 Intel International Science and Engineering Fair Finalist <br>
+- 4 Gold Awards <br>
+- 3 Silver Awards <br>
+- 9 Bronze Awards <Br>
+- 10 Merit Awards <br>
+- 7 Special Awards <br> <br>
 
-2016 <br>
+				<b> 2016 </b> <br>
 
-Intel International Science and Engineering Fair <br>
+				<b> Intel International Science and Engineering Fair </b><br>
 
-*   Wang Yuhang – Third Award (Chemistry) and Special Award (King Abdul-Aziz & his Companions Foundation for Giftedness and Creativity) <br>
-*   Jia ShuYi- Fourth Award (Chemistry) and Special Award (American Chemical Society, Honourable Mention) <br>
-*    Sim Yu Ki – Special Award (U.S. Agency for International Development, Honourable Mention) <br><br>
+- Wang Yuhang – Third Award (Chemistry) and Special Award (King Abdul-Aziz & his Companions Foundation for Giftedness and Creativity) <br>
+- Jia ShuYi- Fourth Award (Chemistry) and Special Award (American Chemical Society, Honourable Mention) <br>
+- Sim Yu Ki – Special Award (U.S. Agency for International Development, Honourable Mention) <br><br>
 
 Singapore Science and Engineering Fair <br>
 
@@ -134,8 +134,8 @@ A*STAR Talent Search <br>
 
 *   Victoria Emily Hui Ting Buckland – First Prize (Institute) <br>
 *   Sim Yu Ki & Wang Yuhang – Commendation Prizes <br> <img src="/images/air3.png" 
-     style="width:30%"> <img src="/images/air4.png" 
-     style="width:30%"> <br> <br> 2015 <br>
+     style="width:60%"> <img src="/images/air4.png" 
+     style="width:60%"> <br> <br> 2015 <br>
 
 Intel International Science and Engineering Fair <br>
 
