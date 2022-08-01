@@ -135,51 +135,51 @@ description: ""
 - Victoria Emily Hui Ting Buckland – First Prize (Institute) <br>
 - Sim Yu Ki & Wang Yuhang – Commendation Prizes <br> <img src="/images/air3.png" 
      style="width:60%"> <img src="/images/air4.png" 
-     style="width:60%"> <br> <br> 2015 <br><br>
+														 style="width:60%"> <br> <br> <b> 2015 </b> <br><br>
 
 				<b>Intel International Science and Engineering Fair </b><br>
 
-*   Ching Yi Jie Preston – Finalist <br> <Br>
+- Ching Yi Jie Preston – Finalist <br> <Br>
 
-Taiwan International Science and Engineering Fair <br> 
+				<b> Taiwan International Science and Engineering Fair </b> <br> 
 
-*   Victoria Emily Hui Ting Buckland – First Prize (Chemistry Category): <br> <br>
+- Victoria Emily Hui Ting Buckland – First Prize (Chemistry Category): <br> <br>
 
-Singapore Science and Engineering Fair <br>
+				<b> Singapore Science and Engineering Fair </b><br>
 
-*   1 Intel International Science and Engineering Fair Finalist <br>
-*   2 Gold Awards <br>
-*   1 Silver Awards <br>
-*   5 Bronze Awards <br>
-*   8 Merit Awards <br> <br>
+- 1 Intel International Science and Engineering Fair Finalist <br>
+- 2 Gold Awards <br>
+- 1 Silver Awards <br>
+- 5 Bronze Awards <br>
+- 8 Merit Awards <br> <br>
 
-2014 <br>
+				<b> 2014 </b><br>
 
-Intel International Science and Engineering Fair <br>
+				<b> Intel International Science and Engineering Fair </b> <br>
 
-*   Lee Xin-Jing, Shannon – Young Scientist Award, Best of Category Award (Energy and Transportation) and First Award (Energy and Transportation) <br> <br>
+- Lee Xin-Jing, Shannon – Young Scientist Award, Best of Category Award (Energy and Transportation) and First Award (Energy and Transportation) <br> <br>
 
-Singapore Science and Engineering Fair 2014 <br>
+				<b> Singapore Science and Engineering Fair 2014 </b> <br>
 
-*   1 Intel International Science and Engineering Fair Finalist <br>
-*   2 Gold Awards <br>
-*   3 Silver Awards <br>
-*   3 Bronze Awards <br>
-*   4 Merit Awards <br> <img src="/images/air6.png" 
-     style="width:30%"> <br> <br> 2013 <br>
+- 1 Intel International Science and Engineering Fair Finalist <br>
+- 2 Gold Awards <br>
+- 3 Silver Awards <br>
+- 3 Bronze Awards <br>
+- 4 Merit Awards <br> <img src="/images/air6.png" 
+     style="width:50%"> <br> <br> 2013 <br>
 
-Taiwan International Science Fair <br>
+				<b> Taiwan International Science Fair </b><br>
 
-*    Tammy Lim Ting Yi – First Prize (Chemistry Category) <br><br>
+- Tammy Lim Ting Yi – First Prize (Chemistry Category) <br><br>
 
-Singapore Science and Engineering Fair <br>
+				<b> Singapore Science and Engineering Fair </b> <br>
 
-*   2 Gold Awards <br>
-*   1 Silver Award <br>
-*   6 Bronze Awards <br>
-*   5 Merit Awards <br> <br>
+- 2 Gold Awards <br>
+- 1 Silver Award <br>
+- 6 Bronze Awards <br>
+- 5 Merit Awards <br> <br>
 
-2012 <br> 
+				<b> 2012 </b> <br> 
 
 Singapore Science and Engineering Fair <br>
 
