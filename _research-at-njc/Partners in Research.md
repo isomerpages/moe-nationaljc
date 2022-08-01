@@ -18,7 +18,7 @@ description: ""
     <div>
 
         <p>  <img src="/images/pir1.png" 
-     style="width:30%"> <br>  <a href="https://www.a-star.edu.sg/bti/">Bioprocressing Technology Institute</a> <br> |<a href="https://www.a-star.edu.sg/gis">Genome Institute of Singapore</a>  |  
+     style="width:30%"> <br>  <a href="https://www.a-star.edu.sg/bti/">Bioprocressing Technology Institute</a> |<a href="https://www.a-star.edu.sg/gis">Genome Institute of Singapore</a>  |  
 <a href="http://www.ibn.a-star.edu.sg/">Institute of Bioengineering and Nano Technology</a> | <a href="http://www.a-star.edu.sg/sbic/">Institute of Medical Biology</a> |  
 <a href="http://www.imcb.a-star.edu.sg/php/main.php">Institute of Molecular and Cell Biology</a> | <a href="http://www.a-star.edu.sg/sbic/">Singapore Bioimaging Consortium</a> |  
 <a href="https://www.a-star.edu.sg/sics/">Singapore Institute of Clinical Sciences</a> | <a href="https://www.a-star.edu.sg/dsi/Home.aspx">Data Storage Institute</a> |  
@@ -68,7 +68,6 @@ description: ""
 
     <label for="accordion4"> Singapore University of Technology and Design </label>
 
-		[Arhitecture and Sustainable Design](http://asd.sutd.edu.sg/) | [Engineering Product Development](https://epd.sutd.edu.sg/) | [Engineering Systems and Design](https://esd.sutd.edu.sg/) | [Information Systems Technology and Desig](https://istd.sutd.edu.sg/)n | [Humanities, Arts and Social Sciences](https://hass.sutd.edu.sg/) | [Science and Mathematics](https://smt.sutd.edu.sg/)
     <div>
 
       <p> <img src="/images/pir4.png" 
