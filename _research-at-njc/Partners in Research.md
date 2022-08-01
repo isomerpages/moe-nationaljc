@@ -18,7 +18,7 @@ description: ""
     <div>
 
         <p> <img src="/images/pir1.png" 
-     style="width:30%"><br>TRY PDF here: [TEST](/files/2020-JH1-Registration-Briefing-General-Matters-23_Dec-2020.pdf)	**BOLD TEST**	 *try itallics*<br> [Bioprocressing Technology Institute](https://www.a-star.edu.sg/bti/) | [Genome Institute of Singapore](https://www.a-star.edu.sg/gis) |  
+     style="width:30%"><br><a href="/files/2020-JH1-Registration-Briefing-General-Matters-23_Dec-2020.pdf">try pdf </a> <b> bold test </b> <i> italics test </i><br> [Bioprocressing Technology Institute](https://www.a-star.edu.sg/bti/) | [Genome Institute of Singapore](https://www.a-star.edu.sg/gis) |  
 [Institute of Bioengineering and Nano Technology](http://www.ibn.a-star.edu.sg/) | [Institute of Medical Biology](http://www.a-star.edu.sg/sbic/) |  
 [Institute of Molecular and Cell Biology](http://www.imcb.a-star.edu.sg/php/main.php) | [Singapore Bioimaging Consortium](http://www.a-star.edu.sg/sbic/) |  
 [Singapore Institute of Clinical Sciences](https://www.a-star.edu.sg/sics/) | [Data Storage Institute](https://www.a-star.edu.sg/dsi/Home.aspx) |  
