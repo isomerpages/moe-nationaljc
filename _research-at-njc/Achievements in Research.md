@@ -3,7 +3,7 @@ title: Achievements in Research
 permalink: /research-at-njc/achievements-in-research
 description: ""
 ---
-### Achievements in Research not down with links below!
+### Achievements in Research 
 
 <ul class="jekyllcodex_accordion">
 
