@@ -68,7 +68,7 @@ Eligible SH1 students can apply for the following overseas attachment programmes
   
 				<i>Application opens in late Jan.</i>   <br><br>
   
-				<b> Local Student Attachment Programme (LSAP) by MOE </b> 
+				<b> Local Student Attachment Programme (LSAP) by MOE </b> <br><br>
   
 Eligible SH1 students can apply for the Student Attachment Programmes at Local Research Institutes:  <br> <Br>
   
