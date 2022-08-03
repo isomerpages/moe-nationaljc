@@ -114,11 +114,11 @@ Applicants will have to undergo a selection process by the project PIs, which ma
   
 <a href="https://www.dsta.gov.sg/join-us/student/young-defence-scientists-programme/our-programmes">Young Defence Scientists Programme (YDSP)</a> <br><br>  
   
-YDSP is an initiative co-managed by the Defence Science and Technology Agency (DSTA) and DSO National Laboratories (DSO). YDSP offers various programmes including  
+YDSP is an initiative co-managed by the Defence Science and Technology Agency (DSTA) and DSO National Laboratories (DSO). YDSP offers various programmes including  <br><br>
   
-Research@YDSP is a 4-month research attachment programme for JH4 to SH1 students. The programme offers students the opportunities to experience research work and work alongside engineers/scientists in a real working/research environment with support from partners such as DSO, Centre for Strategic Infocomm Technologies (CSIT), Temasek Labs (TLs), NTU, NUS, SUTD and their research institutes.  
+Research@YDSP is a 4-month research attachment programme for JH4 to SH1 students. The programme offers students the opportunities to experience research work and work alongside engineers/scientists in a real working/research environment with support from partners such as DSO, Centre for Strategic Infocomm Technologies (CSIT), Temasek Labs (TLs), NTU, NUS, SUTD and their research institutes.  <br><br>
   
-_Application opens in Term 3._</p>  
+				<i>Application opens in Term 3.</i></p>  
   
     </div>  
   
