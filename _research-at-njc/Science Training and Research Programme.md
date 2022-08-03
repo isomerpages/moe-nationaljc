@@ -112,7 +112,7 @@ The timeline for RMP 2019 is as follows: <Br><Br>
   
 Applicants will have to undergo a selection process by the project PIs, which may include interviews.  <br><br>
   
-[**Young Defence Scientists Programme (YDSP)**](https://www.dsta.gov.sg/join-us/student/young-defence-scientists-programme/our-programmes)  
+<a href="https://www.dsta.gov.sg/join-us/student/young-defence-scientists-programme/our-programmes">Young Defence Scientists Programme (YDSP)</a> <br><br>  
   
 YDSP is an initiative co-managed by the Defence Science and Technology Agency (DSTA) and DSO National Laboratories (DSO). YDSP offers various programmes including  
   
