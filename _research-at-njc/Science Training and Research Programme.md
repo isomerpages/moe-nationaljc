@@ -97,7 +97,7 @@ SH1 Students can choose to enrol in either the H3 NUS SRP (examinable) or the en
   
 				<i>Application opens in late Jan/early Feb.</i> 
   
-[**SUTD Research Mentorship Programme (RMP)**](https://www.sutd.edu.sg/Admissions/Undergraduate/Outreach)  
+<a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Outreach">SUTD Research Mentorship Programme (RMP)</a>   
   
 SUTD offers research project opportunities and provides mentorship to SH1 every year under RMP.  
   
