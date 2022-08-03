@@ -57,7 +57,7 @@ Details on these programmes can be found below.
   
     <div>  
   
-      <p>In NJC, all research students in various programmes will participate in Singapore Science & Engineering Fair (SSEF).  <br>
+      <p>In NJC, all research students in various programmes will participate in Singapore Science & Engineering Fair (SSEF).  <br><br>
   
 				<b> Overseas Student Attachment Programme (OSAP) by MOE </b> <br>
   
@@ -66,7 +66,7 @@ Eligible SH1 students can apply for the following overseas attachment programmes
 1. <a href="https://www.cee.org/programs/research-science-institute">Centre of Excellence in Education Summer Programme</a> , USA (late Jun to 1st week of Aug)  <Br>
 2.  <a href="http://www.perimeterinstitute.ca/outreach/students/programs/international-summer-school-young-physicists">International Summer School for Young Physicists</a>, Canada (last 2 weeks of July)  <Br><br>
   
-				<i>Application opens in late Jan.</i>   
+				<i>Application opens in late Jan.</i>   <br><br>
   
 				<b> Local Student Attachment Programme (LSAP) by MOE </b> 
   
@@ -77,7 +77,7 @@ Eligible SH1 students can apply for the Student Attachment Programmes at Local R
   
 Students will have the opportunity to be involved in research projects under the mentorship of practicing scientists in state-of-the-art laboratories in established local RIs. Students must commit fully for the duration of the programme that they are applying for.  <Br><br>
   
-				<i>Application opens in Term 3. </i>
+				<i>Application opens in Term 3. </i> <Br><br>
   
 <b> <a href="http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx">Nanyang Research Programme (NRP)</a> </b> <br><br>
   
@@ -87,7 +87,7 @@ NRP offers a variety of research topics from NTU’s four Colleges – College o
   
 SH1 Students can choose to enrol in either the H3 NTU NRP (examinable) or the enrichment version (non-examinable).  <br><Br>
   
-<a href="http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/NRP-Application.aspx">Applications</a> must be endorsed by teachers.  <i> Application opens in late Jan/early Feb. </i> 
+<a href="http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/NRP-Application.aspx">Applications</a> must be endorsed by teachers. <br><br> <i> Application opens in late Jan/early Feb. </i>  <br><br>
   
 <b> <a href="http://www.science.nus.edu.sg/education/h3-students/h3-science-research-programmes">Science Research Programme (SRP)</a></b> <br><br>  
   
@@ -95,7 +95,7 @@ SRP is a NUS outreach programmes for SH1 students. Students get to work on rese
   
 SH1 Students can choose to enrol in either the H3 NUS SRP (examinable) or the enrichment version (non-examinable).  <br><br>
   
-				<i>Application opens in late Jan/early Feb.</i> 
+				<i>Application opens in late Jan/early Feb.</i> <br><br>
   
 <b> <a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Outreach">SUTD Research Mentorship Programme (RMP)</a>   </b> <br><br>
   
@@ -105,7 +105,7 @@ RMP participants will be given special consideration for admissions and scholars
   
 The timeline for RMP 2019 is as follows: <Br><Br>  
   
-- Deadline for application submission by schools: <b> 15 Feb<b> 
+- Deadline for application submission by schools: <b> 15 Feb</b> 
 				- Selection/interviews by PIs: Anytime between <b>15 Feb – 1 Mar</b>  <br>
 				- Allocation of projects to successful students: <b>By 8 Mar</b> <br>  
 				- RMP duration: <b> Mar onwards (depending on the project duration determined by faculty)</b> <br><br>  
