@@ -97,16 +97,16 @@ SH1 Students can choose to enrol in either the H3 NUS SRP (examinable) or the en
   
 				<i>Application opens in late Jan/early Feb.</i> 
   
-<a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Outreach">SUTD Research Mentorship Programme (RMP)</a>   
+<b> <a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Outreach">SUTD Research Mentorship Programme (RMP)</a>   </b> <br><br>
   
-SUTD offers research project opportunities and provides mentorship to SH1 every year under RMP.  
+SUTD offers research project opportunities and provides mentorship to SH1 every year under RMP.  <br><Br>
   
-RMP participants will be given special consideration for admissions and scholarships, should they apply to SUTD subsequently.  
+RMP participants will be given special consideration for admissions and scholarships, should they apply to SUTD subsequently.  <br><Br>
   
-The timeline for RMP 2019 is as follows:  
+The timeline for RMP 2019 is as follows: <Br><Br>  
   
-\*   Deadline for application submission by schools: **15 Feb**  
-\*   Selection/interviews by PIs: Anytime between **15 Feb – 1 Mar**  
+- Deadline for application submission by schools: <b> 15 Feb<b> 
+- Selection/interviews by PIs: Anytime between **15 Feb – 1 Mar**  
 \*   Allocation of projects to successful students: **By 8 Mar**  
 \*   RMP duration: **Mar onwards (depending on the project duration determined by faculty)**  
   
