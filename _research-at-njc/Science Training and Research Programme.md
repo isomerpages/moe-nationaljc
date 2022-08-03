@@ -57,46 +57,45 @@ Details on these programmes can be found below.
   
     <div>  
   
-      <p>In NJC, all research students in various programmes will participate in Singapore Science & Engineering Fair (SSEF).  
+      <p>In NJC, all research students in various programmes will participate in Singapore Science & Engineering Fair (SSEF).  <br>
   
-**Overseas Student Attachment Programme (OSAP) by MOE**
+				<b> Overseas Student Attachment Programme (OSAP) by MOE </b> <br>
   
-Eligible SH1 students can apply for the following overseas attachment programmes  
+Eligible SH1 students can apply for the following overseas attachment programmes: <Br><Br>
   
-1\. [Centre of Excellence in Education Summer Programme](https://www.cee.org/programs/research-science-institute), USA (late Jun to 1st week of Aug)  
-2\.  [International Summer School for Young Physicists](http://www.perimeterinstitute.ca/outreach/students/programs/international-summer-school-young-physicists), Canada (last 2 weeks of July)  
+1. <a href="https://www.cee.org/programs/research-science-institute">Centre of Excellence in Education Summer Programme</a> , USA (late Jun to 1st week of Aug)  <Br>
+2.  <a href="http://www.perimeterinstitute.ca/outreach/students/programs/international-summer-school-young-physicists">International Summer School for Young Physicists</a>, Canada (last 2 weeks of July)  <Br><br>
   
-_Application opens in late Jan._   
+				<i>Application opens in late Jan.</i>   
   
-**Local Student Attachment Programme (LSAP) by MOE**  
+				<b> Local Student Attachment Programme (LSAP) by MOE </b> 
   
-Eligible SH1 students can apply for the Student Attachment Programmes at Local Research Institutes:  
+Eligible SH1 students can apply for the Student Attachment Programmes at Local Research Institutes:  <br> <Br>
   
-\*   REsearch Attachment Programme (REAP) at Temasek Life Sciences Laboratory (TLL) (last week of Nov to first week of Jan, 6 weeks)  
-\*   A*STAR-MOE Research Attachment Programme (RAP) at various Research Institutes (RIs) (3rd week of Nov to 3rd week of Dec, 5 weeks)  
+- REsearch Attachment Programme (REAP) at Temasek Life Sciences Laboratory (TLL) (last week of Nov to first week of Jan, 6 weeks) <br> 
+- A*STAR-MOE Research Attachment Programme (RAP) at various Research Institutes (RIs) (3rd week of Nov to 3rd week of Dec, 5 weeks)  <br><br>
   
-Students will have the opportunity to be involved in research projects under the mentorship of practicing scientists in state-of-the-art laboratories in established local RIs. Students must commit fully for the duration of the programme that they are applying for.  
+Students will have the opportunity to be involved in research projects under the mentorship of practicing scientists in state-of-the-art laboratories in established local RIs. Students must commit fully for the duration of the programme that they are applying for.  <Br><br>
   
-_Application opens in Term 3._   
+				<i>Application opens in Term 3. </i>
   
-**[Nanyang Research Programme (NRP)](http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx)**  
+<b> <a href="http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx">Nanyang Research Programme (NRP)</a> </b> <br><br>
   
-The Nanyang Research Programme (NRP) and NRP Junior Researcher (NTUjr) are NTU outreach programmes for SH1 students and JH3/4 students respectively. Students students undertake at least 8 months of research activities, either individually or in a pair, under the charge of an NTU faculty member. This programme will culminate in the submission of a Research Paper and a Poster Presentation carried out during the NRP Symposium, held in April annually.  
+The Nanyang Research Programme (NRP) and NRP Junior Researcher (NTUjr) are NTU outreach programmes for SH1 students and JH3/4 students respectively. Students students undertake at least 8 months of research activities, either individually or in a pair, under the charge of an NTU faculty member. This programme will culminate in the submission of a Research Paper and a Poster Presentation carried out during the NRP Symposium, held in April annually.  <br><br>
   
-NRP offers a variety of research topics from NTU’s four Colleges – College of Engineering, College of Science, College of Humanities, Arts, & Social Sciences, and College of Business  and the National Institute of Education.  
+NRP offers a variety of research topics from NTU’s four Colleges – College of Engineering, College of Science, College of Humanities, Arts, & Social Sciences, and College of Business  and the National Institute of Education.  <br><br>
   
-SH1 Students can choose to enrol in either the H3 NTU NRP (examinable) or the enrichment version (non-examinable).  
+SH1 Students can choose to enrol in either the H3 NTU NRP (examinable) or the enrichment version (non-examinable).  <br><Br>
   
-_[Applications](http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/NRP-Application.aspx) must be endorsed by teachers.  Application opens in late Jan/early Feb._  
+<a href="http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/NRP-Application.aspx">Applications</a> must be endorsed by teachers.  <i> Application opens in late Jan/early Feb. </i> 
   
-[**Science Research Programme (SRP)**](http://www.science.nus.edu.sg/education/h3-students/h3-science-research-programmes)  
+<b> <a href="http://www.science.nus.edu.sg/education/h3-students/h3-science-research-programmes">Science Research Programme (SRP)</a></b> <br><br>  
   
-SRP is a NUS outreach programmes for SH1 students. Students get to work on research projects in    
-Life/Medical Sciences, Chemical/Physical Sciences, and Engineering under the guidance of mentors from NUS and established research centres. Similarly, students undertake at least 8 months of research activities.  This programme will culminate in the submission of a Research Paper and a Poster Presentation carried out during the SRP Congress, held in April annually.  
+SRP is a NUS outreach programmes for SH1 students. Students get to work on research projects in Life/Medical Sciences, Chemical/Physical Sciences, and Engineering under the guidance of mentors from NUS and established research centres. Similarly, students undertake at least 8 months of research activities.  This programme will culminate in the submission of a Research Paper and a Poster Presentation carried out during the SRP Congress, held in April annually.  <br><Br>
   
-SH1 Students can choose to enrol in either the H3 NUS SRP (examinable) or the enrichment version (non-examinable).  
+SH1 Students can choose to enrol in either the H3 NUS SRP (examinable) or the enrichment version (non-examinable).  <br><br>
   
-_Application opens in late Jan/early Feb._  
+				<i>Application opens in late Jan/early Feb.</i> 
   
 [**SUTD Research Mentorship Programme (RMP)**](https://www.sutd.edu.sg/Admissions/Undergraduate/Outreach)  
   
@@ -220,9 +219,3 @@ The students will communicate their research by co-presenting at the Internation
 </li>
 
 </ul>
-
-
-
-
-
-		
