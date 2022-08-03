@@ -106,8 +106,8 @@ RMP participants will be given special consideration for admissions and scholars
 The timeline for RMP 2019 is as follows: <Br><Br>  
   
 - Deadline for application submission by schools: <b> 15 Feb<b> 
-- Selection/interviews by PIs: Anytime between **15 Feb – 1 Mar**  
-\*   Allocation of projects to successful students: **By 8 Mar**  
+				- Selection/interviews by PIs: Anytime between <b>15 Feb – 1 Mar</b>  <br>
+				- Allocation of projects to successful students: <b>By 8 Mar</b> <br>  
 \*   RMP duration: **Mar onwards (depending on the project duration determined by faculty)**  
   
 Applicants will have to undergo a selection process by the project PIs, which may include interviews.  
