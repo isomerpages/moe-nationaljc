@@ -108,11 +108,11 @@ We also want to express our gratitude to our Technical Support and Operations Su
      style="width:99%">
 			</p>
 
-    </div>
+  </div>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion5">
 
@@ -139,7 +139,7 @@ We also want to express our gratitude to our Technical Support and Operations Su
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion6">
 
