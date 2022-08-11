@@ -133,7 +133,15 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
      style="width:35%"> <br> <br><Br>
 
 <b> The friends of NJC Awards </b><br>
-<i>This award serves to recognise partners who work with NJC in supporting our efforts in education. </i><br><br>
+<i>This award serves to recognise partners who work with NJC in supporting our efforts in education. </i><br><br> 
+<img src="/images/partner5.png" 
+     style="width:35%"> 
+<img src="/images/partner6.png" 
+     style="width:35%"> 
+<img src="/images/partner7.png" 
+     style="width:35%"> 
+<img src="/images/partner8.png" 
+     style="width:35%"> <br> <br><Br>
 			</p>
 
     </div>
