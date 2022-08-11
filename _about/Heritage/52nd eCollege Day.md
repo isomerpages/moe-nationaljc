@@ -108,7 +108,7 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 
 <b> The Parents-in-Action (PAACT) Outstanding EAS Award </b> <br> <i> The Outstanding EAS Awards aim to recognise non-teaching staff for their outstanding service to the College in their area of work, and to inspire non-teaching staff to be role models who exemplify College values. </i> <br><br><br>
 
-<img src="/images/52lsa21.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> <br><br> Ms Carolyn Goh Lan Teen<br><br> <i>
+<img src="/images/52lsa21.png" style="width:240px;height:300px;margin-left:15px;" align = "right"> <br><br> Ms Carolyn Goh Lan Teen<br><br> <i> We would like to congratulate Ms Carolyn Goh who has demonstrated character with a proven record of service to their schools and students.</i> <br><br><br> <b>The Outstanding Contribution Award (OCA): Individual and Team</b>
 			</p>
 
     </div>
