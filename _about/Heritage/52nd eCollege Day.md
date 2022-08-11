@@ -91,7 +91,9 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 				
 <img src="/images/52lsa15.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <br><br>Mr Wong Yew Chong Kester <br><br><br>
 				
-	
+<img src="/images/52lsa16.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> <br><br> Ms Lim Hui Chi <br><br><br><br>
+				
+<b> The Parents-in-Action (PAACT) Caring Teacher Award</b><br><br> <i> The PAACT Caring Teacher Award aims to recognise teachers who show care and concern for the holistic development of their students. These teachers continue to inspire fellow educators to be caring teachers. </i>
 				
 			</p>
 
