@@ -94,7 +94,13 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 <img src="/images/52lsa16.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> <br><br> Ms Lim Hui Chi <br><br><br><br>
 				
 <b> The Parents-in-Action (PAACT) Caring Teacher Award</b><br><br> <i> The PAACT Caring Teacher Award aims to recognise teachers who show care and concern for the holistic development of their students. These teachers continue to inspire fellow educators to be caring teachers. </i>
+
+<br><br> 
+<img src="/images/52lsa17.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <br><br>Mr Nicholas Tan Aum Yeow<br>(For Junior High) <br><br><br>
 				
+<img src="/images/52lsa18.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> <br><br> Mr Arthur Goh Chong Meng<br> (For Senior High) <br><br><br> 
+
+<b> The Parents-in-Action (PAACT) Engaging and Effective Teacher Award</b> <br> <i> The Engaging and Effective Teacher Award aims to recognise teachers who achieve a high level of student engagement during lessons and effectiveness in their teaching, learning and assessment approaches. These teachers inspire fellow educators to be role models in fostering a lively community and joyful learning environment.</i>
 			</p>
 
     </div>
