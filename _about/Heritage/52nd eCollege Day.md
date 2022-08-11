@@ -4,7 +4,7 @@ permalink: /about/Heritage/52nd-ecollege-day
 description: ""
 third_nav_title: Heritage
 ---
-### 52nd eCollege Day
+### 52nd eCollege Day LSA NAME
 
 <ul class="jekyllcodex_accordion">
 
@@ -65,7 +65,10 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
      style="width:60%">	<b>Mr Lin Huaizu</b><br><br><br><br><br>			Insert DR. Lim Yi En picture here<br><br>
 				
 <img src="/images/52lsa4.png" 
-     style="width:60%"> <b>Ms Meena Malinder Kaur d/o K Singh</b><br><br> Insert video here <br><br>
+     style="width:60%"> <b>Ms Meena Malinder Kaur d/o K Singh</b><br><br> Insert video here <br><br><br>
+
+<b> Long Service Award: 10 Years </b> <br><br>
+<img src="/images/52lsa5.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “I would like my students to achieve their fullest potential, whatever that might be. In the end, what the nature of that potential looks like should not be dictated by the teacher, but should come from the students themselves through a sense of self-discovery.” <br><br> NAME HERE<br><br>
 	
 			</p>
 
