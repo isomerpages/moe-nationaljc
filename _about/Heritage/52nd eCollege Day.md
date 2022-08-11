@@ -58,14 +58,7 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 
 				<img src="/images/52lsa1.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> <b>Ms Phua Phek Heng Sharon Averdene </b><br><br><br><b> Long Service Award: 15 Years </b><br><br>
 			
-			<img src="/images/tech1.png" 
-     style="width:99%">
-				<img src="/images/op1.png" 
-     style="width:99%">
-				<img src="/images/tech2.png" 
-     style="width:99%">
-				<img src="/images/allied1.png" 
-     style="width:99%">
+			<img src="/images/52lsa2.png" style="width:200px;height:240px;margin-right:15px;" align = "left">
 			</p>
 
     </div>
