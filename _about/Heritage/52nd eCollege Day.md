@@ -115,7 +115,7 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
      style="width:80%"> <br>
 <img src="/images/oca3.png" 
      style="width:80%"> <br>
-<img src="/images/oca4.png" 
+<img src="/images/oca10.png" 
      style="width:80%"><br>
 <img src="/images/oca5.png" 
      style="width:35%"> <br><br><br>
