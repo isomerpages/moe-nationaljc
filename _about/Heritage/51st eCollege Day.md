@@ -59,7 +59,7 @@ Professor Tan did his Interventional Cardiology fellowship at Duke University Me
 
     <div>
 
-			<p><br>Associate Professor Ho Hwee Long</b><img src="/images/ecol4.png" style="width:300px;height:220px;margin-left:15px;" align = "right">Our heartfelt gratitude to Associate Professor Ho Hwee Long, for his unwavering passion, enthusiasm and determination in deeply inspiring many batches of our NJC Symphonic Band members for the past 51 years. Associate Professor Ho Hwee Long has led the evolution of the wind band in Singapore since 1969. He was formerly with the Nanyang Technological University’s National Institute of Education, and a Cultural Medallion Winner in Singapore. <br>
+			<p><br><b>Associate Professor Ho Hwee Long</b><img src="/images/ecol4.png" style="width:300px;height:220px;margin-left:15px;" align = "right">Our heartfelt gratitude to Associate Professor Ho Hwee Long, for his unwavering passion, enthusiasm and determination in deeply inspiring many batches of our NJC Symphonic Band members for the past 51 years. Associate Professor Ho Hwee Long has led the evolution of the wind band in Singapore since 1969. He was formerly with the Nanyang Technological University’s National Institute of Education, and a Cultural Medallion Winner in Singapore. <br>
 			Insert video here</p>
 
     </div>
