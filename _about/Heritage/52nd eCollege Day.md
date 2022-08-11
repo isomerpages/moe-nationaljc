@@ -100,7 +100,15 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 				
 <img src="/images/52lsa18.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> <br><br> Mr Arthur Goh Chong Meng<br> (For Senior High) <br><br><br> 
 
-<b> The Parents-in-Action (PAACT) Engaging and Effective Teacher Award</b> <br> <i> The Engaging and Effective Teacher Award aims to recognise teachers who achieve a high level of student engagement during lessons and effectiveness in their teaching, learning and assessment approaches. These teachers inspire fellow educators to be role models in fostering a lively community and joyful learning environment.</i>
+<b> The Parents-in-Action (PAACT) Engaging and Effective Teacher Award</b> <br> <i> The Engaging and Effective Teacher Award aims to recognise teachers who achieve a high level of student engagement during lessons and effectiveness in their teaching, learning and assessment approaches. These teachers inspire fellow educators to be role models in fostering a lively community and joyful learning environment.</i><br><br>
+	
+<img src="/images/52lsa19.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <br><br>Mr Tan Xuan Wen Jeffery<br> (For Junior High)<br>(For Junior High) <br><br><br>
+				
+<img src="/images/52lsa20.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> <br><br> Mr Lim Eng Soon<br> (For Senior High) <br><br><br> 
+
+<b> The Parents-in-Action (PAACT) Outstanding EAS Award </b> <br> <i> The Outstanding EAS Awards aim to recognise non-teaching staff for their outstanding service to the College in their area of work, and to inspire non-teaching staff to be role models who exemplify College values. </i> <br><br><br>
+
+<img src="/images/52lsa21.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> <br><br> Ms Carolyn Goh Lan Teen<br><br> <i>
 			</p>
 
     </div>
