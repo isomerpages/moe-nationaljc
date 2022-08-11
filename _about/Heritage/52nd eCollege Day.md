@@ -59,13 +59,13 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 <img src="/images/52lsa1.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> <b>Ms Phua Phek Heng Sharon Averdene </b><br><br><br><br><br><br><br><b> Long Service Award: 15 Years </b><br><br>
 			
 <img src="/images/52lsa2.png" 
-     style="width:60%"> <b>Ms Darshini d/o Radha Krishnan </b><br><br> 
+     style="width:30%"> <b>Ms Darshini d/o Radha Krishnan </b><br><br> 
 				
 <img src="/images/52lsa3.png" 
-     style="width:60%">	<b>Mr Lin Huaizu</b><br><br><br><br><br>			Insert DR. Lim Yi En picture here<br><br>
+     style="width:30%">	<b>Mr Lin Huaizu</b><br><br><br><br><br>			Insert DR. Lim Yi En picture here<br><br>
 				
 <img src="/images/52lsa4.png" 
-     style="width:60%"> <b>Ms Meena Malinder Kaur d/o K Singh</b><br><br> Insert video here <br><br><br>
+     style="width:30%"> <b>Ms Meena Malinder Kaur d/o K Singh</b><br><br> Insert video here <br><br><br>
 
 <b> Long Service Award: 10 Years </b> <br><br>
 <img src="/images/52lsa5.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “I would like my students to achieve their fullest potential, whatever that might be. In the end, what the nature of that potential looks like should not be dictated by the teacher, but should come from the students themselves through a sense of self-discovery.” <br><br> NAME HERE<br><br>
