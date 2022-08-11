@@ -69,7 +69,16 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 
 <b> Long Service Award: 10 Years </b> <br><br>
 <img src="/images/52lsa5.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “I would like my students to achieve their fullest potential, whatever that might be. In the end, what the nature of that potential looks like should not be dictated by the teacher, but should come from the students themselves through a sense of self-discovery.” <br><br> NAME HERE<br><br>
+
+<img src="/images/52lsa6.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “I hope to see my students find and achieve their own true excellence – be it excellence in school, excellence at the workplace, excellence in society, excellence in their relationships, or excellence at home.”<br><br> NAME HERE<br><br>
+				
+<img src="/images/52lsa7.png" style="width:220px;height:240px;margin-right:15px;" align = "left"> “What I really want to see is my kiddos and kids being able to find meaning, passion and purpose in their lives, being able to lead the kind of lives they want for themselves, and most importantly, being humans.. I have always told my kiddos before they graduate, that to be humans means that they should always strive to Be Good and Do Good, through which then they will Feel Good.”<br><br> NAME HERE<br><br>
+				
+<img src="/images/52lsa8.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> “I hope students can understand that there are many measurements of success, and they would reap the fruits of their labour. I want every student to understand and work their own weaknesses, discover and make good use of their area of strengths to stretch their potential and further develop themselves.”<br><br> NAME HERE<br><br>
 	
+<img src="/images/52lsa9.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> “As we move towards establishing various pathfinders for the students, I hope that my end goal for my students is to be a young adult who is self regulated and ready for the future.”<br><br> NAME HERE<br><br>
+				
+<img src="/images/52lsa10.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> “Teaching and learning is evolving and the teachers such as myself embrace the changes because of our love for students and our passion to want to help them excel propels us to take up these challenges.”<br><br> NAME HERE<br><br>
 			</p>
 
     </div>
