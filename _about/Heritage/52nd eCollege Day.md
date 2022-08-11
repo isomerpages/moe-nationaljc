@@ -76,33 +76,33 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 				
 <img src="/images/52lsa8.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> “I hope students can understand that there are many measurements of success, and they would reap the fruits of their labour. I want every student to understand and work their own weaknesses, discover and make good use of their area of strengths to stretch their potential and further develop themselves.”<br><br> NAME HERE<br><br>
 	
-<img src="/images/52lsa9.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> “As we move towards establishing various pathfinders for the students, I hope that my end goal for my students is to be a young adult who is self regulated and ready for the future.”<br><br> NAME HERE<br><br>
+<img src="/images/52lsa9.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> “As we move towards establishing various pathfinders for the students, I hope that my end goal for my students is to be a young adult who is self regulated and ready for the future.”<br><br> NAME HERE<br><br><br><br>
 				
 <img src="/images/52lsa10.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> “Teaching and learning is evolving and the teachers such as myself embrace the changes because of our love for students and our passion to want to help them excel propels us to take up these challenges.”<br><br> NAME HERE<br><br><Br> 
 				<b> Click on the name of the teacher awardee to read his/her heartfelt thoughts. </b><br> <br> We also want to express our deepest appreciation of our Operations Support Officer, for dedicating 10 years of valuable service to NJC. <br><br><br>
 
 <b> Long Service Award: 10 Years </b><br><br>
 <img src="/images/52lsa11.png" 
-     style="width:60%"> <b>Ms N Sinathai Chandra</b><br>The following staff and work teams have also received accolades for their dedication and contribution to the education service, in areas such as professional development, student well-being, administration, school operations and more. Our heartiest congratulations to them!<br><br><br> <b> National Day Commendation Medal </b><br><br> <i> The Commendation Medal is a National Day Award that honours commendable performance, competence and devotion to duty. </i><br><br> <img src="/images/52lsa12.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <b>Mr Teo Tze Wei </b><br><br><i> We are happy that Mr Teo Tze Wei has received this medal for his service to education.</i><br><br><br>
-				<b> The Academy of Singapore Teachers (AST) Academy Awards </b> <br><br> <i> The AST Academy Awards for Professional Development recognise and affirm the efforts of officers in the education service_ _for their contributions to the professional development of the teaching fraternity. Four teachers have been recognised as Associates of the Academy of Singapore Teachers, for their contributions.</i><br><br><br> 
+     style="width:40%"> <b>Ms N Sinathai Chandra</b><br>The following staff and work teams have also received accolades for their dedication and contribution to the education service, in areas such as professional development, student well-being, administration, school operations and more. Our heartiest congratulations to them!<br><br><br> <b> National Day Commendation Medal </b><br><br> <i> The Commendation Medal is a National Day Award that honours commendable performance, competence and devotion to duty. </i><br><br> <img src="/images/52lsa12.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <b>Mr Teo Tze Wei </b><br><br><i> We are happy that Mr Teo Tze Wei has received this medal for his service to education.</i><br><br><br><br><br>
+				<b> The Academy of Singapore Teachers (AST) Academy Awards </b> <br><br> <i> The AST Academy Awards for Professional Development recognise and affirm the efforts of officers in the education service for their contributions to the professional development of the teaching fraternity. Four teachers have been recognised as Associates of the Academy of Singapore Teachers, for their contributions.</i><br><br><br> 
 <img src="/images/52lsa13.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <br><br>Mr Bek Aik Chiang Alvin <br><br><br>
 
-<img src="/images/52lsa14.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> <br><br> Ms Lim Hui Chi <br><br><br>
+<img src="/images/52lsa14.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <br><br> Ms Lim Hui Chi <br><br><br>
 				
 <img src="/images/52lsa15.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <br><br>Mr Wong Yew Chong Kester <br><br><br>
 				
-<img src="/images/52lsa16.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> <br><br> Ms Lim Hui Chi <br><br><br><br>
+<img src="/images/52lsa16.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <br><br> Ms Lim Hui Chi <br><br><br><br>
 				
 <b> The Parents-in-Action (PAACT) Caring Teacher Award</b><br><br> <i> The PAACT Caring Teacher Award aims to recognise teachers who show care and concern for the holistic development of their students. These teachers continue to inspire fellow educators to be caring teachers. </i>
 
 <br><br> 
 <img src="/images/52lsa17.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <br><br>Mr Nicholas Tan Aum Yeow<br>(For Junior High) <br><br><br>
 				
-<img src="/images/52lsa18.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> <br><br> Mr Arthur Goh Chong Meng<br> (For Senior High) <br><br><br> 
+<img src="/images/52lsa18.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <br><br> Mr Arthur Goh Chong Meng<br> (For Senior High) <br><br><br> 
 
 <b> The Parents-in-Action (PAACT) Engaging and Effective Teacher Award</b> <br> <i> The Engaging and Effective Teacher Award aims to recognise teachers who achieve a high level of student engagement during lessons and effectiveness in their teaching, learning and assessment approaches. These teachers inspire fellow educators to be role models in fostering a lively community and joyful learning environment.</i><br><br>
 	
-<img src="/images/52lsa19.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <br><br>Mr Tan Xuan Wen Jeffery<br> (For Junior High)<br>(For Junior High) <br><br><br>
+<img src="/images/52lsa19.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <br><br>Mr Tan Xuan Wen Jeffery<br> (For Junior High)<br><br><br><br>
 				
 <img src="/images/52lsa20.png" style="width:240px;height:240px;margin-left:15px;" align = "right"> <br><br> Mr Lim Eng Soon<br> (For Senior High) <br><br><br> 
 
