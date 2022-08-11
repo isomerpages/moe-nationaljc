@@ -83,7 +83,7 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 
 <b> Long Service Award: 10 Years </b><br><br>
 <img src="/images/52lsa11.png" 
-     style="width:60%"> <b>Ms N Sinathai Chandra</b><br>The following staff and work teams have also received accolades for their dedication and contribution to the education service, in areas such as professional development, student well-being, administration, school operations and more. Our heartiest congratulations to them!<br><br><br> <b> National Day Commendation Medal </b><br><br> <i> The Commendation Medal is a National Day Award that honours commendable performance, competence and devotion to duty. </i><br><br> <img src="/images/52lsa10.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> “Teaching and learning is evolving and the teachers such as myself embrace the changes because of our love for students and our passion to want to help them excel propels us to take up these challenges.”<br>
+     style="width:60%"> <b>Ms N Sinathai Chandra</b><br>The following staff and work teams have also received accolades for their dedication and contribution to the education service, in areas such as professional development, student well-being, administration, school operations and more. Our heartiest congratulations to them!<br><br><br> <b> National Day Commendation Medal </b><br><br> <i> The Commendation Medal is a National Day Award that honours commendable performance, competence and devotion to duty. </i><br><br> <img src="/images/52lsa12.png" style="width:240px;height:240px;margin-right:15px;" align = "left"> <b>Mr Teo Tze Wei </b><br><br><i> We are happy that Mr Teo Tze Wei has received this medal for his service to education.</i><br>
 			</p>
 
     </div>
