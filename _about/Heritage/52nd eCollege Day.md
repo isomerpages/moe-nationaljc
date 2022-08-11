@@ -108,7 +108,19 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 
 <b> The Parents-in-Action (PAACT) Outstanding EAS Award </b> <br> <i> The Outstanding EAS Awards aim to recognise non-teaching staff for their outstanding service to the College in their area of work, and to inspire non-teaching staff to be role models who exemplify College values. </i> <br><br><br>
 
-<img src="/images/52lsa21.png" style="width:240px;height:300px;margin-left:15px;" align = "right"> <br><br> Ms Carolyn Goh Lan Teen<br><br> <i> We would like to congratulate Ms Carolyn Goh who has demonstrated character with a proven record of service to their schools and students.</i> <br><br><br> <b>The Outstanding Contribution Award (OCA): Individual and Team</b>
+<img src="/images/52lsa21.png" style="width:240px;height:300px;margin-left:15px;" align = "right"> <br><br> Ms Carolyn Goh Lan Teen<br><br> <i> We would like to congratulate Ms Carolyn Goh who has demonstrated character with a proven record of service to their schools and students.</i> <br><br><br> <b>The Outstanding Contribution Award (OCA): Individual and Team</b> <br><br> <i>The Outstanding Contribution Award aims to recognise both individuals and teams who have made significant contributions to the College. These awardees exemplify NJC values, provide memorable experiences for NJC students and other stakeholders, and uphold the image of the College. The School Administration Team was awarded the OCA Team (July 2020) to recognise their exceptional efforts in managing their respective areas and keeping the school environment safe amidst the COVID-19 challenges.</i><br><br> 
+<img src="/images/oca8.png" 
+     style="width:80%"><br> 
+<img src="/images/oca2.png" 
+     style="width:80%"> <br>
+<img src="/images/oca3.png" 
+     style="width:80%"> <br>
+<img src="/images/oca4.png" 
+     style="width:80%"><br>
+<img src="/images/oca5.png" 
+     style="width:35%"> <br><br><br>
+				
+<b> Certificate of Accomplishment as Team Adviser in the IM2C </b><br> <i>The International Mathematical Modeling Challenge (IM2C) promotes the teaching of mathematical modelling and applications at all educational levels for all students; with the contest receiving both national and international recognition. Two teachers received the Certificate of Accomplishment for their involvement in the Challenge.</i> <br><br> 
 			</p>
 
     </div>
