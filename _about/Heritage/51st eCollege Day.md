@@ -18,14 +18,14 @@ third_nav_title: Heritage
 
     <div>
 
-        <p> Mr. Ang Pow Chew <br>
-<img src="/images/ecol2.png" style="width:283px;height:340px;margin-right:15px;" align = "left"> 2020 marks the start of our College’s 51st year. This is also a year of an unprecedented disruption of school and schooling which we were accustomed to. All stakeholders of our school community have had to adjust to an online mode of teaching and learning enacted outside of the school building. I am glad our teachers and students have been able to exercise mental and behavioural flexibility to adjust quickly to a changed environment.
+			<p><b> Mr. Ang Pow Chew </b><br>
+<img src="/images/ecol2.png" style="width:283px;height:340px;margin-right:15px;" align = "left"> 2020 marks the start of our College’s 51st year. This is also a year of an unprecedented disruption of school and schooling which we were accustomed to. All stakeholders of our school community have had to adjust to an online mode of teaching and learning enacted outside of the school building. I am glad our teachers and students have been able to exercise mental and behavioural flexibility to adjust quickly to a changed environment. <br><br>
 
-Despite the change thrusted upon us, we must remain steadfast, to provide our students an education that helps them to seek to know how to think, not just what to think. We must continue to focus on educating the heart and the mind, and endeavour to instil in our students the CARE values and principles that our school has promulgated. We must pride ourselves to help our students grow and develop into adults with a deep sense of service to the community.
+Despite the change thrusted upon us, we must remain steadfast, to provide our students an education that helps them to seek to know how to think, not just what to think. We must continue to focus on educating the heart and the mind, and endeavour to instil in our students the CARE values and principles that our school has promulgated. We must pride ourselves to help our students grow and develop into adults with a deep sense of service to the community. <br><br>
 
-As we complete 50 years of service and embark on our 51st year, we should take heed that success comes to those who work hard and stays with those who don’t rest on the achievements of the past. We must continue to strive and to serve with honour.
+As we complete 50 years of service and embark on our 51st year, we should take heed that success comes to those who work hard and stays with those who don’t rest on the achievements of the past. We must continue to strive and to serve with honour. <br><br>
 
-I would like to take this opportunity to thank our stakeholders. We are fortunate to have a supportive and committed School Advisory Committee, dedicated teachers, concerned and co- operative parents.
+I would like to take this opportunity to thank our stakeholders. We are fortunate to have a supportive and committed School Advisory Committee, dedicated teachers, concerned and co- operative parents. <br><br>
 
 Service with Honour. <br>
 			
@@ -42,7 +42,7 @@ Service with Honour. <br>
 
     <div>
 
-      <p> Professor Tan Huay Cheem <br> <img src="/images/ecol3.png" style="width:190px;height:240px;margin-right:15px;" align = "left"> Professor Tan Huay Cheem graduated from the National University of Singapore in 1987 and obtained his Master of Medicine in Internal Medicine and Membership of Royal College of Physician (United Kingdom) in 1992, Fellowship of American College of Cardiology in 2001, Fellowship of Society of Coronary Angiography and Intervention in 2002 and Fellowship of Royal College of Physician in 2004.
+			<p> <b>Professor Tan Huay Cheem </b><br> <img src="/images/ecol3.png" style="width:190px;height:240px;margin-right:15px;" align = "left"> Professor Tan Huay Cheem graduated from the National University of Singapore in 1987 and obtained his Master of Medicine in Internal Medicine and Membership of Royal College of Physician (United Kingdom) in 1992, Fellowship of American College of Cardiology in 2001, Fellowship of Society of Coronary Angiography and Intervention in 2002 and Fellowship of Royal College of Physician in 2004. <br><br>
 
 Professor Tan did his Interventional Cardiology fellowship at Duke University Medical Centre, North Carolina, USA in 1995, followed by training in Vascular Ultrasonography at St Vincent’s Hospital, Sydney, Australia (2002), and Carotid Stenting at Taiwan National University Hospital (2008).
 			<br> Insert videos here</p>
@@ -59,7 +59,7 @@ Professor Tan did his Interventional Cardiology fellowship at Duke University Me
 
     <div>
 
-      <p><img src="/images/ecol4.png" style="width:300px;height:220px;margin-left:15px;" align = "right">Our heartfelt gratitude to Associate Professor Ho Hwee Long, for his unwavering passion, enthusiasm and determination in deeply inspiring many batches of our NJC Symphonic Band members for the past 51 years. Associate Professor Ho Hwee Long has led the evolution of the wind band in Singapore since 1969. He was formerly with the Nanyang Technological University’s National Institute of Education, and a Cultural Medallion Winner in Singapore. <br>
+			<p><br>Associate Professor Ho Hwee Long</b><img src="/images/ecol4.png" style="width:300px;height:220px;margin-left:15px;" align = "right">Our heartfelt gratitude to Associate Professor Ho Hwee Long, for his unwavering passion, enthusiasm and determination in deeply inspiring many batches of our NJC Symphonic Band members for the past 51 years. Associate Professor Ho Hwee Long has led the evolution of the wind band in Singapore since 1969. He was formerly with the Nanyang Technological University’s National Institute of Education, and a Cultural Medallion Winner in Singapore. <br>
 			Insert video here</p>
 
     </div>
