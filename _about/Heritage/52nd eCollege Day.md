@@ -120,7 +120,17 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 <img src="/images/oca5.png" 
      style="width:35%"> <br><br><br>
 				
-<b> Certificate of Accomplishment as Team Adviser in the IM2C </b><br> <i>The International Mathematical Modeling Challenge (IM2C) promotes the teaching of mathematical modelling and applications at all educational levels for all students; with the contest receiving both national and international recognition. Two teachers received the Certificate of Accomplishment for their involvement in the Challenge.</i> <br><br> 
+<b> Certificate of Accomplishment as Team Adviser in the IM2C </b><br> <i>The International Mathematical Modeling Challenge (IM2C) promotes the teaching of mathematical modelling and applications at all educational levels for all students; with the contest receiving both national and international recognition. Two teachers received the Certificate of Accomplishment for their involvement in the Challenge.</i> <br> <img src="/images/oca9.png" 
+     style="width:70%"><br><br> <b> The NJC Partner's Award </b> <i> <br>This award serves to recognise partners, for their invaluable work and significant contribution in supporting our efforts in education for a sustained period.</i> <br><br>
+
+<img src="/images/partner1.png" 
+     style="width:35%"> 
+<img src="/images/partner2.png" 
+     style="width:35%"> 
+<img src="/images/partner3.png" 
+     style="width:35%"> 
+<img src="/images/partner4.png" 
+     style="width:35%"> <br>
 			</p>
 
     </div>
