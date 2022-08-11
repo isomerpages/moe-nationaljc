@@ -55,13 +55,9 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
       <p>
 				We would like to take this opportunity to recognise and express utmost gratitude to our teachers, who have dedicated 30, 15 and 10 years to the education service respectively. <br> <br><br>
 				<b>Long Service Award: 30 Years </b><br> <br>
-				
-				
-				CONTINUE FROM HERE PLEASE https://nationaljc.moe.edu.sg/about-us/52nd-e-college-day/ 
-				Need delete below
-				<img src="/images/ecol24.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> “I remain hopeful that my students have the ability to attain their personal goals, lead a life that they desire in the future, and demonstrate the College’s Values in whatever they choose to undertake. Be daring to make a difference!” <br><br> <br><br>
-We also want to express our gratitude to our Technical Support and Operations Support Officers, and our Allied Educator, for dedicating 10 years of valuable service to NJC. <br><br>
-				Long Service Award: 10 Years <br><br>
+
+				<img src="/images/52lsa1.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> <b>Ms Phua Phek Heng Sharon Averdene </b><br><br><br><b> Long Service Award: 15 Years </b><br><br>
+			
 			<img src="/images/tech1.png" 
      style="width:99%">
 				<img src="/images/op1.png" 
