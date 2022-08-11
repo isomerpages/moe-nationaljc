@@ -56,9 +56,14 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 				We would like to take this opportunity to recognise and express utmost gratitude to our teachers, who have dedicated 30, 15 and 10 years to the education service respectively. <br> <br><br>
 				<b>Long Service Award: 30 Years </b><br> <br>
 
-				<img src="/images/52lsa1.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> <b>Ms Phua Phek Heng Sharon Averdene </b><br><br><br><b> Long Service Award: 15 Years </b><br><br>
+<img src="/images/52lsa1.png" style="width:200px;height:240px;margin-right:15px;" align = "left"> <b>Ms Phua Phek Heng Sharon Averdene </b><br><br><br><br><br><br><br><b> Long Service Award: 15 Years </b><br><br>
 			
-			<img src="/images/52lsa2.png" style="width:200px;height:240px;margin-right:15px;" align = "left">
+<img src="/images/52lsa2.png" 
+     style="width:60%"> <b>Ms Darshini d/o Radha Krishnan </b><br><br><br><br><br><br> 
+				
+<img src="/images/52lsa3.png" 
+     style="width:60%">	<b>Mr Lin Huaizu			
+	
 			</p>
 
     </div>
