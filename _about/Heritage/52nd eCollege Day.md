@@ -82,7 +82,7 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 
 <img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa14.png"> <br><br> Ms Lim Hui Chi <br><br><br><br><br><br>
 				
-<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa15.png"> <br><br>Mr Wong Yew Chong Kester <br><br><br>
+<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa15.png"> <br><br>Mr Wong Yew Chong Kester <br><br><br><br><br><br>
 				
 <img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa16.png"> <br><br> Ms Lim Hui Chi <br><br><br><br><br><br>
 				
