@@ -151,7 +151,7 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 
 <div>
 
-<p><b> GCE 'A' Level Examinations</b><br><br></p>
+<p><b> GCE 'A' Level Examinations</b><br><br> <img style="width:60%" src="/images/alevels1.png"><br> The class of 2020 has done the college proud with a strong showing at the 2020 GCE A Level examinations. Despite having to take a major examination during an ongoing pandemic, the class of 2020 has shown commendable resilience as a cohort and have performed well. In total, 14 subjects obtained at least 70% of A and B grades, and all H2 and H1 subjects have at least 99% passes for their candidature. H2 Subjects with 4 or more in 10 students scoring A include Art, Chemistry, Computing, Economics, Further Mathematics, French, Geography, German, Literature in English, Mathematics, Music, Physics, Spanish, Tamil Language and Literature. All H1 subjects which include Biology, Chemistry, Economics, Mathematics and Physics had 100% passes for their candidature. All H3 subjects had 100% passes for their candidature.<br><br> <b>Congratulations to the class of 2020 and we wish them all the best in their future endeavours!</b><br><img style="width:60%" src="/images/alevels2.png"> </p>
 
 </div>
 
