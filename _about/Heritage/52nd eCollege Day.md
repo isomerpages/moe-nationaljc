@@ -78,18 +78,18 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 <b> Long Service Award: 10 Years </b><br><br>
 <img style="width:40%" src="/images/52lsa11.png"> <b>Ms N Sinathai Chandra</b><br>The following staff and work teams have also received accolades for their dedication and contribution to the education service, in areas such as professional development, student well-being, administration, school operations and more. Our heartiest congratulations to them!<br><br><br> <b> National Day Commendation Medal </b><br><br> <i> The Commendation Medal is a National Day Award that honours commendable performance, competence and devotion to duty. </i><br><br> <img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa12.png"> <b>Mr Teo Tze Wei </b><br><br><i> We are happy that Mr Teo Tze Wei has received this medal for his service to education.</i><br><br><br><br><br>
 				<b> The Academy of Singapore Teachers (AST) Academy Awards </b> <br><br> <i> The AST Academy Awards for Professional Development recognise and affirm the efforts of officers in the education service for their contributions to the professional development of the teaching fraternity. Four teachers have been recognised as Associates of the Academy of Singapore Teachers, for their contributions.</i><br><br><br> 
-<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa13.png"> <br><br>Mr Bek Aik Chiang Alvin <br><br><br>
+<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa13.png"> <br><br>Mr Bek Aik Chiang Alvin <br><br><br><br><br><br><br>
 
-<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa14.png"> <br><br> Ms Lim Hui Chi <br><br><br>
+<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa14.png"> <br><br> Ms Lim Hui Chi <br><br><br><br><br><br>
 				
 <img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa15.png"> <br><br>Mr Wong Yew Chong Kester <br><br><br>
 				
-<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa16.png"> <br><br> Ms Lim Hui Chi <br><br><br><br>
+<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa16.png"> <br><br> Ms Lim Hui Chi <br><br><br><br><br><br>
 				
 <b> The Parents-in-Action (PAACT) Caring Teacher Award</b><br><br> <i> The PAACT Caring Teacher Award aims to recognise teachers who show care and concern for the holistic development of their students. These teachers continue to inspire fellow educators to be caring teachers. </i>
 
 <br><br> 
-<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa17.png"> <br><br>Mr Nicholas Tan Aum Yeow<br>(For Junior High) <br><br><br>
+<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa17.png"> <br><br>Mr Nicholas Tan Aum Yeow<br>(For Junior High) <br><br><br><br><br>
 				
 <img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa18.png"> <br><br> Mr Arthur Goh Chong Meng<br> (For Senior High) <br><br><br> 
 
