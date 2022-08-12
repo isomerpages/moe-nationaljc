@@ -91,7 +91,7 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 <br><br> 
 <img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa17.png"> <br><br>Mr Nicholas Tan Aum Yeow<br>(For Junior High) <br><br><br><br><br>
 				
-<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa18.png"> <br><br> Mr Arthur Goh Chong Meng<br> (For Senior High) <br><br><br> 
+<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa18.png"> <br><br> Mr Arthur Goh Chong Meng<br> (For Senior High) <br><br><br> <br><br>
 
 <b> The Parents-in-Action (PAACT) Engaging and Effective Teacher Award</b> <br> <i> The Engaging and Effective Teacher Award aims to recognise teachers who achieve a high level of student engagement during lessons and effectiveness in their teaching, learning and assessment approaches. These teachers inspire fellow educators to be role models in fostering a lively community and joyful learning environment.</i><br><br>
 	
