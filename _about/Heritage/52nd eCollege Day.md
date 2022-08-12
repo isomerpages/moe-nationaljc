@@ -151,7 +151,7 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 
 <div>
 
-<p></p>
+<p><b> GCE 'A' Level Examinations</b><br><br></p>
 
 </div>
 
@@ -161,11 +161,14 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 	
 <input id="accordion6" type="checkbox">
 
-<label for="accordion6">A Celebration of the Human Spirit</label>
+<label for="accordion6">TEST TEST</label>
 
 <div>
 
-<p>Insert videos here</p>
+<p> | te 	| st 	|
+|---	|---	|
+| he 	| re 	|
+| ge 	| we 	| <BR><BR> <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">te</th><th style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">st</th></tr></thead><tbody><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">he</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">re</td></tr><tr><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">ge</td><td style="border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">we</td></tr></tbody></table></p>
 
 </div>
 
