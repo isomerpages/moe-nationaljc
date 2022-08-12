@@ -129,9 +129,9 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 	
 	<li>
 
-<input id="accordion5" type="checkbox">
+<input id="accordion4" type="checkbox">
 
-<label for="accordion5"> Forging Ahead in Pursuit of Excellence</label>
+<label for="accordion4"> Forging Ahead in Pursuit of Excellence</label>
 
 <div>
 
@@ -145,6 +145,20 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 	
 	<li>
 
+<input id="accordion5" type="checkbox">
+
+<label for="accordion5">A Celebration of the Human Spirit</label>
+
+<div>
+
+<p>Insert videos here</p>
+
+</div>
+
+</li>
+	
+	<li>
+	
 <input id="accordion6" type="checkbox">
 
 <label for="accordion6">A Celebration of the Human Spirit</label>
@@ -156,8 +170,5 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 </div>
 
 </li>
-	
-	
-
 	
 </ul>
