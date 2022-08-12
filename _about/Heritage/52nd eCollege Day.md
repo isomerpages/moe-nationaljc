@@ -123,35 +123,35 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 <img style="width:55%" src="/images/partner8.png"> <br> <br><br>
 			</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</div>
 
 </li>
 	
 	<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion5" type="checkbox">
+<input id="accordion5" type="checkbox">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5"> CONTINUE FROM HERE</label>
+<label for="accordion5"> Forging Ahead in Pursuit of Excellence</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><img style="width:60%" src="/images/njca1.png"> <br> <img style="width:60%" src="/images/njca2.png"> <br> <img style="width:60%" src="/images/njca3.png"> <br> Insert video here <br> <img style="width:60%" src="/images/njca4.png"> <br> <img style="width:60%" src="/images/njca5.png"> <br> <img style="width:60%" src="/images/njca6.png"> <br> <img style="width:60%" src="/images/njca7.png"> <br> Insert video here <br> <img style="width:60%" src="/images/njca8.png"> <br> <img style="width:60%" src="/images/njca9.png"> <br> <img style="width:60%" src="/images/njca10.png"> <br> <img style="width:60%" src="/images/njca11.png"> <br> Insert video here <br> <img style="width:60%" src="/images/njca12.png"> <br> <img style="width:60%" src="/images/njca13.png"> <br> Insert video here</p>
+<p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</div>
 
 </li>
 	
 	<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion6" type="checkbox">
+<input id="accordion6" type="checkbox">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6">A Celebration of the Human Spirit</label>
+<label for="accordion6">A Celebration of the Human Spirit</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>Insert videos here</p>
+<p>Insert videos here</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</div>
 
 </li>
 	
