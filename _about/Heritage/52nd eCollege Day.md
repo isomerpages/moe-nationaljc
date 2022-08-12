@@ -135,7 +135,9 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 
 <div>
 
-<p></p>
+	<p><b>The NJC Student of the Year Award</b><br> <i>The National Junior College Student of the Year is the pinnacle of all student awards, recognising all-round excellence in academia, CCA, leadership and service.</i><br><br> Insert video here<br> <a href="link">Chelsea Wong JiaHui</a><br><br>“What helped me to make the most of my time in school was never being afraid to be unconventional, and always striving to do the best for myself, and those around me.”
+
+		Play the video to hear from Chelsea.<br><br><br> <b>The Lim Kim Woon Award</b> <br> <i>The Lim Kim Woon Award, initiated and structured by a former NJCian in honour of our first Principal, recognises students who exemplify the hallmark characteristics and traits of our motto, Service with Honour.</i> <br><br> <a href="link">Jackqueline Tan Wan Yu</a><br><br> “At the end of the day, what you’ll remember most is not the achievements, but really, the ups and downs you shared with your family in NJC and the valuable lessons you have learnt from them. Your attitude will determine your aptitude.“ <br><br> Insert video here<br><br></p>
 
 </div>
 
