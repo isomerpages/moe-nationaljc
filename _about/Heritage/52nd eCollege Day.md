@@ -97,7 +97,7 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 	
 <img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa19.png"> <br><br>Mr Tan Xuan Wen Jeffery<br> (For Junior High)<br><br><br><br>
 				
-<img align="right" style="width:240px;height:240px;margin-left:15px;" src="/images/52lsa20.png"> <br><br> Mr Lim Eng Soon<br> (For Senior High) <br><br><br> 
+<img align="right" style="width:240px;height:240px;margin-left:15px;" src="/images/52lsa20.png"> <br><br> Mr Lim Eng Soon<br> (For Senior High) <br><br><br><br><br><br>
 
 <b> The Parents-in-Action (PAACT) Outstanding EAS Award </b> <br> <i> The Outstanding EAS Awards aim to recognise non-teaching staff for their outstanding service to the College in their area of work, and to inspire non-teaching staff to be role models who exemplify College values. </i> <br><br><br>
 
