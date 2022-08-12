@@ -147,11 +147,11 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 
 <input id="accordion5" type="checkbox">
 
-<label for="accordion5">A Celebration of the Human Spirit</label>
+<label for="accordion5">Forging Ahead in Pursuit of Knowledge</label>
 
 <div>
 
-<p>Insert videos here</p>
+<p></p>
 
 </div>
 
