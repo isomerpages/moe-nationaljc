@@ -24,32 +24,32 @@ third_nav_title: Heritage
 
 Mr Heng was the Chairman of the School Advisory Committee of National Junior College, and for his extensive contribution to education, he was conferred the Public Service Medal (Pingat Bakti Masyarakat) in 2001 and the Public Service Star Award in 2013. <br> <br> “NJC has given me a lot of opportunities to grow and to be a better person”<br> “No man is an island … make friends … forge bonds”<br><br> Service with Honour is a lifelong motto” <br><br><a href="https://www.youtube.com/watch?v=bdU96vOdNeA">Click here</a> to view Mr Heng’s Address on NJC’s Youtube Channel.  <br> <br> <b>Our PAACT President: Ms. Judy Vee Gim Poh</b> <br> <br> Insert video here.</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</div>
 
 </li>
 	<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">
+<input id="accordion2" type="checkbox">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Steadfast, We Forge Ahead... To New Beginnings</label>
+<label for="accordion2">Steadfast, We Forge Ahead... To New Beginnings</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> Steadfast, We Forge Ahead<br> <img style="width:60%" src="/images/sf1.png"> <br> Steadfast, we forge ahead. Steadfast – an unwavering determination, taking one step at a time to progress forward. 2020 was a tough year for all of us, in many aspects. It has not been easy for the whole school community, adjusting to changes, and remaining resilient when challenged by uncertainties that the COVID-19 pandemic has brought. Many new acronyms and many new “norms” were imposed upon our generation of youths, whom despite all these, have adapted, innovated and emerged stronger. This embodies the spirit of being steadfast, pressing on regardless of the difficulties faced, the uncertainties that lurk, and the obstacles to surmount. 2020, a year to remember, a year that we overcame. Steadfast, we march forth stronger, and more determined than ever towards a better future. <br> <img style="width:60%" src="/images/sf2.png"> <br> <br> To New Beginnings <br> <img style="width:60%" src="/images/sf3.png"> </p>
+<p> Steadfast, We Forge Ahead<br> <img style="width:60%" src="/images/sf1.png"> <br> Steadfast, we forge ahead. Steadfast – an unwavering determination, taking one step at a time to progress forward. 2020 was a tough year for all of us, in many aspects. It has not been easy for the whole school community, adjusting to changes, and remaining resilient when challenged by uncertainties that the COVID-19 pandemic has brought. Many new acronyms and many new “norms” were imposed upon our generation of youths, whom despite all these, have adapted, innovated and emerged stronger. This embodies the spirit of being steadfast, pressing on regardless of the difficulties faced, the uncertainties that lurk, and the obstacles to surmount. 2020, a year to remember, a year that we overcame. Steadfast, we march forth stronger, and more determined than ever towards a better future. <br> <img style="width:60%" src="/images/sf2.png"> <br> <br> To New Beginnings <br> <img style="width:60%" src="/images/sf3.png"> </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</div>
 
 </li>
 	
 	<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
+<input id="accordion3" type="checkbox">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Forging Ahead in Education and Service</label>
+<label for="accordion3">Forging Ahead in Education and Service</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+<p>
 				We would like to take this opportunity to recognise and express utmost gratitude to our teachers, who have dedicated 30, 15 and 10 years to the education service respectively. <br> <br><br>
 				<b>Long Service Award: 30 Years </b><br> <br>
 
