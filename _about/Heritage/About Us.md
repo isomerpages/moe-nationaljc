@@ -15,7 +15,7 @@ Our College was established in 1969 with the aim of centralising the two-year pr
 In keeping with our College’s name and philosophy, we claim no affiliation with any secondary school but instead draw our students from a wide spectrum. Each year about 60 Singapore secondary schools will have representatives amongst the College’s student population. Every student will have equal opportunity of attaining the highest levels of achievement in all fields.
 
 <img src="/images/crest1.png" 
-     style="width:50%">
+     style="width:25%">
 
 **Our Crest**
 
