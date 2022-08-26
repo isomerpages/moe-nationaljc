@@ -70,9 +70,9 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 				
 <img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa8.png"> “I hope students can understand that there are many measurements of success, and they would reap the fruits of their labour. I want every student to understand and work their own weaknesses, discover and make good use of their area of strengths to stretch their potential and further develop themselves.”<br><a href="pdf link">Mr Tan Chin Hui</a><br><br>
 	
-<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa9.png"> “As we move towards establishing various pathfinders for the students, I hope that my end goal for my students is to be a young adult who is self regulated and ready for the future.”<br><br> NAME HERE<br><br><br><br>
+<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa9.png"> “As we move towards establishing various pathfinders for the students, I hope that my end goal for my students is to be a young adult who is self regulated and ready for the future.”<br><a href="pdf link">Mr Tan Xuan Wen, Jeffrey</a><br><br><br><br>
 				
-<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa10.png"> “Teaching and learning is evolving and the teachers such as myself embrace the changes because of our love for students and our passion to want to help them excel propels us to take up these challenges.”<br><br> NAME HERE<br><br><br> 
+<img align="left" style="width:240px;height:240px;margin-right:15px;" src="/images/52lsa10.png"> “Teaching and learning is evolving and the teachers such as myself embrace the changes because of our love for students and our passion to want to help them excel propels us to take up these challenges.”<br><a href="pdf link">Ms Pauline Yeong Pao Lian</a><br><br><br> 
 				<b> Click on the name of the teacher awardee to read his/her heartfelt thoughts. </b><br> <br> We also want to express our deepest appreciation of our Operations Support Officer, for dedicating 10 years of valuable service to NJC. <br><br><br>
 
 <b> Long Service Award: 10 Years </b><br><br>
