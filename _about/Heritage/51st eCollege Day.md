@@ -147,7 +147,7 @@ We also want to express our gratitude to our Technical Support and Operations Su
 
     <div>
 
-      <p>Insert videos here</p>
+			<p><b> CCA Awards </b> <br><br>  The NJC CCA Awards recognise students who have achieved success in their respective CCAs, and have contributed in leading their CCAs to greater heights. <br><br> <b> For Clubs and Societies </b> <br> Insert video here <br><br> <b> For Leadership </b> <br> Insert video here <br><br> <b> For the Performing Arts </b> <br> Insert video here <br><br> <b> For Sports and Games </b> <br> Insert video here.</p>
 
     </div>
 
