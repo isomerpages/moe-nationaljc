@@ -1,6 +1,6 @@
 ---
 title: 52nd eCollege Day
-permalink: /about/Heritage/52nd-ecollege-day
+permalink: /about/Heritage/52nd-ecollege-day/
 description: ""
 third_nav_title: Heritage
 ---
@@ -62,7 +62,7 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 <img style="width:30%" src="/images/52lsa4.png"> <b>Ms Meena Malinder Kaur d/o K Singh</b><br><br> Insert video here <br><br><br>
 
 <b> Long Service Award: 10 Years </b> <br><br>
-<img align="left" style="width:200px;height:240px;margin-right:15px;" src="/images/52lsa5.png"> “I would like my students to achieve their fullest potential, whatever that might be. In the end, what the nature of that potential looks like should not be dictated by the teacher, but should come from the students themselves through a sense of self-discovery.” <br><a href="https://moe-nationaljc-staging.netlify.app/files/Mr-Chen-Liangcai.pdf">Mr Chen Liangcai</a><br><br>
+<img align="left" style="width:200px;height:240px;margin-right:15px;" src="/images/52lsa5.png"> “I would like my students to achieve their fullest potential, whatever that might be. In the end, what the nature of that potential looks like should not be dictated by the teacher, but should come from the students themselves through a sense of self-discovery.” <br><a href="https://moe-nationaljc-staging.netlify.app/files/Mr-Chen-Liangcai.pdf">Mr Chen Liangcai</a><br><br><br><br>
 
 <img align="left" style="width:200px;height:240px;margin-right:15px;" src="/images/52lsa6.png"> “I hope to see my students find and achieve their own true excellence – be it excellence in school, excellence at the workplace, excellence in society, excellence in their relationships, or excellence at home.”<br><br><a href="https://moe-nationaljc-staging.netlify.app/files/Mr-Joel-Poh.pdf">Mr Joel Poh Weinan</a><br><br>
 				
