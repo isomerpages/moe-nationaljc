@@ -182,7 +182,7 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 
     <div>
 
-			<p><b> GSHS - NJC IREP </b> <br> Overseas Institute: Gyeonggi Science High School for the Gifted (GSHS) <br><br> <iframe width="560" height="315" src="https://www.youtube.com/embed/8rWUf3fA2Z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> Students participating in this exchange programme can look forward to interesting microbiology based projects. They will be exposed to techniques such as culturing bacteria and optical density measurements and perform biotechnology experiments, such as isolating the gene of interest from organisms and selecting for the cells with the gene of interest. They will also get the opportunity to immerse themselves in the rich culture of Korea, viz. food (kimchi), language (Hangeul) and homestays. <br> <br> <b> Area of Research </b> <br> Biology, Chemistry <br><br> <b> KSA - NJC IREP </b> <Br> Overseas Institute: Korea Science Academy of Kaist (KSA)
+			<p><b> GSHS - NJC IREP </b> <br> Overseas Institute: Gyeonggi Science High School for the Gifted (GSHS) <br><br> <iframe width="560" height="315" src="https://www.youtube.com/embed/8rWUf3fA2Z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> Students participating in this exchange programme can look forward to interesting microbiology based projects. They will be exposed to techniques such as culturing bacteria and optical density measurements and perform biotechnology experiments, such as isolating the gene of interest from organisms and selecting for the cells with the gene of interest. They will also get the opportunity to immerse themselves in the rich culture of Korea, viz. food (kimchi), language (Hangeul) and homestays. <br> <br> <b> Area of Research </b> <br> Biology, Chemistry <br><br> <b> KSA - NJC IREP </b> <Br> Overseas Institute: Korea Science Academy of Kaist (KSA) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/yVnA8GDbGks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br><br> In this research exchange programme, students will engage in a range of exciting and cutting-edge projects under the mentorship of prominent scientists affiliated to KAIST – one of the leading universities in South Korea. They will hone their knowledge of chemistry and physics by analyzing reaction mechanisms to understand advanced oxidation processes (ultrasonication-enhanced ozonation). They will also get the opportunity to immerse themselves in the rich culture of Korea, viz. food (kimchi), language (Hangeul) and homestays. <Br><br> <b> Area of Research </b> <Br> Biology, Chemistry
 			</p>
 
   </div>
@@ -193,11 +193,11 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 
     <input type="checkbox" id="accordion5">
 
-    <label for="accordion5"> A Celebration of Excellence</label>
+    <label for="accordion5"> United Kingdom</label>
 
     <div>
 
-      <p>text</p>
+			<p> <b> CSIA -NJC IREP </b> <Br> Overseas Institute: Camborne Science and International Academy (CSIA) <br><iframe width="560" height="315" src="https://www.youtube.com/embed/yoY-M1_RSv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <Br> One of our newest partners, Camborne Science and International Academy is a well-acclaimed academic institution in Cornwall, England. In this research exchange programme, students will focus on application and authentic problem solving based research projects. They will study the applications of nanoparticles in different fields of science, e.g. chemiluminescence and biosensing.  Students will also get the opportunity to immerse themselves in the rich English culture via visits to farms, attending classes and homestays. <br><br> <b> Area of Research </b> <Br> Biology, Physics, Mathematics </p>
 
     </div>
 
@@ -207,11 +207,11 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 
     <input type="checkbox" id="accordion6">
 
-    <label for="accordion6">A Celebration of the Human Spirit</label>
+    <label for="accordion6">Australia</label>
 
     <div>
 
-			<p>TEXT</p>
+			<p><b> SCHS -NJC IREP </b> <Br> Overseas Institute: Suzanne Cory High School (SCHS) <br><br>  Insert image here <br><br> In this research exchange programme, students will be able to collaborate with teachers and students from SCHS to investigate topics in the Arts and the Humanities.  They will also get the opportunity to broaden their intellectual and cultural exposure by interacting with the SCHS students. <br><br>The students will communicate their research by co-presenting at the International Humanities Symposium. </p>
 
     </div>
 
