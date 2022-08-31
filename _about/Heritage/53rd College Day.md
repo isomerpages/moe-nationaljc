@@ -54,11 +54,11 @@ Service with Honour <br><br> <a href="https://www.youtube.com/watch?v=Bpejhu_5uA
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">An Expression of Our Gratitude</label>
+    <label for="accordion3">Moulding the Next Generation</label>
 
     <div>
 
-<p>text</p>
+<p>We would like to take this opportunity to recognise and express utmost gratitude to our teachers, who have dedicated 42, 20, 15 and 10 years to the education service respectively. <Br><br> <b> Long Service Award 42 Years </b> <br><br> <img src="/images/col8.png" style="width:183px;height:240px;margin-right:15px;" align = "left"> <br><br><br> Ms Wan Wai Sum <br><br><br><br><b> Long Service Award 20 Years </b>  <Br><br> <img src="/images/col9.png" style="width:203px;height:240px;margin-right:15px;" align = "left"> “To say that teachers add value to students’ lives is only half correct. I personally feel that students also add value to mine as they share different perspectives to issues, allow me to experience ups and downs of their unique life events, and teach me empathy. Through these, they make me a better person for myself and others.” <br> Ms Chua Siok Kheng <br><br><br><b> Long Service Award 15 Years </b>  <Br><br> <img src="/images/col10.png" style="width:203px;height:240px;margin-right:15px;" align = "left"> </p>
 
     </div>
 
