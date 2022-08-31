@@ -4,7 +4,7 @@ permalink: /about/Heritage/52nd-ecollege-day/
 description: ""
 third_nav_title: Heritage
 ---
-### 52nd eCollege Day LSA NAME
+### 52nd eCollege Day
 
 <ul class="jekyllcodex_accordion">
 
