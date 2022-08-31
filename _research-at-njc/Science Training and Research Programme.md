@@ -1,6 +1,6 @@
 ---
 title: Science Training and Research Programme
-permalink: /research-at-njc/science-training-and-research-programme
+permalink: /research-at-njc/science-training-and-research-programme/
 description: ""
 ---
 ### Science Training and Research (STaR) Programme
@@ -57,18 +57,18 @@ Details on these programmes can be found below.
   
     <div>  
   
-      <p>In NJC, all research students in various programmes will participate in Singapore Science & Engineering Fair (SSEF).  <br><br>
+<p>In NJC, all research students in various programmes will participate in Singapore Science & Engineering Fair (SSEF).  <br><br>
   
-				<b> Overseas Student Attachment Programme (OSAP) by MOE </b> <br>
+<b> Overseas Student Attachment Programme (OSAP) by MOE </b> <br>
   
 Eligible SH1 students can apply for the following overseas attachment programmes: <Br><Br>
   
 1. <a href="https://www.cee.org/programs/research-science-institute">Centre of Excellence in Education Summer Programme</a> , USA (late Jun to 1st week of Aug)  <Br>
 2.  <a href="http://www.perimeterinstitute.ca/outreach/students/programs/international-summer-school-young-physicists">International Summer School for Young Physicists</a>, Canada (last 2 weeks of July)  <Br><br>
   
-				<i>Application opens in late Jan.</i>   <br><br>
+<i>Application opens in late Jan.</i>   <br><br>
   
-				<b> Local Student Attachment Programme (LSAP) by MOE </b> <br><br>
+<b> Local Student Attachment Programme (LSAP) by MOE </b> <br><br>
   
 Eligible SH1 students can apply for the Student Attachment Programmes at Local Research Institutes:  <br> <Br>
   
@@ -77,7 +77,7 @@ Eligible SH1 students can apply for the Student Attachment Programmes at Local R
   
 Students will have the opportunity to be involved in research projects under the mentorship of practicing scientists in state-of-the-art laboratories in established local RIs. Students must commit fully for the duration of the programme that they are applying for.  <Br><br>
   
-				<i>Application opens in Term 3. </i> <Br><br>
+<i>Application opens in Term 3. </i> <Br><br>
   
 <b> <a href="http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx">Nanyang Research Programme (NRP)</a> </b> <br><br>
   
@@ -95,7 +95,7 @@ SRP is a NUS outreach programmes for SH1 students. Students get to work on rese
   
 SH1 Students can choose to enrol in either the H3 NUS SRP (examinable) or the enrichment version (non-examinable).  <br><br>
   
-				<i>Application opens in late Jan/early Feb.</i> <br><br>
+<i>Application opens in late Jan/early Feb.</i> <br><br>
   
 <b> <a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Outreach">SUTD Research Mentorship Programme (RMP)</a>   </b> <br><br>
   
@@ -118,7 +118,7 @@ YDSP is an initiative co-managed by the Defence Science and Technology Agency (D
   
 Research@YDSP is a 4-month research attachment programme for JH4 to SH1 students. The programme offers students the opportunities to experience research work and work alongside engineers/scientists in a real working/research environment with support from partners such as DSO, Centre for Strategic Infocomm Technologies (CSIT), Temasek Labs (TLs), NTU, NUS, SUTD and their research institutes.  <br><br>
   
-				<i>Application opens in Term 3.</i></p>  
+<i>Application opens in Term 3.</i></p>  
   
     </div>  
   
@@ -130,92 +130,36 @@ Research@YDSP is a 4-month research attachment programme for JH4 to SH1 students
 
 NJC has eight established IREPs across six different countries. Every IREP offers students the distinctive opportunity of collaborating on a research project with peers from another country, while also immerse themselves in another culture via homestays of their peers. NJC students also get the opportunity to be ambassadors of Singapore and the College by extending their warm hospitality when their peers from another country visits Singapore to work on the research project. This cross-culture research exchange helps broadens perspectives of research and also deepens the global awareness of NJC students. The subject areas of research available in IREP includes Biology, Chemistry, Physics, Mathematics and the Humanities.
 
-<ul class="jekyllcodex_accordion">
 
-  <li>
+<ul class="jekyllcodex\_accordion">  
+	<li>    
+<input type="checkbox" id="accordion1"> <label for="accordion1">TITLE HERE</label>    
+		
+<div>        <p> TEXT</p>    
 
-    <input type="checkbox" id="accordion1">
-
-    <label for="accordion1">Thailand</label>
-
-    <div>
-
-        <p> MWITS – NJC IREP <br> Overseas Institute: Mahidol Wittayanusorn School (MWITS) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/MZh70tCHh9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> Through this partnership with one of the leading high schools in Thailand, students will be able to learn advanced mathematical concepts and tools in various areas of Mathematics and computing (such as graph theory and equivalence relations), Chemistry and Biology. They will apply the tools in a related research problem, such as solving an open problem or developing alternative approaches towards existing real- life problems. Students will get the opportunity to immerse themselves in the rich Thai culture by interacting with the students from Mahidol. <br>  Biology, Chemistry, Mathematics		</p>
-
-    </div>
-
-</li>
-	<li>
-
-    <input type="checkbox" id="accordion2">
-
-    <label for="accordion2">Russia</label>
-
-    <div>
-
-      <p> MCL – NJC IREP <br> Overseas Institute: Moscow Chemical Lyceum (MCL) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/TX0XCXVB8EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>  Students will explore organic and organometallic synthesis. Specifically, students will carry out advanced experiments in organic and organometallic synthesis for application in the pharmaceutical industry. Also, students will learn advanced analytical methods: infrared and nuclear magnetic spectroscopies are amongst a host of analytical tools used to support the various projects in this programme. Advanced methods in retrosynthesis and mechanisms form the theoretical basis of the work that is done. Students will, while engaged heavily in research, have an opportunity to immerse themselves in the rich culture of Russia, from ballets to plays to enjoying Russian family life via homestays. <br> Area of Research: Chemisty </p>
-
-    </div>
-
-</li>
+</div></li>  
+<li>    
 	
-	<li>
-
-    <input type="checkbox" id="accordion3">
-
-    <label for="accordion3">Japan</label>
-
-    <div>
-
-      <p> WUHSHS – NJC IREP <br> Overseas Institute: Waseda University Honjo Senior High School (WUHSHS) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/-hRTU_pzx5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> In its 9th year, the Waseda University Honjo Senior High School – National Junior Science Research Exchange Programme is among the founding programmes in the International Science Research Exchange Programme. Students have the opportunity to explore a range of projects in various fields of Physics. From synthesis, characterisation and analysis of stimuli-responsive polymers to sonoluminescence and its application, students will advance their capacities and interest in materials sciences, spectroscopic methods, electrodynamics and computational methods. Beyond academia, students in this programme will experience Japanese culture both in schools and while hosted by their peers’ families.<br>Area of Research<br>Biology, Chemistry, Humanities, Social Sciences<br> RITS – NJC IREP <br> Overseas Institute: Affiliate Schools of The Ritsumeikan Trust (RITS) <br> 2016 marked the inaugural tripartite research exchange between National Junior College, Ritsumeikan Junior and Senior High School from Kyoto, and Ritsumeikan Keisho Junior and Senior High School from Hokkaido. Students in this programme will participate in collaborative research projects relating to Environmental Science. With three schools, at three different geographical locations, students will have opportunities to leverage on the differences afforded by the different environments to explore projects of different themes. Apart from research, students will also have many opportunities to explore and learn about the cultural differences between the two countries. <br> Area of Research: Biology, Chemistry, Geography</p>
-
-
-    </div>
-		</li>
+<input type="checkbox" id="accordion2">    
+<label for="accordion2">TITLE</label>    
 	
-	<li>
-
-    <input type="checkbox" id="accordion4">
-
-    <label for="accordion4">South Korea</label>
-
-    <div>
-
-      <p>GSHS – NJC IREP <br> Overseas Institute: Gyeonggi Science High School for the Gifted (GSHS) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/8rWUf3fA2Z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> Students participating in this exchange programme can look forward to interesting microbiology based projects. They will be exposed to techniques such as culturing bacteria and optical density measurements and perform biotechnology experiments, such as isolating the gene of interest from organisms and selecting for the cells with the gene of interest. They will also get the opportunity to immerse themselves in the rich culture of Korea, viz. food (kimchi), language (Hangeul) and homestays. <br> Area of Research: Biology, Chemistry <br> KSA – NJC IREP<br> Overseas Institute: Korea Science Academy of Kaist (KSA) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/yVnA8GDbGks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> In this research exchange programme, students will engage in a range of exciting and cutting-edge projects under the mentorship of prominent scientists affiliated to KAIST – one of the leading universities in South Korea. They will hone their knowledge of chemistry and physics by analyzing reaction mechanisms to understand advanced oxidation processes (ultrasonication-enhanced ozonation). They will also get the opportunity to immerse themselves in the rich culture of Korea, viz. food (kimchi), language (Hangeul) and homestays. <br> Area of Research: Biology, Chemistry</p>
-
-    </div>
-
-</li>
+<div>      <p>TEXT</p>    </div></li><li>
 	
-	<li>
+<input type="checkbox" id="accordion3"> <label for="accordion3">TITLE HERE</label>    
+		
+<div>        <p> TEXT</p>    
 
-    <input type="checkbox" id="accordion5">
-
-    <label for="accordion5">United Kingdom</label>
-
-    <div>
-
-      <p>CSIA – NJC IREP <br> Overseas Institute: Camborne Science and International Academy (CSIA) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/yoY-M1_RSv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> One of our newest partners, Camborne Science and International Academy is a well-acclaimed academic institution in Cornwall, England. In this research exchange programme, students will focus on application and authentic problem solving based research projects. They will study the applications of nanoparticles in different fields of science, e.g. chemiluminescence and biosensing.  Students will also get the opportunity to immerse themselves in the rich English culture via visits to farms, attending classes and homestays. <br> Area of Research: Biology, Physics, Mathematics</p>
-
-    </div>
-
-</li>
+</div></li>  
+<li>    
 	
-	<li>
+<input type="checkbox" id="accordion4">    
+<label for="accordion4">TITLE</label>    
+	
+<div>      <p>TEXT</p>    </div></li><li>
 
-    <input type="checkbox" id="accordion6">
-
-    <label for="accordion6">Australia</label>
-
-    <div>
-
-      <p>Overseas Institute: Suzanne Cory High School (SCHS) <br> insert missing image here <br> In this research exchange programme, students will be able to collaborate with teachers and students from SCHS to investigate topics in the Arts and the Humanities.  They will also get the opportunity to broaden their intellectual and cultural exposure by interacting with the SCHS students.
-
-The students will communicate their research by co-presenting at the International Humanities Symposium.
-</p>
-
-    </div>
-
-</li>
-
-</ul>
+<input type="checkbox" id="accordion5">    
+<label for="accordion5">TITLE</label>    
+	
+<div>      <p>TEXT</p>    </div></li><li>
+	
+<input type="checkbox" id="accordion6">    <label for="accordion6">TITLE</label>    <div>      <p>TEXT</p>     </div></li></ul>
