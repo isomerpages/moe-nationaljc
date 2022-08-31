@@ -90,15 +90,17 @@ Mr Lee Jian Hao Jason <br><br> <br> <b><br><br>The Parents-in-Action (PAACT) Car
 
 </li>
 	
-	<li>
+<li>
 
-    <input type="checkbox" id="accordion4">
+<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">A Journey in Education and Service</label>
+<label for="accordion4">Brightening the Future</label>
 
     <div>
 
-<p>text
+<p><b> The NJC student of the Year </b> <br><br><i> The National Junior College Student of the Year is the pinnacle of all student awards, recognising all-round excellence in academia, CCA, leadership and service.</i> <br><br>
+	
+	<b> Loke Rui Heng Ryan </b> <br>“…give your all to help others and do so without expecting any returns. That is what it means to be a leader that serves with honour. For whoever wants to be first has to first be last and the servant of all… This world will tell you that you will only be successful when you have scored 90 rank points, achieved straight As or won countless competitions. However, that is not true…Each person’s experience of success will differ, in its definition or in the speed at which success is achieved. You may never achieve what you deem as success, but that is perfectly fine. At the end of the day, you matter and you are enough.” <br><br> <a href="https://youtu.be/4ZV3l8rxsGY">Click here</a> to listen to Ryan. <br><br><br> <b> The Lim Kim Woon Award </b> <br> <i> The Lim Kim Woon Award, initiated and structured by a former NJCian in honour of our first Principal, recognises students who exemplify the hallmark characteristics and traits of our motto, Service with Honour. </i> <br><br> <b> Chia Shan En </b> <br> “I understand adding value to the lives of others as finding ways to enrich their experience through using your unique strengths to make a contribution. Value can mean many different things, and can extend far beyond doing community service or VIA projects…I’d like to encourage all of you to find your passion and take full advantage of your strengths to make a unique contribution that will enrich the lives of others both in and out of NJ.” <br><br> <a href="https://youtu.be/mwEj6C1BisU">Click here</a> to listen to Shang En. <br><br> <b> Tan Lay Yee Cassidy </b> <br> “…while fulfilling your responsibilities as a student, you will also learn to take time to give back to the community around you… when you serve a community, I hope that you would be able to stand in the point of view of the beneficiaries you are serving and serve from your heart.” <br><br> <a href="https://youtu.be/TFnya9MkQo4">Click here</a>  to listen to Cassidy. <br><br> <b> Joyce Goh Jie Ling </b> <br><br> “For me, Service with Honour means to always put others before myself, to try my best to help others in any way I can, and to serve wholeheartedly, solely with the intention of helping others and not wanting anything in return. Moreover, when serving others, it is important we honour and not look down on them, treating the beneficiaries as our friends who simply need support in a time of need. And lastly, if we open our eyes wide enough, we will see people who need our help all around us.” <br><br> <a href="https://youtu.be/q9Ry1fxpBSo">Click here</a> to listen to Joyce. <br><br><br> <b> The NJC@69ers Award </b> <br> <i> The NJC@69ers award, initiated and structured by the first cohort of NJCians, recognises excellence in the arts and humanities, both in core-curricula and co-curricular endeavours.</i> <br><br> <b> Chia Shang En </b> <br>“If you were to ask me what is the value of the Arts, my simple answer is that the Arts help us to understand humanity. Through the Arts, I came to better comprehend the position of others, through different lenses and theories I learned through my studies in the humanities. I know that the Arts may seem unfamiliar or intimidating, but I promise that if you look hard enough you’ll be able to find everyday people, and maybe even yourself, reflected in the texts you read. We need a little more empathy in this world obsessed with efficiency. If you take up the Arts and take the road less travelled by, you may find that that has made all the difference.” <br><Br> <a href="https://youtu.be/mwEj6C1BisU">Click here</a> to listen to Shang En. <br><br><br> <b> The Stephen Loh Sports Excellence Award </b>
 			</p>
 
   </div>
