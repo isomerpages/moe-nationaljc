@@ -131,35 +131,93 @@ Research@YDSP is a 4-month research attachment programme for JH4 to SH1 students
 NJC has eight established IREPs across six different countries. Every IREP offers students the distinctive opportunity of collaborating on a research project with peers from another country, while also immerse themselves in another culture via homestays of their peers. NJC students also get the opportunity to be ambassadors of Singapore and the College by extending their warm hospitality when their peers from another country visits Singapore to work on the research project. This cross-culture research exchange helps broadens perspectives of research and also deepens the global awareness of NJC students. The subject areas of research available in IREP includes Biology, Chemistry, Physics, Mathematics and the Humanities.
 
 
-<ul class="jekyllcodex\_accordion">  
-	<li>    
-<input type="checkbox" id="accordion1"> <label for="accordion1">TITLE HERE</label>    
-		
-<div>        <p> TEXT</p>    
+<ul class="jekyllcodex_accordion">
 
-</div></li>  
-<li>    
-	
-<input type="checkbox" id="accordion2">    
-<label for="accordion2">TITLE</label>    
-	
-<div>      <p>TEXT</p>    </div></li><li>
-	
-<input type="checkbox" id="accordion3"> <label for="accordion3">TITLE HERE</label>    
-		
-<div>        <p> TEXT</p>    
+  <li>
 
-</div></li>  
-<li>    
-	
-<input type="checkbox" id="accordion4">    
-<label for="accordion4">TITLE</label>    
-	
-<div>      <p>TEXT</p>    </div></li><li>
+    <input type="checkbox" id="accordion1">
 
-<input type="checkbox" id="accordion5">    
-<label for="accordion5">TITLE</label>    
+    <label for="accordion1">Principal's Foreword</label>
+
+    <div>
+
+			<p> text</p>
+
+    </div>
+
+</li>
+	<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">A Message from Our Guest of Honour </label>
+
+    <div>
+
+			<p> text</p>
+
+    </div>
+
+</li>
 	
-<div>      <p>TEXT</p>    </div></li><li>
+	<li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">An Expression of Our Gratitude</label>
+
+    <div>
+
+			<p>text</p>
+
+    </div>
+
+</li>
 	
-<input type="checkbox" id="accordion6">    <label for="accordion6">TITLE</label>    <div>      <p>TEXT</p>     </div></li></ul>
+	<li>
+
+    <input type="checkbox" id="accordion4">
+
+    <label for="accordion4">A Journey in Education and Service</label>
+
+    <div>
+
+      <p>text
+			</p>
+
+  </div>
+
+</li>
+	
+<li>
+
+    <input type="checkbox" id="accordion5">
+
+    <label for="accordion5"> A Celebration of Excellence</label>
+
+    <div>
+
+      <p>text</p>
+
+    </div>
+
+</li>
+	
+<li>
+
+    <input type="checkbox" id="accordion6">
+
+    <label for="accordion6">A Celebration of the Human Spirit</label>
+
+    <div>
+
+			<p>TEXT</p>
+
+    </div>
+
+</li>
+	
+	
+
+	
+</ul>
