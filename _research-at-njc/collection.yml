@@ -2,6 +2,7 @@ collections:
   research-at-njc:
     output: true
     order:
+      - ACCORDION test.md
       - Research @ NJC.md
       - Special Programme in Inquiry and REsearch (SPIRE).md
       - Science Training and Research Programme.md
