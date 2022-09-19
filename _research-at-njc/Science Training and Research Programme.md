@@ -134,9 +134,9 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 <ul class="jekyllcodex_accordion">
 <li>
 
-<input type="checkbox" id="accordion1">
+<input type="checkbox" id="accordion4">
 
-<label for="accordion1">Thailand</label>
+<label for="accordion4">Thailand</label>
 
 <div>
 
@@ -147,9 +147,9 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 </li>
 <li>
 
-<input type="checkbox" id="accordion2">
+<input type="checkbox" id="accordion5">
 
-<label for="accordion2">Russia </label>
+<label for="accordion5">Russia </label>
  <div>
 
 <p> <b> MCL - NJC IREP </b> <br> Overseas Institute: Moscow Chemical Lyceum (MCL) <Br><br> <iframe width="560" height="315" src="https://www.youtube.com/embed/TX0XCXVB8EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br><br> Students will explore organic and organometallic synthesis. Specifically, students will carry out advanced experiments in organic and organometallic synthesis for application in the pharmaceutical industry. Also, students will learn advanced analytical methods: infrared and nuclear magnetic spectroscopies are amongst a host of analytical tools used to support the various projects in this programme. Advanced methods in retrosynthesis and mechanisms form the theoretical basis of the work that is done. Students will, while engaged heavily in research, have an opportunity to immerse themselves in the rich culture of Russia, from ballets to plays to enjoying Russian family life via homestays. <br><br> <b> Area of Research </b> <br> Chemisty </p>
@@ -160,9 +160,9 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 	
 	<li>
 
-    <input type="checkbox" id="accordion3">
+    <input type="checkbox" id="accordion6">
 
-<label for="accordion3">Japan</label>
+<label for="accordion6">Japan</label>
 
 <div>
 
@@ -174,9 +174,9 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 	
 	<li>
 
-<input type="checkbox" id="accordion4">
+<input type="checkbox" id="accordion7">
 
-<label for="accordion4">South Korea</label>
+<label for="accordion7">South Korea</label>
 
     <div>
 
@@ -189,9 +189,9 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 	
 <li>
 
-<input type="checkbox" id="accordion5">
+<input type="checkbox" id="accordion8">
 
-<label for="accordion5"> United Kingdom</label>
+<label for="accordion8"> United Kingdom</label>
 
 <div>
 
@@ -203,9 +203,9 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 	
 <li>
 
-<input type="checkbox" id="accordion6">
+<input type="checkbox" id="accordion9">
 
-<label for="accordion6">Australia</label>
+<label for="accordion9">Australia</label>
 
     <div>
 
