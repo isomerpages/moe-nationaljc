@@ -1,10 +1,8 @@
 ---
 title: Overview
-permalink: /co-curricular-activities/overview
+permalink: /co-curricular-activities/overview/
 description: ""
 ---
-Not complete
-
 ### Co-Curriculum Activities Overview
 
 ![](/images/cca1.png)
@@ -22,6 +20,14 @@ The following 15 JH CCAs cater developmental programs and various opportunities 
  In addition to the above CCAs offered to our JH students, our Senior High (SH) students are able to choose from any of the following CCAs offered in our College.
 
 #### CCAs offered to ONLY Senior High students
+
+|  |  |  |
+|---|---|---|
+|<a href="web"><img style="width:55%" src="/images/c1.png">  |<a href="web"><img style="width:55%" src="/images/c2.png">  | <a href="web"><img style="width:55%" src="/images/c3.png"> |
+|<a href="web"><img style="width:55%" src="/images/c4.png">  | <a href="web"><img style="width:55%" src="/images/c5.png"> | <a href="web"><img style="width:55%" src="/images/c6.png"> |
+| <a href="web"><img style="width:55%" src="/images/c7.png"> | <a href="web"><img style="width:55%" src="/images/c8.png"> | <a href="web"><img style="width:55%" src="/images/c9.png"> |
+|<a href="web"><img style="width:55%" src="/images/c10.png">  | <a href="web"><img style="width:55%" src="/images/c11.png"> | <a href="web"><img style="width:55%" src="/images/c12.png"> |
+| <a href="web"><img style="width:55%" src="/images/c13.png"> | <a href="web"><img style="width:55%" src="/images/c14.png"> | <a href="web"><img style="width:55%" src="/images/c15.png"> |
 
 **Sports and Games**
 
