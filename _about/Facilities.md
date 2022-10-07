@@ -1,6 +1,6 @@
 ---
 title: Facilities
-permalink: /about/facilities
+permalink: /about/facilities/
 description: ""
 ---
 Art block link needs update
@@ -33,7 +33,7 @@ A sheltered open-air amphitheatre that is suitable for cultural performances, ga
 
 **Science block**
 
-<img src="/images/fac4.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> We have five Physics laboratories, four Chemistry laboratories, two Biology laboratories and two Integrated Sciences laboratories. All laboratories are equipped with LCD projectors and wireless LAN.
+<img src="/images/fac4.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> We have five Physics laboratories, four Chemistry laboratories, two Biology laboratories and two Integrated Sciences laboratories. All laboratories are equipped with LCD projectors and wireless LAN.<br><br>
 
 **Sigma Labs**
 
@@ -92,15 +92,15 @@ We have two large 500-seater lecture theatres (LT1 and LT5) with stage facilitie
 
 **Field**
 
-<img src="/images/fac17.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> The NJC synthetic field is available to all students and staff for recreational or CCA activities such as soccer, frisbee, softball, or touch rugby.
+<img src="/images/fac17.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> The NJC synthetic field is available to all students and staff for recreational or CCA activities such as soccer, frisbee, softball, or touch rugby.<br><br>
 
 **Weights Room**
 
-<img src="/images/fac18.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> A fully air conditioned gym with weights training machines, treadmills and sound system. <br> <br> <br>
+<img src="/images/fac18.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> A fully air conditioned gym with weights training machines, treadmills and sound system. <br> <br> <br><br><br>
 
 **Tennis Court**
 
-<img src="/images/fac19.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> We have 3 tennis courts available for booking for recreational or CCA purposes. <br> 
+<img src="/images/fac19.png" style="width:280px;height:180px;margin-right:15px;" align = "left"> We have 3 tennis courts available for booking for recreational or CCA purposes. <br> <br><br><br>
 
 **Indoor Sports Hall**
 
