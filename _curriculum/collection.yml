@@ -1,5 +1,0 @@
-collections:
-  curriculum:
-    output: true
-    order:
-      - Overview.md
