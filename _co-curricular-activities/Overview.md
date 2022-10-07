@@ -23,12 +23,27 @@ The following 15 JH CCAs cater developmental programs and various opportunities 
 
 |  |  |  |
 |---|---|---|
-|<a href="web"><img style="width:55%" src="/images/c1.png">  |<a href="web"><img style="width:55%" src="/images/c2.png">  | <a href="web"><img style="width:55%" src="/images/c3.png"> |
-|<a href="web"><img style="width:55%" src="/images/c4.png">  | <a href="web"><img style="width:55%" src="/images/c5.png"> | <a href="web"><img style="width:55%" src="/images/c6.png"> |
-| <a href="web"><img style="width:55%" src="/images/c7.png"> | <a href="web"><img style="width:55%" src="/images/c8.png"> | <a href="web"><img style="width:55%" src="/images/c9.png"> |
-|<a href="web"><img style="width:55%" src="/images/c10.png">  | <a href="web"><img style="width:55%" src="/images/c11.png"> | <a href="web"><img style="width:55%" src="/images/c12.png"> |
-| <a href="web"><img style="width:55%" src="/images/c13.png"> | <a href="web"><img style="width:55%" src="/images/c14.png"> | <a href="web"><img style="width:55%" src="/images/c15.png"> |
+|<a href="web"><img style="width:55%" src="/images/c1.png"></a>  |<a href="web"><img style="width:55%" src="/images/c2.png"></a>  | <a href="web"><img style="width:55%" src="/images/c3.png"></a> |
+|<a href="web"><img style="width:55%" src="/images/c4.png"></a>  | <a href="web"><img style="width:55%" src="/images/c5.png"></a> | <a href="web"><img style="width:55%" src="/images/c6.png"></a> |
+| <a href="web"><img style="width:55%" src="/images/c7.png"></a> | <a href="web"><img style="width:55%" src="/images/c8.png"></a> | <a href="web"><img style="width:55%" src="/images/c9.png"></a> |
+|<a href="web"><img style="width:55%" src="/images/c10.png"></a>  | <a href="web"><img style="width:55%" src="/images/c11.png"></a> | <a href="web"><img style="width:55%" src="/images/c12.png"></a> |
+| <a href="web"><img style="width:55%" src="/images/c13.png"></a> | <a href="web"><img style="width:55%" src="/images/c14.png"></a> | <a href="web"><img style="width:55%" src="/images/c15.png"></a> |
 
-**Sports and Games**
+#### Sports and Games
+|  |  |  |
+|---|---|---|
+| <a href="web"><img style="width:55%" src="/images/c16.png"></a> | <a href="web"><img style="width:55%" src="/images/c17.png"></a> | <a href="web"><img style="width:55%" src="/images/c18.png"></a> |
+|  <a href="web"><img style="width:55%" src="/images/c19.png"></a>| <a href="web"><img style="width:55%" src="/images/c20.png"></a> |<a href="web"><img style="width:55%" src="/images/c21.png"></a>  |
+|<a href="web"><img style="width:55%" src="/images/c22.png"></a>  | <a href="web"><img style="width:55%" src="/images/c23.png"></a> |  |
 
-**Clubs and Societies**
+
+
+#### Clubs and Societies
+
+
+|  |  |  |
+|---|---|---|
+|<a href="web"><img style="width:55%" src="/images/c24.png"></a> | <a href="web"><img style="width:55%" src="/images/c25.png"></a> | <a href="web"><img style="width:55%" src="/images/c26.png"></a> |
+| <a href="web"><img style="width:55%" src="/images/c27.png"></a> | <a href="web"><img style="width:55%" src="/images/c28.png"></a> | <a href="web"><img style="width:55%" src="/images/c29.png"></a> |
+| <a href="web"><img style="width:55%" src="/images/c30.png"></a> | <a href="web"><img style="width:55%" src="/images/c31.png"></a> | <a href="web"><img style="width:55%" src="/images/c32.png"></a> |
+| <a href="web"><img style="width:55%" src="/images/c33.png"></a> | <a href="web"><img style="width:55%" src="/images/c34.png"></a> |  |
