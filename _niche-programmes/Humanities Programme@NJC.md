@@ -1,10 +1,8 @@
 ---
 title: Humanities Programme@NJC
-permalink: /niche-programmes/humanities-programme-NJC
+permalink: /niche-programmes/humanities-programme-NJC/
 description: ""
 ---
-Link to relevant isomer for this [Advanced Humanities (AH)](https://nationaljc.moe.edu.sg/curriculum/junior-high-integrated-programme/subjects-offered-in-junior-high/advanced-humanities/),
-
 ### Humanities Programme @ NJC
 
 The NJC Humanities Programme is a stretch programme for students passionate about the Humanities and consists of:
