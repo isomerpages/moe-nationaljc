@@ -9,6 +9,8 @@ image: ""
 ---
 ### Best Debate Team (Proposition) and Best Speaker Award – Moot Parliament Programme Debates 2022
 
+Well done NJC teams 11 and 12 for your achievement!
+
 The Moot Parliament Programme is organized by the Gifted Education Branch Ministry of Education  in close partnership with institutes of higher learning, research centres, industries and community groups. The programme aims to deepen the interest of strong-motivated high-ability students in the areas of their passion, develop their domain strengths and capacity to make a positive difference to their fields of study and community under the guidance of academics and practicing professionals, and in the company of like-minded peers.
 
 Based on their proposals submitted, NJC teams 11 and 12 were selected and invited to join the programme.
