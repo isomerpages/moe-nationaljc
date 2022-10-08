@@ -1,6 +1,6 @@
 ---
 title: AEP at NJC Learning Spaces
-permalink: /art-elective-programme/AEP-at-njc-learning-spaces
+permalink: /art-elective-programme/AEP-at-njc-learning-spaces/
 description: ""
 ---
 ### AEP@NJC Learning Spaces
@@ -41,5 +41,5 @@ Guided by our principles of Openness, Flexibility, and Responsiveness, the Art B
 
 **For more information on AEP@NJC contact us at [njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
 
-Or Keep up to date with the latest happenings in AEP@NJC:**  
-Follow us! [https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)**
+Or Keep up to date with the latest happenings in AEP@NJC:
+**Follow us! [https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)**
