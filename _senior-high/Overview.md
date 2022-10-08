@@ -1,10 +1,8 @@
 ---
 title: Overview
-permalink: /senior-high/overview
+permalink: /senior-high/overview/
 description: ""
 ---
-Not complete
-
 ### Senior High
 
 The Senior High curriculum equips every NJCian with skills and knowledge that will put them in good stead to lead, serve and add value to the lives of others. Prospective Senior High students can look forward to a variety of learning experiences through the range of instructional approaches designed to engage and excite students in learning. 
