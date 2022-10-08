@@ -4,8 +4,6 @@ permalink: /junior-high/Subjects-Offered/overview/
 description: ""
 third_nav_title: Subjects Offered
 ---
-NEED TO UPDATE LINK
-
 ### Subjects Offered in Junior High 
 
 Here in National Junior College, we offer a wide range of subjects/programmes that may be learned at Junior High.
@@ -14,28 +12,28 @@ Here in National Junior College, we offer a wide range of subjects/programmes th
 
 |  |  |  |
 |---|---|---|
-| <a href="nada"><img style="width:55%" src="/images/a1.png"></a> | <a href="web"><img style="width:55%" src="/images/a2.png"></a> | <a href="web"><img style="width:55%" src="/images/a3.png"></a> |
-| <a href="web"><img style="width:55%" src="/images/a4.png"></a> |  | <a href="web"><img style="width:55%" src="/images/a5.png"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/a1.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/boarding/"><img src="/images/a2.png" style="width:55%"></a> | <a href="web"><img src="/images/a3.png" style="width:55%"></a> |
+| <a href="web"><img src="/images/a4.png" style="width:55%"></a> |  | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/physical-education"><img src="/images/a5.png" style="width:55%"></a> |
 
 #### Humanities and the Arts
 
 |  |  |  |
 |---|---|---|
-| <a href="web"><img style="width:55%" src="/images/a6.png"></a> | <a href="web"><img style="width:55%" src="/images/a7.png"></a> | <a href="web"><img style="width:55%" src="/images/a8.png"></a> |
-| <a href="web"><img style="width:55%" src="/images/a9.png"></a> | <a href="web"><img style="width:55%" src="/images/a10.png"></a> | <a href="web"><img style="width:55%" src="/images/a11.png"></a> |
-| <a href="web"><img style="width:55%" src="/images/a12.png"></a> |  | <a href="web"><img style="width:55%" src="/images/a13.png"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/a6.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/niche-programmes/art-elective"><img src="/images/a7.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/niche-programmes/music-programme"><img src="/images/a8.png" style="width:55%"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/a9.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/junior-high-history-curriculum"><img src="/images/a10.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/governance-and-society"><img src="/images/a11.png" style="width:55%"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/geography"><img src="/images/a12.png" style="width:55%"></a> |  | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/advanced-humanities"><img src="/images/a13.png" style="width:55%"></a> |
 
 #### Knowledge Skills and Languages
 
 |  |  |  |
 |---|---|---|
-| <a href="web"><img style="width:55%" src="/images/a14.png"></a> | <a href="web"><img style="width:55%" src="/images/a15.png"></a> | <a href="web"><img style="width:55%" src="/images/a16.png"></a> |
-| <a href="web"><img style="width:55%" src="/images/a17.png"></a> |  | <a href="web"><img style="width:55%" src="/images/a18.png"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/mother-tongue"><img src="/images/a14.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/a15.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/language-arts"><img src="/images/a16.png" style="width:55%"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/thinking"><img src="/images/a17.png" style="width:55%"></a> |  | <a><img src="/images/a18.png" style="width:55%"></a> |
 
 #### Science and Mathematics
 
 |  |  |  |
 |---|---|---|
-| <a href="web"><img style="width:55%" src="/images/a19.png"></a> | <a href="web"><img style="width:55%" src="/images/a20.png"></a> | <a href="web"><img style="width:55%" src="/images/a21.png"></a> |
-| <a href="web"><img style="width:55%" src="/images/a22.png"></a> | <a href="web"><img style="width:55%" src="/images/a23.png"></a> | <a href="web"><img style="width:55%" src="/images/a24.png"></a> |
-| <a href="web"><img style="width:55%" src="/images/a25.png"></a> | <a href="web"><img style="width:55%" src="/images/a26.png"></a> | <a href="web"><img style="width:55%" src="/images/a27.png"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/junior-high-mathematics"><img src="/images/a19.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/advanced-inquiry-in-mathematics"><img src="/images/a20.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/biology"><img src="/images/a21.png" style="width:55%"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/chemistry"><img src="/images/a22.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/physics"><img src="/images/a23.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/advanced-sciences/"><img src="/images/a24.png" style="width:55%"></a> |
+| <a href="web"><img src="/images/a25.png" style="width:55%"></a> | <a href="web"><img src="/images/a26.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/steam"><img src="/images/a27.png" style="width:55%"></a> |
