@@ -13,7 +13,7 @@ In National Junior College, we offer a wide range of subjects that may be read a
 |  |  |  |
 |---|---|---|
 | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/geography"><img src="/images/b1.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/history"><img src="/images/b2.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/economics"><img src="/images/b3.png" style="width:55%"></a> |
-| <a href="https://moe-nationaljc-staging.netlify.app/art-elective-programme/senior-high-aep"><img src="/images/b4.png" style="width:55%"></a> | <a href="web"><img src="/images/b5.png" style="width:55%"></a> | <a href="web"><img src="/images/b6.png" style="width:55%"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/art-elective-programme/senior-high-aep"><img src="/images/b4.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/music-elective-programme/"><img src="/images/b5.png" style="width:55%"></a> | <a href="web"><img src="/images/b6.png" style="width:55%"></a> |
 
 
 #### Knowledge Skills and Languages
