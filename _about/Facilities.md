@@ -3,8 +3,6 @@ title: Facilities
 permalink: /about/facilities/
 description: ""
 ---
-Art block link needs update
-
 ### Facilities
 
 **Aesthetics Block**
@@ -19,7 +17,7 @@ With 12 performing arts CCAs, the need to find dedicated spaces for students to 
 <br> **Art Block**
 	
 <img src="/images/fac2.png" style="width:180px;height:240px;margin-right:15px;" align = "left"> The Art Block is the heart of the Art Elective Programme and boasts of a creative and collaborative learning atmosphere for its students with an array of facilities and studios to fulfil their artistic potential. Guided by our principles of Openness, Flexibility, and Responsiveness, the Art Block is a three-level building consisting of LEVEL 1 – PLAYGROUND, LEVEL 2 – SANDBOX and LEVEL 3 – DREAMLAB that promote reinvention to meet the changing needs of our students, and focus of AEP@NJC.  
-**For more information on AEP@NJC, click [here](https://nationaljc.moe.edu.sg/micrositestandard/aep-centre-njc/) or contact us at [njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
+**For more information on AEP@NJC, click [here](https://moe-nationaljc-staging.netlify.app/art-elective-programme/aep-centre-at-njc) or contact us at [njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
 	
 **Keep up to date with the happenings in AEP@NJC:**  
 Follow us! [https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)\>
