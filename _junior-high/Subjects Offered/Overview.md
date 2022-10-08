@@ -19,7 +19,7 @@ Here in National Junior College, we offer a wide range of subjects/programmes th
 
 |  |  |  |
 |---|---|---|
-| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/a6.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/niche-programmes/art-elective"><img src="/images/a7.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/niche-programmes/music-programme"><img src="/images/a8.png" style="width:55%"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/a6.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/art-elective-programme/junior-high-aep"><img src="/images/a7.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/niche-programmes/music-programme"><img src="/images/a8.png" style="width:55%"></a> |
 | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/a9.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/junior-high-history-curriculum"><img src="/images/a10.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/governance-and-society"><img src="/images/a11.png" style="width:55%"></a> |
 | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/geography"><img src="/images/a12.png" style="width:55%"></a> |  | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/advanced-humanities"><img src="/images/a13.png" style="width:55%"></a> |
 
