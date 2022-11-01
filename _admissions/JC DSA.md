@@ -1,10 +1,8 @@
 ---
 title: JC DSA
-permalink: /admissions/jc-dsa
+permalink: /admissions/jc-dsa/
 description: ""
 ---
-Under science research need to update page link
-
 ### Junior College (Direct School Admission)
 
 <img src="/images/ad1.png" 
