@@ -15,8 +15,6 @@ sections:
         - title: News
           description: ""
           url: resources/news/
-      title: College of the Nation
-      subtitle: Home of scholars and leaders who serve with honour
   - infopic:
       title: Our Strategic Thrusts
       description: "Our strategic thrusts are crafted to reflect our vision and
