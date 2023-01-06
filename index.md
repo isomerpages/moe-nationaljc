@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/njcbanner.gif
+      background: /images/NJC50im.jpg
       key_highlights:
         - title: Events
           description: ""
