@@ -1,6 +1,6 @@
 ---
 title: Senior High AEP
-permalink: /art-elective-programme/senior-high-aep
+permalink: /art-elective-programme/senior-high-aep/
 description: ""
 ---
 ### Senior High AEP

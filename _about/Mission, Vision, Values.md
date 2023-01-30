@@ -1,6 +1,6 @@
 ---
 title: Mission, Vision, Values
-permalink: /about/mission-vision-values
+permalink: /about/mission-vision-values/
 description: ""
 ---
 ### Mission, Vision, Values

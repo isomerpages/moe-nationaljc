@@ -1,6 +1,6 @@
 ---
 title: Touch Rugby (Girls Only)
-permalink: /co-curricular-activities/Clubs-and-Societies/touch-rugby
+permalink: /co-curricular-activities/Clubs-and-Societies/touch-rugby/
 description: ""
 third_nav_title: Sports and Games
 ---

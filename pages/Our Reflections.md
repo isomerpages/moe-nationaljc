@@ -1,6 +1,6 @@
 ---
 title: Our Reflections
-permalink: /voices
+permalink: /voices/
 description: ""
 ---
 

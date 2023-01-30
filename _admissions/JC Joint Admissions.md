@@ -1,6 +1,6 @@
 ---
 title: JC Joint Admissions
-permalink: /admissions/jc-joint-admissions
+permalink: /admissions/jc-joint-admissions/
 description: ""
 ---
 ### Junior College (Joint Admission Exercise)

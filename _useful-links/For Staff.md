@@ -1,6 +1,6 @@
 ---
 title: For Staff
-permalink: /useful-links/for-staff
+permalink: /useful-links/for-staff/
 description: ""
 ---
 

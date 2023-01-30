@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /music-elective-programme/FAQs
+permalink: /music-elective-programme/FAQs/
 description: ""
 ---
 ### Frequently Asked Questions

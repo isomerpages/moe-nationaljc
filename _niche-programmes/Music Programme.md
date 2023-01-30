@@ -1,6 +1,6 @@
 ---
 title: Music Programme
-permalink: /niche-programmes/music-programme
+permalink: /niche-programmes/music-programme/
 description: ""
 ---
 ### Music

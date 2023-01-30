@@ -1,6 +1,6 @@
 ---
 title: Environment
-permalink: /experience/environment
+permalink: /experience/environment/
 description: ""
 ---
 ### Environmental Awareness

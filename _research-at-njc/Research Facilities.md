@@ -1,6 +1,6 @@
 ---
 title: Research Facilities
-permalink: /research-at-njc/research-facilities
+permalink: /research-at-njc/research-facilities/
 description: ""
 ---
 ### Research Facilities

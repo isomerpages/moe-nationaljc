@@ -1,6 +1,6 @@
 ---
 title: Malay Dance
-permalink: /co-curricular-activities/Clubs-and-Societies/malay-dance
+permalink: /co-curricular-activities/Clubs-and-Societies/malay-dance/
 description: ""
 third_nav_title: CCAs offered to both JH and SH
 ---

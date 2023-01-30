@@ -1,6 +1,6 @@
 ---
 title: Malay Language Elective Programme
-permalink: /niche-programmes/malay-elective-programme
+permalink: /niche-programmes/malay-elective-programme/
 description: ""
 ---
 ### Malay Language Elective Programme

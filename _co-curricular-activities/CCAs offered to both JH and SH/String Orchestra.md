@@ -1,6 +1,6 @@
 ---
 title: String Orchestra
-permalink: /co-curricular-activities/Clubs-and-Societies/string-orchestra
+permalink: /co-curricular-activities/Clubs-and-Societies/string-orchestra/
 description: ""
 third_nav_title: CCAs offered to both JH and SH
 ---

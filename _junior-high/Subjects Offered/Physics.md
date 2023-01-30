@@ -1,6 +1,6 @@
 ---
 title: Physics
-permalink: /junior-high/Subjects-Offered/physics
+permalink: /junior-high/Subjects-Offered/physics/
 description: ""
 third_nav_title: Subjects Offered
 ---

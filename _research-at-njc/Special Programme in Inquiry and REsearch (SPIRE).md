@@ -1,6 +1,6 @@
 ---
 title: Special Programme in Inquiry and REsearch (SPIRE)
-permalink: /research-at-njc/Special-Programme-in-Inquiry-and-REsearch
+permalink: /research-at-njc/Special-Programme-in-Inquiry-and-REsearch/
 description: ""
 ---
 ### Special Programme in Inquiry and REsearch (SPIRE)

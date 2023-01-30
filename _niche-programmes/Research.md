@@ -1,6 +1,6 @@
 ---
 title: Research
-permalink: /niche-programmes/research
+permalink: /niche-programmes/research/
 description: ""
 ---
 ### Research

@@ -1,6 +1,6 @@
 ---
 title: International Students
-permalink: /admissions/international-students
+permalink: /admissions/international-students/
 description: ""
 ---
 ### International Students Admission

@@ -1,6 +1,6 @@
 ---
 title: AEP Contacts
-permalink: /art-elective-programme/aep-contacts
+permalink: /art-elective-programme/aep-contacts/
 description: ""
 ---
 ### AEP Contacts

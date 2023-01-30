@@ -1,6 +1,6 @@
 ---
 title: Boarding
-permalink: /experience/Boarding
+permalink: /experience/Boarding/
 description: ""
 ---
 ### Boarding

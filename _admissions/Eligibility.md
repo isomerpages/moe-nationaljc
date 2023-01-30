@@ -1,6 +1,6 @@
 ---
 title: Eligibility
-permalink: /admissions/overview
+permalink: /admissions/overview/
 description: ""
 ---
 ### Eligibility 

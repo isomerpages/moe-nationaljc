@@ -1,6 +1,6 @@
 ---
 title: Art Elective Programme
-permalink: /niche-programmes/art-elective
+permalink: /niche-programmes/art-elective/
 description: ""
 ---
 ### Art Elective Programme

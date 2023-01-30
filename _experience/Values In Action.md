@@ -1,6 +1,6 @@
 ---
 title: Values In Action
-permalink: /experience/values-in-action
+permalink: /experience/values-in-action/
 description: ""
 ---
 ### Values-in-Action

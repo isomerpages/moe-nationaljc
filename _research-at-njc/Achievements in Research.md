@@ -1,6 +1,6 @@
 ---
 title: Achievements in Research
-permalink: /research-at-njc/achievements-in-research
+permalink: /research-at-njc/achievements-in-research/
 description: ""
 ---
 ### Achievements in Research 

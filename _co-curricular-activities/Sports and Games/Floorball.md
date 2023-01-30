@@ -1,6 +1,6 @@
 ---
 title: Floorball
-permalink: /co-curricular-activities/Clubs-and-Societies/floorball
+permalink: /co-curricular-activities/Clubs-and-Societies/floorball/
 description: ""
 third_nav_title: Sports and Games
 ---
