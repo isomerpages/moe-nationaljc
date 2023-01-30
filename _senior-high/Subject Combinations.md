@@ -1,6 +1,6 @@
 ---
 title: Subject Combinations
-permalink: /senior-high/subject-combinations
+permalink: /senior-high/subject-combinations/
 description: ""
 ---
 ### Subject Combinations

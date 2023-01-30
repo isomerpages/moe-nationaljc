@@ -1,6 +1,6 @@
 ---
 title: Contact
-permalink: /music-elective-programme/Contact
+permalink: /music-elective-programme/Contact/
 description: ""
 ---
 ### Contact

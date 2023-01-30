@@ -1,5 +1,5 @@
 ---
 title: Philosophy
-permalink: /experience/philosophy
+permalink: /experience/philosophy/
 description: ""
 ---

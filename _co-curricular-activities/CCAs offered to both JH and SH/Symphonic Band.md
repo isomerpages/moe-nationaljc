@@ -1,6 +1,6 @@
 ---
 title: Symphonic Band
-permalink: /co-curricular-activities/Clubs-and-Societies/symphonic-band
+permalink: /co-curricular-activities/Clubs-and-Societies/symphonic-band/
 description: ""
 third_nav_title: CCAs offered to both JH and SH
 ---

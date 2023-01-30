@@ -1,6 +1,6 @@
 ---
 title: Voices
-permalink: /voices
+permalink: /voices/
 description: ""
 ---
 ### Voices

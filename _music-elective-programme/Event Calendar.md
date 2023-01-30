@@ -1,6 +1,6 @@
 ---
 title: Event Calendar
-permalink: /music-elective-programme/event-calendar
+permalink: /music-elective-programme/event-calendar/
 description: ""
 ---
 ### Event Calendar

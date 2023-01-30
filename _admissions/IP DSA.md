@@ -1,6 +1,6 @@
 ---
 title: IP DSA
-permalink: /admissions/ip-dsa
+permalink: /admissions/ip-dsa/
 description: ""
 ---
 ### Integrated Programme (Direct School Admission)

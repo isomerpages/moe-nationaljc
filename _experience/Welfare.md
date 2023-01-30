@@ -1,6 +1,6 @@
 ---
 title: Welfare
-permalink: /experience/welfare
+permalink: /experience/welfare/
 description: ""
 ---
 ### Welfare

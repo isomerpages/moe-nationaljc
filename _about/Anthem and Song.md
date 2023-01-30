@@ -1,6 +1,6 @@
 ---
 title: Anthem and Song
-permalink: /about/anthem-and-song
+permalink: /about/anthem-and-song/
 description: ""
 ---
 ### Anthem and Song

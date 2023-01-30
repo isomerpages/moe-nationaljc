@@ -1,6 +1,6 @@
 ---
 title: Contact
-permalink: /moe-nationaljc/contact-us
+permalink: /moe-nationaljc/contact-us/
 description: ""
 ---
 

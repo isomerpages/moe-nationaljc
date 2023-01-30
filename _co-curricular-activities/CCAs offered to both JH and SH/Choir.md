@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /co-curricular-activities/Clubs-and-Societies/choir
+permalink: /co-curricular-activities/Clubs-and-Societies/choir/
 description: ""
 third_nav_title: CCAs offered to both JH and SH
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chemistry
-permalink: /junior-high/Subjects-Offered/chemistry
+permalink: /junior-high/Subjects-Offered/chemistry/
 description: ""
 third_nav_title: Subjects Offered
 ---

@@ -1,6 +1,6 @@
 ---
 title: Table Tennis
-permalink: /co-curricular-activities/Clubs-and-Societies/table-tennis
+permalink: /co-curricular-activities/Clubs-and-Societies/table-tennis/
 description: ""
 third_nav_title: Sports and Games
 ---

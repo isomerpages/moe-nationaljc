@@ -1,6 +1,6 @@
 ---
 title: Hockey (Boys Only)
-permalink: /co-curricular-activities/Clubs-and-Societies/hockey
+permalink: /co-curricular-activities/Clubs-and-Societies/hockey/
 description: ""
 third_nav_title: Sports and Games
 ---

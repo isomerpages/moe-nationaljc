@@ -1,6 +1,6 @@
 ---
 title: Curriculum
-permalink: /music-elective-programme/curriculum
+permalink: /music-elective-programme/curriculum/
 description: ""
 ---
 ### Curriculum

@@ -1,6 +1,6 @@
 ---
 title: Climbing
-permalink: /co-curricular-activities/Clubs-and-Societies/climbing
+permalink: /co-curricular-activities/Clubs-and-Societies/climbing/
 description: ""
 third_nav_title: Sports and Games
 ---

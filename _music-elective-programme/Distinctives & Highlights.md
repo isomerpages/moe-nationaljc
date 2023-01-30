@@ -1,6 +1,6 @@
 ---
 title: Distinctives & Highlights
-permalink: /music-elective-programme/distinctives-and-highlights
+permalink: /music-elective-programme/distinctives-and-highlights/
 description: ""
 ---
 ### Distinctives and Highlights

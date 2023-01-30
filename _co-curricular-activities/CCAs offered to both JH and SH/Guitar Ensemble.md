@@ -1,6 +1,6 @@
 ---
 title: Guitar Ensemble
-permalink: /co-curricular-activities/Clubs-and-Societies/guitar-ensemble
+permalink: /co-curricular-activities/Clubs-and-Societies/guitar-ensemble/
 description: ""
 third_nav_title: CCAs offered to both JH and SH
 ---

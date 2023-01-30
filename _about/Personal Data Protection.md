@@ -1,6 +1,6 @@
 ---
 title: Personal Data Protection
-permalink: /about/personal-data-protection
+permalink: /about/personal-data-protection/
 description: ""
 ---
 ### Personal Data Protection

@@ -1,6 +1,6 @@
 ---
 title: Testimonials
-permalink: /music-elective-programme/testimonials
+permalink: /music-elective-programme/testimonials/
 description: ""
 ---
 ### Testimonials

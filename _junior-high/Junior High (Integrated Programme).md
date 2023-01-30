@@ -1,6 +1,6 @@
 ---
 title: Junior High (Integrated Programme)
-permalink: /junior-high/integrated-programme
+permalink: /junior-high/integrated-programme/
 description: ""
 ---
 ### Junior High (Integrated Programme)

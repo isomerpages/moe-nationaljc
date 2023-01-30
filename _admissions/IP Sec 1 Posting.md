@@ -1,6 +1,6 @@
 ---
 title: IP Sec 1 Posting
-permalink: /admissions/IP-Sec1-posting
+permalink: /admissions/IP-Sec1-posting/
 description: ""
 ---
 ### Intergrate Programme (Sec 1 Posting)

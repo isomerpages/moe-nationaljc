@@ -1,6 +1,6 @@
 ---
 title: Facilities & Resources
-permalink: /music-elective-programme/facilities-and-resources
+permalink: /music-elective-programme/facilities-and-resources/
 description: ""
 ---
 ### Facilities & Resources
