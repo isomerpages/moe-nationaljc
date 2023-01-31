@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-nationaljc-staging.netlify.app
-prod: https://moe-nationaljc-prod.netlify.app
+staging: https://staging.d2q7fezz2lbn5u.amplifyapp.com
+prod: https://master.d2q7fezz2lbn5u.amplifyapp.com
 shareicon: /images/njclogo.png
 is_government: true
 facebook-pixel: ""
