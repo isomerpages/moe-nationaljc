@@ -23,6 +23,6 @@ For more information, click [here](https://moe-nationaljc-staging.netlify.app/m
 
 | Name | Email |
 |:---:|:---:|
-| Ms Gayle Sim | gayle_sim@moe.edu.sg |
-| Mr Aaron Lum | lum_zhi_yong_aaron@moe.edu.sg |
-| Mr Steven Teo | teo_rongsheng_steven@moe.edu.sg |
+| Ms Gayle Sim | [gayle\_sim@moe.edu.sg](mailto:gayle_sim@moe.edu.sg) |
+| Mr Aaron Lum | [lum\_zhi\_yong\_aaron@moe.edu.sg](mailto:lum_zhi_yong_aaron@moe.edu.sg) |
+| Mr Steven Teo | [lynette\_yeo\_yan\_teng@moe.edu.sg](mailto:lynette_yeo_yan_teng@moe.edu.sg) |
