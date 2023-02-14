@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Philosophy.md
-      - Boarding.md
+      - Enhanced Boarding Programme.md
       - Values In Action.md
       - Character/.keep
       - Character/Overview.md
