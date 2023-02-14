@@ -76,8 +76,8 @@ Here are the subject combinations offered in National Junior College, displayed 
 
 <img src="/images/subcom11.png" 
      style="width:70%">
-For AY 2022, **all qualifying tests** will be administered on **07 February between 1pm to 6pm**. Please note that there will be **NO** make up qualifying test/re-test after 07 February.
+For AY 2023, **all qualifying tests** will be administered on **06 February between 8am to 12pm**. Please note that there will be **NO** make up qualifying test/re-test after 06 February.
 
 **Career Diagnostic Quiz**
 
-If you are interested to explore what careers various subject combinations can lead to, you may try our [Career Diagnostic Quiz](https://nationaljc.moe.edu.sg/career-diagnostic-quiz/). (Unable to recreate quiz on Isomer) 
+If you are interested to explore what careers various subject combinations can lead to, you may try our [Career Diagnostic Quiz](https://nationaljc.moe.edu.sg/career-diagnostic-quiz/). (Unable to recreate quiz on Isomer)
