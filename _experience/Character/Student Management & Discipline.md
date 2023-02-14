@@ -75,7 +75,7 @@ Offences would generally be categorised into 2 areas; major offences which have 
 
 |  |  |
 |---|---|
-| Attire & Grooming | Artificially coloured hair<br>Excessive or inappropriate jewellery and accessories<br>Inappropriate hair length (for boys)<br>Unshaven facial hair (for boys)<br>Uniform (altered uniform/short skirts/skinny pants, etc.)<br>Absence of college pin<br>Non-white socks<br>Inappropriate footwear |
+| Attire & Grooming | Artificially coloured hair<br>Excessive or inappropriate jewellery and accessories<br>Inappropriate hair length (for boys)<br>Unshaven facial hair (for boys)<br>Uniform (altered uniform/short skirts/skinny pants, etc.)<br>Absence of college pin<br>Non-white socks<br>[Inappropriate footwear](/files/Shoes-approved.pdf) |
 | Misconduct | Eating outside designated areas<br>Unruly behaviour (eg. Use of vulgarities)<br>Use of electronic devices during lessons (without permission)<br>Inappropriate use of electronic devices (eg. Social media or gaming)<br>Lying |
 | Attendance | Late-coming (for classes, lectures, school based programmes or school) |
 
