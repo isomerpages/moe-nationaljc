@@ -18,7 +18,7 @@ As the South Zone Centre of Excellence for Science & Technology, NJC has a range
     <div>
 
         <p> <img src="/images/rf1.png" 
-     style="width:50%"> <br> Project Cube/Roots – Singapore’s first Urban Agriculture Research facility in a junior college is established in partnership with local biotechnology company Life3 and the Singapore Food Agency and will be officially opened on 4 May 2019,  NJC College Day.
+     style="width:50%"> <br> Project Cube/Roots – Singapore’s first Urban Agriculture Research facility in a junior college is established in partnership with local biotechnology company Life3 and the Singapore Food Agency and will be officially opened on 4 May 2019,  NJC College Day.<br><br>
 
 This tripartite partnership is the first of its kind between a local enterprise, government agency and academia that exemplifies the project’s shared vision of R.I.C.E – Research, Innovation, Community Engagement and Enterprise. Serving the South Zone as the Centre of Excellence for Science and Technology and true to our motto of Service with Honour, this project aims to develop student talents both in NJC and other schools in agri-tech research, and to create opportunities for students to explore new ways to modernize farming practices to improve Singapore’s self-sufficiency and sustainability in agricultural products.</p>
 
