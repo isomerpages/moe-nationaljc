@@ -53,13 +53,13 @@ Mr Heng was the Chairman of the School Advisory Committee of National Junior Col
 				We would like to take this opportunity to recognise and express utmost gratitude to our teachers, who have dedicated 30, 15 and 10 years to the education service respectively. <br> <br><br>
 				<b>Long Service Award: 30 Years </b><br> <br>
 
-<img align="left" style="width:200px;height:240px;margin-right:15px;" src="/images/52lsa1.png"> <b><br><br><br>Ms Phua Phek Heng Sharon Averdene </b><br><br><br><br><br><b> Long Service Award: 15 Years </b><br><br>
+<img align="left" style="width:200px;height:240px;margin-right:15px;" src="/images/pphs.png"> <b><br><br><br>Ms Phua Phek Heng Sharon Averdene </b><br><br><br><br><br><b> Long Service Award: 15 Years </b><br><br>
 			
-<img style="width:30%" src="/images/52lsa2.png"> <b>Ms Darshini d/o Radha Krishnan  </b><br><br> 
+<img style="width:30%" src="/images/52lsa2.png"> <b><center>Ms Darshini d/o Radha Krishnan  </center></b><br>“Being a teacher is a privilege, one that I believe gives me the opportunity to walk with someone else through their life’s journey, towards their dreams.”<br><br> 
 				
-<img style="width:30%" src="/images/52lsa3.png">	<b>Mr Lin Huaizu</b><br><br><br><br><br>			Insert DR. Lim Yi En picture here<br><br>
+<img style="width:30%" src="/images/52lsa3.png">	<b><center>Mr Lin Huaizu</center></b><br>“I want my students to be a better version of themselves every day … dare to dream big … but establish a clear connection between future goals and what we do day-to-day in our lives.”<br><br><br><br><br>			Insert DR. Lim Yi En picture here<br>“Every day is a learning journey, and every day is an opportunity to find meaning and significance.”<br>
 				
-<img style="width:30%" src="/images/52lsa4.png"> <b>Ms Meena Malinder Kaur d/o K Singh</b><br><br> Insert video here <br><br><br>
+<img style="width:30%" src="/images/52lsa4.png"> <b><center>Ms Meena Malinder Kaur d/o K Singh</center></b><br>“What motivated me were the students, inculcating in them a passion for current affairs and what I learnt from them.”<br><br> Insert video here <br><br><br>
 
 <b> Long Service Award: 10 Years </b> <br><br>
 <img align="left" style="width:200px;height:240px;margin-right:15px;" src="/images/52lsa5.png"> “I would like my students to achieve their fullest potential, whatever that might be. In the end, what the nature of that potential looks like should not be dictated by the teacher, but should come from the students themselves through a sense of self-discovery.” <br><a href="https://moe-nationaljc-staging.netlify.app/files/Mr-Chen-Liangcai.pdf">Mr Chen Liangcai</a><br><br><br><br>
