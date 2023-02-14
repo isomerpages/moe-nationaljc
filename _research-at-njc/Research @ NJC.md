@@ -17,6 +17,6 @@ For any queries, you may contact us at the following emails.
 
 | Name | Designation | Email |
 |:---:|:---:|:---:|
-| Miss Lim Wei Li | HOD Research | lim_wei_li@moe.edu.sg |
-| Mr Kester Wong | SH Research | wong_yew_chong_kester@moe.edu.sg |
-| Mr Arthur Goh | SH Innovation and Enterprise | goh_chong_meng_arthur@moe.edu.sg |
+| Miss Lim Wei Li | HOD Research |[lim\_wei\_li@moe.edu.sg](mailto:lim_wei_li@moe.edu.sg) |
+| Mr Kester Wong | SH Research | [kuah\_wei\_fen@moe.edu.sg](mailto:kuah_wei_fen@moe.edu.sg) |
+| Mr Arthur Goh | SH Innovation and Enterprise | [goh\_chong\_meng\_arthur@moe.edu.sg](mailto:goh_chong_meng_arthur@moe.edu.sg) |
