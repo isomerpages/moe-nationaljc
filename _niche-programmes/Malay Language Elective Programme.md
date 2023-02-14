@@ -15,14 +15,9 @@ Students may appeal into NJC via DSA or JAE through the NJC Malay Language Elect
 
 | Name of ML Teacher | Email |
 |---|---|
-| Ms Iryianna Ahmad | iryianna_ahmad@moe.edu.sg |
-| Mdm Artina Selamat | artina_selamat@moe.edu.sg |
+| Ms Iryianna Ahmad | [iryianna\_ahmad@moe.edu.sg](mailto:iryianna_ahmad@moe.edu.sg) |
+| Mdm Artina Selamat | [artina\_selamat@moe.edu.sg](mailto:artina_selamat@moe.edu.sg) |
 
 Follow us at [https://www.instagram.com/njcmlep/](https://www.instagram.com/njcmlep/)
 
 **Pejuang BAHASA. Pencinta SASTERA. Pembela BUDAYA**
-
-
-
-
-
