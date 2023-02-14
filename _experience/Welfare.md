@@ -5,9 +5,7 @@ description: ""
 ---
 ### Welfare
 
-![](/images/welfare1.png)
-
-[PARENTAL SUPPORT & EGC RESOURCES – RELEASE OF GCE A LEVEL RESULTS](/files/parentsupport-ECG-Resource.pdf)
+<img src="/images/welfare.png" style="width:80%">
 
 **Student Welfare and Counselling**
 
@@ -22,9 +20,9 @@ If you would like to find out more about our initiatives or to speak with our te
 
 |  |  |
 |---|---|
-| Ms Sharon Phua<br>Head of Department<br>Student Welfare and Boarding | Email:<br>sharon_phua_phek_heng@moe.edu.sg |
-| Mrs Cheong- Lim Chin Yin<br>Senior School Counsellor | Email:<br>lim_chin_yin@moe.edu.sg |
-| Ms Pauline Wang<br>Part Time School Counsellor | Email:<br>paulinewms@yahoo.com |
+| Ms Sharon Phua<br>Head of Department<br>Student Welfare and Boarding | Email:<br>[sharon\_phua\_phek\_heng@moe.edu.sg](mailto:sharon_phua_phek_heng@moe.edu.sg) |
+| Ms Jesmin Tan<br> Counsellor | Email:<br>[jesmintan@calvary.sg](mailto:jesmintan@calvary.sg)|
+| Ms Hui Yoke Cheng, Von<br>Counsellor | Email:<br>[Hui\_Yoke\_Cheng@schools.gov.sg](mailto:Hui_Yoke_Cheng@schools.gov.sg) |
 
 
 Counselling is a collaborative therapeutic relationship which allows the student to have a safe space to explore his/her issues and challenges. Together with the student, we work on his/her strengths and expand the repertoire of his/her coping resources to facilitate growth and build solutions to any issues or challenges faced.
