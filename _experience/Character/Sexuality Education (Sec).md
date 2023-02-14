@@ -31,8 +31,8 @@ Sexuality Education is delivered in a holistic manner through the school curricu
 
 The subjects that incorporate topics on sexuality include:
 
-1.  1.  Science
-    2.  Character and Citizenship Education (CCE)
+1\.  Science<br>
+2\.  Character and Citizenship Education (CCE)
 
 **Sexuality Education Lessons**:
 
