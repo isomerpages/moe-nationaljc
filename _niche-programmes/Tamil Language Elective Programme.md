@@ -21,5 +21,5 @@ For complete details on TLEP, do visit [https://go.gov.sg/tlepinfosheet](https:
 
 | Name of TL Teacher | Email |
 |---|---|
-| Mr Shah | shah_mohamed@moe.edu.sg |
-| Mr Victor | dassiah_victor_john@moe.edu.sg |
+| Mr Shah | [shah\_mohamed@moe.edu.sg](mailto:shah_mohamed@moe.edu.sg) |
+| Mr Victor | [dassiah\_victor\_john@moe.edu.sg](mailto:dassiah_victor_john@moe.edu.sg) |
