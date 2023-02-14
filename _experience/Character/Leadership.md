@@ -12,7 +12,7 @@ Our approach to developing our leaders is based on the concept of Servant Leader
 
 NJCians are encouraged to step up and explore opportunities to develop their leadership skills across various contexts and in service to groups of varying sizes. Some of these avenues in place which NJCians can consider include:
 
-\-Student Council
+\-[Student Council](https://moe-nationaljc-staging.netlify.app/student-council/)
 
 \-Peer Support Leader (for Upper JH students)
 
