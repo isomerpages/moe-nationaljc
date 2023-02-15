@@ -6,8 +6,8 @@ third_nav_title: Staff
 ---
 ### Mother Tongue
 
-<img src="/images/mtl1.png" 
+<img src="/images/mtl3.png" 
      style="width:80%">
 
-<img src="/images/mtl2.png" 
+<img src="/images/mtl4.png" 
      style="width:80%">
