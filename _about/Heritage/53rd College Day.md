@@ -16,7 +16,7 @@ third_nav_title: Heritage
 
     <div>
 
-<p> <b> Mr. Ang Pow Chew </b><br>
+<p> <b><center> Mr. Ang Pow Chew</center> </b><br>
 <img src="/images/col1.png" style="width:60%"> <br>
 			
 The last 2 years have been marked by a “Covid crisis” which tested the resolve and resilience in all of us. As we now begin to emerge from the other side of this crisis, I want to acknowledge the courage and resilience that all members of the NJC community have demonstrated. <br><br>
