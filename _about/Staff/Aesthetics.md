@@ -6,8 +6,6 @@ third_nav_title: Staff
 ---
 ### Aesthetics
 
-<img src="/images/aes1.png" 
+<img src="/images/aes3.png" 
      style="width:80%">
 		 
-<img src="/images/aes2.png" 
-     style="width:80%">
