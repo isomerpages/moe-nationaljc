@@ -6,6 +6,8 @@ third_nav_title: Heritage
 ---
 ### 53rd eCollege Day
 
+<img src="/images/collegedaylogo.jpeg" style="width:80%">
+
 <ul class="jekyllcodex_accordion">
 
   <li>
