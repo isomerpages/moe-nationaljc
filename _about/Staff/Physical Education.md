@@ -9,5 +9,5 @@ third_nav_title: Staff
 <img src="/images/pe1.png" 
      style="width:80%">
 
-<img src="/images/pe2.png" 
+<img src="/images/pe3.png" 
      style="width:80%">
