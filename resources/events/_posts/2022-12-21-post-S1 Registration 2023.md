@@ -8,8 +8,6 @@ image: ""
 ---
 ### S1 Registration 2023
 
-Students who are Posted to NJC for 2023: S1 Registration
-
 **Students who are Posted to NJC for 2023: S1 Registration**
 
 Congratulations on the posting of your child to National Junior College!
