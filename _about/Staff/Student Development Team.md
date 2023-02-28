@@ -6,8 +6,11 @@ third_nav_title: Staff
 ---
 ### Student Development Team
 
-<img src="/images/sdt1.png" 
+<img src="/images/SDT2.png" 
      style="width:80%">
 
-<img src="/images/sdt2.png" 
+<img src="/images/SDT1.png" 
      style="width:80%">
+		 
+		
+		
