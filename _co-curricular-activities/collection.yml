@@ -1,0 +1,40 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Overview.md
+      - CCAs offered to both JH and SH/Basketball.md
+      - CCAs offered to both JH and SH/Canoeing and Dragon Boating.md
+      - CCAs offered to both JH and SH/Shooting Club.md
+      - CCAs offered to both JH and SH/Softball (JH Girls Only).md
+      - CCAs offered to both JH and SH/Squash.md
+      - CCAs offered to both JH and SH/Track and Field & Cross Country.md
+      - CCAs offered to both JH and SH/Chinese Orchestra and Guzheng Ensemble.md
+      - CCAs offered to both JH and SH/Chinese Dance.md
+      - CCAs offered to both JH and SH/Choir.md
+      - CCAs offered to both JH and SH/Guitar Ensemble.md
+      - CCAs offered to both JH and SH/Indian Dance.md
+      - CCAs offered to both JH and SH/Malay Dance.md
+      - CCAs offered to both JH and SH/String Orchestra.md
+      - CCAs offered to both JH and SH/Symphonic Band.md
+      - CCAs offered to both JH and SH/Western Dance.md
+      - CCAs offered to both JH and SH/.keep
+      - Sports and Games/.keep
+      - Sports and Games/Badminton.md
+      - Sports and Games/Climbing.md
+      - Sports and Games/Floorball.md
+      - Sports and Games/Football (Balls Only).md
+      - Sports and Games/Hockey (Boys Only).md
+      - Sports and Games/Netball (Girls Only).md
+      - Sports and Games/Table Tennis.md
+      - Sports and Games/Touch Rugby (Girls Only).md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Aesthetics Club.md
+      - Clubs and Societies/Astronomy Club.md
+      - Clubs and Societies/AVA and PA Club.md
+      - Clubs and Societies/CLDDS.md
+      - Clubs and Societies/Interact Club.md
+      - Clubs and Societies/Malay Cultural Society.md
+      - Clubs and Societies/ILDDS.md
+      - Clubs and Societies/ELDDES.md
+      - Clubs and Societies/Greenlink Club.md

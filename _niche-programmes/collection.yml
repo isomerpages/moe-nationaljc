@@ -1,0 +1,10 @@
+collections:
+  niche-programmes:
+    output: true
+    order:
+      - Art Elective Programme.md
+      - Music Programme.md
+      - Research.md
+      - Malay Language Elective Programme.md
+      - Tamil Language Elective Programme.md
+      - Humanities Programme@NJC.md

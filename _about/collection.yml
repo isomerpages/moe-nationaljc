@@ -1,0 +1,34 @@
+collections:
+  about:
+    output: true
+    order:
+      - Mission, Vision, Values.md
+      - Anthem and Song.md
+      - Strategic Thrusts.md
+      - Heritage/About Us.md
+      - Heritage/1969 Archives.md
+      - Heritage/51st eCollege Day.md
+      - Heritage/52nd eCollege Day.md
+      - Heritage/53rd College Day.md
+      - Heritage/.keep
+      - Staff/.keep
+      - Staff/Overview.md
+      - Staff/College Management Committee.md
+      - Staff/Admin Office.md
+      - Staff/Aesthetics.md
+      - Staff/Economics.md
+      - Staff/English and Project Work.md
+      - Staff/Humanities.md
+      - Staff/Language Arts.md
+      - Staff/Mother Tongue.md
+      - Staff/Mathematics and Computing (SH & JH).md
+      - Staff/Physical Education.md
+      - Staff/Science (JH).md
+      - Staff/Science (SH).md
+      - Staff/Student Development Team.md
+      - Alumni/Alumni.md
+      - Alumni/Spotlight.md
+      - Alumni/.keep
+      - Parents In Action (PACCT).md
+      - Facilities.md
+      - Personal Data Protection.md

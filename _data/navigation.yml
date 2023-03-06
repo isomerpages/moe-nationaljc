@@ -1,13 +1,75 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/njclogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: Admissions
+    url: /admissions/overview
+    sublinks:
+      - title: Eligibility
+        url: /admissions/overview
+      - title: IP DSA
+        url: /admissions/ip-dsa
+      - title: IP Sec 1 Posting
+        url: /admissions/ip-sec1-posting
+      - title: JC DSA
+        url: /admissions/jc-dsa
+      - title: JC Joint Admissions
+        url: /admissions/jc-joint-admissions
+      - title: Returning Singaporean Students
+        url: /admissions/returning-singaporeans/
+      - title: International Students
+        url: /admissions/international-students
+  - title: Curriculum
+    url: /curriculum/overview
+    sublinks:
+      - title: Junior High
+        url: /junior-high/integrated-programme
+      - title: Senior High
+        url: /senior-high/overview
+      - title: Niche Programmes
+        url: /niche-programmes/art-elective
+  - title: Experience
+    url: /experience/philosophy
+    sublinks:
+      - title: Co-Curricular Activities
+        url: /co-curricular-activities/overview
+      - title: Boarding
+        url: /experience/enhanced-boarding-programme/
+      - title: Values-in-Action
+        url: /experience/values-in-action
+      - title: Character
+        url: /character/overview
+      - title: Welfare
+        url: /experience/welfare
+      - title: Environment
+        url: /experience/environment
+  - title: About
+    url: /about-us
+    sublinks:
+      - title: Mission, Vision, Values
+        url: /about/mission-vision-values
+      - title: Anthem and Song
+        url: /about/anthem-and-song
+      - title: Strategic Thrusts
+        url: /about/strategic-thrusts
+      - title: Heritage
+        url: /about-us
+      - title: Staff
+        url: /about/Staff/
+      - title: Alumni
+        url: /about/Alumni
+      - title: Parents-In-Action
+        url: /about/parents-in-action
+      - title: Facilities
+        url: /about/facilities
+      - title: Personal Data Protection
+        url: /about/personal-data-protection
+  - title: Useful Links
+    url: /useful-links/for-staff
+    sublinks:
+      - title: For Staff
+        url: /useful-links/for-staff
+      - title: For Students
+        url: /useful-links/for-students
+      - title: For Alumni
+        url: https://form.gov.sg/#!/605d825b91c0070012eb3e4f
+  - title: Contact
+    url: /moe-nationaljc/contact-us
