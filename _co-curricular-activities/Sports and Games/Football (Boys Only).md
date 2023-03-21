@@ -1,9 +1,10 @@
 ---
-title: Football (Balls Only)
-permalink: /co-curricular-activities/Clubs-and-Societies/football/
+title: Football (Boys Only)
+permalink: /co-curricular-activities/clubs-and-societies/football/
 description: ""
 third_nav_title: Sports and Games
 ---
+
 
 ### Football (Boys Only)
 
