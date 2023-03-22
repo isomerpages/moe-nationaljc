@@ -42,8 +42,7 @@ a\.  Science<br>	b\.  Character and Citizenship Education (CCE)
 **At National Junior College, the following Sexuality Education Lessons will be taught in 2023:**
 
 **2023 S**EXUALITY **E**DUCATION **L**ESSONS IN **CCE 2021** 
-
-**Secondary 1**
+#### **Secondary 1**
 
 
 
