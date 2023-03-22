@@ -55,7 +55,7 @@ Unit: Respectful Relationships and Safety
 | 3<br> <br>(60 mins) | ·         Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br> <br>·         Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.) | Term 4 Week 1 |
 
 
-**Secondary 2**
+#### **Secondary 2**
 
 **CCE 2021 Theme: Making Choices**
 
