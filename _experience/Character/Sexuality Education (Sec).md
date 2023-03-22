@@ -45,6 +45,8 @@ a\.  Science<br>	b\.  Character and Citizenship Education (CCE)
 #### **Secondary 1**
 
 ![](/images/sec%201.png)
+
+
 ![](/images/sec%2011.png)
 
 
