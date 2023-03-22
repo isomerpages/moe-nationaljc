@@ -52,7 +52,7 @@ a\.  Science<br>	b\.  Character and Citizenship Education (CCE)
 
 | **Unit | Lesson Title/Duration| Lesson Overview**| **Lesson Objectives** At the end of the lesson, students should be able to: | **Time Period eg. Term 1 Week 2**
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| Respectful Relationships & SafetyText     | Text     | Text     |
 
 
 
