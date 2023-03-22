@@ -44,15 +44,7 @@ a\.  Science<br>	b\.  Character and Citizenship Education (CCE)
 **2023 S**EXUALITY **E**DUCATION **L**ESSONS IN **CCE 2021** 
 #### **Secondary 1**
 
-
-
-Unit: Respectful Relationships and Safety
-
-| LESSONS / DURATION | Lesson Objectives<br> <br>At the end of the lesson, students will be able to: | TIME PERIOD<br> <br>  |
-|---|---|---|
-| 1<br> <br>(60 mins) | ·         Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br> <br>·         Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>·         Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>·         Understand what dating is, and recognise that the readiness and interest in dating vary among individuals | Term 3 Week 6 |
-| 2<br> <br>(60 mins) | ·         Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept | Term 3 Week 9 |
-| 3<br> <br>(60 mins) | ·         Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br> <br>·         Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.) | Term 4 Week 1 |
+![](/images/sec%201.png)
 
 
 #### **Secondary 2**
