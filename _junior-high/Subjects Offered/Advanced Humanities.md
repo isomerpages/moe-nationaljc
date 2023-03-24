@@ -24,14 +24,12 @@ As an extension to the Research Studies module, all AH students are also given t
 
 **3) How do I join AH?**
 
-*   All JH2 students will be briefed on AH  in Term 3
-*   Students indicate their interest to offer AH in JH3
-*   Selection test: 500- word essay and group interview 
+* All JH2 students will be briefed on AH  in Term 3 <br>
+* Students indicate their interest to offer AH in JH3 <br>
+*   Selection test: 500- word essay and group interview<br>  
 *   Successful applicants may exercise their choice to select AH as a subject during the JH3 subject combination exercise at the end of JH2
 
-**4) Application prerequisites:** 
-
-*   ‘A’ grade for JH1 and JH2 History and Geography modules
+**4) Application prerequisites:**<br>*   ‘A’ grade for JH1 and JH2 History and Geography modules
 *   Teacher Recommendation
 
 \*exceptions will be considered on a case-by-case basis
