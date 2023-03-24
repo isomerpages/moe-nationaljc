@@ -38,7 +38,11 @@ As an extension to the Research Studies module, all AH students are also given t
 
 **5) For more information:**
 
-HOD Humanities: Ms Valerie Cher [cher\_caifeng\_valerie@moe.edu.sg](mailto:cher_caifeng_valerie@moe.edu.sg)
+HOD Humanities: Ms Valerie Cher 
+[cher\_caifeng\_valerie@moe.edu.sg](mailto:cher_caifeng_valerie@moe.edu.sg)
+
+[[Instagram: @njchumanities](https://www.instagram.com/nationalhumans/)](https://www.instagram.com/nationalhumans/)
+
 
 <img src="/images/advhum1.png" 
      style="width:60%">
