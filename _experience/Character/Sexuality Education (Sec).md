@@ -484,12 +484,11 @@ a\.  Science<br>	b\.  Character and Citizenship Education (CCE)
   major-latin" lang="EN">Term 3 Week 6</span></p></td></tr></tbody></table> 
 	
 &nbsp;**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> 
-
 **Secondary 2**
-	
+
 	
 
-
+&nbsp;**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> 
 &nbsp;**Secondary 3**
 
 **CCE 2021 Theme: Making Choices**
