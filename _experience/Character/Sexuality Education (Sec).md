@@ -1215,7 +1215,5 @@ a\.  Science<br>	b\.  Character and Citizenship Education (CCE)
   major-latin" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p></td><td style="width:1.5in;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
   height:63.25pt" valign="top" width="144"><p style="margin-top:12.0pt;margin-right:-5.0pt;
-  margin-bottom:12.0pt;margin-left:0in;text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin" lang="EN">Term 3 Week 3</span></p></td></tr></tbody></table>
-theme-font:major-latin;mso-bidi-theme-
+  margin-bottom:12.0pt;margin-left:0in;text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-
   12.0pt;margin-left:.25in" class="MsoNormal"&gt;
