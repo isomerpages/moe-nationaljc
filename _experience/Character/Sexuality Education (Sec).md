@@ -1126,19 +1126,9 @@ a\.  Science<br>	b\.  Character and Citizenship Education (CCE)
 
 **_eTeens_ Programme**:<br>
 8.         _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.<br>
-9.         Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise
-[**_eTeens_**&nbsp;**Programme**](https://www.moe.gov.sg/-/media/files/programmes/eteens-programme-2017.ashx?la=en&amp;hash=1E53BB9A29D5F5B23D9ECE295BBBACABB160F646):
+9.         Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise,  informed and sensible decisions. <br>
+**At National Junior College, the _eTeens_ programme will be implemented as follows in 2023:**
 
-_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for&nbsp;**Secondary 3**&nbsp;students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.
-
-Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
-
-**At National Junior College, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2022:**
-
-| Topics/Lessons | Programme Learning Objectives | Time Period<br> <br>  |
-|---|---|---|
-| Mass Talk by HPB appointed vendor | ·         Awareness of the different STIs and HIV/AIDS<br>·         Modes of transmission<br>·         Modes of protection, specifically on how the condom is used<br>·         Consequences and impact of STIs/HIV | For Sec 3: Term3 Week 8 |
-| Classroom-based Lesson | ·         Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | For Sec 3: Term 4 Week 2 |
 
 **Information for Parents**
 
