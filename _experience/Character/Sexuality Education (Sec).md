@@ -481,21 +481,14 @@ a\.  Science<br>	b\.  Character and Citizenship Education (CCE)
   mso-element-anchor-horizontal:column;mso-element-left:8.5pt;mso-element-top:
   .05pt;mso-height-rule:exactly" class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
   mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin" lang="EN">Term 3 Week 6</span></p></td></tr></tbody></table>
+  major-latin" lang="EN">Term 3 Week 6</span></p></td></tr></tbody></table> 
+	
+&nbsp;**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> 
 
+**Secondary 2**
+	
+	
 
-### **Secondary 2**
-
-**CCE 2021 Theme: Making Choices**
-
-Unit: Respectful Relationships and Safety
-
-| LESSONS / DURATION | Lesson Objectives<br> <br>At the end of the lesson, students will be able to: | TIME PERIOD<br> <br>  |
-|---|---|---|
-| 1<br> <br>(60 mins) | ·        Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>·        Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>·        Understand what sexual orientation entails | Term 3 Week 3 |
-| 2A<br> <br>(60 mins) | ·       Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline | Term 3 Week 5 |
-| 2B<br> <br>(60 mins) | ·      Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online | Term 3 Week 6 |
-|  |  |  |
 
 &nbsp;**Secondary 3**
 
