@@ -115,8 +115,3 @@ How do I join Advanced Science (Adv Sci)?
     
 
 \*Exceptions, if any, will be considered on a case-by-case basis.![](https://lh3.googleusercontent.com/NzK9Q_u-XecBe5dG3A6tIHJGLgNr4qD8-IptrZ1bR9SBjVv_TubwaIjnsshhLeqmSsgteUwWuVU2N1rIJSOPbxR6FtDL8142mfCP7LWpuzO9SF7djAiEHZ08lLh2QPsX1bIFt8ayg2-9kKjaQ-stT-Q)
-
-  
-  
-  
-  
