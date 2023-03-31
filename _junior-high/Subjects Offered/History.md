@@ -6,7 +6,7 @@ third_nav_title: Subjects Offered
 ---
 ### History
 
-
+![](/images/history%20jh.jpg)
 
 
 *“History is who we are and why we are the way we are.” - David McCullough, American historian*
@@ -41,4 +41,3 @@ The Upper Secondary History syllabuses focuses on developing students’ underst
   
 
 Students who demonstrate great passion and potential in the subject have the opportunity to represent the college in various history competitions, and may be selected for the MOE History Talent Development Programme.
-
