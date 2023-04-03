@@ -9,4 +9,3 @@ third_nav_title: Staff
 <img src="/images/SDT2.png" style="width:80%">
 
 <img src="/images/sdt3apr.png" style="width:80%">
-
