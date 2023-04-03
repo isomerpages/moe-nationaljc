@@ -3,12 +3,13 @@ collections:
     output: true
     order:
       - Junior High (Integrated Programme).md
+      - Subjects Offered/.keep
       - Subjects Offered/Overview.md
       - Subjects Offered/Enhanced Boarding Programme.md
       - Subjects Offered/Physical Education.md
       - Subjects Offered/Art Elective Programme.md
       - Subjects Offered/Music Programme.md
-      - Subjects Offered/Junior High History Curriculum.md
+      - Subjects Offered/History.md
       - Subjects Offered/Governance and Society.md
       - Subjects Offered/Geography.md
       - Subjects Offered/Advanced Humanities.md
@@ -17,8 +18,8 @@ collections:
       - Subjects Offered/Thinking.md
       - Subjects Offered/Junior High Mathematics.md
       - Subjects Offered/Advanced Inquiry in Mathematics.md
+      - Subjects Offered/Junior High Science.md
       - Subjects Offered/Biology.md
       - Subjects Offered/Chemistry.md
       - Subjects Offered/Physics.md
       - Subjects Offered/Advanced Sciences.md
-      - Subjects Offered/.keep
