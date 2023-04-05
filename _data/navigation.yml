@@ -1,5 +1,26 @@
 logo: /images/njclogo.png
 links:
+  - title: About
+    url: /about-us
+    sublinks:
+      - title: Mission, Vision, Values
+        url: /about/mission-vision-values
+      - title: Anthem and Song
+        url: /about/anthem-and-song
+      - title: Strategic Thrusts
+        url: /about/strategic-thrusts
+      - title: Heritage
+        url: /about-us
+      - title: Staff
+        url: /about/Staff/
+      - title: Alumni
+        url: /about/Alumni
+      - title: Parents-In-Action
+        url: /about/parents-in-action
+      - title: Facilities
+        url: /about/facilities
+      - title: Personal Data Protection
+        url: /about/personal-data-protection
   - title: Admissions
     url: /admissions/overview
     sublinks:
@@ -41,27 +62,6 @@ links:
         url: /experience/welfare
       - title: Environment
         url: /experience/environment
-  - title: About
-    url: /about-us
-    sublinks:
-      - title: Mission, Vision, Values
-        url: /about/mission-vision-values
-      - title: Anthem and Song
-        url: /about/anthem-and-song
-      - title: Strategic Thrusts
-        url: /about/strategic-thrusts
-      - title: Heritage
-        url: /about-us
-      - title: Staff
-        url: /about/Staff/
-      - title: Alumni
-        url: /about/Alumni
-      - title: Parents-In-Action
-        url: /about/parents-in-action
-      - title: Facilities
-        url: /about/facilities
-      - title: Personal Data Protection
-        url: /about/personal-data-protection
   - title: Useful Links
     url: /useful-links/for-staff
     sublinks:
