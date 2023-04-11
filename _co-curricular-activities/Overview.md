@@ -21,6 +21,8 @@ The following 15 JH CCAs cater developmental programs and various opportunities 
 
 #### CCAs offered to ONLY Senior High students
 
+
+
 |  |  |  |
 |---|---|---|
 |<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/basketball"><img style="width:55%" src="/images/c1.png"></a>  |<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/canoeing-and-dragon-boating"><img style="width:55%" src="/images/c2.png"></a>  | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/shooting-club"><img style="width:55%" src="/images/c3.png"></a> |
@@ -39,12 +41,19 @@ The following 15 JH CCAs cater developmental programs and various opportunities 
 
 
 
+
 #### Clubs and Societies
 
 
 |  |  |  |
 |---|---|---|
-|<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/Clubs-and-Societies/aesthetics-club/"><img style="width:55%" src="/images/c24.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/astronomy-club"><img style="width:55%" src="/images/astro%20logo.jpeg"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/ava-and-pa-club"><img style="width:55%" src="/images/c26.png"></a> |
-| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/cldds"><img style="width:55%" src="/images/c27.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/interact-club"><img style="width:55%" src="/images/c28.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/greenlink-club"><img style="width:55%" src="/images/c33.png"></a> |
-| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/malay-cultural-society"><img style="width:55%" src="/images/c30.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/ildds"><img style="width:55%" src="/images/c31.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/elddes"><img style="width:55%" src="/images/c32.png"></a> |
-|  |  |  |
+|<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/Clubs-and-Societies/aesthetics-club/"><img style="width:55%" src="/images/c24.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/astronomy-club"><img style="width:29%" src="/images/astro%20logo.jpeg"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/ava-and-pa-club"><img style="width:55%" src="/images/c26.png"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/cldds"><img style="width:55%" src="/images/c27.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/interact-club"><img style="width:29%" src="/images/c28.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/greenlink-club"><img style="width:55%" src="/images/c33.png"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/malay-cultural-society"><img style="width:55%" src="/images/c30.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/ildds"><img style="width:29%" src="/images/c31.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/elddes"><img style="width:55%" src="/images/c32.png"></a> |
+
+
+
+
+
+
+
