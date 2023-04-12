@@ -2,7 +2,6 @@ collections:
   experience:
     output: true
     order:
-      - Philosophy.md
       - Enhanced Boarding Programme.md
       - Values In Action.md
       - Character/.keep
