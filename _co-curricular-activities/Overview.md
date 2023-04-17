@@ -17,11 +17,7 @@ The following 15 JH CCAs cater developmental programs and various opportunities 
 
 #### &nbsp;CCAs offered to BOTH Junior High and Senior High students
  
- In addition to the above CCAs offered to our JH students, our Senior High (SH) students are able to choose from any of the following CCAs offered in our College.
-
-#### CCAs offered to ONLY Senior High students
-
-
+ 
 
 |  |  |  |
 |---|---|---|
@@ -30,8 +26,11 @@ The following 15 JH CCAs cater developmental programs and various opportunities 
 | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/co-and-ge"><img style="width:55%" src="/images/c7.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/chinese-dance"><img style="width:55%" src="/images/c8.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/choir"><img style="width:55%" src="/images/c9.png"></a> |
 |<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/guitar-ensemble"><img style="width:55%" src="/images/c10.png"></a>  | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/indian-dance"><img style="width:55%" src="/images/c11.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/malay-dance"><img style="width:55%" src="/images/c12.png"></a> |
 | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/string-orchestra"><img style="width:55%" src="/images/c13.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/symphonic-band"><img style="width:55%" src="/images/c14.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/western-dance"><img style="width:55%" src="/images/c15.png"></a> |
+ 
+ 
+ In addition to the above CCAs offered to our JH students, our Senior High (SH) students are able to choose from any of the following CCAs offered in our College.
 
-#### Sports and Games
+#### CCAs offered to ONLY Senior High students
 
 |  |  |  |
 |---|---|---|
@@ -39,21 +38,8 @@ The following 15 JH CCAs cater developmental programs and various opportunities 
 |  <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/football"><img style="width:55%" src="/images/c19.png"></a>| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/hockey"><img style="width:55%" src="/images/c20.png"></a> |<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/netball"><img style="width:55%" src="/images/c21.png"></a>  |
 |<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/table-tennis"><img style="width:55%" src="/images/c22.png"></a>  | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/touch-rugby"><img style="width:55%" src="/images/c23.png"></a> |  |
 
-
-
-
-#### Clubs and Societies
-
-
 |  |  |  |
 |---|---|---|
 |<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/Clubs-and-Societies/aesthetics-club/"><img style="width:55%" src="/images/c24.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/astronomy-club"><img style="width:29%" src="/images/astro%20logo.jpeg"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/ava-and-pa-club"><img style="width:55%" src="/images/c26.png"></a> |
 | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/cldds"><img style="width:55%" src="/images/c27.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/interact-club"><img style="width:29%" src="/images/c28.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/greenlink-club"><img style="width:55%" src="/images/c33.png"></a> |
 | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/malay-cultural-society"><img style="width:55%" src="/images/c30.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/ildds"><img style="width:29%" src="/images/c31.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/elddes"><img style="width:55%" src="/images/c32.png"></a> |
-
-
-
-
-
-
-

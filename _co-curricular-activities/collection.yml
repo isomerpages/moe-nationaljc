@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - CCAs offered to both JH and SH/.keep
       - CCAs offered to both JH and SH/Basketball.md
       - CCAs offered to both JH and SH/Canoeing and Dragon Boating.md
       - CCAs offered to both JH and SH/Shooting Club.md
@@ -18,7 +19,6 @@ collections:
       - CCAs offered to both JH and SH/String Orchestra.md
       - CCAs offered to both JH and SH/Symphonic Band.md
       - CCAs offered to both JH and SH/Western Dance.md
-      - CCAs offered to both JH and SH/.keep
       - Sports and Games/.keep
       - Sports and Games/Badminton.md
       - Sports and Games/Climbing.md
@@ -38,3 +38,4 @@ collections:
       - Clubs and Societies/ILDDS.md
       - Clubs and Societies/ELDDES.md
       - Clubs and Societies/Greenlink Club.md
+      - Clubs and Societies/Makers' Society.md
