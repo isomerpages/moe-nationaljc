@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - CCAs offered to only Senior High Students.md
       - Overview.md
       - CCAs offered to both JH and SH/.keep
       - CCAs offered to both JH and SH/Basketball.md
