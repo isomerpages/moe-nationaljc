@@ -38,22 +38,15 @@ description: ""
     <td class="tg-0lax"> <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/malay-dance"><img style="width:55%" src="/images/c12.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">D</td>
-    <td class="tg-0lax">E</td>
-    <td class="tg-0lax">F</td>
+    <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/string-orchestra"><img style="width:55%" src="/images/c13.png"></a></td>
+    <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/symphonic-band"><img style="width:55%" src="/images/c14.png"></a></td>
+    <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/western-dance"><img style="width:55%" src="/images/c15.png"></a></td>
   </tr>
 </tbody>
 </table>
 
 
-|  |  |  |
-|---|---|---|
-|  |  |  |
-| |  |  |
-|  |  | &gt; |
-|  |  | |
-| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/string-orchestra"><img style="width:55%" src="/images/c13.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/symphonic-band"><img style="width:55%" src="/images/c14.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/western-dance"><img style="width:55%" src="/images/c15.png"></a> |
- 
+
  
  In addition to the above CCAs offered to our JH students, our Senior High (SH) students are able to choose from any of the following CCAs offered in our College.
 
