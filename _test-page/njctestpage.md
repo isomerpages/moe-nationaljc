@@ -34,7 +34,7 @@ description: ""
   </a></td></tr>
   <tr>
     <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/guitar-ensemble"><img style="width:55%" src="/images/c10.png"></a></td>
-    <td class="tg-0lax">B</td>
+    <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/indian-dance"><img style="width:55%" src="/images/c11.png"></a></td>
     <td class="tg-0lax">C</td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ description: ""
 |  |  |  |
 | |  |  |
 |  |  | &gt; |
-|  | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/indian-dance"><img style="width:55%" src="/images/c11.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/malay-dance"><img style="width:55%" src="/images/c12.png"></a> |
+|  |  | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/malay-dance"><img style="width:55%" src="/images/c12.png"></a> |
 | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/string-orchestra"><img style="width:55%" src="/images/c13.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/symphonic-band"><img style="width:55%" src="/images/c14.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/western-dance"><img style="width:55%" src="/images/c15.png"></a> |
  
  
