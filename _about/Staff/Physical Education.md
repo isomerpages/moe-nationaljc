@@ -6,8 +6,9 @@ third_nav_title: Staff
 ---
 ### Physical Education
 
-<img src="/images/pe1.png" 
-     style="width:80%">
 
-<img src="/images/pe3.png" 
-     style="width:80%">
+<img src="/images/njc_pe4.png" style="width:80%">
+
+
+
+<img src="/images/pe3.png" style="width:80%">
