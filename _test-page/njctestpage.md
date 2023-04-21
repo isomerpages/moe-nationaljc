@@ -96,7 +96,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/Clubs-and-Societies/aesthetics-club/"><img style="width:%" src="/images/c24.png"></a></th>
+    <th class="tg-c3ow"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/Clubs-and-Societies/aesthetics-club/"><img style="width:55%" src="/images/c24.png"></a></th>
     <th class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/astronomy-club"><img style="width:39%" src="/images/astro%20logo.jpeg"></a></th>
     <th class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/ava-and-pa-club"><img style="width:55%" src="/images/c26.png"></a></th>
   </tr>
