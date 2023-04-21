@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/pa2023 njc moh banner website pixlr.png
+      background: /images/pb2023 njc moh banner website pixlr(1).png
       key_highlights:
         - title: Events
           description: ""
