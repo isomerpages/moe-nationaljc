@@ -52,9 +52,41 @@ description: ""
 
 #### CCAs offered to ONLY Senior High students
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/badminton"><img style="width:55%" src="/images/c16.png"></a></th>
+    <th class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/climbing"><img style="width:55%" src="/images/c17.png"></a></th>
+    <th class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/floorball"><img style="width:55%" src="/images/c18.png"></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">4</td>
+    <td class="tg-0pky">5</td>
+    <td class="tg-0lax">6</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">7</td>
+    <td class="tg-0lax">8</td>
+    <td class="tg-0lax">0</td>
+  </tr>
+</tbody>
+</table>
+
 |  |  |  |
 |---|---|---|
-| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/badminton"><img style="width:55%" src="/images/c16.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/climbing"><img style="width:55%" src="/images/c17.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/floorball"><img style="width:55%" src="/images/c18.png"></a> |
+|  |  |  |
 |  <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/football"><img style="width:55%" src="/images/c19.png"></a>| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/hockey"><img style="width:55%" src="/images/c20.png"></a> |<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/netball"><img style="width:55%" src="/images/c21.png"></a>  |
 |<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/table-tennis"><img style="width:55%" src="/images/c22.png"></a>  | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/touch-rugby"><img style="width:55%" src="/images/c23.png"></a> |  |
 
