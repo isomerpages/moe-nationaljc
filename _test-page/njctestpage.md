@@ -28,8 +28,8 @@ description: ""
     <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/track-and-field-and-cross-country"><img style="width:55%" src="/images/c6.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">7</td>
-    <td class="tg-0lax">8</td>
+    <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/co-and-ge"><img style="width:55%" src="/images/c7.png"></a></td>
+    <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/chinese-dance"><img style="width:55%" src="/images/c8.png"></a></td>
     <td class="tg-0lax">0</td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@ description: ""
 |---|---|---|
 |  |  |  |
 | |  |  |
-| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/co-and-ge"><img style="width:55%" src="/images/c7.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/chinese-dance"><img style="width:55%" src="/images/c8.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/choir"><img style="width:55%" src="/images/c9.png"></a> |
+|  |  | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/choir"><img style="width:55%" src="/images/c9.png"></a> |
 |<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/guitar-ensemble"><img style="width:55%" src="/images/c10.png"></a>  | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/indian-dance"><img style="width:55%" src="/images/c11.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/malay-dance"><img style="width:55%" src="/images/c12.png"></a> |
 | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/string-orchestra"><img style="width:55%" src="/images/c13.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/symphonic-band"><img style="width:55%" src="/images/c14.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/western-dance"><img style="width:55%" src="/images/c15.png"></a> |
  
