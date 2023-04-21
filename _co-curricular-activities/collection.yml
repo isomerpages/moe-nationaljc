@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - CCAs offered ONLY to SH/.keep
       - Overview.md
       - CCAs offered to both JH and SH/.keep
       - CCAs offered to both JH and SH/Basketball.md
@@ -20,6 +19,7 @@ collections:
       - CCAs offered to both JH and SH/String Orchestra.md
       - CCAs offered to both JH and SH/Symphonic Band.md
       - CCAs offered to both JH and SH/Western Dance.md
+      - CCAs offered ONLY to SH/.keep
       - CCAs offered to ONLY SH/.keep
       - Sports and Games/.keep
       - Sports and Games/Badminton.md
