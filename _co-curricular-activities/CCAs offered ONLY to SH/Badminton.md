@@ -2,12 +2,11 @@
 title: Badminton
 permalink: /co-curricular-activities/Clubs-and-Societies/badminton/
 description: ""
-third_nav_title: Sports and Games
+third_nav_title: CCAs offered ONLY to SH
 ---
-
 ### Badminton
 
-<img src="/images/badminton1.png" style="width:350px;height:240px;margin-left:15px;" align = "right"> The CCA allows students to pursue their interest in playing the game competitively and to level up their skills under the guidance of the badminton coach and their teammates.
+<img src="/images/badminton1.png" style="width:350px;height:240px;margin-left:15px;" align="right"> The CCA allows students to pursue their interest in playing the game competitively and to level up their skills under the guidance of the badminton coach and their teammates.
 
 Two 3-hour court training sessions that incorporate footwork and racquet skills are conducted every week . In addition, the players conduct their own physical training on every Thursday morning to build up their stamina. The CCA also aims to contribute to the larger community through the various self-initiated VIA projects undertaken by the players.
 

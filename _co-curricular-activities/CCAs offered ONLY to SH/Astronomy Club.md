@@ -2,7 +2,7 @@
 title: Astronomy Club
 permalink: /co-curricular-activities/Clubs-and-Societies/astronomy-club/
 description: ""
-third_nav_title: Clubs and Societies
+third_nav_title: CCAs offered ONLY to SH
 ---
 ### Astronomy Club
 

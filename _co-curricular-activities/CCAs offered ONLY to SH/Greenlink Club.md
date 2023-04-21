@@ -2,11 +2,11 @@
 title: Greenlink Club
 permalink: /co-curricular-activities/Clubs-and-Societies/greenlink-club/
 description: ""
-third_nav_title: Clubs and Societies
+third_nav_title: CCAs offered ONLY to SH
 ---
 ### Greenlink Club
 
-<img src="/images/greenlink1.png" style="width:250px;height:180px;margin-left:15px;" align = "right"> NJC Greenlink is a CCA that focuses on advocating for environmental conservation and inculcating green conscience in both the College and the community beyond. Over the years, Greenlink has successfully organised many large-scale College and community events, influencing students to start their own green initiatives beyond the NJC community.
+<img src="/images/greenlink1.png" style="width:250px;height:180px;margin-left:15px;" align="right"> NJC Greenlink is a CCA that focuses on advocating for environmental conservation and inculcating green conscience in both the College and the community beyond. Over the years, Greenlink has successfully organised many large-scale College and community events, influencing students to start their own green initiatives beyond the NJC community.
 
 Greenlink has three main wings that address different environmental concerns; the biodiversity wing focused on gardening and wildlife conservation, the waste management wing focused on vermicomposting, and the waste minimisation wing focused on recycling. As a platform for leadership development, each of the wings provide students with opportunities to develop their leadership competencies, through planning and executing initiatives that align with their passion and interests. One such initiative under the waste minimization wing would be the annual Say No! To Disposables campaign, spearheaded by our members who lead the Green advocates of each JH class to encourage students to reduce their use of single-use plastics through various school wide challenges.
 

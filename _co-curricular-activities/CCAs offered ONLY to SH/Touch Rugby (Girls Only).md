@@ -2,7 +2,7 @@
 title: Touch Rugby (Girls Only)
 permalink: /co-curricular-activities/Clubs-and-Societies/touch-rugby/
 description: ""
-third_nav_title: Sports and Games
+third_nav_title: CCAs offered ONLY to SH
 ---
 ### Touch Rugby (Girls Only)
 

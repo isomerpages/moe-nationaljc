@@ -2,7 +2,7 @@
 title: Netball (Girls Only)
 permalink: /co-curricular-activities/Clubs-and-Societies/netball/
 description: ""
-third_nav_title: Sports and Games
+third_nav_title: CCAs offered ONLY to SH
 ---
 ### Netball (Girls Only)
 

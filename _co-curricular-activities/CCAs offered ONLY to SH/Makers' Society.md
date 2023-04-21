@@ -2,7 +2,7 @@
 title: Makers' Society
 permalink: /co-curricular-activities/clubs-and-societies/permalink/
 description: ""
-third_nav_title: Clubs and Societies
+third_nav_title: CCAs offered ONLY to SH
 ---
 As a wing of the Aesthetics Club, NJC Maker Society endeavours to build innovative creative thinking and resourceful problem-solving skills in its members. In addition to  technical material handling skills, members embark on purposeful projects that aim to liven the environment and serve the community around us.
 

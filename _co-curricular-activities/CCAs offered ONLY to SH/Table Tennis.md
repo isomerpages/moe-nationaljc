@@ -2,7 +2,7 @@
 title: Table Tennis
 permalink: /co-curricular-activities/Clubs-and-Societies/table-tennis/
 description: ""
-third_nav_title: Sports and Games
+third_nav_title: CCAs offered ONLY to SH
 ---
 ### Table Tennis
 
