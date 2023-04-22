@@ -97,7 +97,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"></th>
+    <th class="tg-0pky">/images/CCA%20Images/aesthetics%20club%20(1).png</th>
     <th class="tg-0pky">2</th>
     <th class="tg-0pky">3</th>
   </tr>
