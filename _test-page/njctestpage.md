@@ -104,7 +104,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">4</td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">6</td>
   </tr>
