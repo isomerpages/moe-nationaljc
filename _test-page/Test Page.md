@@ -44,6 +44,7 @@ description: ""
   <tr>
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/table-tennis"><img style="width:73%" src="/images/c22.png"></a></td>
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/touch-rugby"><img style="width:36%" src="/images/c23.png"></a></td>
+		 <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/Clubs-and-Societies/aesthetics-club/"><img style="width:72%" src="/images/c24.png"></a></td>
