@@ -47,7 +47,7 @@ description: ""
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/Clubs-and-Societies/aesthetics-club/"><img style="width:72%" src="/images/c24.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/Clubs-and-Societies/aesthetics-club/"><img style="width:72%" src="/images/c24.png"></a></td>
     <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/astronomy-club"><img style="width:38%" src="/images/astro%20logo.jpeg"></a></td>
     <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/ava-and-pa-club"><img style="width:72%" src="/images/c26.png"></a></td>
   </tr>
@@ -63,5 +63,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-
