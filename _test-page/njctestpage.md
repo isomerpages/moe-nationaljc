@@ -104,7 +104,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/cldds"><img src="/images/CCA%20Images/screenshot%20(70).png"></a></td>
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">6</td>
   </tr>
