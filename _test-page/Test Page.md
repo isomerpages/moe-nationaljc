@@ -44,15 +44,15 @@ description: ""
   <tr>
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/table-tennis"><img style="width:55%" src="/images/c22.png"></a></td>
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/touch-rugby"><img style="width:55%" src="/images/c23.png"></a></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/Clubs-and-Societies/aesthetics-club/"><img style="width:72%" src="/images/c24.png"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
-    <td class="tg-0lax">2</td>
-    <td class="tg-0lax">3</td>
+    <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/astronomy-club"><img style="width:38%" src="/images/astro%20logo.jpeg"></a></td>
+    <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/ava-and-pa-club"><img style="width:72%" src="/images/c26.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">4</td>
+    <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/cldds"><img style="width:72%" src="/images/c27.png"></a></td>
     <td class="tg-0lax">5</td>
     <td class="tg-0lax">6</td>
   </tr>
@@ -77,14 +77,14 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/Clubs-and-Societies/aesthetics-club/"><img style="width:72%" src="/images/c24.png"></a></th>
-    <th class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/astronomy-club"><img style="width:38%" src="/images/astro%20logo.jpeg"></a></th>
-    <th class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/ava-and-pa-club"><img style="width:72%" src="/images/c26.png"></a></th>
+    <th class="tg-c3ow"></th>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/cldds"><img style="width:72%" src="/images/c27.png"></a></td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/interact-club"><img style="width:37%" src="/images/c28.png"></a></td>
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/greenlink-club"><img style="width:78%" src="/images/c33.png"></a></td>
   </tr>
