@@ -164,4 +164,3 @@ description: ""
 | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/malay-cultural-society"><img style="width:55%" src="/images/c30.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/ildds"><img style="width:29%" src="/images/c31.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/elddes"><img style="width:55%" src="/images/c32.png"></a> |
 
 
-/images/c24.png
