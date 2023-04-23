@@ -37,17 +37,17 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">4</td>
-    <td class="tg-0pky">5</td>
-    <td class="tg-0pky">6</td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/football"><img style="width:55%" src="/images/c19.png"></a></td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/hockey"><img style="width:55%" src="/images/c20.png"></a></td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/netball"><img style="width:55%" src="/images/c21.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">7</td>
-    <td class="tg-0pky">8</td>
-    <td class="tg-0pky">9</td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/table-tennis"><img style="width:55%" src="/images/c22.png"></a></td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/touch-rugby"><img style="width:55%" src="/images/c23.png"></a></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">1</td>
+    <td class="tg-0lax"></td>
     <td class="tg-0lax">2</td>
     <td class="tg-0lax">3</td>
   </tr>
@@ -63,38 +63,6 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c3ow"></th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/football"><img style="width:55%" src="/images/c19.png"></a></td>
-    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/hockey"><img style="width:55%" src="/images/c20.png"></a></td>
-    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/netball"><img style="width:55%" src="/images/c21.png"></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/table-tennis"><img style="width:55%" src="/images/c22.png"></a></td>
-    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/touch-rugby"><img style="width:55%" src="/images/c23.png"></a></td>
-  </tr>
-</tbody>
-</table>
-
-
 
 
 <style type="text/css">
