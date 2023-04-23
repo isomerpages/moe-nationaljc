@@ -40,18 +40,13 @@ description: ""
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/netball"><img style="width:55%" src="/images/c21.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">7</td>
-    <td class="tg-0pky">8</td>
-    <td class="tg-0pky">0</td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/table-tennis"><img style="width:55%" src="/images/c22.png"></a></td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/touch-rugby"><img style="width:55%" src="/images/c23.png"></a></td>
   </tr>
 </tbody>
 </table>
 
-|  |  |  |
-|---|---|---|
-|  |  |  |
-|  |  |  |
-|<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/table-tennis"><img style="width:55%" src="/images/c22.png"></a>  | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/touch-rugby"><img style="width:55%" src="/images/c23.png"></a> |  |
+
 
 
 <style type="text/css">
