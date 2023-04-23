@@ -3,14 +3,7 @@ title: Test Page
 permalink: /test-page/permalink/
 description: ""
 ---
-|  |  |  |
-|---|---|---|
-|<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/basketball"><img style="width:55%" src="/images/c1.png"></a>  |<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/canoeing-and-dragon-boating"><img style="width:55%" src="/images/c2.png"></a>  | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/shooting-club"><img style="width:55%" src="/images/c3.png"></a> |
-|<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/softball"><img style="width:55%" src="/images/c4.png"></a>  | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/squash"><img style="width:55%" src="/images/c5.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/track-and-field-and-cross-country"><img style="width:55%" src="/images/c6.png"></a> |
-| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/co-and-ge"><img style="width:55%" src="/images/c7.png"></a> |
-<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/chinese-dance"><img style="width:55%" src="/images/c8.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/choir"><img style="width:55%" src="/images/c9.png"></a> |
-|<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/guitar-ensemble"><img style="width:55%" src="/images/c10.png"></a>  | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/indian-dance"><img style="width:55%" src="/images/c11.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/malay-dance"><img style="width:55%" src="/images/c12.png"></a> |
-| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/string-orchestra"><img style="width:55%" src="/images/c13.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/symphonic-band"><img style="width:55%" src="/images/c14.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/western-dance"><img style="width:55%" src="/images/c15.png"></a> |
+
  
 
 <style type="text/css">
@@ -34,7 +27,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/softball"><img style="width:55%" src="/images/c4.png"></a></td>
-    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/squash"><img style="width:36%" src="/images/c5.png"></a></td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/squash"><img style="width:55%" src="/images/c5.png"></a></td>
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/track-and-field-and-cross-country"><img style="width:55%" src="/images/c6.png"></a></td>
   </tr>
   <tr>
@@ -52,7 +45,6 @@ description: ""
     <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/symphonic-band"><img style="width:55%" src="/images/c14.png"></a></td>
     <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/western-dance"><img style="width:55%" src="/images/c15.png"></a></td>
   </tr>
-  
 </tbody>
 </table>
 
