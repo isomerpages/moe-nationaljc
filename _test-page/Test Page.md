@@ -3,7 +3,8 @@ title: Test Page
 permalink: /test-page/permalink/
 description: ""
 ---
-<style type="text/css">
+ 
+ <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -14,7 +15,7 @@ description: ""
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
+<thead>   
   <tr>
     <th class="tg-c3ow"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/basketball"><img style="width:55%" src="/images/c1.png"></a> </th>
     <th class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/canoeing-and-dragon-boating"><img style="width:55%" src="/images/c2.png"></a></th>
