@@ -1,5 +1,4 @@
 collections:
   test-page:
     output: true
-    order:
-      - njctestpage.md
+    order: []
