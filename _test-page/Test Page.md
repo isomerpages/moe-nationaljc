@@ -53,5 +53,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-
