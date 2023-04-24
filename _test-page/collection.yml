@@ -1,5 +1,4 @@
 collections:
   test-page:
     output: true
-    order:
-      - Test Page.md
+    order: []
