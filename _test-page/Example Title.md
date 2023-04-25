@@ -46,6 +46,7 @@ description: ""
 </table>
 
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -88,7 +89,8 @@ description: ""
   <tr>
     <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/malay-cultural-society"><img style="width:72%" src="/images/c30.png"></a></td>
     <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/ildds"><img style="width:36%" src="/images/c31.png"></a></td>
-    <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/elddes"><img style="width:72%" src="/images/c32.png"></a></td>
+    <td class="tg-0lax"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/elddes"><img style="width:72%" src="/images/c32.png">
+</a></td>
   </tr>
 </tbody>
 </table>
