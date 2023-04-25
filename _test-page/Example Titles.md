@@ -37,7 +37,7 @@ description: ""
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/malay-dance"><img style="width:55%" src="/images/c12.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">4</td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/string-orchestra"><img style="width:55%" src="/images/c13.png"></a></td>
     <td class="tg-0pky">5</td>
     <td class="tg-0pky">6</td>
   </tr>
