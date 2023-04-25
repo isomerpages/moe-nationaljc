@@ -39,7 +39,7 @@ description: ""
   <tr>
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/string-orchestra"><img style="width:55%" src="/images/c13.png"></a></td>
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/symphonic-band"><img style="width:55%" src="/images/c14.png"></a></td>
-    <td class="tg-0pky">6</td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/western-dance"><img style="width:55%" src="/images/c15.png"></a></td>
   </tr>
   <tr>
     <td class="tg-0lax">7</td>
