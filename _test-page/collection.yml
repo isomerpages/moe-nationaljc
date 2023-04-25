@@ -2,5 +2,4 @@ collections:
   test-page:
     output: true
     order:
-      - Example Titles.md
       - Example Title.md
