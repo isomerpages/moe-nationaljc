@@ -32,9 +32,9 @@ description: ""
     <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/choir"><img style="width:55%" src="/images/c9.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">1</td>
-    <td class="tg-0pky">2</td>
-    <td class="tg-0pky">3</td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/guitar-ensemble"><img style="width:55%" src="/images/c10.png"></a></td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/indian-dance"><img style="width:55%" src="/images/c11.png"></a></td>
+    <td class="tg-0pky"><a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/malay-dance"><img style="width:55%" src="/images/c12.png"></a></td>
   </tr>
   <tr>
     <td class="tg-0pky">4</td>
