@@ -30,7 +30,7 @@ _No, NJC does not have a school bus service. Our students’ parents make their 
 
 **What time does the school side gate near the bus stop open and close?** 
 
-_The gate adjacent to the bus stop along Dunearn Road allows students to enter the College via the Sports Complex. This gate is opened from 6:00 am to 7:40 am (and 8:40 am on Thursdays) each morning, and from 1:00 pm to 10:00 pm in the afternoons/evenings. The gate is accessible from 6:00 am to 6:00 pm on Saturdays. Access via this gate is done electronically using registered EZ-Link cards. (These timings may be adjusted according to the college calendar.)_
+_The gate adjacent to the bus stop along Dunearn Road allows students to enter the College via the Sports Complex. This gate is opened from 6:00 am to 7:40 am (and 8:40 am on Thursdays) each morning, and from 12:00 pm to 10:00 pm in the afternoons/evenings. The gate is accessible from 6:00 am to 6:00 pm on Saturdays. Access via this gate is done electronically using registered EZ-Link cards. (These timings may be adjusted according to the college calendar.)_
 
 **How much do I have to pay for my child’s school fees?**  
 
@@ -98,7 +98,7 @@ _As a baseline, we expect JH1 & JH2 students to either pass Language Arts (the e
 
 **There is no O-Level cohort at NJC. What would happen to my child if he/she is not able to cope with the IP?**  
 
-_We will take care of every child.Learning is personalised and differentiated to ensure that all learners are able to optimise the learning experience. In a similar vein, every learner is supported to ensure that learning gaps are addressed in a timely manner and that the learner rebuilds confidence._  
+_We will take care of every child. Learning is personalised and differentiated to ensure that all learners are able to optimise the learning experience. In a similar vein, every learner is supported to ensure that learning gaps are addressed in a timely manner and that the learner rebuilds confidence._  
 
 _There have been instances where a child and his/her parents feel that another education track is more appropriate. We have facilitated the necessary and continued to monitor the growth and progress of the child. These children have done very well for themselves._ 
 
@@ -110,17 +110,11 @@ Boarding Programme 
 
 _Boarding is an integral part of the NJC IP experience. Boarding helps our students to develop independence, and knowledge, skills and values that are fundamental to living in a community. The closer relationships that are forged during Boarding and the memorable experiences would last a lifetime and, even more crucially, contribute towards character and resilience building._  
 
-_Boarding is something every child and parent looks forward to. In the event that there are extenuating circumstances that prohibit a child from boarding,a request to defer boarding may be made to Principal of NJC for consideration._
+_Boarding is something every child and parent looks forward to. In the event that there are extenuating circumstances that prohibit a child from boarding, a request to defer boarding may be made to Principal of NJC for consideration._
 
-**How much does the boarding programme cost?**
 
-_Each child nominally pays a substantially subsidised rate of $600-800 per year for Boarding (i.e. to board for about 1 term or 6-7 weeks). Support for students who require financial aid can be provided on a case-by-case basis._ 
 
-**Will there be any boarding programme given the Covid situation?**
-
-_Special boarding programmes (or Self Mastery Plus Programmes) which are non-residential have been mounted for our students to support their personal development and enrich their learning experiences. With the relaxation of Safe Management Measures, we look forward to reinstating the boarding programme in a calibrated manner._
-
-CCAs 
+**CCAs **
 
 **What CCAs can a JH1 student join?** 
 
@@ -136,9 +130,9 @@ Research@NJC
 
 **What research opportunities does NJC provide?**
 
-_All JH students will read the Special Programme in Inquiry and REsearch (SPIRE). SPIRE starts in the second half of JH2. Your child will be introduced to the basics of research, specifically to learn how to read academic papers, understand the knowledge creation process, develop capacity in asking and framing research questions and write up a research proposal. Your child is free to explore any academic field (Sciences, Mathematics, Sport Science, Humanities or Language Arts) and will be mentored by a teacher who has expertise in that field. In JH3, your child will continue with what he/she had previously proposed, e.g. conduct experiments, develop models and simulations, administer investigative surveys, etc. The SPIRE experience culminates with a Symposium at the end of JH3._  
+_All JH students will read the Special Programme in Inquiry and REsearch (SPIRE). SPIRE starts in the second half of JH2. Your child will be introduced to the basics of research, specifically to learn how to read academic papers, understand the knowledge creation process, develop capacity in asking and framing research questions and write a research proposal. Your child is free to explore any academic field (Sciences, Mathematics, Sport Science, Humanities or Language Arts) and will be mentored by a teacher who has expertise in that field. In JH3, your child will continue with what he/she had previously proposed, e.g. conduct experiments, develop models and simulations, administer investigative surveys, etc. The SPIRE experience culminates with a Symposium at the end of JH3._  
 
-_Your child could also choose to further his/her research experience by participating in the College’s Science Training & Research (STaR) Programme. This programme affords your child the opportunity to work with research scientists at various academic (e.g. NUS, NTU, SUTD), research (e.g. A\*STAR) institutes and industry partners under the guidance of professional academics or principal investigators. Further to this, your child would also have the opportunity to participate in research exchange programmes with various high schools from Singapore and around the world (e.g. Australia, Japan, Russia, South Korea, Thailand, Vietnam, United Kingdom) in various fields (Sciences, Mathematics, Sport Science, Humanities or Language Arts)._  
+_Your child could also choose to further his/her research experience by participating in the College’s Science Training & Research (STaR) Programme. This programme affords your child the opportunity to work with research scientists at various academic (e.g. NUS, NTU, SUTD), research institutes (e.g. A\*STAR) institutes and industry partners under the guidance of professional academics or principal investigators. Further to this, your child would also have the opportunity to participate in research exchange programmes with various high schools from Singapore and around the world (e.g. Australia, Japan, Russia, South Korea, Thailand, Vietnam, United Kingdom) in various fields (Sciences, Mathematics, Sport Science, Humanities or Language Arts)._  
 
 _All research students have the opportunity to present their work at various platforms, ranging from local & international fairs to academic conferences. Research exchange programmes are available for JH3-SH1 students. Finally, students may choose to read research as a Higher 3 (H3) subject when in Senior High._
 
@@ -176,9 +170,9 @@ _Students who are successfully admitted via the DSA are expected to honour their
 
 **When will the results of the DSA application be announced?** 
 
-_All successful applicants will be informed of the outcome — Confirmed Offer, Waiting List, or Unsuccessful — by 15 Sep 2022._
+_All successful applicants will be informed of the outcome — Confirmed Offer, Waiting List, or Unsuccessful — by 11 Sep 2023._
 
-_Students given a Confirmed Offer are guaranteed a place in the school, provided that they accept the offer via the DSA-Sec Portal between 31 Oct – 4 Nov 2022, and qualify for the Express stream based on their PSLE results._
+_Students given a Confirmed Offer are guaranteed a place in the school, provided that they accept the offer via the DSA-Sec Portal between 23 Oct – 27 Oct 2023, and qualify for the Express stream based on their PSLE results._
 
 **If I am unsuccessful under the DSA, how else can I gain admission to NJC?** 
 
