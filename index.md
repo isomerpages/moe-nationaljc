@@ -15,6 +15,18 @@ sections:
         - title: News
           description: ""
           url: resources/news/
+  - infobar:
+      title: IP DSA
+      subtitle: Intergrated programme
+      description: Direct School Admission
+      button: more details
+      url: https://www.nationaljc.moe.edu.sg/admissions/ip-dsa/
+  - infobar:
+      title: JC DSA
+      subtitle: junior college
+      description: Direct School Admission
+      button: More details
+      url: https://www.nationaljc.moe.edu.sg/admissions/jc-dsa/
   - infopic:
       title: Our Strategic Thrusts
       description: "Our strategic thrusts are crafted to reflect our vision and
