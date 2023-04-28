@@ -20,7 +20,7 @@ sections:
       subtitle: Intergrated programme
       description: Direct School Admission
       button: more details
-      url: https://www.nationaljc.moe.edu.sg/admissions/ip-dsa/
+      url: /admissions/ip-dsa/
   - infobar:
       title: JC DSA
       subtitle: junior college
