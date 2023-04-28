@@ -7,13 +7,13 @@ description: ""
 
 <img src="/images/ad1.png" style="width:99%">
 
-**Direct School Admission into 2-year JC Programme for Academic Year 2023 – DSA-JC Exercise 2022**
+**Direct School Admission into 2-year JC Programme for Academic Year 2024 – DSA-JC Exercise 2023**
 
-The Direct School Admission-JC (DSA-JC) is an annual exercise for students seeking admission directly to a Junior College. We invite all interested 2022 O-Level graduands to apply to National Junior College.
+The Direct School Admission-JC (DSA-JC) is an annual exercise for students seeking admission directly to a Junior College. We invite all interested 2023 O-Level graduands to apply to National Junior College.
 
-Students who are successful are guaranteed a place, provided that they meet the eligibility criteria for admission to a JC based on their GCE O-Level results. Students admitted under DSA-JC are expected to honour their commitment to the JC. They will&nbsp;**not**&nbsp;be allowed to take part in the Joint Admissions Exercise (JAE) in 2023. They will also&nbsp;**not**&nbsp;be allowed to transfer to another JC after the release of the GCE O-Level results.
+Students who are successful are guaranteed a place, provided that they meet the eligibility criteria for admission to a JC based on their GCE O-Level results. Students admitted under DSA-JC are expected to honour their commitment to the JC. They will&nbsp;**not**&nbsp;be allowed to take part in the Joint Admissions Exercise (JAE) in 2024. They will also&nbsp;**not**&nbsp;be allowed to transfer to another JC after the release of the GCE O-Level results.
 
-For 2022, the DSA-JC Exercise will take place from May to September.
+For 2023, the DSA-JC Exercise will take place from May to September.
 
 **Talent Areas**&nbsp;
 
