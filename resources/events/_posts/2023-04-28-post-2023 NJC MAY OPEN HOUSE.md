@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**TIME: 9am-2pm**  
+**20 MAY, TIME: 9am-2pm**  
 **Programme in LT5**  
 930am Principal’s Address  
 950am Teacher Panel  
