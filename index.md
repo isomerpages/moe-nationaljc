@@ -26,7 +26,7 @@ sections:
       subtitle: junior college
       description: Direct School Admission
       button: More details
-      url: https://www.nationaljc.moe.edu.sg/admissions/jc-dsa/
+      url: /admissions/jc-dsa/
   - infopic:
       title: Our Strategic Thrusts
       description: "Our strategic thrusts are crafted to reflect our vision and
