@@ -21,7 +21,7 @@ We invite students with special talents and/or achievements in the following are
 
 |  |  |
 |---|---|
-| **Co-Curricular Activities**<br><br>Please refer to this [page](https://moe-nationaljc-staging.netlify.app/co-curricular-activities/overview) for a description of CCAs offered in NJC | **Sports and Games**<br>Basketball<br>Canoeing<br>Cross Country; Track and Field<br>Shooting<br>Softball (girls only)<br>Squash<br><br>**Performing Arts**<br>Concert Band <br>Choir<br>Chinese Dance<br>Modern Dance<br>Indian Dance<br>Malay Dance<br>Guitar Ensemble <br>Guzheng Ensemble<br>String Ensemble<br>Chinese Orchestra |
+| **Co-Curricular Activities**<br><br>Please refer to this [page](https://moe-nationaljc-staging.netlify.app/co-curricular-activities/overview) for a description of CCAs offered in NJC | **Sports and Games**<br>Basketball<br>Canoeing<br>Cross Country; Track and Field<br>Shooting<br>Softball (girls only)<br>Squash<br><br>**Performing Arts**<br>Choir <br>Chinese Dance<br>Chinese Orchestra<br>Concert Band<br>Guitar Ensemble<br>Guzheng Ensemble<br>Indian Dance <br>Malay Dance<br>Modern Dance<br>String Ensemble |
 | **Music** | **Music Programme**  <br>*(will be required to take Music as an academic subject for 4 years in Junior High)* |
 | **Science, Technology, Engineering and Mathematics** | **Engineering Innovation and Solutions** <br>(*will be required to be engaged in and lead STEAM-based activities for 4 years in Junior High)* |
 | **Visual Arts, Design and Media** | **MOE Art Elective Programme **<br>*(will be required to take Art as an academic subject for 4 years in Junior High) *|
