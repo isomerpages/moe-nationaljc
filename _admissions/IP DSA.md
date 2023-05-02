@@ -28,7 +28,7 @@ We invite students with special talents and/or achievements in the following are
 
 **Application**
 
-Applications for the DSA-Sec&nbsp;**are free-of-charge and must be submitted through the online [DSA-Sec Portal](https://www.moe.gov.sg/secondary/dsa/application)**. <br>Applications&nbsp;**open&nbsp;on 4 May 2023 (Thu), 11 am and close on 31 May 2023 (Wed), 3 pm**.
+Applications for the DSA-Sec&nbsp;**are free-of-charge and must be submitted through the online [DSA-Sec Portal](https://www.moe.gov.sg/secondary/dsa/application)**. <br><br>Applications&nbsp;**open&nbsp;on 4 May 2023 (Thu), 11 am and close on 31 May 2023 (Wed), 3 pm**.
 
 Please refer to the MOE website:&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)&nbsp;for more details.
 
