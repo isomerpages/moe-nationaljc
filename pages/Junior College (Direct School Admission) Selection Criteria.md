@@ -80,5 +80,6 @@ In addition, each talent area has specific criteria as shown below. Please note 
 | 3.  | (1) <br>(2)<br>(3) | Students admitted through MLEP must offer H2 Malay Language &amp; Literature. This is an examinable A-Level subject. |
 | 4.  | (1) <br>(2)<br>(3) | Students admitted through TLEP must offer H2 Tamil Language &amp; Literature. This is an examinable A-Level subject. |
 | 5.  | (1) <br>(2)<br>(3) |Students admitted through DSA Research must enroll for H3 Science Research and undertake research project(s) in NJC. <br>This is an examinable A-Level subject.|
+**Click&nbsp;[here](https://nationaljc.moe.edu.sg/admissions/jc-dsa/)&nbsp;to return to the JC DSA page.**
 
 **
