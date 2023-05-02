@@ -35,7 +35,7 @@ _The selection criteria below are subject to changes. Applicants are advised to 
 | 1. Concert Band | (1) Ability to play proficiently one of the following band instruments: euphonium, tuba, trumpet, trombone, horn, cornet, flute, oboe, clarinet, bassoon, double bass, harp, saxophone OR a range of percussion instruments<br>(2) Aural and sight-reading ability<br>(3) Musicianship | 4-year commitment to CCA |
 | 2. Choir | (1) Ability to reproduce a series of notes accurately and with ease<br>(2) Musical sensitivity<br>(3) Ability to sing with expression | 4-year commitment to CCA |
 | 3. Chinese Dance | (1) Flexibility and coordination.<br>(2) Clarity, flow and control of body movements.<br>(3) Skills acquisition during choreography. | 4-year commitment to CCA |
-| 4. Western Dance | (1) Movement and technique<br>(2) Spatial awareness<br>(3) Dynamic awareness<br>(4) Performance quality | 4-year commitment to CCA |
+| 4. Modern Dance<br>(Western Dance) | (1) Movement and technique<br>(2) Spatial awareness<br>(3) Dynamic awareness<br>(4) Performance quality | 4-year commitment to CCA |
 | 5. Indian Dance | (1) Technique such as posture, araimandi and overall presentation style<br>(2) Exhibition of excellent footwork and impressive gestures<br>(3) Versatility in different genre (Classical, Bollywood and Folk) | 4-year commitment to CCA |
 | 6. Malay Dance | (1) Fundamental skills of flexibility and coordination<br>(2) Exhibit excellent footwork and impressive gestures<br>(3) Skills acquisition during dance modeling | 4-year commitment to CCA |
 | 7. Guitar Ensemble | (1) Ability to play the Guitar<br>(2) Aural ability<br>(3) Musicianship | 4-year commitment to CCA |
