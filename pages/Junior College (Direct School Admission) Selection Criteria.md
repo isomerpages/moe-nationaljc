@@ -75,6 +75,10 @@ In addition, each talent area has specific criteria as shown below. Please note 
 
 | Talent Area | Criteria | Commitment |
 |---|---|---|
-| 1. STEAM (Science, Technology, Engineering &amp; Mathematics) | (1) Ability to empathise with others/problem from multiple perspectives<br>(2) Strong curiosity for the unknown and keenness for learning<br>(3) Broad, integrative, innovative, evaluative and versatile in thinking<br>(4) Potential and interest to  develop as an Innovation and Entrepreneurship Leader<br><br>Applicants may be asked to submit their portfolio (consisting of personal statement and relevant supporting documents) and attend an in-person situational test as part of the shortlisting process. | To be engaged in and lead STEAM-based co-curricular activities (e.g. coding workshops, design thinking workshops, innovation projects etc.) for 4 years in Junior High. |
+| 1.  | (1) <br>(2)<br>(3) | 2-year commitment to CCA |
+| 2.  | (1) <br>(2)<br>(3) | 2-year commitment to CCA |
+| 3.  | (1) <br>(2)<br>(3) | 2-year commitment to CCA |
+| 4.  | (1) <br>(2)<br>(3) | 2-year commitment to CCA |
+| 5.  | (1) <br>(2)<br>(3) | 2-year commitment to CCA |
 
 **
