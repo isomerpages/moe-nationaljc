@@ -16,15 +16,13 @@ sections:
           description: ""
           url: resources/news/
   - infobar:
-      title: IP DSA
-      subtitle: Integrated programme
-      description: Direct School Admission
+      title: DSA-Sec
+      description: Direct School Admission to NJC's Six-Year Integrated Programme
       button: more details
       url: /admissions/ip-dsa/
   - infobar:
-      title: JC DSA
-      subtitle: junior college
-      description: Direct School Admission
+      title: DSA-JC
+      description: Direct School Admission to NJC's  Two-Year A-Level Programme
       button: More details
       url: /admissions/jc-dsa/
   - infopic:
