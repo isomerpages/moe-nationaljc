@@ -20,5 +20,5 @@ For any queries, you may contact us at the following emails.
 | Name | Designation | Email |
 |:---:|:---:|:---:|
 | Ms Lim Wei Li | HOD Research | lim_wei_li@moe.edu.sg |
-| Mr Arthur Goh | SH Research 1  | kuah_wei_fen@moe.edu.sg |
-|Ms Kuah Wei Fen  | SH Research 2 | goh_chong_meng_arthur@moe.edu.sg |
+| Mr Arthur Goh | SH Research 1  | goh_chong_meng_arthur@moe.edu.sg|
+|Ms Kuah Wei Fen  | SH Research 2 |kuah_wei_fen@moe.edu.sg   |
