@@ -71,7 +71,7 @@ In addition, each talent area has specific criteria as shown below. Please note 
 | 6. Indian Language, Drama and Debating (ILDDS) | (1) Communication and thinking skills <br>(2) Passion for Indian cultural activites <br>(3) Effective team player<br>(4) Leadership qualities| 2-year commitment to CCA |
 | 7. English Language, Drama and Debating (ELDDS)| **Debate**<br>(1) Clear and logical expression <br>(2) Effective team player <br><br> **Drama**<br> (1) Ability to express oneself in an engaging manner<br>(2) Effective team player| 2-year commitment to CCA |
 | 8. Greenlink Club (Environmental Science)| (1) Communication and thinking skills<br>(2) Passion for championing green initiatives <br>(3) Effective team player<br>(4) Leadership qualities| 2-year commitment to CCA |
-| 9. Makers' Society<br>(innovation)| (1) Creative and systematic thinking<br>(2) Proficiency in technical skills required for designing and creating novel engineering products (e.g. programming, use of designing softwares, design concepts, additive manufacturing tools, woodworking) <br>(3) Leadership qualities<br>(4) Effective team player<br>(5) Passion for championing sustainability initiatives| 2-year commitment to CCA |
+| 9. Makers' Society<br>(Innovation)| (1) Creative and systematic thinking<br>(2) Proficiency in technical skills required for designing and creating novel engineering products (e.g. programming, use of designing softwares, design concepts, additive manufacturing tools, woodworking) <br>(3) Leadership qualities<br>(4) Effective team player<br>(5) Passion for championing sustainability initiatives| 2-year commitment to CCA |
 
 #### Special Programmes
 
