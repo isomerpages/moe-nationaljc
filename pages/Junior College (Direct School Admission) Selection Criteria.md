@@ -52,7 +52,7 @@ In addition, each talent area has specific criteria as shown below. Please note 
 | 2. Choir | (1) Ability to reproduce a series of notes accurately and with ease<br>(2) Musical sensitivity<br>(3) Ability to sing with expression | 2-year commitment to CCA |
 | 3. Chinese Dance | (1) Fundamental skills of flexibility and coordination<br>(2) Clarity, flow and control of body movements<br>(3) Skills acquisition during choreography<br>(4) Performance quality  | 2-year commitment to CCA |
 | 4. Western Dance | (1) Movement and technique<br>(2) Spatial awareness<br>(3) Dynamic awareness<br>(4) Performance quality | 2-year commitment to CCA |
-| 5. Indian Dance | (1) Dance technique such as posture, araimandi and overall presentation style<br>(2) Exhibition of excellent footwork and impressive gestures<br>(3) Versatility in different genre (Classical, Bollywood and Folk) | 2-year commitment to CCA |
+| 5. Indian Dance | (1) Dance technique such as posture, araimandi and overall presentation style<br>(2) Footwork and gestures<br>(3) Versatility in different genres (Classical, Bollywood and Folk) | 2-year commitment to CCA |
 | 6. Malay Dance | (1) Fundamental skills of flexibility and coordination<br>(2) Exhibit excellent footwork and impressive gestures<br>(3) Skills acquisition during dance modeling |2-year commitment to CCA |
 | 7. Guitar Ensemble | (1) Basic guitar playing techniques<br>(2) Aural ability<br>(3) Musicianship | 2-year commitment to CCA |
 | 8. Guzheng Ensemble | (1) Ability to play the Guzheng<br>(2) Aural ability<br>(3) Musicianship | 2-year commitment to CCA |
