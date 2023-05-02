@@ -34,13 +34,13 @@ In addition, each talent area has specific criteria as shown below. Please note 
 | 5. Softball | (1) Hand-eye coordination and reflexes<br>(2) Interest to lead and guide peers who are new to the sport<br>(3)Team player | 2-year commitment to CCA|
 | 6. Track &amp; Field/Cross Country | (1) Prior competitive experience in sports(not limited to track &amp; field)<br>(2) Coordination &amp; Agility<br>(3)Stamina<br>(4)Speed | 2-year commitment to CCA|
 | 7. Badminton| (1) Able to do basic footwork with a racket<br>(2) Some experiences in playing the game competitively<br>(3)Self-motivated and good team player| 2-year commitment to CCA |
-| 8.Rock Wall Climbing | (1) Balance <br>(2) Coordination<br>(3) Core and upper-body strength| 2-year commitment to CCA |
-| 9. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
-| 10. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
-| 11. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
-| 12. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
-| 13 | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
-| 14. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 8. Rock Wall Climbing | (1) Balance <br>(2) Coordination<br>(3) Core and upper-body strength| 2-year commitment to CCA |
+| 9. Floorball| (1) Interest to lead and guide peers who are new to the sport <br>(2) Team player| 2-year commitment to CCA |
+| 10. Football **(Boys Only)** | (1) Ball control <br>(2) Interest to lead and guide peers who are new to the sport <br>(3) Team player| 2-year commitment to CCA |
+| 11. Hockey **(Boys Only)**| (1) Interest to lead and guide peers who are new to the sport <br>(2) Team player| 2-year commitment to CCA |
+| 12. Netball **(Girls Only)** | (1) Proficiency in shooting (if applicable) <br>(2) Proficiency in footwork and good ball sense <br>(3) Prior experience in playing the game| 2-year commitment to CCA |
+| 13. Table Tennis| (1) Team player with passion and commitment to the sport <br>(2) Prior experience in the sport <br>(3) Interest to lead and guide peers who are new to the sport| 2-year commitment to CCA |
+| 14. Touch Rugby **(Girls Only)** | (1) Interest to lead and guide peers who are new to the sport <br>(2) Team player| 2-year commitment to CCA |
 
 ####  Performing Arts
 
