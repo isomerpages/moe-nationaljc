@@ -57,8 +57,19 @@ In addition, each talent area has specific criteria as shown below. Please note 
 | 9. String Ensemble | (1) Ability to play at least one of the following string instruments: Violin, Viola, Cello, Double Bass<br>(2) Aural ability<br>(3) Musicianship | 2-year commitment to CCA |
 | 10. Chinese Orchestra | (1) Ability to play at least one instrument associated with Chinese Orchestra<br>(2) Aural ability<br>(3) Musicianship | 2-year commitment to CCA |
 
-| 14. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+#### Clubs and Societies
 
+| Talent Area | Criteria | Commitment |
+|---|---|---|
+| 1. Production Society (Film and Photography)|Film/Videography <br>(1) Techniques in film making and critique <br>(2) Creativity and artistic deposition  <br>(3) Leadership qualities<br>*To be submitted together with application:* Portfolio in PDF format in accordance with the following criteria:<br>1. Maximum of links to 3 videos created by applicant<br>2. All videos created should be completed within the past 2 years.<br>3. File naming convention: Secondary School_Full Name of Student.pdf<br>4. Write-up about submitted video/film works  | 2-year commitment to CCA |
+| 2. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 3. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 4. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 5. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 6. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 7. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 8. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 9. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
 
 #### Special Programmes
 
