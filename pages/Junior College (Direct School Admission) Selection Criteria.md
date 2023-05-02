@@ -30,7 +30,7 @@ In addition, each talent area has specific criteria as shown below. Please note 
 | Talent Area | Criteria | Commitment |
 |---|---|---|
 | 1. Basketball | (1) Ball sense and coordination<br>(2) Agility<br>(3) Team Player | 2-year commitment to CCA |
-| 2. Canoeing &amp; Dragon Boating | (1) Psychomotor coordination<br>(2) Balance<br>(3) Minimum 'Silver' Award for NAPFA | · 2-year commitment to CCA<br>· Committed to participate in Dragonboat as well. |
+| 2. Canoeing &amp; Dragon Boating | (1) Psychomotor coordination<br>(2) Balance<br>(3) Minimum 'Silver' Award for NAPFA | 2-year commitment to CCA<br><br> Committed to participate in Dragon boating as well |
 | 3. Shooting | (1) Consistency and accuracy of shots<br>(2) Physical stability | 2-year commitment to CCA|
 | 4. Squash | (1) Ball sense<br>(2) Hand-eye coordination | 2-year commitment to CCA|
 | 5. Softball | (1) Hand-eye coordination and reflexes<br>(2) Interest to lead and guide peers who are new to the sport<br>(3) Team player | 2-year commitment to CCA|
