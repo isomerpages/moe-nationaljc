@@ -42,7 +42,7 @@ In addition, each talent area has specific criteria as shown below. Please note 
 | 11. Hockey<br> **(Boys Only)**| (1) Interest to lead and guide peers who are new to the sport <br>(2) Team player| 2-year commitment to CCA |
 | 12. Netball <br> **(Girls Only)** | (1) Proficiency in shooting (if applicable) <br>(2) Proficiency in footwork and good ball sense <br>(3) Prior experience in playing the game| 2-year commitment to CCA |
 | 13. Table Tennis| (1) Team player with passion and commitment to the sport <br>(2) Prior experience in the sport <br>(3) Interest to lead and guide peers who are new to the sport| 2-year commitment to CCA |
-| 14. Touch Rugby **(Girls Only)** | (1) Interest to lead and guide peers who are new to the sport <br>(2) Team player| 2-year commitment to CCA |
+| 14. Touch Rugby <br>**(Girls Only)** | (1) Interest to lead and guide peers who are new to the sport <br>(2) Team player| 2-year commitment to CCA |
 
 ####  Performing Arts
 
