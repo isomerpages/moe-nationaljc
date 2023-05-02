@@ -39,7 +39,7 @@ In addition, each talent area has specific criteria as shown below. Please note 
 | 8. Rock Wall Climbing | (1) Balance <br>(2) Coordination<br>(3) Core and upper-body strength| 2-year commitment to CCA |
 | 9. Floorball| (1) Interest to lead and guide peers who are new to the sport <br>(2) Team player| 2-year commitment to CCA |
 | 10. Football <br>**(Boys Only)** | (1) Ball control <br>(2) Interest to lead and guide peers who are new to the sport <br>(3) Team player| 2-year commitment to CCA |
-| 11. Hockey<br> **(Boys Only)**| (1) Interest to lead and guide peers who are new to the sport <br>(2) Team player| 2-year commitment to CCA |
+| 11. Hockey<br> **(Boys Only)**| (1) Interest to lead and guide peers who are new to the sport <br>(2) Team player| 2-year commitment to CCA|
 | 12. Netball <br> **(Girls Only)** | (1) Proficiency in shooting (if applicable) <br>(2) Proficiency in footwork and good ball sense <br>(3) Prior experience in playing the game| 2-year commitment to CCA |
 | 13. Table Tennis| (1) Team player with passion and commitment to the sport <br>(2) Prior experience in the sport <br>(3) Interest to lead and guide peers who are new to the sport| 2-year commitment to CCA |
 | 14. Touch Rugby <br>**(Girls Only)** | (1) Interest to lead and guide peers who are new to the sport <br>(2) Team player| 2-year commitment to CCA |
@@ -50,9 +50,9 @@ In addition, each talent area has specific criteria as shown below. Please note 
 |---|---|---|
 | 1. Concert Band | (1) Ability to play proficiently one of the following band instruments: euphonium, tuba, trumpet, trombone, horn, cornet, flute, oboe, clarinet, bassoon, double bass, harp, saxophone OR a range of percussion instruments<br>(2) Aural and sight-reading ability<br>(3) Musicianship | 2-year commitment to CCA |
 | 2. Choir | (1) Ability to reproduce a series of notes accurately and with ease<br>(2) Musical sensitivity<br>(3) Ability to sing with expression | 2-year commitment to CCA |
-| 3. Chinese Dance | (1) Fundamental skills of flexibility and coordination<br>(2) Clarity, flow and control of body movements<br>(3) Skills acquisition during choreography<br>(4) Performance quality  | 2-year commitment to CCA |
-| 4. Western Dance | (1) Movement and technique<br>(2) Spatial awareness<br>(3) Dynamic awareness<br>(4) Performance quality | 2-year commitment to CCA |
-| 5. Indian Dance | (1) Dance technique such as posture, araimandi and overall presentation style<br>(2) Footwork and gestures<br>(3) Versatility in different genres (Classical, Bollywood and Folk) | 2-year commitment to CCA |
+| 3. Chinese Dance | (1) Fundamental skills of flexibility and coordination<br>(2) Clarity, flow and control of body movements<br>(3) Skills acquisition during choreography<br>(4) Performance quality  | 2-year commitment to CCA|
+| 4. Western Dance | (1) Movement and technique<br>(2) Spatial awareness<br>(3) Dynamic awareness<br>(4) Performance quality | 2-year commitment to CCA|
+| 5. Indian Dance | (1) Dance technique such as posture, araimandi and overall presentation style<br>(2) Footwork and gestures<br>(3) Versatility in different genres (Classical, Bollywood and Folk) | 2-year commitment to CCA|
 | 6. Malay Dance | (1) Fundamental skills of flexibility and coordination<br>(2) Footwork and gestures<br>(3) Skills acquisition during dance modeling |2-year commitment to CCA |
 | 7. Guitar Ensemble | (1) Basic guitar playing techniques<br>(2) Aural ability<br>(3) Musicianship | 2-year commitment to CCA |
 | 8. Guzheng Ensemble | (1) Ability to play the Guzheng<br>(2) Aural ability<br>(3) Musicianship | 2-year commitment to CCA |
