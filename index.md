@@ -17,7 +17,7 @@ sections:
           url: resources/news/
   - infobar:
       title: IP DSA
-      subtitle: Intergrated programme
+      subtitle: Integrated programme
       description: Direct School Admission
       button: more details
       url: /admissions/ip-dsa/
