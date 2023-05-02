@@ -21,14 +21,14 @@ We invite students with special talents and/or achievements in the following are
 
 |  |  |
 |---|---|
-| Co-Curricular Activities<br><br>Please refer to this [page](https://moe-nationaljc-staging.netlify.app/co-curricular-activities/overview) for a description of CCAs offered in NJC | **Sports and Games**<br><br>Basketball<br>Canoeing<br>Cross Country; Track and Field<br>Shooting<br>Softball (girls only)<br>Squash<br><br>**Performing Arts**<br><br>Concert Band <br>Choir<br>Chinese Dance<br>Modern Dance<br>Indian Dance<br>Malay Dance<br>Guitar Ensemble <br>Guzheng Ensemble<br>String Ensemble<br>Chinese Orchestra |
-| Music | Music Programme  <br>**(will be required to take Music as an academic subject for 4 years in Junior High)** |
-| Science, Technology, Engineering and Mathematics | Engineering Innovation and Solutions <br>(**will be required to be engaged in and lead STEAM-based activities for 4 years in Junior High)** |
-| Visual Arts, Design and Media | MOE Art Elective Programme <br>**(will be required to take Art as an academic subject for 4 years in Junior High)** |
+| Co-Curricular Activities<br><br>Please refer to this [page](https://moe-nationaljc-staging.netlify.app/co-curricular-activities/overview) for a description of CCAs offered in NJC | **Sports and Games**<br>Basketball<br>Canoeing<br>Cross Country; Track and Field<br>Shooting<br>Softball (girls only)<br>Squash<br><br>**Performing Arts**<br>Concert Band <br>Choir<br>Chinese Dance<br>Modern Dance<br>Indian Dance<br>Malay Dance<br>Guitar Ensemble <br>Guzheng Ensemble<br>String Ensemble<br>Chinese Orchestra |
+| Music | Music Programme  <br>*(will be required to take Music as an academic subject for 4 years in Junior High)* |
+| Science, Technology, Engineering and Mathematics | Engineering Innovation and Solutions <br>(*will be required to be engaged in and lead STEAM-based activities for 4 years in Junior High)* |
+| Visual Arts, Design and Media | MOE Art Elective Programme <br>*(will be required to take Art as an academic subject for 4 years in Junior High) *|
 
 **Application**
 
-Applications for the DSA-Sec&nbsp;**are free-of-charge and must be submitted through the online DSA-Sec Portal**. <br>Applications&nbsp;**open&nbsp;on 4 May 2023 (Thu), 11 am and close on 31 May 2023 (Wed), 3 pm**.
+Applications for the DSA-Sec&nbsp;**are free-of-charge and must be submitted through the online [DSA-Sec Portal](https://www.moe.gov.sg/secondary/dsa/application)**. <br>Applications&nbsp;**open&nbsp;on 4 May 2023 (Thu), 11 am and close on 31 May 2023 (Wed), 3 pm**.
 
 Please refer to the MOE website:&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec)&nbsp;for more details.
 
