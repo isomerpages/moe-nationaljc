@@ -27,12 +27,20 @@ In addition, each talent area has specific criteria as shown below. Please note 
 
 | Talent Area | Criteria | Commitment |
 |---|---|---|
-| 1. Basketball | (1) Ball sense<br>(2) Agility<br>(3) Coordination | 2-year commitment to CCA |
-| 2. Canoeing | (1) Psychomotor coordination<br>(2) Balance | · 2-year commitment to CCA<br>· Committed to participate in Dragonboat as well. |
-| 3. Track &amp; Field <br><br>4. Cross Country | (1) Coordination<br>(2) Speed<br>(3) Explosiveness<br>(4) Agility<br>(5) Endurance | · 2-year commitment to CCA<br>· Track &amp; Field and Cross Country operate as one CCA. Applicants to Cross-Country are expected to commit to Track &amp; Field, and vice versa. |
-| 5. Shooting | (1) Concentration<br>(2) Physical Stability | 2-year commitment to CCA |
-| 6. Softball<br>(girls only) | (1) Reflexes<br>(2) Hand-eye coordination | 2-year commitment to CCA |
-| 7. Squash | (1) Ball sense<br>(2) Hand-eye coordination | 2-year commitment to CCA |
+| 1. Basketball | (1) Ball sense and coordination<br>(2) Agility<br>(3) Team Player | 2-year commitment to CCA |
+| 2. Canoeing | (1) Psychomotor coordination<br>(2) Balance<br>(3) Minimum 'Silver' Award for NAPFA | · 2-year commitment to CCA<br>· Committed to participate in Dragonboat as well. |
+| 3. Shooting | (1) Consistency and accuracy of shots<br>(2) Physical Stability | 2-year commitment to CCA|
+| 4. Squash | (1) Ball Sense<br>(2) Hand-eye coordination | 2-year commitment to CCA|
+| 5. Softball | (1) Hand-eye coordination and reflexes<br>(2) Interest to lead and guide peers who are new to the sport<br>(3)Team player | 2-year commitment to CCA|
+| 6. Track &amp; Field/Cross Country | (1) Prior competitive experience in sports(not limited to track &amp; field)<br>(2) Coordination &amp; Agility<br>(3)Stamina<br>(4)Speed | 2-year commitment to CCA|
+| 7. Badminton| (1) Able to do basic footwork with a racket<br>(2) Some experiences in playing the game competitively<br>(3)Self-motivated and good team player| 2-year commitment to CCA |
+| 8.Rock Wall Climbing | (1) Balance <br>(2) Coordination<br>(3) Core and upper-body strength| 2-year commitment to CCA |
+| 9. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 10. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 11. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 12. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 13 | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 14. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
 
 ####  Performing Arts
 
@@ -48,5 +56,11 @@ In addition, each talent area has specific criteria as shown below. Please note 
 | 8. Guzheng Ensemble | (1) Ability to play the Guzheng<br>(2) Aural ability<br>(3) Musicianship | 2-year commitment to CCA |
 | 9. String Ensemble | (1) Ability to play at least one of the following string instruments: Violin, Viola, Cello, Double Bass<br>(2) Aural ability<br>(3) Musicianship | 2-year commitment to CCA |
 | 10. Chinese Orchestra | (1) Ability to play at least one instrument associated with Chinese Orchestra<br>(2) Aural ability<br>(3) Musicianship | 2-year commitment to CCA |
+
+#### Special Programmes
+
+| Talent Area | Criteria | Commitment |
+|---|---|---|
+| 1. STEAM (Science, Technology, Engineering &amp; Mathematics) | (1) Ability to empathise with others/problem from multiple perspectives<br>(2) Strong curiosity for the unknown and keenness for learning<br>(3) Broad, integrative, innovative, evaluative and versatile in thinking<br>(4) Potential and interest to  develop as an Innovation and Entrepreneurship Leader<br><br>Applicants may be asked to submit their portfolio (consisting of personal statement and relevant supporting documents) and attend an in-person situational test as part of the shortlisting process. | To be engaged in and lead STEAM-based co-curricular activities (e.g. coding workshops, design thinking workshops, innovation projects etc.) for 4 years in Junior High. |
 
 **
