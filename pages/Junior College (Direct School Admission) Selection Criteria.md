@@ -34,7 +34,7 @@ In addition, each talent area has specific criteria as shown below. Please note 
 | 3. Shooting | (1) Consistency and accuracy of shots<br>(2) Physical stability | 2-year commitment to CCA|
 | 4. Squash | (1) Ball sense<br>(2) Hand-eye coordination | 2-year commitment to CCA|
 | 5. Softball | (1) Hand-eye coordination and reflexes<br>(2) Interest to lead and guide peers who are new to the sport<br>(3) Team player | 2-year commitment to CCA|
-| 6. Track &amp; Field/Cross Country | (1) Prior competitive experience in sports(not limited to track &amp; field)<br>(2) Coordination &amp; Agility<br>(3) Stamina<br>(4) Speed | 2-year commitment to CCA|
+| 6. Track &amp; Field/Cross Country | (1) Prior competitive experience in sports(not limited to track &amp; field)<br>(2) Coordination &amp; Agility<br>(3) Stamina<br>(4) Speed | 2-year commitment to CCA<br><br> Track &amp; Field and Cross Country operate as one CCA. Applicants to Cross Country are expected to commit to Track &amp; Field, and vice versa.|
 | 7. Badminton| (1) Able to do basic footwork with a racket<br>(2) Prior experiences in playing the game competitively is preferred <br>(3) Self-motivated and good team player| 2-year commitment to CCA |
 | 8. Rock Wall Climbing | (1) Balance <br>(2) Coordination<br>(3) Core and upper-body strength| 2-year commitment to CCA |
 | 9. Floorball| (1) Interest to lead and guide peers who are new to the sport <br>(2) Team player| 2-year commitment to CCA |
