@@ -43,13 +43,13 @@ Applicants will be shortlisted and selected based on the following general crite
 
 as well as&nbsp;[criteria](https://moe-nationaljc-staging.netlify.app/admissions/jc-dsa)&nbsp;specific to each talent area.
 
-All shortlisted candidates will be&nbsp;**notified via email by mid-July 2022**&nbsp;to attend an in-person audition / trial&nbsp;held in National Junior College. More details on the performance task will be provided in the email notification.
+All shortlisted candidates will be&nbsp;**notified via email by mid-July 2023**&nbsp;to attend an in-person audition / trial&nbsp;held in National Junior College. More details on the performance task will be provided in the email notification.
 
 Thereafter, applicants who are further shortlisted will be&nbsp;**notified via email**&nbsp;to attend an in-person interview, also held in National Junior College. The interview panel will comprise School Leaders, HODs and/or the CCA teachers.
 
 #### Offer of Places
 
-Applicants who are shortlisted for interviews will be notified via email of the results of the DSA-JC application by&nbsp;**5 August 2022**. Successful applicants will be offered a place in National Junior College for the academic year 2023.
+Applicants who are shortlisted for interviews will be notified via email of the results of the DSA-JC application by&nbsp;**8 August 2023**. Successful applicants will be offered a place in National Junior College for the academic year 2024.
 
 #### Enquiries
 
