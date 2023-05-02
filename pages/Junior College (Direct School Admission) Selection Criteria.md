@@ -65,11 +65,11 @@ In addition, each talent area has specific criteria as shown below. Please note 
 | 2. AVA &amp; PA Club| (1) Technical proficiency in audio and video <br>(2) Effective team player <br>(3) Leadership qualities| 2-year commitment to CCA |
 | 3. Chinese Language, Drama and Debating (CLDDS)| (1) Passion in Chinese cultural activties (drama, debate, calligraphy or literature)<br>(2) Communication and thinking skills<br>(3) Effective team player| 2-year commitment to CCA |
 | 4. Interact Club (Community Youth Leadership) | (1) Advocate for self-initiate community service projects<br>(2) Strategic thinking, providing a broad perspective of community issues <br>(3) Ability to engage with the community| 2-year commitment to CCA |
-| 5. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
-| 6. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
-| 7. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
-| 8. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
-| 9. | (1) <br>(2) <br>(3)| 2-year commitment to CCA |
+| 5. Malay Language, Drama and Debating (MLDDS) | (1) Communication and thinking skills <br>(2) Passion for Malay cultural activites <br>(3) Effective team player<br>(4) Leadership qualities| 2-year commitment to CCA |
+| 6. Indian Language, Drama and Debating (ILDDS) | (1) Communication and thinking skills <br>(2) Passion for Indian cultural activites <br>(3) Effective team player<br>(4) Leadership qualities| 2-year commitment to CCA |
+| 7. English Language, Drama and Debating (ELDDS)| **Debate**<br>(1) Clear and logical expression <br>(2) Effective team player <br> **Drama**<br> (1) Ability to express oneself in an engaging manner<br>(2) Effective team player| 2-year commitment to CCA |
+| 8. Greenlink Club (Environmental Science)| (1) Communication and thinking skills<br>(2) Passion for championing green initiatives <br>(3) Effective team player<br>(4) Leadership qualities| 2-year commitment to CCA |
+| 9. Makers' Society<br><br>DSA listing- Main Category:<br>Entrepreneurship and innovation<br>(Makers' Society)<br><br>Talent Area: Innovation| (1) Creative and systematic thinking<br>(2) Proficiency in technical skills required for designing and creating novel engineering products (e.g. programming, use of designing softwares, design concepts, additive manufacturing tools, woodworking) <br>(3)Leadership qualities<br>(4) Effective team player<br>(5) Passion for championing sustainability initiatives| 2-year commitment to CCA |
 
 #### Special Programmes
 
