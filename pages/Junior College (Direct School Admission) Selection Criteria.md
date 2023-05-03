@@ -3,9 +3,7 @@ title: Junior College (Direct School Admission) Selection Criteria
 permalink: /junior-college-selection-criteria/
 description: ""
 ---
-### Junior College (Direct School Admission) Selection Criteria
-
-  
+ 
 #### DSA-JC Selection Criteria
 
 Applicants will be shortlisted and selected based on the following general criteria:&nbsp;&nbsp;
@@ -82,7 +80,3 @@ In addition, each talent area has specific criteria as shown below. Please note 
 | 5. Science Training and Research Programme  | (1) Demonstrate knowledge, clear motivation, interest and passion in STEM Research and Innovation<br>(2) Strong communication and systematic thinking skills<br>(3) Effective team player and leadership qualities<br>(4) Potential and interest to pursue STEM-related career<br>(5) Passion for championing sustainability and community initiatives using STEM.<br><br>As part of the shortlisting process, applicants need to submit a personal statement (maximum 500 words) detailing reason(s) for selection and his/her involvement in STEM/research activities.<br><br> Relevant supporting documents (e.g. abstracts of research reports, photos of exhibits, prototypes, certificates etc.) should also be submitted.|Students admitted through DSA Research must undertake research project(s) in NJC and apply for H3 Science Research. This is an examinable A-Level subject.|
 
 <br>**Click&nbsp;[here](https://nationaljc.moe.edu.sg/admissions/jc-dsa/)&nbsp;to return to the JC DSA page.**
-
-
-
-
