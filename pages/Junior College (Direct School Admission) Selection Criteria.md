@@ -3,7 +3,6 @@ title: Junior College (Direct School Admission) Selection Criteria
 permalink: /junior-college-selection-criteria/
 description: ""
 ---
- 
 #### DSA-JC Selection Criteria
 
 Applicants will be shortlisted and selected based on the following general criteria:&nbsp;&nbsp;
