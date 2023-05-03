@@ -15,6 +15,16 @@ sections:
         - title: News
           description: ""
           url: resources/news/
+  - infobar:
+      title: DSA-Sec
+      description: Direct School Admission to NJC's Six-Year Integrated Programme
+      button: more details
+      url: /admissions/ip-dsa/
+  - infobar:
+      title: DSA-JC
+      description: Direct School Admission to NJC's  Two-Year A-Level Programme
+      button: More details
+      url: /admissions/jc-dsa/
   - infopic:
       title: Our Strategic Thrusts
       description: "Our strategic thrusts are crafted to reflect our vision and
