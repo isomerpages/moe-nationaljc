@@ -25,7 +25,7 @@ We invite students with special talents and/or achievements in the following are
 | 2. Art Excellence  | MOE Art Elective Programme (AEP) <br>**(must offer A-Level H2 Art**) |
 | 3. Music Excellence  | Music Programme<br> **(must offer A-Level H2 Music)** |
 | 4. Science Research Excellence (refer to this [page](https://moe-nationaljc-staging.netlify.app/niche-programmes/research) for details) | Science Training and Research Programme<br> **(must offer A-Level H3 Science Research)** |
-| 5. Language Elective Programme | Malay Language Elective Programme<br> **(must offer A-Level H2 Malay Language &amp; Literature)**<br><br>Tamil Language Elective Programme<br> **(must offer A-Level H2 Tamil Language &amp; Literature)** |
+| 5. Language Elective Programmes | Malay Language Elective Programme<br> **(must offer A-Level H2 Malay Language &amp; Literature)**<br><br>Tamil Language Elective Programme<br> **(must offer A-Level H2 Tamil Language &amp; Literature)** |
 
 #### Online Application
 
