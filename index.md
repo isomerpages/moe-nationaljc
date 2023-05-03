@@ -43,7 +43,7 @@ sections:
       alt: Research
   - infopic:
       title: Our Reflections
-      description: Learn what our staff, student and alumni have to say.
+      description: Learn what our staff, students and alumni have to say.
       button: Learn more here
       url: /voices
       image: /images/reflection1.png
