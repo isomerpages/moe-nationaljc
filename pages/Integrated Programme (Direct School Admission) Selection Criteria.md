@@ -3,8 +3,6 @@ title: Integrated Programme (Direct School Admission) Selection Criteria
 permalink: /Integrated-Programme-Selection-Criteria/
 description: ""
 ---
-### Integrated Programme (Direct School Admission) Selection Criteria
-
 #### DSA-Sec Selection Criteria
 
 Applicants will be shortlisted and selected based on the following general criteria:  
