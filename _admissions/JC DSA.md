@@ -29,7 +29,7 @@ We invite students with special talents and/or achievements in the following are
 
 #### Online Application
 
-Applications for the DSA-JC to National Junior College are free-of-charge and&nbsp;**must**&nbsp;be submitted online at&nbsp;[https://go.gov.sg/njc-dsa-jc-2023](https://go.gov.sg/njc-dsa-jc-2023)&nbsp;between&nbsp;**4&nbsp;May 2023 (Thu)**,&nbsp;**12 pm&nbsp;and&nbsp;26 June 2023 (Mon)**,&nbsp;**5 pm**.
+Applications for the DSA-JC to National Junior College are free-of-charge and&nbsp;**must**&nbsp;be submitted online at <a target="_blank" href="https://go.gov.sg/njc-dsa-jc-2023">https://go.gov.sg/njc-dsa-jc-2023</a> <br>**4&nbsp;May 2023 (Thu)**,&nbsp;**12 pm&nbsp;and&nbsp;26 June 2023 (Mon)**,&nbsp;**5 pm**.
 
 In the event that you are unable to upload your documents through the online application, you may email your documents to&nbsp;[njc@moe.edu.sg](mailto:njc@moe.edu.sg)&nbsp;with the subject “DSA-JC Supporting Documents”.
 
