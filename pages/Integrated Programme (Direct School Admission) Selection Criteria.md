@@ -22,7 +22,7 @@ _The selection criteria below are subject to changes. Applicants are advised to 
 | 1. Basketball | (1) Ball sense<br>(2) Agility<br>(3) Coordination | 4-year commitment to CCA |
 | 2. Canoeing | (1) Psychomotor coordination<br>(2) Balance | 4-year commitment to CCA<br><br>Committed to participate in Dragonboat as well. |
 | 3. Track &amp; Field <br><br>4. Cross Country | (1) Coordination<br>(2) Speed<br>(3) Explosiveness<br>(4) Agility<br>(5) Endurance | 4-year commitment to CCA<br><br>Track &amp; Field and Cross Country operate as one CCA. Applicants to Cross-Country are expected to commit to Track &amp; Field, and vice versa. |
-| 5. Shooting | (1) Concentration<br>(2) Physical Stability | 4-year commitment to CCA |
+| 5. Shooting | (1) Consistency of shots<br>(2) Physical Stability | 4-year commitment to CCA |
 | 6. Softball<br>(girls only) | (1) Reflexes<br>(2) Hand-eye coordination | 4-year commitment to CCA |
 | 7. Squash | (1) Ball sense<br>(2) Hand-eye coordination | 4-year commitment to CCA |
 
