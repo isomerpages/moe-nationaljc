@@ -29,7 +29,7 @@ We invite students with special talents and/or achievements in the following are
 
 #### Online Application
 
-Applications for the DSA-JC to National Junior College are free-of-charge and&nbsp;**must**&nbsp;be submitted online at&nbsp;[https://go.gov.sg/njc-dsa-jc-2023](https://go.gov.sg/njc-dsa-jc-2023)&nbsp;between&nbsp;**4&nbsp;May 2023 (Thu)**,&nbsp;**12 pm&nbsp;and&nbsp;26 June 2023 (Mon)**,&nbsp;**5 pm**.
+Applications for the DSA-JC to National Junior College are free-of-charge and&nbsp;**must**&nbsp;be submitted online at <a target="_blank" href="https://go.gov.sg/njc-dsa-jc-2023">https://go.gov.sg/njc-dsa-jc-2023</a> <br>**4&nbsp;May 2023 (Thu)**,&nbsp;**12 pm&nbsp;and&nbsp;26 June 2023 (Mon)**,&nbsp;**5 pm**.
 
 In the event that you are unable to upload your documents through the online application, you may email your documents to&nbsp;[njc@moe.edu.sg](mailto:njc@moe.edu.sg)&nbsp;with the subject “DSA-JC Supporting Documents”.
 
@@ -41,7 +41,7 @@ Applicants will be shortlisted and selected based on the following general crite
 2.  Exemplify positive character traits, including resilience, motivation and integrity; and
 3.  Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve.
 
-as well as&nbsp;[criteria](/junior-college-selection-criteria/)&nbsp;specific to each talent area.
+as well as <a target="_blank" href="https://moe-nationaljc-staging.netlify.app/junior-college-selection-criteria/">criteria</a> specific to each talent area.
 
 All shortlisted candidates will be&nbsp;**notified via email by mid-July 2023**&nbsp;to attend an in-person audition / trial&nbsp;held in National Junior College. More details on the performance task will be provided in the email notification.
 
@@ -55,6 +55,6 @@ Applicants who are shortlisted for interviews will be notified via email of the 
 
 For further enquiries on DSA-JC, you may call our General Office at 6466 1144 during office hours (9 am to 5 pm) or drop us an email at njc@moe.edu.sg with the subject “DSA-JC”.  
   
-For more information on DSA-JC, please refer to the MOE website:&nbsp;[www.moe.gov.sg/dsa-jc](http://www.moe.gov.sg/dsa-jc).  
+For more information on DSA-JC, please refer to the MOE website: <a target="_blank" href="https://www.moe.gov.sg/dsa-jc">www.moe.gov.sg/dsa-jc</a>  
   
 We thank you for your interest in our College.
