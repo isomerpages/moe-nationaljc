@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**2023 NJC MAY OPEN HOUSE  
+**2023 NJC MAY IP OPEN HOUSE  
 DATE: 20 May 2023 (SAT)<br>
 TIME: 9am-2pm**  
 
