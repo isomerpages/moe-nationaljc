@@ -17,4 +17,8 @@ The LA Dept believes that language is the vehicle of thought and it is very impo
 The Language Arts Programme aims to develop students’ ability tocommunicate effectivelyby developing their receptive skills (listening, reading and viewing), productive skills (speaking,writing and representing) and thinking skills in a progressive way and helping them recognizethat text and language choices are based on the factors of audience, purpose and context.Students should become empathetic communicators, discerning readers and critical thinkers.
 
 ##### **Vision**
-To empower students to think critically and express themselves confidently, accurately andfluently.
+To empower students to think critically and express themselves confidently, accurately and fluently.
+
+
+
+
