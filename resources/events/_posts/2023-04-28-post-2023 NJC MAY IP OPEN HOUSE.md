@@ -1,14 +1,13 @@
 ---
-title: 2023 NJC MAY OPEN HOUSE
+title: 2023 NJC MAY IP OPEN HOUSE
 permalink: /resources/events/permalink/
 date: 2023-04-28
 layout: post
 description: ""
 image: ""
 ---
-**2023 NJC MAY OPEN HOUSE  
-DATE: 20 May 2023 (SAT)<br>
-TIME: 9am-2pm**  
+**DATE: 20 May 2023 (SAT)<br>
+TIME: 9am-2pm**
 
 **Programme in LT5**  
 930am Principal’s Address  
