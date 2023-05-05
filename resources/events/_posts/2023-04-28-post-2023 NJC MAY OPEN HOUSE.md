@@ -6,9 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-**2023 NJC MAY IP OPEN HOUSE  
-DATE: 20 May 2023 (SAT)<br>
-TIME: 9am-2pm**  
+**DATE: 20 May 2023 (SAT)<br>
+TIME: 9am-2pm**
 
 **Programme in LT5**  
 930am Principal’s Address  
