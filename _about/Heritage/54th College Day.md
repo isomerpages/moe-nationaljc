@@ -524,8 +524,7 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
   <input id="accordion5" type="checkbox">
   <label for="accordion5">Renewing our commitment to college and country</label>
   <div>
-  ### Long Service Awards
-  #### 15 Years
+  ### Long Service Awards 15 Years ### 
   <details>
     <summary>Chua Chin Yang</summary>
       *insert image*
