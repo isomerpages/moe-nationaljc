@@ -21,7 +21,4 @@ By providing VIA platforms such as photography coverage of college events, and c
 
 Members have the opportunity to be exposed to various types of films aesthetics and production techniques, such as animation, documentary, event coverage and drama. They also get to operate a wide range of high-tech video production equipment such as gimbals, drones, DSLRS, lighting gears and audio recording devices. Training is conducted by industry professionals, in multimedia lab equipped with Macintosh desktops and the latest video editing software.
 
-Apart from technical knowledge and aesthetic exposure, our members develop invaluable confidence, leadership and teamwork abilities while serving the school through the coverage of events. There are also plenty of competitions and festival to look forward to, thereby enabling our members to build their competency and portfolio.  
-[@njfilmsoc](https://instagram.com/njfilmsoc?utm_medium=copy_link)
-
-utm_medium=copy_link)
+Apart from technical knowledge and aesthetic exposure, our members develop invaluable confidence, leadership and teamwork abilities while serving the school through the coverage of events. There are also plenty of competitions and festival to look forward to, thereby enabling our members to build their competency and portfolio.  [@njfilmsoc](https://www.instagram.com/njfilmsoc/?utm_medium=copy_link)
