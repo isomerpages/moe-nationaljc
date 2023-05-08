@@ -1,5 +1,5 @@
 ---
-title: 2023 NJC MAY IP OPEN HOUSE
+title: 2023 NJC IP OPEN HOUSE
 permalink: /resources/events/permalink/
 date: 2023-04-28
 layout: post
