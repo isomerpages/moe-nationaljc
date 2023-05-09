@@ -287,7 +287,7 @@ Additionally, Project Artemis offers an avenue for young students to find new wa
  
 
 
-  ### GCE 'A' Level Examinations
+ <h1> GCE 'A' Level Examinations 1</h1>
 *insert image*
 
 We congratulate our 485 NJCians who sat for the 2022 GCE A-Level Examinations for their excellent performance. Their results are a testament to their dedication and perseverance.
@@ -524,7 +524,8 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
   <input id="accordion5" type="checkbox">
   <label for="accordion5">Renewing our commitment to college and country</label>
   <div>
-  ### Long Service Awards 15 Years ### 
+		<h3> Long Service Awards </h3>
+		<h4> 15 Years </h4>
   <details>
     <summary>Chua Chin Yang</summary>
       *insert image*
