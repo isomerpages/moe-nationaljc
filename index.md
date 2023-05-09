@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/pixlr_2023 njc moh banner website.png
       key_highlights:
         - title: Events
           description: ""
@@ -15,6 +14,7 @@ sections:
         - title: News
           description: ""
           url: resources/news/
+      background: /images/open house two 2023 ip njc moh banner website.png
   - infobar:
       title: DSA-Sec
       description: Direct School Admission to NJC's Six-Year Integrated Programme
