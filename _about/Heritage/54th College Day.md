@@ -283,11 +283,10 @@ Additionally, Project Artemis offers an avenue for young students to find new wa
     | H2 CHEMISTRY                        | RAO ZHEHONG                   |
     | H2 COMPUTING                        | KAI SATO                      |
     | H2 MUSIC                            | NGOH JIN YT                   |
-    | H2 CHINESE LANGUAGE AND LITERATURE  | LI HUI                        |
- 
-
-
- <h1> GCE 'A' Level Examinations 1</h1>
+    | H2 CHINESE LANGUAGE AND LITERATURE  | LI HUI                       
+	
+	
+ <h3> GCE 'A' Level Examinations </h3>
 *insert image*
 
 We congratulate our 485 NJCians who sat for the 2022 GCE A-Level Examinations for their excellent performance. Their results are a testament to their dedication and perseverance.

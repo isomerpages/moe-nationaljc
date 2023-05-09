@@ -14,6 +14,7 @@ sections:
         - title: News
           description: ""
           url: resources/news/
+      background: /images/2023 open house four ip njc moh banner website (1)(1).png
   - infobar:
       title: DSA-Sec
       description: Direct School Admission to NJC's Six-Year Integrated Programme
