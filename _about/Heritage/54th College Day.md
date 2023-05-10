@@ -23,7 +23,7 @@ third_nav_title: Heritage
      <center><b>Mrs Lucy Toh</b></center><br>
       <img src="https://file.for.edu.sg/college54mrslucytoh.png">      
 			 <p>As I write this Foreword, half of Senior High One are experiencing six nights in our Boarding School. The other half did so in the last week of Term One. 300 of them hail from over 80 secondary schools across the island while 200 of them came to NJC four years ago from over 80 primary schools. In each of our six cohorts of students from Junior High One to Senior High Two, our student body is wonderfully diverse, echoing our Singaporean heritage – truly we are the College of the Nation.
-				 
+
 Today, like generations before them, these NJCians can once again put their arms around each other’s shoulders and sing their hearts out. No masks required. I take delight in knowing that the friendships they are forging will last a lifetime.
 
 After months of collaborating and volunteering through internet platforms, once again, our students will go forth to learn and serve in-person. They will visit the elderly, teach younger learners, go to hospitals, research centres and more. 
@@ -47,7 +47,7 @@ As the youth of the nation, we are called to serve with energy and total dedicat
 			<div>
 				<p>Three years after the pandemic began, many new phrases have arisen – new-norm, pre-COVID times, zoom from home, HBL – to name a few.   We have acquired new skills ranging from new ways of teaching and learning to buying food.  We have become both technologically-savvy and technologically-dependent.  We have had to think deeper and harder about disease and dis-ease.
 				
-What does it mean to live in these post-COVID times?  What must we ensure that we bring back from before?  What have we learned that we might do better or differently?  Who are we and what do we want to become?  For this College Day, we aspire for our NJC-ians to:
+What does it mean to live in these post-COVID times?  What must we ensure that we bring back from before?  What have we learned that we might do better or differently?  Who are we and what do we want to become?  For this College Day, we aspire for our NJCians to:
 		
 <strong>Reconnect</strong> – Due to the many disruptions and safety restrictions, we have not been able to carry out activities that keep us connected to each other and to the wider community like  College-wide events, VIA, having alumni members back visiting etc.  How might we reconnect with our past (alumni) and our present (community)? 
 		
@@ -1417,14 +1417,14 @@ I hope the students will always have their friends that they gained during their
     <summary>I hope that all NJCians can be open to life and regret nothing at the end of the day.</summary>
 		<p>Every moment of serving in NJC helps me to become more experienced and mature. I like the teaching process which helps enable and prepare the children to take on their own life challenges with excitement, adventure and uncertainty. 
 
-I hope that all NJC-ians can be open to life and regret nothing at the end of the day; use the 2-6 years here to acquire sufficient skills in managing themselves not just academically but also emotionally beyond the campus life. Learning to embrace their own strengths, weaknesses and appreciating each other’s differences is important for finding their inner joy and satisfaction in life.</p>
+I hope that all NJCians can be open to life and regret nothing at the end of the day; use the 2-6 years here to acquire sufficient skills in managing themselves not just academically but also emotionally beyond the campus life. Learning to embrace their own strengths, weaknesses and appreciating each other’s differences is important for finding their inner joy and satisfaction in life.</p>
   </details>
 		<b><center>Ganesh Issardas Udasi</center></b>
       <img src="https://file.for.edu.sg/college54ahmadfuad.jpg" class="awardee"> 
 			<br>
   <details>
-    <summary>The collective energy that our fraternity gives to all our NJC-ians fuel my passion and commitment to the work I do daily.</summary>
-		<p>The last 10 years that I have spent in NJC has been a privilege. This memorable decade enabled me to grow personally and professionally, and all this is made possible with the generous support and guidance I have received through working with collaborative colleagues. The collective energy that our fraternity gives to all our NJC-ians fuel my passion and commitment to the work I do daily. The concept of time is very real in the study of History. I would like to part with this quote, "Do something NOW for which your FUTURE self with thank you later." The present will pass, but always do things with purpose and impact, and be grateful for the past, present and future. Thank you, NJC, for making my years here fulfilling and enriching.</p>
+    <summary>The collective energy that our fraternity gives to all our NJCians fuel my passion and commitment to the work I do daily.</summary>
+		<p>The last 10 years that I have spent in NJC has been a privilege. This memorable decade enabled me to grow personally and professionally, and all this is made possible with the generous support and guidance I have received through working with collaborative colleagues. The collective energy that our fraternity gives to all our NJCians fuel my passion and commitment to the work I do daily. The concept of time is very real in the study of History. I would like to part with this quote, "Do something NOW for which your FUTURE self with thank you later." The present will pass, but always do things with purpose and impact, and be grateful for the past, present and future. Thank you, NJC, for making my years here fulfilling and enriching.</p>
   </details>
 		<b><center>Ho Hui Lin</center></b>
       <img src="https://file.for.edu.sg/college54ahmadfuad.jpg" class="awardee"> 
@@ -1437,12 +1437,12 @@ I hope that all NJC-ians can be open to life and regret nothing at the end of th
       <img src="https://file.for.edu.sg/college54jamiekao.jpg" class="awardee"> 
 			<br>
   <details>
-    <summary>I hope that NJC-ians will grow to become compassionate people who use their gifts to make the world a better place.</summary>
+    <summary>I hope that NJCians will grow to become compassionate people who use their gifts to make the world a better place.</summary>
 		<p>I can hardly believe that it has been a decade. NJC has been my first school since I joined the service and I have learnt a lot about myself in my years here. I am grateful to have been given the opportunity to serve in various capacities and projects, some really memorable ones include the NJ50 Musical, Sports on Board &amp; the Boarding School Programme.
 			
 Teaching is never easy. There have been times when I have faced challenges but the safe environment my colleagues provided with has helped me immensely. Also, the students are lovely and kind towards each other and their teachers, making teaching an incredibly rewarding experience.
 
-I hope that NJC-ians will grow to become compassionate people who use their gifts to make the world a better place. Most importantly, I wish for them to be fearless in their pursuit of their passions and never let failure stop them. They all deserve to lead meaningful lives that bring joy to themselves and others.</p>
+I hope that NJCians will grow to become compassionate people who use their gifts to make the world a better place. Most importantly, I wish for them to be fearless in their pursuit of their passions and never let failure stop them. They all deserve to lead meaningful lives that bring joy to themselves and others.</p>
   </details>
 		<b><center>Lim Lai Har Karen</center></b>
       <img src="https://file.for.edu.sg/college54jamiekao.jpg" class="awardee"> 
@@ -1552,6 +1552,7 @@ ul.jekyllcodex_accordion li label::before {content: "+"; font-weight: normal; fo
 ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45deg);}
 p, summary {
 	text-align: justify;
+	white-space: pre-line;
 	}
 img {
 	max-width:80%;
