@@ -307,7 +307,7 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
     | JH4 Outstanding Academic Achievement Awards | BENEDICT GOH YONG EN<br>ZHOU YUELIN<br>GALEN GAY<br>LUO CHANG (LOH CHANG)<br>FANG CHEN<br>TAY JUN REN IVAN                                                                                                                                                               |
     | SH1 Outstanding Academic Achievement Awards | KRYSTAL ONG SHI HUI<br>FELIX YEW CHENG EN<br>AASHER LIM YAN KAI<br>CHLOE YOUNG<br>PARK SAEEUN<br>LI YICHEN<br>LIZANNE LIM YINNQI<br>RACHEL LIM QIAO JIE<br>XIE YU<br>WONG YU ZHEN<br>FENG SIYU<br>STEVEN NATHANAEL MULYADI<br>TIA KAI XIN MELODY<br>JAVIER TEY RUI SHENG |
 
-  ### The NJC CCA Awards
+  #### The NJC CCA Awards
   The NJC CCA Awards recognise students who have achieved success in their respective CCAs and have contributed in leading their CCAs to greater heights.
 
   <details>
