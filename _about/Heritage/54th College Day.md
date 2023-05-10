@@ -71,7 +71,7 @@ Service with Honour!
 <input id="accordion4" type="checkbox">
 <label for="accordion4">Reimagining learning and serving</label>
     <div>
-    **College Day Awards**
+			<h4> College Day Awards </h4>
               <img src="https://file.for.edu.sg/college54kimng.jpg"> 
 			<b><center>Ng Hwee En, Kim</center> </b>   
 			 <center></center><details>
@@ -255,7 +255,7 @@ Additionally, Project Artemis offers an avenue for young students to find new wa
   </div>
 
 
-  ### The NJC Subject Excellence Awards
+<h4> The NJC Subject Excellence Awards </h4>
   The NJC Subject Excellence Awards recognise NJC graduates based on excellence in each discipline/subject.
 
     |                                     |                               |
