@@ -516,381 +516,1023 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
   </details>
   <details>
     <summary>Performing Arts</summary>
-
-    |                                      |                                                                                                                                         |
-    | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
-    | Chinese Dance                        | LAU LIYING, ZAYN                                                                                                                        |
-    | Chinese Orchestra &amp; Guzheng Ensemble | SHARON POH SHIHUI<br>YEE YI<br>JENELLE LEE JINGWEN<br>THAM YU XIN<br>TAN YING SHAN, ASHLEY<br>GABRIELLE CHEOK JIA LING<br>NGOH JIN YT   |
-    | Choir                                | JOANNA YEO RUI-EN<br>WONG YI CHANG, CARA (HUANG YIZHENG)<br>ZHANG XUANYI<br>LEOW HUI EN<br>TAN TIAK LOONG, JETHRO                       |
-    | Guitar Ensemble                      | ELISE LIM<br>KUIK SHUTING JOVIANNE<br>NINDYA ADHWA RAMDHAN<br>NATASHA CHIN HUI SHAN<br>CLARISSE CHEONG<br>BAO XINGYUAN LISA             |
-    | Indian Dance                         | ELANGO MAHIMA<br>NARASIMAMORTHY TAMILMATHI<br>SENTHIL KUMAR POORVIKA<br>MEENAKSHI ILANGO<br>SIVAKUMAR NANDHANA<br>SEENIVASAGAN DEEPIKAA |
-    | Malay Dance                          | NURIN HAZIQAH BINTE HELMY<br>SITI NURSHASHA BINTE MOHAMAD RAIME                                                                         |
-    | String Orchestra                     | PANG HSIEN HAN, HANNAH<br>CALLUM SEAH QUEE LUN<br>YU LIN LI<br>RACHEL WONG SI YIN                                                       |
-    | Symphonic Band                       | RACHAEL HO XIN YUN<br>YEOH KAI YUE<br>NATALIE ONG RUI'EN                                                                                |
-    | Western Dance                        | ELIZABETH YU-MIN KWAN<br>SABELLE TOH SHUN NING                                                                                          |
+		<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Chinese Dance</td>
+            <td>LAU LIYING, ZAYN</td>
+        </tr>
+        <tr>
+            <td>Chinese Orchestra &amp; Guzheng Ensemble</td>
+            <td>SHARON POH SHIHUI<br>YEE YI<br>JENELLE LEE JINGWEN<br>THAM YU XIN<br>TAN YING SHAN, ASHLEY<br>GABRIELLE CHEOK JIA LING<br>NGOH JIN YT</td>
+        </tr>
+        <tr>
+            <td>Choir</td>
+            <td>JOANNA YEO RUI-EN<br>WONG YI CHANG, CARA (HUANG YIZHENG)<br>ZHANG XUANYI<br>LEOW HUI EN<br>TAN TIAK LOONG, JETHRO</td>
+        </tr>
+        <tr>
+            <td>Guitar Ensemble</td>
+            <td>ELISE LIM<br>KUIK SHUTING JOVIANNE<br>NINDYA ADHWA RAMDHAN<br>NATASHA CHIN HUI SHAN<br>CLARISSE CHEONG<br>BAO XINGYUAN LISA</td>
+        </tr>
+        <tr>
+            <td>Indian Dance</td>
+            <td>ELANGO MAHIMA<br>NARASIMAMORTHY TAMILMATHI<br>SENTHIL KUMAR POORVIKA<br>MEENAKSHI ILANGO<br>SIVAKUMAR NANDHANA<br>SEENIVASAGAN DEEPIKAA</td>
+        </tr>
+        <tr>
+            <td>Malay Dance</td>
+            <td>NURIN HAZIQAH BINTE HELMY<br>SITI NURSHASHA BINTE MOHAMAD RAIME</td>
+        </tr>
+        <tr>
+            <td>String Orchestra</td>
+            <td>PANG HSIEN HAN, HANNAH<br>CALLUM SEAH QUEE LUN<br>YU LIN LI<br>RACHEL WONG SI YIN</td>
+        </tr>
+        <tr>
+            <td>Symphonic Band</td>
+            <td>RACHAEL HO XIN YUN<br>YEOH KAI YUE<br>NATALIE ONG RUI'EN</td>
+        </tr>
+        <tr>
+            <td>Western Dance</td>
+            <td>ELIZABETH YU-MIN KWAN<br>SABELLE TOH SHUN NING</td>
+        </tr>
+			</tbody><tfoot>
+				<tr>
+				<td>
+				</td><td>
+					</td></tr>
+				</tfoot>
+    
+</table>
   </details>
   <details>
     <summary>Clubs and Societies</summary>
-   
-    |                |                                                                            |
-    | -------------- | -------------------------------------------------------------------------- |
-    | Astronomy Club | KUSHAGRA SHRIVASTAVA<br>RAJARETHINAM SANJIV                                |
-    | AVA &amp; PA Club  | MOK JUN WEN<br>CHRISTABEL LEE                                              |
-    | CLDDS          | LIN JIAQI                                                                  |
-    | ELDDES         | ZHOU YUELIN<br>YANG YIFAN<br>CLAIRE TEO TZE SHYAN<br>SHANNON LAM SHAN NING |
-    | Greenlink      | AVEENASHKUMAR S/O RAVINDRAN<br>SWAPNA PRIYA                                |
-    | ILDDS          | BASKARAN JAYASUBASRI<br>SEVA MANICKAM                                      |
-    | Interact Club  | TEO LING LI RACHEL<br>KUANG YU XUAN<br>ONG JING NING                       |
-    | MLDDS          | ELIYAH BATRISYIAH BTE RAYNI<br>RADITYA SECONDATAMA                         |
+		<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Astronomy Club</td>
+            <td>KUSHAGRA SHRIVASTAVA<br>RAJARETHINAM SANJIV</td>
+        </tr>
+        <tr>
+            <td>AVA &amp; PA Club</td>
+            <td>MOK JUN WEN<br>CHRISTABEL LEE</td>
+        </tr>
+        <tr>
+            <td>CLDDS</td>
+            <td>LIN JIAQI</td>
+        </tr>
+        <tr>
+            <td>ELDDES</td>
+            <td>ZHOU YUELIN<br>YANG YIFAN<br>CLAIRE TEO TZE SHYAN<br>SHANNON LAM SHAN NING</td>
+        </tr>
+        <tr>
+            <td>Greenlink</td>
+            <td>AVEENASHKUMAR S/O RAVINDRAN<br>SWAPNA PRIYA</td>
+        </tr>
+        <tr>
+            <td>ILDDS</td>
+            <td>BASKARAN JAYASUBASRI<br>SEVA MANICKAM</td>
+        </tr>
+        <tr>
+            <td>Interact Club</td>
+            <td>TEO LING LI RACHEL<br>KUANG YU XUAN<br>ONG JING NING</td>
+        </tr>
+        <tr>
+            <td>MLDDS</td>
+            <td>ELIYAH BATRISYIAH BTE RAYNI<br>RADITYA SECONDATAMA</td>
+        </tr>
+    </tbody>
+			<tfoot>
+				<tr>
+				<td>
+				</td><td>
+					</td></tr>
+				</tfoot>
+</table>
   </details>
 
-  ### College Achievements
-
+<h4>College Achievements</h4>
   <details>
     <summary>In the academic domain</summary>
-    
-    |                                                                                 |                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-    | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-    | 34th Singapore Chemistry Olympiad                                               | Silver                                                                                   | TAN CHOK JOO<br>XIE YU<br>TAN JIA HAO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-    | 34th Singapore Chemistry Olympiad                                               | Bronze                                                                                   | PARK SAEEUN<br>SOONG ZI YU<br>TAN SEH GUAN KINNON LUKE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-    | American Mathematics Olympiad                                                   | Gold                                                                                     | NG YOU XIANG<br>XIN ANXIAOYANG                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-    | American Mathematics Olympiad                                                   | Silver                                                                                   | BENEDICT GOH YONG EN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-    | American Mathematics Olympiad                                                   | Bronze                                                                                   | KULANDAIVEL UDAYAR SENTHILKUMAR LAKSHAYAA<br>ZHANG XUANYI<br>MEGAN WONG CHENG YEE<br>RYAN THADDEUS SHI-ENG CHIO<br>FOO KAI NING<br>KAYLA ANGELINA THESMAN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-    | Australian Mathematics Competition                                              | Peter O'Halloran Award / Best In School                                                  | XIE YU                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-    | Australian Mathematics Competition                                              | High Distinction                                                                         | TAN KAI YUAN DONOVAN<br>SEAH ERN TING (SHE ENTING)<br>XU RUNZHANG<br>FALDO LYON PRASETYO<br>SHEN ZIHAN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-    | Australian Mathematics Competition                                              | Distinction                                                                              | AIMAN TAN KAI HAN ALFIAN<br>HANNAH YEO SI LING (YANG SILING)<br>JOEL NGU YUE ZHE<br>TAN THEE KHAI REYES<br>LEE YI XUAN, GISELLE<br>LIN WEIZHE<br>LEIA NING EN KOHL<br>ZAHRA NERISSA BRUIN<br>ISAAC SOO<br>MANIKANDAN AKSHAYA<br>SURYA SRINIVASAN<br>NADINE ALYA RAMDHAN<br>TAN HONG RUI JOSHTON<br>LAM KAI XIN<br>DAMIEN LEE MING HUI (LI MINGHUI)<br>ETHAN WAN (RUAN YITENG)<br>JAMIE NG SHI TING<br>QUEK MINGXI OWEN<br>SEAH NING NING, MABEL<br>AARTHI SUHITHARAN<br>JAVIER JIO YEE KIAT (YANG YIJIE)<br>SEAH KAI XUAN, RAEANN<br>EUNICE ANG GEH KAR<br>CHOW YI XUAN, CLAIRE<br>YAP YUAN YUAN<br>SEBASTIAN TOH JUN KAI<br>HARSH THAKUR<br>ANG DING HANG<br>ANG IAN<br>FELIX YEW CHENG EN<br>GONG YIQIAN<br>HUANG ANRAN<br>WANG CHENG<br>XU YUE<br>WU JINGRU<br>SOONG ZI YU<br>FENG SIYU |
-    | Designing with TI Graphing Calculators Competition                              | Bronze                                                                                   | WU JINGRU<br>BENEDICT GOH YONG EN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-    | Dr Goh Keng Swee Future Thinking Challenge 2022                                 | Third                                                                                    | THEAN ZHI YANG HELIOS<br>WANG YUCHENG<br>YIP YI XUA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-    | Euclid Contest                                                                  | Certificate of Distinction and Medal (Top student)                                       | JIANG RUIQIAN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-    | Euclid Contest                                                                  | Certificate of Distinction                                                               | CITYBABU ASHWIN<br>ANG DING HANG<br>CHUA JUN WEI, YANNICK<br>FOO MING HAN<br>TIAN JUELIN<br>ZHAO KEJUN<br>ZHAO ZHIHAO<br>CAO ZHIYAO<br>KUSHAGRA SHRIVASTAVA<br>WANG KE<br>TAN CHEN<br>YU WENTIAN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-    | Future Problem Solving Program - Global Issues Problem Solving Competition 2022 | 2nd Place - Middle Division<br>1st Place - Performance of Action Plan (Middle Division)  | HENRY CHA YU HANG<br>CHRISLENE CHOO YING XIN<br>IAN IONG SONG EN<br>SUN JIAYI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-    | Future Problem Solving Program - Global Issues Problem Solving Competition 2022 | 2nd place - Senior Division<br>3rd Place - Presentation of Action Plan (Senior Division) | CHEW HONG SOON<br>TAN EE HSUEN, CONAN<br>RAE TANG<br>KUEK YU JING                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-    | Hwa Chong Conflict Resolution and Inquiry 2022                                  | Best Position Paper                                                                      | TAN YEN LIN ALYSSA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-    | International Mathematical Modeling Challenge                                   | Distinction                                                                              | KULANDAIVEL UDAYAR SENTHILKUMAR LAKSHAYAA<br>FANG CHEN<br>BENEDICT GOH YONG EN<br>KAI SATO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-    | International Mathematical Modeling Challenge                                   | Merit                                                                                    | XU HANQING<br>TAN EE HSUEN, CONAN<br>KWOK LIK IAN<br>KUSHAGRA SHRIVASTAVA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-    | International Model United Nations Conference 2022                              | Best Position Paper                                                                      | ANG YUE TING                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-    | Lockheed Martin Code Quest                                                      | Junior College Champions                                                                 | GARY AXEL MULIYONO<br>CHAN CHONG YIN JAYDEN<br>LIAO ZEYU                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-    | Lockheed Martin Code Quest                                                      | Junior College 2nd Runner Up                                                             | PRAN TANPRASERTKUL<br>ANG IAN<br>KAVISHWER SATHIAMORTHY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-    | MOE Moot Parliament Programme                                                   | Best Debate Team (Proposition)                                                           | BRADEN LIM JUN JIE<br>SHEO CHIONG TENG<br>SOH YAN XI<br>BEATRICE FOO YA QI<br>HO YOON SIM<br>S J HARSHITA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-    | MOE Moot Parliament Programme                                                   | Best Speaker                                                                             | SOH YAN XI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-    | MOE-MLEP                                                                        | Overall Valedictorian Award                                                              | RADITYA SECONDATAMA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-    | Naanum Oru Padaipali - Budding Poets                                            | Creative New Wave Poem                                                                   | PREETHI MAHESHWARAN GEETHA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-    | Nanyang Youth Chinese Literature Award 2022                                     | Merit                                                                                    | EDITH LOH POH HUI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-    | National Olympiad in Informatics 2022                                           | Junior College Category Silver                                                           | CAO JIALIN, MARIANNA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-    | National Olympiad in Informatics 2022                                           | Junior College Category Bronze                                                           | KAI SATO<br>SETHUPATHY SAKTHIVEL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-    | National Olympiad in Informatics 2022                                           | Secondary Category Bronze                                                                | TAN WEE HIN<br>XIN ANXIAOYANG                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-    | National Youth Environment Conference 2023                                      | Best Position Paper                                                                      | SANDHYA LAKSHMANAN<br>LEOW WEN NING<br>ALPHA EH KRE THU                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-    | NUS Geography Challenge 2023                                                    | Top Performing Student (Creative Component)                                              | ISABELLE ANG EN YI<br>LAKSHMINARAYANAN THARUNIKA<br>LIM WAN YING<br>ARIEL NEO KAIYI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-    | NUS Geography Challenge 2023                                                    | Gold Award (Individual)                                                                  | ISABELLE ANG EN YI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-    | NUS Geography Challenge 2023                                                    | Silver Award (Individual)                                                                | ARIEL NEO KAIYI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-    | Queen's Commonwealth Essay Competition                                          | Silver                                                                                   | YEO YINGHSI CRISTABELLE<br>TAN HUI EN CHARLOTTE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-    | Science Buskers Competition                                                     | 1st Runner Up                                                                            | NICOLE TAN LI YUN<br>SERENE SONG<br>CHOW YI XUAN CLAIRE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-    | Science Buskers Competition                                                     | Judges Award                                                                             | VRIND CHINTANKUMAR PATEL<br>ISABELLE ANG EN YI<br>FA JIAQI<br>MIA SHIU GWUN YUET<br>LIU YIHUI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-    | SG75 Singapore Our Home 2022                                                    | Static 1 Open - 3rd Place                                                                | CHA YU HANG HENRY<br>LEONG XIAN ZHU SAMUEL<br>JENEVIEVE TAN HUI EN<br>LAW CHEN FENG SHEAN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-    | Singapore International Mathematics Challenge                                   | Merit                                                                                    | BENEDICT GOH YONG EN<br>ANG IAN<br>FELIX YEW CHENG EN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-    | Singapore Junior Chemistry Olympiad                                             | Gold                                                                                     | FANG CHEN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-    | Singapore Junior Chemistry Olympiad                                             | Silver                                                                                   | LUO CHANG (LOH CHANG)<br>SEBASTIAN TOH JUN KAI<br>TAN EE HSUEN CONAN<br>KWOK LIK IAN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-    | Singapore Junior Chemistry Olympiad                                             | Bronze                                                                                   | MO THANT CIN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-    | Singapore Junior Chemistry Olympiad                                             | Merit                                                                                    | CHAI WAN HAO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-    | Singapore Junior Physics Olympiad                                               | Bronze                                                                                   | RUAN KANG KAI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-    | Singapore Junior Physics Olympiad                                               | Honourable Mention                                                                       | WONG ZHENG HAN<br>ZHOU YUELIN<br>KOW RANGDOL<br>MO THANT CIN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-    | Singapore Mathematical Olympiad                                                 | Open Category Silver                                                                     | ZHU JIABAO<br>LU HAOMENG<br>WU JIAWEI<br>LI YICHEN<br>JUAN ZIBO<br>CHEN YILIN<br>WU JINGRU<br>XIE YU<br>YANG QIRUI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-    | Singapore Mathematical Olympiad                                                 | Open Category Bronze                                                                     | ZHAO KEJUN<br>HU XUEAO<br>TIAN JUELIN<br>WANG CHENG<br>FELIX YEW CHENG EN<br>SHEN ZIHAN<br>FENG SIYU                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-    | Singapore Mathematical Olympiad                                                 | Senior Category Silver                                                                   | MANDE RISHIKA ASHVINIKUMAR<br>BENEDICT GOH YONG EN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-    | Singapore Mathematical Olympiad                                                 | Senior Category Bronze                                                                   | XIN ANXIAOYANG<br>NG YOU XIANG<br>CHAI WAN HAO<br>JIAO PUXI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-    | Singapore Mathematical Olympiad                                                 | Junior Category Gold                                                                     | XU RUNZHANG                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-    | Singapore Mathematical Olympiad                                                 | Junior Category Silver                                                                   | TAN HONG RUI JOSHTON<br>JAMIE NG SHI TING<br>DAMIEN LEE MING HUI (LI MINGHUI)<br>AARTHI SUHITHARAN<br>YANG ANHE<br>PHAN PHU ANH                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-    | Singapore Mathematical Olympiad                                                 | Junior Category Bronze                                                                   | AIMAN TAN KAI HAN ALFIAN<br>JOEL NGU YUE ZHE<br>ROBINSON JADON MATHIS<br>LIEW HNG KAI JETHRO (LIU HENGKAI)<br>SEAH ERN TING (SHE ENTING)<br>TAN MIN HEAN (CHEN MINXIAN)<br>ETHAN WAN (RUAN YITENG)<br>SEAH KAI XUAN, RAEANN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-    | Singapore Mathematical Olympiad Invitational Round                              | Open Category Silver                                                                     | XU RUNZHANG<br>WU JIAWEI<br>XIE YU<br>YANG QIRUI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-    | Singapore Mathematical Society Essay Competition                                | Category C 3rd Place                                                                     | HUANG ANRAN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-    | Singapore Physics League (Junior)                                               | Bronze                                                                                   | RUAN KANG KAI<br>WONG ZHENG HAN<br>ZHOU YUELIN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-    | Singapore Physics League (Junior)                                               | Honourable Mention                                                                       | SEAH JIA YING<br>KOW RANGDOL<br>MO THANT CIN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-    | Singapore Physics League (Senior)                                               | Silver                                                                                   | CHEN RUIQI<br>FELIX YEW CHENG EN<br>LI YICHEN<br>WANG CHENG<br>ARPIT GUPTA<br>HARSH THAKUR<br>KUSHAGRA SHRIVASTAVA<br>LU HAOMENG<br>TAN CHEN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-    | Singapore Physics League (Senior)                                               | Bronze                                                                                   | WU PINYING<br>ZHAO ZHIHAO<br>ZHONG SHU                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-    | Singapore Physics League (Senior)                                               | Honourable Mention                                                                       | TENG LINGJING<br>AARYAN AGGARWAL<br>KONG YU HERNG<br>ONG JING JIE<br>PHUA ZO EY<br>SANTHIYAA SENTHILKUMAR                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-    | Singapore Physics Olympiad 2022                                                 | Gold                                                                                     | FELIX YEW CHENG EN<br>LI YICHEN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-    | Singapore Physics Olympiad 2022                                                 | Silver                                                                                   | SEAH JIA YING                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-    | Singapore Physics Olympiad 2022                                                 | Bronze                                                                                   | CHEN JINKAI                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-    | Singapore Physics Olympiad 2022                                                 | Honourable Mention                                                                       | WANG CHENG                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-    | Singapore Science and Engineering Fair 2023                                     | Gold                                                                                     | FELIX YEW CHENG EN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-    | Singapore Science and Engineering Fair 2023                                     | Silver                                                                                   | TAN JIA HAO<br>WU RUIXI<br>JUAN ZIBO<br>FENG SIYU<br>JOVYN LEE ZHUO YING                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-    | Singapore Science and Engineering Fair 2023                                     | Bronze                                                                                   | DELFINA POERNOMO<br>ZHANG SHUYU, ESTHER<br>CHOLAN ABENAYA<br>KRISHNAN ADAIKKAPPAN<br>HAYLEY LIM HUI EN<br>CHELSEA MEGAN HAMDANI<br>KIMBERLY NIAM XIN NING                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-    | Singapore Science and Engineering Fair 2023                                     | Merit                                                                                    | PARK SAEEUN<br>CHLOE KOH<br>TIYA BANSAL                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-    | Singapore Science and Engineering Fair 2023                                     | SUTD Research and Innovation Award: Aviation                                             | JUAN ZIBO<br>FENG SIYU                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-    | Singapore Science and Engineering Fair 2023                                     | Tale-Bus Special Award                                                                   | XIE YU TIAN<br>LOY QI EN JAELYN<br>MAH RONG XUAN<br>DEBBY TENG QIN XUAN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-    | Singapore Science and Engineering Fair 2023                                     | SAAS Special Award - Poster Award for Science Communication                              | JODIE LIAW KAI XING                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-    | Singapore Science and Engineering Fair 2023 - Junior Scientist Category         | Distinction                                                                              | AARTHI SUHITHARAN<br>THONDAIMAN RAMPRABHU                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-    | Singapore Young Physicists' Tournament (Category A)                             | Poster (Distinction)                                                                     | KOW RANGDOL<br>SEAH JIA YING<br>MO THANT CIN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-    | Singapore Young Physicists' Tournament (Category B)                             | Poster (Merit)                                                                           | YAP YUAN YUAN<br>ARIEL NEO KAIYI<br>WANG YUE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-    | SUTD Sustainability Design Hack                                                 | First Place in Category A                                                                | WONG SAM TOU<br>TAN JIA HAO<br>GOH ZHI YU<br>ONG JING JIE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-    | YMCA Plain English Speaking Awards                                              | Winner (Junior)                                                                          | ARASH RAYHAN SIDHU                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-    | YMCA Plain English Speaking Awards (PESA)                                       | Lower Secondary Category Champion                                                        | ARASH RAYHAN SIDHU                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-  </details>
+	<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>34th Singapore Chemistry Olympiad</td>
+            <td>Silver</td>
+            <td>TAN CHOK JOO<br>XIE YU<br>TAN JIA HAO</td>
+        </tr>
+        <tr>
+            <td>34th Singapore Chemistry Olympiad</td>
+            <td>Bronze</td>
+            <td>PARK SAEEUN<br>SOONG ZI YU<br>TAN SEH GUAN KINNON LUKE</td>
+        </tr>
+        <tr>
+            <td>American Mathematics Olympiad</td>
+            <td>Gold</td>
+            <td>NG YOU XIANG<br>XIN ANXIAOYANG</td>
+        </tr>
+        <tr>
+            <td>American Mathematics Olympiad</td>
+            <td>Silver</td>
+            <td>BENEDICT GOH YONG EN</td>
+        </tr>
+        <tr>
+            <td>American Mathematics Olympiad</td>
+            <td>Bronze</td>
+            <td>KULANDAIVEL UDAYAR SENTHILKUMAR LAKSHAYAA<br>ZHANG XUANYI<br>MEGAN WONG CHENG YEE<br>RYAN THADDEUS SHI-ENG CHIO<br>FOO KAI NING<br>KAYLA ANGELINA THESMAN</td>
+        </tr>
+        <tr>
+            <td>Australian Mathematics Competition</td>
+            <td>Peter O'Halloran Award<br>Best In School</td>
+            <td>XIE YU</td>
+        </tr>
+        <tr>
+            <td>Australian Mathematics Competition</td>
+            <td>High Distinction</td>
+            <td>TAN KAI YUAN DONOVAN<br>SEAH ERN TING (SHE ENTING)<br>XU RUNZHANG<br>FALDO LYON PRASETYO<br>SHEN ZIHAN</td>
+        </tr>
+        <tr>
+            <td>Australian Mathematics Competition</td>
+            <td>Distinction</td>
+            <td>AIMAN TAN KAI HAN ALFIAN<br>HANNAH YEO SI LING (YANG SILING)<br>JOEL NGU YUE ZHE<br>TAN THEE KHAI REYES<br>LEE YI XUAN, GISELLE<br>LIN WEIZHE<br>LEIA NING EN KOHL<br>ZAHRA NERISSA BRUIN<br>ISAAC SOO<br>MANIKANDAN AKSHAYA<br>SURYA SRINIVASAN<br>NADINE ALYA RAMDHAN<br>TAN HONG RUI JOSHTON<br>LAM KAI XIN<br>DAMIEN LEE MING HUI (LI MINGHUI)<br>ETHAN WAN (RUAN YITENG)<br>JAMIE NG SHI TING<br>QUEK MINGXI OWEN<br>SEAH NING NING, MABEL<br>AARTHI SUHITHARAN<br>JAVIER JIO YEE KIAT (YANG YIJIE)<br>SEAH KAI XUAN, RAEANN<br>EUNICE ANG GEH KAR<br>CHOW YI XUAN, CLAIRE<br>YAP YUAN YUAN<br>SEBASTIAN TOH JUN KAI<br>HARSH THAKUR<br>ANG DING HANG<br>ANG IAN<br>FELIX YEW CHENG EN<br>GONG YIQIAN<br>HUANG ANRAN<br>WANG CHENG<br>XU YUE<br>WU JINGRU<br>SOONG ZI YU<br>FENG SIYU</td>
+        </tr>
+        <tr>
+            <td>Designing with TI Graphing Calculators Competition</td>
+            <td>Bronze</td>
+            <td>WU JINGRU<br>BENEDICT GOH YONG EN</td>
+        </tr>
+        <tr>
+            <td>Dr Goh Keng Swee Future Thinking Challenge 2022</td>
+            <td>Third</td>
+            <td>THEAN ZHI YANG HELIOS<br>WANG YUCHENG<br>YIP YI XUA</td>
+        </tr>
+        <tr>
+            <td>Euclid Contest</td>
+            <td>Certificate of Distinction and Medal (Top student)</td>
+            <td>JIANG RUIQIAN</td>
+        </tr>
+        <tr>
+            <td>Euclid Contest</td>
+            <td>Certificate of Distinction</td>
+            <td>CITYBABU ASHWIN<br>ANG DING HANG<br>CHUA JUN WEI, YANNICK<br>FOO MING HAN<br>TIAN JUELIN<br>ZHAO KEJUN<br>ZHAO ZHIHAO<br>CAO ZHIYAO<br>KUSHAGRA SHRIVASTAVA<br>WANG KE<br>TAN CHEN<br>YU WENTIAN</td>
+        </tr>
+        <tr>
+            <td>Future Problem Solving Program - Global Issues Problem Solving Competition 2022</td>
+            <td>2nd Place - Middle Division<br>1st Place - Performance of Action Plan (Middle Division)</td>
+            <td>HENRY CHA YU HANG<br>CHRISLENE CHOO YING XIN<br>IAN IONG SONG EN<br>SUN JIAYI</td>
+        </tr>
+        <tr>
+            <td>Future Problem Solving Program - Global Issues Problem Solving Competition 2022</td>
+            <td>2nd place - Senior Division<br>3rd Place - Presentation of Action Plan (Senior Division)</td>
+            <td>CHEW HONG SOON<br>TAN EE HSUEN, CONAN<br>RAE TANG<br>KUEK YU JING</td>
+        </tr>
+        <tr>
+            <td>Hwa Chong Conflict Resolution and Inquiry 2022</td>
+            <td>Best Position Paper</td>
+            <td>TAN YEN LIN ALYSSA</td>
+        </tr>
+        <tr>
+            <td>International Mathematical Modeling Challenge</td>
+            <td>Distinction</td>
+            <td>KULANDAIVEL UDAYAR SENTHILKUMAR LAKSHAYAA<br>FANG CHEN<br>BENEDICT GOH YONG EN<br>KAI SATO</td>
+        </tr>
+        <tr>
+            <td>International Mathematical Modeling Challenge</td>
+            <td>Merit</td>
+            <td>XU HANQING<br>TAN EE HSUEN, CONAN<br>KWOK LIK IAN<br>KUSHAGRA SHRIVASTAVA</td>
+        </tr>
+        <tr>
+            <td>International Model United Nations Conference 2022</td>
+            <td>Best Position Paper</td>
+            <td>ANG YUE TING</td>
+        </tr>
+        <tr>
+            <td>Lockheed Martin Code Quest</td>
+            <td>Junior College Champions</td>
+            <td>GARY AXEL MULIYONO<br>CHAN CHONG YIN JAYDEN<br>LIAO ZEYU</td>
+        </tr>
+        <tr>
+            <td>Lockheed Martin Code Quest</td>
+            <td>Junior College 2nd Runner Up</td>
+            <td>PRAN TANPRASERTKUL<br>ANG IAN<br>KAVISHWER SATHIAMORTHY</td>
+        </tr>
+        <tr>
+            <td>MOE Moot Parliament Programme</td>
+            <td>Best Debate Team (Proposition)</td>
+            <td>BRADEN LIM JUN JIE<br>SHEO CHIONG TENG<br>SOH YAN XI<br>BEATRICE FOO YA QI<br>HO YOON SIM<br>S J HARSHITA</td>
+        </tr>
+        <tr>
+            <td>MOE Moot Parliament Programme</td>
+            <td>Best Speaker</td>
+            <td>SOH YAN XI</td>
+        </tr>
+        <tr>
+            <td>MOE-MLEP</td>
+            <td>Overall Valedictorian Award</td>
+            <td>RADITYA SECONDATAMA</td>
+        </tr>
+        <tr>
+            <td>Naanum Oru Padaipali - Budding Poets</td>
+            <td>Creative New Wave Poem</td>
+            <td>PREETHI MAHESHWARAN GEETHA</td>
+        </tr>
+        <tr>
+            <td>Nanyang Youth Chinese Literature Award 2022</td>
+            <td>Merit</td>
+            <td>EDITH LOH POH HUI</td>
+        </tr>
+        <tr>
+            <td>National Olympiad in Informatics 2022</td>
+            <td>Junior College Category Silver</td>
+            <td>CAO JIALIN, MARIANNA</td>
+        </tr>
+        <tr>
+            <td>National Olympiad in Informatics 2022</td>
+            <td>Junior College Category Bronze</td>
+            <td>KAI SATO<br>SETHUPATHY SAKTHIVEL</td>
+        </tr>
+        <tr>
+            <td>National Olympiad in Informatics 2022</td>
+            <td>Secondary Category Bronze</td>
+            <td>TAN WEE HIN<br>XIN ANXIAOYANG</td>
+        </tr>
+        <tr>
+            <td>National Youth Environment Conference 2023</td>
+            <td>Best Position Paper</td>
+            <td>SANDHYA LAKSHMANAN<br>LEOW WEN NING<br>ALPHA EH KRE THU</td>
+        </tr>
+        <tr>
+            <td>NUS Geography Challenge 2023</td>
+            <td>Top Performing Student (Creative Component)</td>
+            <td>ISABELLE ANG EN YI<br>LAKSHMINARAYANAN THARUNIKA<br>LIM WAN YING<br>ARIEL NEO KAIYI</td>
+        </tr>
+        <tr>
+            <td>NUS Geography Challenge 2023</td>
+            <td>Gold Award (Individual)</td>
+            <td>ISABELLE ANG EN YI</td>
+        </tr>
+        <tr>
+            <td>NUS Geography Challenge 2023</td>
+            <td>Silver Award (Individual)</td>
+            <td>ARIEL NEO KAIYI</td>
+        </tr>
+        <tr>
+            <td>Queen's Commonwealth Essay Competition</td>
+            <td>Silver</td>
+            <td>YEO YINGHSI CRISTABELLE<br>TAN HUI EN CHARLOTTE</td>
+        </tr>
+        <tr>
+            <td>Science Buskers Competition</td>
+            <td>1st Runner Up</td>
+            <td>NICOLE TAN LI YUN<br>SERENE SONG<br>CHOW YI XUAN CLAIRE</td>
+        </tr>
+        <tr>
+            <td>Science Buskers Competition</td>
+            <td>Judges Award</td>
+            <td>VRIND CHINTANKUMAR PATEL<br>ISABELLE ANG EN YI<br>FA JIAQI<br>MIA SHIU GWUN YUET<br>LIU YIHUI</td>
+        </tr>
+        <tr>
+            <td>SG75 Singapore Our Home 2022</td>
+            <td>Static 1 Open - 3rd Place</td>
+            <td>CHA YU HANG HENRY<br>LEONG XIAN ZHU SAMUEL<br>JENEVIEVE TAN HUI EN<br>LAW CHEN FENG SHEAN</td>
+        </tr>
+        <tr>
+            <td>Singapore International Mathematics Challenge</td>
+            <td>Merit</td>
+            <td>BENEDICT GOH YONG EN<br>ANG IAN<br>FELIX YEW CHENG EN</td>
+        </tr>
+        <tr>
+            <td>Singapore Junior Chemistry Olympiad</td>
+            <td>Gold</td>
+            <td>FANG CHEN</td>
+        </tr>
+        <tr>
+            <td>Singapore Junior Chemistry Olympiad</td>
+            <td>Silver</td>
+            <td>LUO CHANG (LOH CHANG)<br>SEBASTIAN TOH JUN KAI<br>TAN EE HSUEN CONAN<br>KWOK LIK IAN</td>
+        </tr>
+        <tr>
+            <td>Singapore Junior Chemistry Olympiad</td>
+            <td>Bronze</td>
+            <td>MO THANT CIN</td>
+        </tr>
+        <tr>
+            <td>Singapore Junior Chemistry Olympiad</td>
+            <td>Merit</td>
+            <td>CHAI WAN HAO</td>
+        </tr>
+        <tr>
+            <td>Singapore Junior Physics Olympiad</td>
+            <td>Bronze</td>
+            <td>RUAN KANG KAI</td>
+        </tr>
+        <tr>
+            <td>Singapore Junior Physics Olympiad</td>
+            <td>Honourable Mention</td>
+            <td>WONG ZHENG HAN<br>ZHOU YUELIN<br>KOW RANGDOL<br>MO THANT CIN</td>
+        </tr>
+        <tr>
+            <td>Singapore Mathematical Olympiad</td>
+            <td>Open Category Silver</td>
+            <td>ZHU JIABAO<br>LU HAOMENG<br>WU JIAWEI<br>LI YICHEN<br>JUAN ZIBO<br>CHEN YILIN<br>WU JINGRU<br>XIE YU<br>YANG QIRUI</td>
+        </tr>
+        <tr>
+            <td>Singapore Mathematical Olympiad</td>
+            <td>Open Category Bronze</td>
+            <td>ZHAO KEJUN<br>HU XUEAO<br>TIAN JUELIN<br>WANG CHENG<br>FELIX YEW CHENG EN<br>SHEN ZIHAN<br>FENG SIYU</td>
+        </tr>
+        <tr>
+            <td>Singapore Mathematical Olympiad</td>
+            <td>Senior Category Silver</td>
+            <td>MANDE RISHIKA ASHVINIKUMAR<br>BENEDICT GOH YONG EN</td>
+        </tr>
+        <tr>
+            <td>Singapore Mathematical Olympiad</td>
+            <td>Senior Category Bronze</td>
+            <td>XIN ANXIAOYANG<br>NG YOU XIANG<br>CHAI WAN HAO<br>JIAO PUXI</td>
+        </tr>
+        <tr>
+            <td>Singapore Mathematical Olympiad</td>
+            <td>Junior Category Gold</td>
+            <td>XU RUNZHANG</td>
+        </tr>
+        <tr>
+            <td>Singapore Mathematical Olympiad</td>
+            <td>Junior Category Silver</td>
+            <td>TAN HONG RUI JOSHTON<br>JAMIE NG SHI TING<br>DAMIEN LEE MING HUI (LI MINGHUI)<br>AARTHI SUHITHARAN<br>YANG ANHE<br>PHAN PHU ANH</td>
+        </tr>
+        <tr>
+            <td>Singapore Mathematical Olympiad</td>
+            <td>Junior Category Bronze</td>
+            <td>AIMAN TAN KAI HAN ALFIAN<br>JOEL NGU YUE ZHE<br>ROBINSON JADON MATHIS<br>LIEW HNG KAI JETHRO (LIU HENGKAI)<br>SEAH ERN TING (SHE ENTING)<br>TAN MIN HEAN (CHEN MINXIAN)<br>ETHAN WAN (RUAN YITENG)<br>SEAH KAI XUAN, RAEANN</td>
+        </tr>
+        <tr>
+            <td>Singapore Mathematical Olympiad Invitational Round</td>
+            <td>Open Category Silver</td>
+            <td>XU RUNZHANG<br>WU JIAWEI<br>XIE YU<br>YANG QIRUI</td>
+        </tr>
+        <tr>
+            <td>Singapore Mathematical Society Essay Competition</td>
+            <td>Category C 3rd Place</td>
+            <td>HUANG ANRAN</td>
+        </tr>
+        <tr>
+            <td>Singapore Physics League (Junior)</td>
+            <td>Bronze</td>
+            <td>RUAN KANG KAI<br>WONG ZHENG HAN<br>ZHOU YUELIN</td>
+        </tr>
+        <tr>
+            <td>Singapore Physics League (Junior)</td>
+            <td>Honourable Mention</td>
+            <td>SEAH JIA YING<br>KOW RANGDOL<br>MO THANT CIN</td>
+        </tr>
+        <tr>
+            <td>Singapore Physics League (Senior)</td>
+            <td>Silver</td>
+            <td>CHEN RUIQI<br>FELIX YEW CHENG EN<br>LI YICHEN<br>WANG CHENG<br>ARPIT GUPTA<br>HARSH THAKUR<br>KUSHAGRA SHRIVASTAVA<br>LU HAOMENG<br>TAN CHEN</td>
+        </tr>
+        <tr>
+            <td>Singapore Physics League (Senior)</td>
+            <td>Bronze</td>
+            <td>WU PINYING<br>ZHAO ZHIHAO<br>ZHONG SHU</td>
+        </tr>
+        <tr>
+            <td>Singapore Physics League (Senior)</td>
+            <td>Honourable Mention</td>
+            <td>TENG LINGJING<br>AARYAN AGGARWAL<br>KONG YU HERNG<br>ONG JING JIE<br>PHUA ZO EY<br>SANTHIYAA SENTHILKUMAR</td>
+        </tr>
+        <tr>
+            <td>Singapore Physics Olympiad 2022</td>
+            <td>Gold</td>
+            <td>FELIX YEW CHENG EN<br>LI YICHEN</td>
+        </tr>
+        <tr>
+            <td>Singapore Physics Olympiad 2022</td>
+            <td>Silver</td>
+            <td>SEAH JIA YING</td>
+        </tr>
+        <tr>
+            <td>Singapore Physics Olympiad 2022</td>
+            <td>Bronze</td>
+            <td>CHEN JINKAI</td>
+        </tr>
+        <tr>
+            <td>Singapore Physics Olympiad 2022</td>
+            <td>Honourable Mention</td>
+            <td>WANG CHENG</td>
+        </tr>
+        <tr>
+            <td>Singapore Science and Engineering Fair 2023</td>
+            <td>Gold</td>
+            <td>FELIX YEW CHENG EN</td>
+        </tr>
+        <tr>
+            <td>Singapore Science and Engineering Fair 2023</td>
+            <td>Silver</td>
+            <td>TAN JIA HAO<br>WU RUIXI<br>JUAN ZIBO<br>FENG SIYU<br>JOVYN LEE ZHUO YING</td>
+        </tr>
+        <tr>
+            <td>Singapore Science and Engineering Fair 2023</td>
+            <td>Bronze</td>
+            <td>DELFINA POERNOMO<br>ZHANG SHUYU, ESTHER<br>CHOLAN ABENAYA<br>KRISHNAN ADAIKKAPPAN<br>HAYLEY LIM HUI EN<br>CHELSEA MEGAN HAMDANI<br>KIMBERLY NIAM XIN NING</td>
+        </tr>
+        <tr>
+            <td>Singapore Science and Engineering Fair 2023</td>
+            <td>Merit</td>
+            <td>PARK SAEEUN<br>CHLOE KOH<br>TIYA BANSAL</td>
+        </tr>
+        <tr>
+            <td>Singapore Science and Engineering Fair 2023</td>
+            <td>SUTD Research and Innovation Award: Aviation</td>
+            <td>JUAN ZIBO<br>FENG SIYU</td>
+        </tr>
+        <tr>
+            <td>Singapore Science and Engineering Fair 2023</td>
+            <td>Tale-Bus Special Award</td>
+            <td>XIE YU TIAN<br>LOY QI EN JAELYN<br>MAH RONG XUAN<br>DEBBY TENG QIN XUAN</td>
+        </tr>
+        <tr>
+            <td>Singapore Science and Engineering Fair 2023</td>
+            <td>SAAS Special Award - Poster Award for Science Communication</td>
+            <td>JODIE LIAW KAI XING</td>
+        </tr>
+        <tr>
+            <td>Singapore Science and Engineering Fair 2023 - Junior Scientist Category</td>
+            <td>Distinction</td>
+            <td>AARTHI SUHITHARAN<br>THONDAIMAN RAMPRABHU</td>
+        </tr>
+        <tr>
+            <td>Singapore Young Physicists' Tournament (Category A)</td>
+            <td>Poster (Distinction)</td>
+            <td>KOW RANGDOL<br>SEAH JIA YING<br>MO THANT CIN</td>
+        </tr>
+        <tr>
+            <td>Singapore Young Physicists' Tournament (Category B)</td>
+            <td>Poster (Merit)</td>
+            <td>YAP YUAN YUAN<br>ARIEL NEO KAIYI<br>WANG YUE</td>
+        </tr>
+        <tr>
+            <td>SUTD Sustainability Design Hack</td>
+            <td>First Place in Category A</td>
+            <td>WONG SAM TOU<br>TAN JIA HAO<br>GOH ZHI YU<br>ONG JING JIE</td>
+        </tr>
+        <tr>
+            <td>YMCA Plain English Speaking Awards</td>
+            <td>Winner (Junior)</td>
+            <td>ARASH RAYHAN SIDHU</td>
+        </tr>
+        <tr>
+            <td>YMCA Plain English Speaking Awards (PESA)</td>
+            <td>Lower Secondary Category Champion</td>
+            <td>ARASH RAYHAN SIDHU</td>
+        </tr>
+    </tbody>
+		<tfoot>
+			<tr>
+			<td>
+			</td><td>
+			</td><td>
+				</td></tr>
+			</tfoot>
+</table>
+	</details>
   <details>
     <summary>In the cultural domain</summary>
-    
-    |                                                         |                        |                                                                                                                                    |
-    | ------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-    | Bisikan Pena 2023: Pencarian Jati                       | Champion (JC Category) | RIFQAH BINTE MOHAMED RAFEE<br>MUHAMMAD ARSYA FAHREZI<br>NURSAFFIYAH BINTE ABDUL RAHMAN                                             |
-    | Bisikan Pena 2023: Pencarian Jati                       | Third (JC Category)    | AIDA CEMPAKA HANIF<br>KARIMA NASHA KENCHANA BINTE SURYAKENCHANA<br>NAILAH ZAKIRAH BINTE ASRIN<br>NUR FIRZANAH BINTE MOHAMAD FAIZAL |
-    | Borneo British Parliamentary Championships 2023         | Novice Finalists       | SUJANNYA RATHINAM<br>NGIAM JU RAE                                                                                                  |
-    | Hwa Chong British Parliamentaries 2022                  | Overall 2nd            | ZHANG XIANYANG<br>GAN MING ERN, LYDIA                                                                                              |
-    | Hwa Chong British Parliamentaries 2022                  | 5th best speaker       | ZHANG XIANYANG                                                                                                                     |
-    | Hwa Chong British Parliamentaries 2022                  | Overall 2nd            | ZHANG XIANYANG<br>GAN MING ERN                                                                                                     |
-    | MOE-ACJC Intercollegiate Debating Championships 2022    | Team Semi-finalist     | ZHANG XIANYANG<br>GAN MING ERN<br>ETHAN DHIREN DIVYANATHAN<br>SUJANNYA RATHINAM<br>PATTARAPHON WONGCHAMCHAROEN                     |
-    | National Chinese Riddle Competition 2022                | Top 10                 | NG XIN YI<br>NG QIUYAN<br>JIAO PUXI<br>LEE XIN HUI<br>WAI YI XUAN                                                                  |
-    | National Chinese Short Film Competition                 | Best Short Film Award  | PAN WENBO<br>CHEN YILIN<br>WU JIAWEI<br>ZHAO JIARUI<br>HUANG YIXUAN                                                                |
-    | Raffles Debate Academy U‐14s Debating Championship      | Team Semi-finalist     | VANDANA NARENTHIRAN<br>NEHAARIKA DEELIPRAKASH<br>AARTHI SUHITHARAN<br>LIM SHAO LE<br>NICOLE LIM                                    |
-    | Raffles Debate Academy U‐14s Debating Championship      | 7th Best Speaker       | AARTHI SUHITHARAN                                                                                                                  |
-    | Raffles Debate Academy U‐14s Debating Championship      | 8th Best Speaker       | VANDANA NARENTHIRAN                                                                                                                |
-    | Singapore Secondary Schools Debating Championships 2022 | Team Quarter-finalist  | ZHOU YUELIN<br>VANDANA NARENTHIRAN<br>NEHAARIKA DEELIPRAKASH<br>AARTHI SUHITHARAN<br>ARIVALAGAN SHARMADHA                          |
-    | Singapore Secondary Schools Debating Championships 2022 | 3rd Best Speaker       | ZHOU YUELIN                                                                                                                        |
+		<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Bisikan Pena 2023: Pencarian Jati</td>
+            <td>Champion (JC Category)</td>
+            <td>RIFQAH BINTE MOHAMED RAFEE<br>MUHAMMAD ARSYA FAHREZI<br>NURSAFFIYAH BINTE ABDUL RAHMAN</td>
+        </tr>
+        <tr>
+            <td>Bisikan Pena 2023: Pencarian Jati</td>
+            <td>Third (JC Category)</td>
+            <td>AIDA CEMPAKA HANIF<br>KARIMA NASHA KENCHANA BINTE SURYAKENCHANA<br>NAILAH ZAKIRAH BINTE ASRIN<br>NUR FIRZANAH BINTE MOHAMAD FAIZAL</td>
+        </tr>
+        <tr>
+            <td>Borneo British Parliamentary Championships 2023</td>
+            <td>Novice Finalists</td>
+            <td>SUJANNYA RATHINAM<br>NGIAM JU RAE</td>
+        </tr>
+        <tr>
+            <td>Hwa Chong British Parliamentaries 2022</td>
+            <td>Overall 2nd</td>
+            <td>ZHANG XIANYANG<br>GAN MING ERN, LYDIA</td>
+        </tr>
+        <tr>
+            <td>Hwa Chong British Parliamentaries 2022</td>
+            <td>5th best speaker</td>
+            <td>ZHANG XIANYANG</td>
+        </tr>
+        <tr>
+            <td>Hwa Chong British Parliamentaries 2022</td>
+            <td>Overall 2nd</td>
+            <td>ZHANG XIANYANG<br>GAN MING ERN</td>
+        </tr>
+        <tr>
+            <td>MOE-ACJC Intercollegiate Debating Championships 2022</td>
+            <td>Team Semi-finalist</td>
+            <td>ZHANG XIANYANG<br>GAN MING ERN<br>ETHAN DHIREN DIVYANATHAN<br>SUJANNYA RATHINAM<br>PATTARAPHON WONGCHAMCHAROEN</td>
+        </tr>
+        <tr>
+            <td>National Chinese Riddle Competition 2022</td>
+            <td>Top 10</td>
+            <td>NG XIN YI<br>NG QIUYAN<br>JIAO PUXI<br>LEE XIN HUI<br>WAI YI XUAN</td>
+        </tr>
+        <tr>
+            <td>National Chinese Short Film Competition</td>
+            <td>Best Short Film Award</td>
+            <td>PAN WENBO<br>CHEN YILIN<br>WU JIAWEI<br>ZHAO JIARUI<br>HUANG YIXUAN</td>
+        </tr>
+        <tr>
+            <td>Raffles Debate Academy U‐14s Debating Championship</td>
+            <td>Team Semi-finalist</td>
+            <td>VANDANA NARENTHIRAN<br>NEHAARIKA DEELIPRAKASH<br>AARTHI SUHITHARAN<br>LIM SHAO LE<br>NICOLE LIM</td>
+        </tr>
+        <tr>
+            <td>Raffles Debate Academy U‐14s Debating Championship</td>
+            <td>7th Best Speaker</td>
+            <td>AARTHI SUHITHARAN</td>
+        </tr>
+        <tr>
+            <td>Raffles Debate Academy U‐14s Debating Championship</td>
+            <td>8th Best Speaker</td>
+            <td>VANDANA NARENTHIRAN</td>
+        </tr>
+        <tr>
+            <td>Singapore Secondary Schools Debating Championships 2022</td>
+            <td>Team Quarter-finalist</td>
+            <td>ZHOU YUELIN<br>VANDANA NARENTHIRAN<br>NEHAARIKA DEELIPRAKASH<br>AARTHI SUHITHARAN<br>ARIVALAGAN SHARMADHA</td>
+        </tr>
+        <tr>
+            <td>Singapore Secondary Schools Debating Championships 2022</td>
+            <td>3rd Best Speaker</td>
+            <td>ZHOU YUELIN</td>
+        </tr>
+    </tbody>
+			<tfoot>
+				<tr>
+				<td>
+				</td><td>
+				</td><td>
+					</td></tr>
+				</tfoot>
+</table>
   </details>
   <details>
     <summary>In the sporting domain</summary>
-    
-    |                                                              |                                        |                                                                                                                                                                                                                                                                                                                                                                                                             |
-    | ------------------------------------------------------------ | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | 2022 National School Games Shooting Championships A Division | Team 4th                               | BIAN LINGZHU<br>RAEN TAN YU HAN<br>TING ZI JING<br>MABEL CHO                                                                                                                                                                                                                                                                                                                                                |
-    | 2022 National School Games Shooting Championships B Division | Team 4th                               | TO RUI XUAN<br>NICOLE TAN LI YUN<br>LOVELEY NG<br>YEO LI XIANG                                                                                                                                                                                                                                                                                                                                              |
-    | 2022 National School Games Shooting Championships B Division | Individual 2nd                         | LOVELEY NG                                                                                                                                                                                                                                                                                                                                                                                                  |
-    | 2022 National School Games Shooting Championships B Division | Individual 3rd                         | KULANDAIVEL UDAYAR SENTHILKUMAR LAKSHAYAA                                                                                                                                                                                                                                                                                                                                                                   |
-    | 2023 National School Games Trampoline Championship           | Silver                                 | NATALIA HO SZE MIN                                                                                                                                                                                                                                                                                                                                                                                          |
-    | 2022 NUS Invitational Shoot                                  | Air Pistol Men Team 3rd                | LOGANATHAN KRITHIK<br>DING LI CHAW MAUNG<br>LAW CHEN FENG, SHEAN                                                                                                                                                                                                                                                                                                                                            |
-    | 2022 NUS Invitational Shoot                                  | Air Rifle Women Team 3rd               | TO RUI XUAN<br>LOVELEY NG<br>NICOLE TAN LI YUN                                                                                                                                                                                                                                                                                                                                                              |
-    | 2023 NUS Invitational Shoot                                  | Team 4th                               | BIAN LINGZHU<br>RAEN TAN YU HAN<br>LOVELEY NG                                                                                                                                                                                                                                                                                                                                                               |
-    | 2023 NUS Invitational Shoot                                  | Individual 2nd                         | BRYAN KHOO ZHI REN                                                                                                                                                                                                                                                                                                                                                                                          |
-    | 2023 NTU Invitational Shoot                                  | Team 3rd                               | RAEN TAN YU HAN<br>GOH PEI WEN CHARMAINE<br>LOVELEY NG                                                                                                                                                                                                                                                                                                                                                      |
-    | 2023 NTU Invitational Shoot                                  | Individual 3rd                         | LOVELEY NG                                                                                                                                                                                                                                                                                                                                                                                                  |
-    | 2023 NTU Invitational Shoot                                  | Individual 4th                         | BRYAN KHOO ZHI REN                                                                                                                                                                                                                                                                                                                                                                                          |
-    | Basketball National A Division Boys                          | Champions                              | CHAN MUN HEI, RAY<br>CHING ZHEN YU<br>ETHAN TENG YI JIE<br>EVAN TAN THONG SIANG<br>FU XIANGWEI, MARK<br>JUSTIN EGGEN<br>LEOW KANG REN<br>LIM WEI JIE<br>LIU ZHAOFENG<br>MATTHEW BIJU GEORGE<br>PAOLO LIM RUI ZHE<br>YEOW XUAN KAI, ELLIOT                                                                                                                                                                   |
-    | Basketball National A Division Girls                         | Second Place                           | BOO ZHI LE<br>CHEW YU HUI, ALISON<br>FENG HANBIN<br>JOVITA LEE JIA EN<br>JOVYN LEE ZHUO YING<br>LAI ROU YIN<br>LEW SI HUI<br>NADIA AZUHAR<br>NEO ICHING<br>NG ZI XUAN<br>RACHEL LIM QIAO JIE<br>THUM MUN KUAN<br>TOH YI XUN ASHLEY<br>TRISHA LIM HUEY WEN<br>WAN SHI TING, DAWN<br>YANG YI FEI<br>YONG LOK QING                                                                                             |
-    | Basketball South Zone B Division Boys                        | 4th Place                              | ARYAN SHARMA<br>ASHVIN GUNASEKARAN<br>CHENG HAO<br>CHIA YONG XU DAYTON<br>CHUI JUN LING ELROY<br>FATHUL AZIZ ZAKI FAUZI<br>GAN WEICONG, ISAAC<br>HAR CHEE JOON<br>LEE HONG XUAN, CEDRIC<br>MOHAMMAD IMAN BIN MOHD JUMARI<br>PEH ZHAO KEONG<br>RANADIP SAHA<br>RUAN KANGKAI<br>RYAN LIM JIA EN<br>SAMSON SAMUEL AARON<br>SANGATI ESWAR SUJAN<br>YEAP ZHENG TING                                              |
-    | Basketball South Zone B Division Girls                       | First Place                            | ARDEN XIE XIN XUAN<br>BOO ZHI XUAN<br>CHAN CHO LENG, RYN<br>CHEUNG YUET, YUKI<br>CHOW YI YING<br>CHRISLENE CHOO YING XIN<br>EESHA RAMALINGAM<br>ER SHI JIE<br>FOO KAI NING<br>JIANG RUIEN<br>LEK YI ZHEN<br>NICOLE PANG XE WEN<br>STELLA LIM KAI-JUNE<br>TAN PENG RUI LAUREN<br>TENG YWEE SEE<br>VALENTINA TAN TENG XUAN<br>YANG XI YI                                                                      |
-    | Basketball South Zone C Division Boys                        | Second Place                           | AARON CHUANG HAO PING<br>CALVIN KOH DING SENG<br>CHEN LIYU<br>HOANG ANH QUAN<br>JEGADEESAN SADHANA PRADOSH<br>KOH YAN TENG, MAX<br>LIM JIA QI, ALDON<br>LIM TZE KIAT JAYDEN<br>LUCAS TAY REN JUN<br>MUTHAMIL SELVAN SUJIT<br>PAING ZIN MIN KYI<br>SANKAR AJAY<br>SOH JING KAI<br>TAN JIA DE ARTHUR (CHEN JIADE)<br>TOH CHENG AN, MAX<br>TOH KENG HI (ZHUO JINGXI)<br>XAVIER TEO CHEE ZHUAN (ZHANG ZHIZHUAN) |
-    | National School Games Track &amp; Field Championship 2022        | B Division Boys Long Jump Bronze       | YANG EN HAO, DANIEL                                                                                                                                                                                                                                                                                                                                                                                         |
-    | National School Games Track &amp; Field Championship 2022        | B Division Boys Triple Jump Silver     | YANG EN HAO, DANIEL                                                                                                                                                                                                                                                                                                                                                                                         |
-    | National School Games Track &amp; Field Championship 2022        | B Division Girls 1500m Racewalk Silver | KUEK YU JING                                                                                                                                                                                                                                                                                                                                                                                                |
-    | National School Games Track &amp; Field Championship 2022        | C Division Girls 400m Bronze           | TAMARA TYLES                                                                                                                                                                                                                                                                                                                                                                                                |
-    | National School Games Track &amp; Field Championship 2022        | C Division Girls Long Jump Bronze      | LIEW JAY YEE, ESTHER                                                                                                                                                                                                                                                                                                                                                                                        |
-    | National School Games Track &amp; Field Championship 2022        | C Division Girls Triple Jump Silver    | LIEW JAY YEE, ESTHER                                                                                                                                                                                                                                                                                                                                                                                        |
-    | Singapore Athletics National Championship 2023               | U15 Girls 200m Gold                    | TAMARA TYLES                                                                                                                                                                                                                                                                                                                                                                                                |
-    | Singapore Athletics National Championship 2023               | U21 Girls 400m Bronze                  | LAURA TAN WEN XI                                                                                                                                                                                                                                                                                                                                                                                            |
-    | Singapore Athletics National Championship 2023               | U15 Girls 100m Gold                    | TAMARA TYLES                                                                                                                                                                                                                                                                                                                                                                                                |
-    | Singapore Athletics National Championship 2023               | U15 Girls Long Jump Bronze             | JULIA ANNE NG MIN                                                                                                                                                                                                                                                                                                                                                                                           |
-    | Singapore Athletics National Championship 2023               | U15 Girls Triple Jump Gold             | JULIA ANNE NG MIN                                                                                                                                                                                                                                                                                                                                                                                           |
-    | Singapore Athletics National Championship 2023               | U15 Girls 4 x 400m Relay Bronze        | LEE YI XUAN, GISELLE<br>SHUYA ZHANG<br>GWENDOLYN CHAN YU HUI<br>JULIA ANNE NG MIN<br>ARIEL LIN JING HAN                                                                                                                                                                                                                                                                                                     |
-    | Singapore Athletics National Championship 2023               | U18 Boys Long Jump Silver              | YANG EN HAO, DANIEL                                                                                                                                                                                                                                                                                                                                                                                         |
-    | Singapore Athletics National Championship 2023               | U18 Boys Triple Jump Silver            | YANG EN HAO, DANIEL                                                                                                                                                                                                                                                                                                                                                                                         |
-    | Singapore Athletics National Championship 2023               | U18 Girls 800m Bronze                  | SHANICE TAN HARIDAS                                                                                                                                                                                                                                                                                                                                                                                         |
-    | Singapore Athletics National Championship 2023               | U18 Girls 1500m Racewalk Bronze        | PHUA RUI QI LUCINDA                                                                                                                                                                                                                                                                                                                                                                                         |
-    | Singapore Athletics National Championship 2023               | U18 Girls Triple Jump Silver           | LIEW JAY YEE, ESTHER                                                                                                                                                                                                                                                                                                                                                                                        |
-    | Singapore Athletics National Championship 2023               | U21 Boys 800m Silver                   | ISAAC SIM CHENG JUN                                                                                                                                                                                                                                                                                                                                                                                         |
-    | Singapore Athletics National Championship 2023               | U21 Boys 300m Steeplechase Silver      | FANG CHEN                                                                                                                                                                                                                                                                                                                                                                                                   |
-    | Singapore Athletics National Championship 2023               | U21 Girls 400m Bronze                  | GANESAN LAJITHANI                                                                                                                                                                                                                                                                                                                                                                                           |
-    | Singapore Athletics National Championship 2023               | U21 Girls 400m Hurdles Silver          | HAYLEY LIM HUI EN                                                                                                                                                                                                                                                                                                                                                                                           |
-    | Singapore Athletics National Championship 2023               | U21 Girls 400m Hurdles Bronze          | GOH YU XIN                                                                                                                                                                                                                                                                                                                                                                                                  |
-    | Singapore Athletics National Championship 2023               | U21 Girls 3000m Racewalk Silver        | KWEK YU JING                                                                                                                                                                                                                                                                                                                                                                                                |
-    | Titan Cup Boys A Division                                    | First Place                            | PAOLO LIM RUI ZHE<br>LEOW KANGREN<br>JULIEN SIOW MEIN YU<br>ONG YING QUAN REGAN<br>XU ZI HAO<br>SANGATI ESWAR SUJAN<br>SAMSON SAMUEL AARON<br>CHUI JUN LING ELROY<br>PEH ZHAOKEONG<br>MOHAMMAD IMAN BIN MOHD JUMARI<br>LUI ZHAOFENG<br>HAR CHEE JOON                                                                                                                                                        |
-    | Titan Cup Girls                                              | 4th Place                              | WAN SHI TING DAWN<br>LEE KA HIE GAZELLE<br>LAI ROU YIN<br>THUM MUN KUAN<br>TENG YWEE SEE<br>ARDEN XIE XIN XUAN<br>ER SHI JIE<br>TAN PENG RUI LAURA<br>FOO KAI NING<br>JOVYN LEE ZHUO YING<br>CHEUNG YUET YUKI<br>CHAN CHO LENG RYN<br>TAN PENG RUI, LAUREN<br>RACHEL LIM QIAO JIE                                                                                                                           |
+		<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2022 National School Games Shooting Championships A Division</td>
+            <td>Team 4th</td>
+            <td>BIAN LINGZHU<br>RAEN TAN YU HAN<br>TING ZI JING<br>MABEL CHO</td>
+        </tr>
+        <tr>
+            <td>2022 National School Games Shooting Championships B Division</td>
+            <td>Team 4th</td>
+            <td>TO RUI XUAN<br>NICOLE TAN LI YUN<br>LOVELEY NG<br>YEO LI XIANG</td>
+        </tr>
+        <tr>
+            <td>2022 National School Games Shooting Championships B Division</td>
+            <td>Individual 2nd</td>
+            <td>LOVELEY NG</td>
+        </tr>
+        <tr>
+            <td>2022 National School Games Shooting Championships B Division</td>
+            <td>Individual 3rd</td>
+            <td>KULANDAIVEL UDAYAR SENTHILKUMAR LAKSHAYAA</td>
+        </tr>
+        <tr>
+            <td>2023 National School Games Trampoline Championship</td>
+            <td>Silver</td>
+            <td>NATALIA HO SZE MIN</td>
+        </tr>
+        <tr>
+            <td>2022 NUS Invitational Shoot</td>
+            <td>Air Pistol Men Team 3rd</td>
+            <td>LOGANATHAN KRITHIK<br>DING LI CHAW MAUNG<br>LAW CHEN FENG, SHEAN</td>
+        </tr>
+        <tr>
+            <td>2022 NUS Invitational Shoot</td>
+            <td>Air Rifle Women Team 3rd</td>
+            <td>TO RUI XUAN<br>LOVELEY NG<br>NICOLE TAN LI YUN</td>
+        </tr>
+        <tr>
+            <td>2023 NUS Invitational Shoot</td>
+            <td>Team 4th</td>
+            <td>BIAN LINGZHU<br>RAEN TAN YU HAN<br>LOVELEY NG</td>
+        </tr>
+        <tr>
+            <td>2023 NUS Invitational Shoot</td>
+            <td>Individual 2nd</td>
+            <td>BRYAN KHOO ZHI REN</td>
+        </tr>
+        <tr>
+            <td>2023 NTU Invitational Shoot</td>
+            <td>Team 3rd</td>
+            <td>RAEN TAN YU HAN<br>GOH PEI WEN CHARMAINE<br>LOVELEY NG</td>
+        </tr>
+        <tr>
+            <td>2023 NTU Invitational Shoot</td>
+            <td>Individual 3rd</td>
+            <td>LOVELEY NG</td>
+        </tr>
+        <tr>
+            <td>2023 NTU Invitational Shoot</td>
+            <td>Individual 4th</td>
+            <td>BRYAN KHOO ZHI REN</td>
+        </tr>
+        <tr>
+            <td>Basketball National A Division Boys</td>
+            <td>Champions</td>
+            <td>CHAN MUN HEI, RAY<br>CHING ZHEN YU<br>ETHAN TENG YI JIE<br>EVAN TAN THONG SIANG<br>FU XIANGWEI, MARK<br>JUSTIN EGGEN<br>LEOW KANG REN<br>LIM WEI JIE<br>LIU ZHAOFENG<br>MATTHEW BIJU GEORGE<br>PAOLO LIM RUI ZHE<br>YEOW XUAN KAI, ELLIOT</td>
+        </tr>
+        <tr>
+            <td>Basketball National A Division Girls</td>
+            <td>Second Place</td>
+            <td>BOO ZHI LE<br>CHEW YU HUI, ALISON<br>FENG HANBIN<br>JOVITA LEE JIA EN<br>JOVYN LEE ZHUO YING<br>LAI ROU YIN<br>LEW SI HUI<br>NADIA AZUHAR<br>NEO ICHING<br>NG ZI XUAN<br>RACHEL LIM QIAO JIE<br>THUM MUN KUAN<br>TOH YI XUN ASHLEY<br>TRISHA LIM HUEY WEN<br>WAN SHI TING, DAWN<br>YANG YI FEI<br>YONG LOK QING</td>
+        </tr>
+        <tr>
+            <td>Basketball South Zone B Division Boys</td>
+            <td>4th Place</td>
+            <td>ARYAN SHARMA<br>ASHVIN GUNASEKARAN<br>CHENG HAO<br>CHIA YONG XU DAYTON<br>CHUI JUN LING ELROY<br>FATHUL AZIZ ZAKI FAUZI<br>GAN WEICONG, ISAAC<br>HAR CHEE JOON<br>LEE HONG XUAN, CEDRIC<br>MOHAMMAD IMAN BIN MOHD JUMARI<br>PEH ZHAO KEONG<br>RANADIP SAHA<br>RUAN KANGKAI<br>RYAN LIM JIA EN<br>SAMSON SAMUEL AARON<br>SANGATI ESWAR SUJAN<br>YEAP ZHENG TING</td>
+        </tr>
+        <tr>
+            <td>Basketball South Zone B Division Girls</td>
+            <td>First Place</td>
+            <td>ARDEN XIE XIN XUAN<br>BOO ZHI XUAN<br>CHAN CHO LENG, RYN<br>CHEUNG YUET, YUKI<br>CHOW YI YING<br>CHRISLENE CHOO YING XIN<br>EESHA RAMALINGAM<br>ER SHI JIE<br>FOO KAI NING<br>JIANG RUIEN<br>LEK YI ZHEN<br>NICOLE PANG XE WEN<br>STELLA LIM KAI-JUNE<br>TAN PENG RUI LAUREN<br>TENG YWEE SEE<br>VALENTINA TAN TENG XUAN<br>YANG XI YI</td>
+        </tr>
+        <tr>
+            <td>Basketball South Zone C Division Boys</td>
+            <td>Second Place</td>
+            <td>AARON CHUANG HAO PING<br>CALVIN KOH DING SENG<br>CHEN LIYU<br>HOANG ANH QUAN<br>JEGADEESAN SADHANA PRADOSH<br>KOH YAN TENG, MAX<br>LIM JIA QI, ALDON<br>LIM TZE KIAT JAYDEN<br>LUCAS TAY REN JUN<br>MUTHAMIL SELVAN SUJIT<br>PAING ZIN MIN KYI<br>SANKAR AJAY<br>SOH JING KAI<br>TAN JIA DE ARTHUR (CHEN JIADE)<br>TOH CHENG AN, MAX<br>TOH KENG HI (ZHUO JINGXI)<br>XAVIER TEO CHEE ZHUAN (ZHANG ZHIZHUAN)</td>
+        </tr>
+        <tr>
+            <td>National School Games Track &amp; Field Championship 2022</td>
+            <td>B Division Boys Long Jump Bronze</td>
+            <td>YANG EN HAO, DANIEL</td>
+        </tr>
+        <tr>
+            <td>National School Games Track &amp; Field Championship 2022</td>
+            <td>B Division Boys Triple Jump Silver</td>
+            <td>YANG EN HAO, DANIEL</td>
+        </tr>
+        <tr>
+            <td>National School Games Track &amp; Field Championship 2022</td>
+            <td>B Division Girls 1500m Racewalk Silver</td>
+            <td>KUEK YU JING</td>
+        </tr>
+        <tr>
+            <td>National School Games Track &amp; Field Championship 2022</td>
+            <td>C Division Girls 400m Bronze</td>
+            <td>TAMARA TYLES</td>
+        </tr>
+        <tr>
+            <td>National School Games Track &amp; Field Championship 2022</td>
+            <td>C Division Girls Long Jump Bronze</td>
+            <td>LIEW JAY YEE, ESTHER</td>
+        </tr>
+        <tr>
+            <td>National School Games Track &amp; Field Championship 2022</td>
+            <td>C Division Girls Triple Jump Silver</td>
+            <td>LIEW JAY YEE, ESTHER</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U15 Girls 200m Gold</td>
+            <td>TAMARA TYLES</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U21 Girls 400m Bronze</td>
+            <td>LAURA TAN WEN XI</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U15 Girls 100m Gold</td>
+            <td>TAMARA TYLES</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U15 Girls Long Jump Bronze</td>
+            <td>JULIA ANNE NG MIN</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U15 Girls Triple Jump Gold</td>
+            <td>JULIA ANNE NG MIN</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U15 Girls 4 x 400m Relay Bronze</td>
+            <td>LEE YI XUAN, GISELLE<br>SHUYA ZHANG<br>GWENDOLYN CHAN YU HUI<br>JULIA ANNE NG MIN<br>ARIEL LIN JING HAN</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U18 Boys Long Jump Silver</td>
+            <td>YANG EN HAO, DANIEL</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U18 Boys Triple Jump Silver</td>
+            <td>YANG EN HAO, DANIEL</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U18 Girls 800m Bronze</td>
+            <td>SHANICE TAN HARIDAS</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U18 Girls 1500m Racewalk Bronze</td>
+            <td>PHUA RUI QI LUCINDA</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U18 Girls Triple Jump Silver</td>
+            <td>LIEW JAY YEE, ESTHER</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U21 Boys 800m Silver</td>
+            <td>ISAAC SIM CHENG JUN</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U21 Boys 300m Steeplechase Silver</td>
+            <td>FANG CHEN</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U21 Girls 400m Bronze</td>
+            <td>GANESAN LAJITHANI</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U21 Girls 400m Hurdles Silver</td>
+            <td>HAYLEY LIM HUI EN</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U21 Girls 400m Hurdles Bronze</td>
+            <td>GOH YU XIN</td>
+        </tr>
+        <tr>
+            <td>Singapore Athletics National Championship 2023</td>
+            <td>U21 Girls 3000m Racewalk Silver</td>
+            <td>KWEK YU JING</td>
+        </tr>
+        <tr>
+            <td>Titan Cup Boys A Division</td>
+            <td>First Place</td>
+            <td>PAOLO LIM RUI ZHE<br>LEOW KANGREN<br>JULIEN SIOW MEIN YU<br>ONG YING QUAN REGAN<br>XU ZI HAO<br>SANGATI ESWAR SUJAN<br>SAMSON SAMUEL AARON<br>CHUI JUN LING ELROY<br>PEH ZHAOKEONG<br>MOHAMMAD IMAN BIN MOHD JUMARI<br>LUI ZHAOFENG<br>HAR CHEE JOON</td>
+        </tr>
+        <tr>
+            <td>Titan Cup Girls</td>
+            <td>4th Place</td>
+            <td>WAN SHI TING DAWN<br>LEE KA HIE GAZELLE<br>LAI ROU YIN<br>THUM MUN KUAN<br>TENG YWEE SEE<br>ARDEN XIE XIN XUAN<br>ER SHI JIE<br>TAN PENG RUI LAURA<br>FOO KAI NING<br>JOVYN LEE ZHUO YING<br>CHEUNG YUET YUKI<br>CHAN CHO LENG RYN<br>TAN PENG RUI, LAUREN<br>RACHEL LIM QIAO JIE</td>
+        </tr>
+    </tbody>
+			<tfoot>
+				<tr>
+				<td>
+				</td><td>
+				</td><td>
+					</td></tr>
+				</tfoot>
+</table>
   </details>
-			  </div>
+</div>
 </li>
-	
 <li>
-
   <input id="accordion5" type="checkbox">
   <label for="accordion5">Renewing our commitment to college and country</label>
   <div>
-		<h3> Long Service Awards </h3>
-		<h4> 15 Years </h4>
-  <details>
-    <summary>Chua Chin Yang</summary>
-      *insert image*
-
-      “He is no fool who gives what he cannot keep to gain what he cannot lose.” If this quote from missionary Jim Elliot drives and directs my spiritual life as a Christian, then hopefully it is something that has reflected my teaching and service to NJC for the past 15 years. What can I not keep that I have given to my students? The shared knowledge and experiences I have gained both as a former student myself, and now in my role as a teacher. Not that I cannot keep it all to myself, but what would it profit me?
-
-      What do I gain from sharing all my knowledge and experiences? Hopefully the students’ learning, and moments and memories that they keep with them through their lives and in time to come, also share and impart them to others. Until the day this no longer applies, each life touched is a life touched for the rest of the student’s life.
+		<h4>Long Service Awards</h4>
+			<h5>15 Years</h5>
+			<b><center>Chua Chin Yang</center></b>
+      <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
+			<br>
+			<details>
+           <summary>“He is no fool who gives what he cannot keep to gain what he cannot lose.”</summary>
+<p>If this quote from missionary Jim Elliot drives and directs my spiritual life as a Christian, then hopefully it is something that has reflected my teaching and service to NJC for the past 15 years. What can I not keep that I have given to my students? The shared knowledge and experiences I have gained both as a former student myself, and now in my role as a teacher. Not that I cannot keep it all to myself, but what would it profit me?
+	
+What do I gain from sharing all my knowledge and experiences? Hopefully the students’ learning, and moments and memories that they keep with them through their lives and in time to come, also share and impart them to others. Until the day this no longer applies, each life touched is a life touched for the rest of the student’s life.</p>
   </details>
-  <details>
-    <summary>Eng Wei Ping Michelle</summary>
-    *insert image*
-
-    I didn’t think I would stay in teaching for 15 years, let alone 15 years in NJC. Every single interaction that I have with my students is a reminder of the privilege I get to interact and have the opportunity to leave an imprint in their lives, regardless of the time spent. 
-I hope that with the time I have spent in NJC is in part, contributing to a culture and a history that builds a sense of belonging for the students who have long graduated, especially those from the Track &amp; Field team. The common experiences they have shared, passed through the years, because of the family they see themselves a part of. 15 years is not a long time - that’s just the life span of a teenager just starting to take flight. I’m still in my teenage years of teaching, and many more years of learning to come. May my students and athletes feel the same about what comes ahead of them - so much more to learn and so much more to grow!
+					<b><center>Eng Wei Ping Michelle</center></b>
+      <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
+			<br>
+			<details>
+           <summary>I’m still in my teenage years of teaching, and many more years of learning to come. May my students and athletes feel the same about what comes ahead of them - so much more to learn and so much more to grow!</summary>
+<p>I didn’t think I would stay in teaching for 15 years, let alone 15 years in NJC. Every single interaction that I have with my students is a reminder of the privilege I get to interact and have the opportunity to leave an imprint in their lives, regardless of the time spent. I hope that with the time I have spent in NJC is in part, contributing to a culture and a history that builds a sense of belonging for the students who have long graduated, especially those from the Track &amp; Field team. The common experiences they have shared, passed through the years, because of the family they see themselves a part of. 15 years is not a long time - that’s just the life span of a teenager just starting to take flight. I’m still in my teenage years of teaching, and many more years of learning to come. May my students and athletes feel the same about what comes ahead of them - so much more to learn and so much more to grow!</p>
   </details>
-  <details>
-    <summary>Gao Peirong, Jessica</summary>
-    *insert image*
-
-    <q>To teach is to touch the lives of many  
-And to help us learn Life's lessons.  
-But to teach well is to make a difference  
+							<b><center>Gao Peirong, Jessica</center></b>
+      <img src="https://file.for.edu.sg/college54jessicagao.jpg" class="awardee"> 
+			<br>
+			<details>
+    <summary>To teach is to touch the lives of many<br>  
+And to help us learn Life's lessons.<br>  
+But to teach well is to make a difference<br>
 In all the lives you touch.
 
-To teach is to be tender, loving,  
-strong and giving to all who rely upon you;  
-To encourage and praise.  
-But to teach well is to believe in what and whom you teach.</q>
-~Jann Matthew Papin
-
-Even after 15 years in this teaching journey, I am still striving to be able to teach well. The teaching journey, as expected of all journeys in life, is not a straight line forward but is full of ups and downs and sometimes necessary diversions and u-turns. But I am heartened, in this journey, to have the company of my students as well as my fellow colleagues, as we strive to make the difference in the world and community we live in.
+To teach is to be tender, loving,<br>
+strong and giving to all who rely upon you;<br>
+To encourage and praise. <br>
+But to teach well is to believe in what and whom you teach.<br>
+~ Jann Matthew Papin
+</summary>
+<p>Even after 15 years in this teaching journey, I am still striving to be able to teach well. The teaching journey, as expected of all journeys in life, is not a straight line forward but is full of ups and downs and sometimes necessary diversions and u-turns. But I am heartened, in this journey, to have the company of my students as well as my fellow colleagues, as we strive to make the difference in the world and community we live in.</p>
   </details>
+		<b><center>Heng Li Li, Amanda</center></b>
+      <img src="https://file.for.edu.sg/college54amandaheng.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Heng Li Li, Amanda</summary>
-    *insert image*
-
-    It has been a wonderful 15 years of teaching at National Junior College. I am thankful for the memories and friendship forged with like-minded colleagues and students. As much as I try to make a positive influence on my students’ lives and to help them reach their potential, my students have also taught me so much and added value in my life. What continues to excite me about teaching is that every day presents a brand new opportunity to learn more about my students, understand them better and help them find meaning in learning.
+    <summary>What continues to excite me about teaching is that every day presents a brand new opportunity to learn more about my students, understand them better and help them find meaning in learning.</summary>
+<p>It has been a wonderful 15 years of teaching at National Junior College. I am thankful for the memories and friendship forged with like-minded colleagues and students. As much as I try to make a positive influence on my students’ lives and to help them reach their potential, my students have also taught me so much and added value in my life. What continues to excite me about teaching is that every day presents a brand new opportunity to learn more about my students, understand them better and help them find meaning in learning.</p>
   </details>
+		<b><center>Soh Huiqing Sylvia</center></b>
+      <img src="https://file.for.edu.sg/college54sylviasoh.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Soh Huiqing Sylvia</summary>
-    *insert image*
-
-    I like to think that my work is meaningful: when I teach my students about tentative language, my hope is for them to be open-minded in receiving and weighing perspectives. When I dissuade them from using absolute words, my hope for them is to avoid polarised, bigoted thinking. When we interpret symbols and metaphors, we’re learning that instead of confining and restricting, language flourishes in possibilities – language conveys profound truths in indirect and slanted ways. When we analyse characters, we also learn something about ourselves and find reason to forge on. I hope that my students place more faith in their passions, and recognise that passion does not have to be associated with impracticality and naivety. Instead of seeking security in conventional paths, may they dare to venture in storms, because they will be brilliant sailors charting their own courses. 
+    <summary>I hope that my students place more faith in their passions, and recognise that passion does not have to be associated with impracticality and naivety. Instead of seeking security in conventional paths, may they dare to venture in storms, because they will be brilliant sailors charting their own courses.</summary>
+		<p>I like to think that my work is meaningful: when I teach my students about tentative language, my hope is for them to be open-minded in receiving and weighing perspectives. When I dissuade them from using absolute words, my hope for them is to avoid polarised, bigoted thinking. When we interpret symbols and metaphors, we’re learning that instead of confining and restricting, language flourishes in possibilities – language conveys profound truths in indirect and slanted ways. When we analyse characters, we also learn something about ourselves and find reason to forge on. I hope that my students place more faith in their passions, and recognise that passion does not have to be associated with impracticality and naivety. Instead of seeking security in conventional paths, may they dare to venture in storms, because they will be brilliant sailors charting their own courses.</p>
   </details>
+			<b><center>Tan Keng Ghee (Chen Qingyi)</center></b>
+      <img src="https://file.for.edu.sg/college54kennethtan.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Tang Keng Ghee (Chen Qingyi)</summary>
-    *insert image*
-
-    I have always been part of the NJC Boarding Office Team since joining National Junior College. I am deeply appreciative of the companionship and help that my teammates have provided me.
+    <summary>I hope the students will always have their friends that they gained during their NJC days and are cognizant that friendship, kindness, and gentleness will always keep and rejuvenate us.</summary>
+<p>I have always been part of the NJC Boarding Office Team since joining National Junior College. I am deeply appreciative of the companionship and help that my teammates have provided me.
 
 I am grateful for the opportunity to support the various boarding programmes involving the students of the College throughout the years. This is where my motivation lies: it is a great privilege for us to be able to witness the enduring bonds that students forge with each other in unique boarding programmes of the College.
 
-I hope the students will always have their friends that they gained during their NJC days and are cognizant that friendship, kindness, and gentleness will always keep and rejuvenate us.
+I hope the students will always have their friends that they gained during their NJC days and are cognizant that friendship, kindness, and gentleness will always keep and rejuvenate us.</p>
   </details>
-
-  #### 10 Years
+		
+<h5>10 Years</h5>
+			<b><center>Ahmad Fuad Bin Wahid</center></b>
+      <img src="https://file.for.edu.sg/college54ahmadfuad.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Ahmad Fuad Bin Wahid</summary>
-    *insert image*
-
-    The past 10 years in this job has given me purpose in aiding the teachers, ensuring their practical lessons run smoothly and maximising the usage of the lab to benefit the students in their learning. What motivates me to come to work everyday are my colleagues. The continuous support and encouragement given by my colleagues allowed me to do my job with ease and contribute to the holistic education of the students in the school. My hopes for the students are to take the time to find purpose in life, stay humble and always spread kindness. 
+    <summary>What motivates me to come to work everyday are my colleagues. The continuous support and encouragement given by my colleagues allowed me to do my job with ease and contribute to the holistic education of the students in the school.</summary>
+		<p>The past 10 years in this job has given me purpose in aiding the teachers, ensuring their practical lessons run smoothly and maximising the usage of the lab to benefit the students in their learning. What motivates me to come to work everyday are my colleagues. The continuous support and encouragement given by my colleagues allowed me to do my job with ease and contribute to the holistic education of the students in the school. My hopes for the students are to take the time to find purpose in life, stay humble and always spread kindness.</p>
   </details>
+		<b><center>Feng Pingping</center></b>
+      <img src="https://file.for.edu.sg/college54ahmadfuad.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Feng Pingping</summary>
-    *insert image*
+    <summary>I hope that all NJCians can be open to life and regret nothing at the end of the day.</summary>
+		<p>Every moment of serving in NJC helps me to become more experienced and mature. I like the teaching process which helps enable and prepare the children to take on their own life challenges with excitement, adventure and uncertainty. 
 
-    Every moment of serving in NJC helps me to become more experienced and mature. I like the teaching process which helps enable and prepare the children to take on their own life challenges with excitement, adventure and uncertainty. 
-
-I hope that all NJCians can be open to life and regret nothing at the end of the day; use the 2-6 years here to acquire sufficient skills in managing themselves not just academically but also emotionally beyond the campus life. Learning to embrace their own strengths, weaknesses and appreciating each other’s differences are important to find their inner joy and satisfaction in life.
+I hope that all NJC-ians can be open to life and regret nothing at the end of the day; use the 2-6 years here to acquire sufficient skills in managing themselves not just academically but also emotionally beyond the campus life. Learning to embrace their own strengths, weaknesses and appreciating each other’s differences is important for finding their inner joy and satisfaction in life.</p>
   </details>
+		<b><center>Ganesh Issardas Udasi</center></b>
+      <img src="https://file.for.edu.sg/college54ahmadfuad.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Ganesh Issardas Udasi</summary>
-    *insert image*
-
-    The last 10 years that I have spent in NJC has been a privilege. This memorable decade enabled me to grow personally and professionally, and all this is made possible with the generous support and guidance I have received through working with collaborative colleagues. The collective energy that our fraternity gives to all our NJC-ians fuel my passion and commitment to the work I do daily. The concept of time is very real in the study of History. I would like to part with this quote, "Do something NOW for which your FUTURE self with thank you for later." The present will pass, but always do things with purpose and impact, and be grateful for the past, present and future. Thank you, NJC, for making my years here a fulfilling and enriching one.
+    <summary>The collective energy that our fraternity gives to all our NJC-ians fuel my passion and commitment to the work I do daily.</summary>
+		<p>The last 10 years that I have spent in NJC has been a privilege. This memorable decade enabled me to grow personally and professionally, and all this is made possible with the generous support and guidance I have received through working with collaborative colleagues. The collective energy that our fraternity gives to all our NJC-ians fuel my passion and commitment to the work I do daily. The concept of time is very real in the study of History. I would like to part with this quote, "Do something NOW for which your FUTURE self with thank you later." The present will pass, but always do things with purpose and impact, and be grateful for the past, present and future. Thank you, NJC, for making my years here fulfilling and enriching.</p>
   </details>
+		<b><center>Ho Hui Lin</center></b>
+      <img src="https://file.for.edu.sg/college54ahmadfuad.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Ho Hui Lin</summary>
-    *insert image*
-
-    NJC is arguably a microcosm of Singapore, as some like to describe it. Teaching at NJ has been a humbling experience, as the opportunity to work with students from different backgrounds over the years allowed me to live vicariously and uncover more about myself as a person. Hopefully, this valuable opportunity of experiencing diveristy extends to our students as well. May it plant tiny seeds in our students, and flower somewhere down the road, providing some respite as they find their place in the world.
+    <summary>Teaching at NJC has been a humbling experience, as the opportunity to work with students from different backgrounds over the years has allowed me to live vicariously and uncover more about myself as a person.</summary>
+		<p>NJC is arguably a microcosm of Singapore, as some like to describe it. Teaching at NJC has been a humbling experience, as the opportunity to work with students from different backgrounds over the years has allowed me to live vicariously and uncover more about myself as a person. Hopefully, this valuable opportunity of experiencing diversity extends to our students as well. May it plant tiny seeds in our students, and flower somewhere down the road, providing some respite as they find their place in the world.</p>
   </details>
+		<b><center>Kao Peixin Jamie</center></b>
+      <img src="https://file.for.edu.sg/college54jamiekao.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Kao Peixin Jamie</summary>
-    *insert image*
+    <summary>I hope that NJC-ians will grow to become compassionate people who use their gifts to make the world a better place.</summary>
+		<p>I can hardly believe that it has been a decade. NJC has been my first school since I joined the service and I have learnt a lot about myself in my years here. I am grateful to have been given the opportunity to serve in various capacities and projects, some really memorable ones include the NJ50 Musical, Sports on Board &amp; the Boarding School Programme.
+			
+Teaching is never easy. There have been times when I have faced challenges but the safe environment my colleagues provided with has helped me immensely. Also, the students are lovely and kind towards each other and their teachers, making teaching an incredibly rewarding experience.
 
-    I can hardly believe that it has been a decade. NJC has been my first school since I joined the service and I have learnt a lot about myself in my years here. I am grateful to have been given the opportunity to serve in various capacities and projects, some really memorable ones include the NJ50 Musical, Sports on Board &amp; the Boarding School Programme.
-
-
-Teaching is never easy. There have been times I’ve faced challenges but the safe environment my colleagues have provided me with helped me immensely. Also, the students are lovely, who have been kind towards each other and their teachers, making teaching an incredibly rewarding experience.
-
-I hope that NJCians will grow to become compassionate people who use their gifts to make the world a better place. Most importantly, I wish for them to be fearless in their pursuit of their passions and never let failure stop them. They all deserve to lead meaningful lives that bring joy to themselves and others.
+I hope that NJC-ians will grow to become compassionate people who use their gifts to make the world a better place. Most importantly, I wish for them to be fearless in their pursuit of their passions and never let failure stop them. They all deserve to lead meaningful lives that bring joy to themselves and others.</p>
   </details>
+		<b><center>Lim Lai Har Karen</center></b>
+      <img src="https://file.for.edu.sg/college54jamiekao.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Lim Lai Har Karen</summary>
-    *insert image*
-
-    When I first came to NJC, I was impressed with and enriched by the strong culture and support for teachers’ professional development school-wide and the collaborative learning in the department through the fortnightly Buzz and PP sessions to update on our PD experiences. 
+    <summary>My belief is that as I teach, I also learn from my students and colleagues. What also keeps me going is when my students are happy learners.</summary>
+		<p>When I first came to NJC, I was impressed with and enriched by the strong culture and support for teachers’ professional development school-wide and the collaborative learning in the department through the fortnightly Buzz and PP sessions to enrich our PD experiences. 
   
 I wish to teach our NJC students to develop a sense of curiosity about the world around us and how it operates; to be able to think critically why things work the way they do; to have the passion to explore and gain new experiences and know that what they do can have a significant impact on the world around us; to possess the open-mindedness and the willingness to consider different perspectives and viewpoints. By fostering these qualities and skills, I believe they will be well-equipped to make meaningful contributions in their fields. 
-
-
-My belief is that as I teach, I also learn from my students and colleagues. What also keeps me going is when my students are happy learners.
+			
+My belief is that as I teach, I also learn from my students and colleagues. What also keeps me going is when my students are happy learners.</p>
   </details>
+		<b><center>Mak Wei Shan</center></b>
+      <img src="https://file.for.edu.sg/college54jamiekao.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Mak Wei Shan</summary>
-    *insert image*
-
-    It was surreal when I first stepped into NJC as a teacher; it felt like not too long ago when I was here as a student. It is my genuine hope that every NJCian who passes through these hallowed halls (or rather, the hallowed long corridor from the bus stop to the school building - Great way to keep fit!) finds their place in life and society, and contributes actively to their community in various ways. I also wish for the students here that no matter how much time passes or how many fantastic places in the world you travel to, that you will always be able to come back to NJC or to your NJC people, and think to yourself that ah, this feels like home. 
+    <summary>It is my genuine hope that every NJC-ian who passes through these hallowed halls finds their place in life and society, and contributes actively to their community in various ways.</summary>
+		<p>It was surreal when I first stepped into NJC as a teacher; it felt like not too long ago when I was here as a student. It is my genuine hope that every NJC-ian who passes through these hallowed halls (or rather, the hallowed long corridor from the bus stop to the school building - great way to keep fit!) finds their place in life and society, and contributes actively to their community in various ways. I also wish for the students here that no matter how much time passes or how many fantastic places in the world you travel to, you will always be able to come back to NJC or to your NJC people, and think to yourself that ah, this feels like home.</p>
   </details>
+		<b><center>Neo Shu Ting</center></b>
+      <img src="https://file.for.edu.sg/college54jamiekao.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Neo Shu Ting</summary>
-    *insert image*
+    <summary>What I love best about teaching is the fact that I am constantly growing alongside my students and colleagues in the Language Arts department and the Symphonic Band team.</summary>
+		<p>The past ten years in NJC have been a humbling and fruitful experience. What I love best about teaching is the fact that I am constantly growing alongside my students and colleagues in the Language Arts department and the Symphonic Band team. I enjoy the variety of experiences I get to have at work in a supportive environment, and I always appreciate building off the energy, curiosity and initiative of fellow learners. Nothing is ever static, and each year we discover and develop new and refreshing means of opening up our students' horizons. 
 
-    The past ten years in NJC have been a humbling and fruitful experience. What I love best about teaching is the fact that I am constantly growing alongside my students and colleagues in the Language Arts department and the Symphonic Band team. I enjoy the variety of experiences I get to have at work in a supportive environment, and I always appreciate building off the energy, curiosity and initiative of fellow learners. Nothing is ever static, and each year we discover and develop new and refreshing means of opening up our students' horizons. 
-
-My hope for NJC students is that they find pride and meaning in everything they do, and that they bring a love of words and ideas into their future endeavours. 
+My hope for NJC students is that they find pride and meaning in everything they do, and that they bring a love of words and ideas into their future endeavours.</p>
   </details>
+			<b><center>Ng Chinn Min, Veronica</center></b>
+      <img src="https://file.for.edu.sg/college54veronicang.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Ng Chinn Min, Veronica</summary>
-    *insert image*
+    <summary>I hope that our NJC students find relevance in what they are learning to their future university courses, careers or any aspect of their lives.</summary>
+		<p>I didn’t realise that 10 years have gone past just like that! Many people (colleagues, students etc.) have walked with me on this journey and I am grateful to be part of their journeys too. I am happy to be given opportunities to teach various subjects (H1, H2, H3 Chemistry and Project Work) and be part of different departments.
 
-    I didn’t realise that 10 years have gone past just like that! Many people (colleagues, students etc.) have walked with me in this journey and I am grateful to be part of their journeys too. I’m happy to be given the opportunities to teach various subjects (H1, H2, H3 Chemistry and Project Work) and be part of different departments.
+What motivates me to keep going is when I see people growing. Not in the physical sense, but you can see students becoming better and that shows in the way they articulate themselves and behave.
 
-What motivates me to keep going is when I see people growing. Not in the physical sense, but you can see students becoming better and that shows in the way they articulate and behave.
-
-I hope that our NJC students find relevance in what they are learning to their future university courses, careers or any aspect of their lives. Live life to the fullest.
+I hope that our NJC students find relevance in what they are learning to their future university courses, careers or any aspect of their lives. Live life to the fullest.</p>
   </details>
+		<b><center>Ng Siang Nan Carmen</center></b>
+      <img src="https://file.for.edu.sg/college54carmenng.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Ng Siang Nan Carmen</summary>
-    *insert image*
+    <summary>I am grateful for the chance to work alongside dedicated and passionate colleagues from whom I have had the privilege of learning much from, and also the wonderful students who have taught me many things as well.</summary>
+		<p>10 years sounds like such a long time but honestly, the time just flew by. As an alumna, I feel proud to have the opportunity to serve in NJC and contribute back to the community here. I am grateful for the chance to work alongside dedicated and passionate colleagues from whom I have had the privilege of learning much from, and also the wonderful students who have taught me many things as well. I look forward to continuing this journey of learning and serving in NJC.
 
-    10 years sounds like such a long time but honestly, the time just flew by. As an alumna, I feel proud to have the opportunity to serve in NJC and contribute back to the community here. I am grateful for the chance to work alongside dedicated and passionate colleagues from whom I’ve had the privilege of learning much from, and also the wonderful students who’ve taught me many things as well. I look forward to continuing this journey of learning and serving in NJC.
+What motivates me to keep going is seeing students grow to be better students, better learners, better people. Witnessing the sense of pride and accomplishment students experience when they exceed their own expectations. Knowing that I work alongside people who share the same passion and philosophy as I do.
 
-
-What motivates me to keep going:
-Seeing students grow to be better students, better learners, better people. Witnessing the sense of pride and accomplishment students experience when they exceed their own expectations. Knowing that I work alongside people who share the same passion and philosophy as I do.
-
-
-I hope for NJC students to find joy in the things we do, even when the going gets tough. Make lifelong friends from who will become our pillar of support, and vice versa, as we navigate life together. And most importantly, find purpose and meaning.
+I hope for NJC students to find joy in the things we do, even when the going gets tough. Make lifelong friends from who will become our pillar of support, and vice versa, as we navigate life together. And most importantly, find purpose and meaning.</p>
   </details>
+		<b><center>Reef Koh Junjie</center></b>
+      <img src="https://file.for.edu.sg/college54reefkoh.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Reef Koh Junjie</summary>
-    *insert image*
-
-    It is my pride and joy that I have served in National Junior College for the past 10 years. I feel honoured to be part of this College, where I have had the opportunity to share my passion for biology with our senior high students and also to advise in the Student Council.
+    <summary>I hope that our NJC students will use their education and experiences here to make a positive impact in the world and contribute to society.</summary>
+		<p>It is my pride and joy that I have served in National Junior College for the past 10 years. I feel honoured to be part of this College, where I have had the opportunity to share my passion for biology with our Senior High students and also to advise in the Student Council.
+			
 My motivation to keep going comes from the knowledge that I am making a difference in the lives of our students. Seeing them grow academically and personally, and contributing to their success, gives me immense satisfaction. Additionally, the supportive and inspiring environment at NJC, along with the opportunity to learn from my colleagues and students, keeps me motivated to continue serving here.
-My hopes for our NJC students are that they will continue to strive for excellence, not just in academics but also in their personal growth. I hope that they will use their education and experiences here to make a positive impact in the world and contribute to society. I am confident that our students have the potential to achieve great things and I am happy to have played a small part in their journey.
+			
+My hopes for our NJC students are that they will continue to strive for excellence, not just in their studies but also in their personal growth. I hope that they will use their education and experiences here to make a positive impact in the world and contribute to society. I am confident that our students have the potential to achieve great things and I am happy to have played a small part in their journey.</p>
   </details>
+				<b><center>Rita Sulastry Binte Abdul Daud</center></b>
+      <img src="https://file.for.edu.sg/college54rita.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Rita Sulastry Binte Abdul Daud</summary>
-    *insert image*
+		<summary>Receiving this long service award means a lot to me because it means NJC loves me, just as I love NJC.</summary>
+		<p>I am incredibly thankful for the support that NJC has always shown me. I am thankful to my colleagues who have walked alongside me, as well as managers and school leaders who have provided unconditional support to me. They are my constant source of energy that has helped me overcome problems and challenges that I have faced. The entire journey here has been a continual learning experience.
 
-    I am incredibly thankful for the support that NJC has always shown me. I am thankful to my colleagues who have walked alongside me, as well as managers and school leaders who have provided unconditional support to me. They are my constant source of energy that has helped me overcome problems and challenges that I have faced. The entire journey here has been a continual learning experience.
-
-NJC has become very close to my heart. Receiving this long service award means a lot to me because it means NJC loves me, just as I love NJC. I am energised and feel reinvigorated for the future with NJC.
+NJC has become very close to my heart. Receiving this long service award means a lot to me because it means NJC loves me, just as I love NJC. I am energised and feel reinvigorated for the future with NJC.</p>
   </details>
+		<b><center>Wang Muran</center></b>
+      <img src="https://file.for.edu.sg/college54wangmuran.jpg" class="awardee"> 
+			<br>
   <details>
-    <summary>Wang Muran</summary>
-    *insert image*
+    <summary>As a former student of NJC, I have a strong sense of belonging serving in this school. I am proud to see our students achieving their potential and advancing to their next stage of life.</summary>
+		<p>Seeing my students learn, grow, and succeed can be incredibly rewarding and can provide a strong sense of purpose and fulfillment in my work. Knowing that they are making a positive impact on the lives of others can be a powerful motivator for many teachers to continue teaching. 
 
-    As a former student of NJC, I have a strong sense of belonging serving in this school. I am proud to see our students achieving their potential and advancing to their next stage of life.
-
-
-Seeing my students learn, grow, and succeed can be incredibly rewarding and can provide a strong sense of purpose and fulfillment in my work. Knowing that they are making a positive impact on the lives of others can be a powerful motivator for many teachers to continue teaching. 
-
-I hope that our students can demonstrate resilience in the face of challenges and setbacks with a growth mindset, which involves embracing challenges and seeing them as opportunities for learning and growth. I also hope that our students can always treat the teachers with respect, regardless in school or not, even after graduation. 
+I hope that our students can demonstrate resilience in the face of challenges and setbacks with a growth mindset, which involves embracing challenges and seeing them as opportunities for learning and growth. I also hope that our students can always treat the teachers with respect, regardless in school or not, even after graduation.</p>
   </details>
-  
-
   </div>
-
 </li>
-	
 <li>
-
   <input id="accordion6" type="checkbox">
-
   <label for="accordion6">Reconnecting with our friends and partners</label>
-
   <div>
-  ### The NJC Partners' Award
+  <h4>The NJC Partners' Award</h4>
 
 
-  </div>
-  <div>
-  ### The Friends of NJC Award
+
+  <h4>The Friends of NJC Award</h4>
 
 
   </div>
@@ -908,7 +1550,7 @@ ul.jekyllcodex_accordion li input:checked + label {font-weight: bold;}
 ul.jekyllcodex_accordion li input:checked + label + div {display: block;}
 ul.jekyllcodex_accordion li label::before {content: "+"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
 ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45deg);}
-p {
+p, summary {
 	text-align: justify;
 	}
 img {
