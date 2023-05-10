@@ -4,39 +4,26 @@ permalink: /about/heritage/permalink/
 description: ""
 third_nav_title: Heritage
 ---
-<style>
-ul.jekyllcodex_accordion {position: relative; margin: 1.4rem 0!important; border-bottom: 1px solid rgba(0,0,0,0.25); padding-bottom: 0;}
-ul.jekyllcodex_accordion li {border-top: 1px solid rgba(0,0,0,0.25); list-style: none; margin-left: 0;}
-ul.jekyllcodex_accordion li input {display: none;}
-ul.jekyllcodex_accordion li label {display: block; cursor: pointer; padding: 0.75rem 2.4rem 0.75rem 0; margin: 0;}
-ul.jekyllcodex_accordion li div {display: none; padding-bottom: 1.2rem;}
-ul.jekyllcodex_accordion li input:checked + label {font-weight: bold;}
-ul.jekyllcodex_accordion li input:checked + label + div {display: block;}
-ul.jekyllcodex_accordion li label::before {content: "+"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
-ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45deg);}
-</style>
-### 54th College Day
-
-<img style="width:80%" src="/images/collegedaylogo.jpeg">
-
+<h1>54th College Day</h1>
+<img src="/images/collegedaylogo.jpeg">
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1">Guest of Honour</label>
-    <div>
-      <p> <b></b></p><center><b>Ms Gan Su Yi</b></center><b> </b><br>
-      <img style="width:60%" src="/images/col1.png"> <br>
-      Gan Su Yi is an alumna of NJC who was part of the graduating class of 2008. During her time at the College, she served as the College's Student Council President and was part of the Outdoor Activities Club. For her academic excellence, strong leadership qualities and contributions to school activities, she was named Student of the Year and class Valedictorian in 2008. As a President's Scholar, Su Yi began her illustrious career with the public sector, where she served at MINDEF, MND and the Prime Minister's Office. She continues to contribute to Singapore and our economy in her current role as a consultant for Bain &amp; Company, where she is on attachment from the Public Service.
-    </div>
+    <label for="accordion1">Guest of Honour</label> 
+    <div>  
+		<center><b>Ms Gan Su Yi</b></center>
+      <img src="https://file.for.edu.sg/college54gansuyi.jpg">
+			<p>Gan Su Yi is an alumna of NJC who was part of the graduating class of 2008. During her time at the College, she served as the College's Student Council President and was part of the Outdoor Activities Club. For her academic excellence, strong leadership qualities and contributions to school activities, she was named Student of the Year and class Valedictorian in 2008. As a President's Scholar, Su Yi began her illustrious career with the public sector, where she served at MINDEF, MND and the Prime Minister's Office. She continues to contribute to Singapore and our economy in her current role as a consultant for Bain &amp; Company, where she is on attachment from the Public Service.
+	</p></div>
   </li>
 	<li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Message from our Principal</label>
-      <div>
-      <p><b></b></p><center><b>Mrs Lucy Toh</b></center><b> </b><br>
-      <img id="accordion3" src="https://file.for.edu.sg/college54mrslucytoh.png"> <br>
-        As I write this Foreword, half of Senior High One are experiencing six nights in our Boarding School. The other half did so in the last week of Term One. 300 of them hail from over 80 secondary schools across the island while 200 of them came to NJC four years ago from over 80 primary schools. In each of our six cohorts of students from Junior High One to Senior High Two, our student body is wonderfully diverse, echoing our Singaporean heritage – truly we are the College of the Nation.
-
+     <div>
+     <center><b>Mrs Lucy Toh</b></center><br>
+      <img src="https://file.for.edu.sg/college54mrslucytoh.png">      
+			 <p>As I write this Foreword, half of Senior High One are experiencing six nights in our Boarding School. The other half did so in the last week of Term One. 300 of them hail from over 80 secondary schools across the island while 200 of them came to NJC four years ago from over 80 primary schools. In each of our six cohorts of students from Junior High One to Senior High Two, our student body is wonderfully diverse, echoing our Singaporean heritage – truly we are the College of the Nation.
+				 
 Today, like generations before them, these NJCians can once again put their arms around each other’s shoulders and sing their hearts out. No masks required. I take delight in knowing that the friendships they are forging will last a lifetime.
 
 After months of collaborating and volunteering through internet platforms, once again, our students will go forth to learn and serve in-person. They will visit the elderly, teach younger learners, go to hospitals, research centres and more. 
@@ -50,245 +37,360 @@ Dengan semangat bakti semata;
 Satukan tenaga bertindak mara,  
 Kita jayakan rakyat Singapura.</i>
 
-As the youth of the nation, we are called to serve with energy and total dedication. We cannot do this individually. As one NJCian said to me recently, “I came here because of the feeling of family.” NJCians honour one another’s uniqueness and we serve each other. During these short and packed years, we will unite to answer a lifetime’s call to serve with honour all Singaporeans and lead our nation to success. 
+As the youth of the nation, we are called to serve with energy and total dedication. We cannot do this individually. As one NJCian said to me recently, “I came here because of the feeling of family.” NJCians honour one another’s uniqueness and we serve each other. During these short and packed years, we will unite to answer a lifetime’s call to serve with honour all Singaporeans and lead our nation to success.
+				 </p>
     </div>
   </li>
-	<li><input id="accordion3" type="checkbox">
-    <label for="accordion3">Reconnect ∙ Renew ∙ Reimagine</label>
-			Three years after the pandemic began, many new phrases have arisen – new-norm, pre-COVID times, zoom from home, HBL – to name a few.   We have acquired new skills ranging from new ways of teaching and learning to buying food.  We have become both technologically-savvy and technologically-dependent.  We have had to think deeper and harder about disease and dis-ease. 
-		
+	<li>
+		<input id="accordion3" type="checkbox">
+			<label for="accordion3">Reconnect ∙ Renew ∙ Reimagine</label>
+			<div>
+				<p>Three years after the pandemic began, many new phrases have arisen – new-norm, pre-COVID times, zoom from home, HBL – to name a few.   We have acquired new skills ranging from new ways of teaching and learning to buying food.  We have become both technologically-savvy and technologically-dependent.  We have had to think deeper and harder about disease and dis-ease.
+				
 What does it mean to live in these post-COVID times?  What must we ensure that we bring back from before?  What have we learned that we might do better or differently?  Who are we and what do we want to become?  For this College Day, we aspire for our NJC-ians to:
 		
-Reconnect – Due to the many disruptions and safety restrictions, we have not been able to carry out activities that keep us connected to each other and to the wider community like  College-wide events, VIA, having alumni members back visiting etc.  How might we reconnect with our past (alumni) and our present (community)? 
+<strong>Reconnect</strong> – Due to the many disruptions and safety restrictions, we have not been able to carry out activities that keep us connected to each other and to the wider community like  College-wide events, VIA, having alumni members back visiting etc.  How might we reconnect with our past (alumni) and our present (community)? 
 		
-Renew – NJC’s firm belief is that we serve with honour.  How might we renew our commitment to service and to developing ourselves to serve in future?   To this end, we need to renew relationships that were forged but may have fallen by the wayside and renew  skills and knowledge which stand the test of time  across a range of platforms both traditional and cutting-edge.
+<strong>Renew</strong> – NJC’s firm belief is that we serve with honour.  How might we renew our commitment to service and to developing ourselves to serve in future?   To this end, we need to renew relationships that were forged but may have fallen by the wayside and renew  skills and knowledge which stand the test of time  across a range of platforms both traditional and cutting-edge.
 		
-Reimagine – As we create a new future together,  with a stronger sense of awareness of the society as a community and a deeper knowledge of globalisation, let’s reimagine what honour means to the College.  Who or what do we honour?  How do we go about doing that?  Let’s have the courage  to not only be open to change and grow but eager to do so.  
-		
+<strong>Reimagine</strong> – As we create a new future together,  with a stronger sense of awareness of the society as a community and a deeper knowledge of globalisation, let’s reimagine what honour means to the College.  Who or what do we honour?  How do we go about doing that?  Let’s have the courage  to not only be open to change and grow but eager to do so.  
+					
 Service with Honour!
-    
+			</p>
+		</div>
 </li>
-	
 <li>
 <input id="accordion4" type="checkbox">
 <label for="accordion4">Reimagining learning and serving</label>
     <div>
-			<h4> College Day Awards </h4>
-              <img src="https://file.for.edu.sg/college54kimng.jpg"> 
-			<b><center>Ng Hwee En, Kim</center> </b>   
-			 <center></center><details>
+			<h4>College Day Awards </h4>
+			<h5>Student of the Year</h5>
+			<b><center>Ng Hwee En, Kim</center></b>
+      <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
+			<br>
+			<details>
            <summary>Read Kim's reflections</summary>
-              
-I am greatly honoured to be selected as the Student of the Year. Despite what the name of the award may suggest, this is not an achievement of my own; neither is it reflective of my efforts of this past year alone.
+			<p>I am deeply honoured to be selected as the Student of the Year. Despite what the name of the award may suggest, this is not an achievement of my own; neither is it reflective of my efforts of this past year alone.
 
 This achievement is not just for the “me” today, but also the journey to get here. This recognition for me is an acknowledgement, not so much of any innate ability I may have, but of the continual pursuit of self-improvement. 
 
 The student from 6 years ago could not have grown and changed so substantially as a person if not for the influence of those around me. The wisdom, inspiration and guidance of everyone on my NJ journey has not only ignited in me the desire to serve, but also provided me with the opportunity to give back meaningfully. 
 
-Service is essentially about the impact you leave on other individuals, and I have been privileged to have been able to leave an impact on others in my time here. As much as this award commemorates the end of 6 years in NJC, it also marks a new beginning of serving beyond the college in the future.
+Service is essentially about the impact you leave on other individuals, and I have been privileged to have been able to leave an impact on others in my time here. As much as this award commemorates the end of 6 years in NJC, it also marks a new beginning of serving beyond the college in the future.</p>
             </details>
+			<h5>The Lim Kim Woon Award</h5>
+			<b><center>Jenelle Lee Jingwen</center></b>
+       <img src="https://file.for.edu.sg/college54jenellelee.jpg" class="awardee"> 
+			<br>
           <details>
-            <summary>The Lim Kim Woon Award</summary>
-              <p><b></b></p><center><b>Jenelle Lee Jingwen</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-Service has always been a big part of what it means to be a NJCian. From the class-initiated VIA in JH1 to the self-initiated projects in the years onward, NJC has consistently reinforced in me a commitment to helping those in need. 
+						<summary>Read Jenelle's reflections</summary>
+              <p>Service has always been a big part of what it means to be a NJCian. From the class-initiated VIA in JH1 to the self-initiated projects in the years onward, NJC has consistently reinforced in me a commitment to helping those in need. 
 
 In my volunteering journey with NJC, I was motivated by a desire to not only give back to society, but also to engage with the community. Volunteering has given me the opportunity to make new connections and reinforce existing relationships, ultimately enabling me to learn from an even more diverse group of people than I would encounter in my daily life. Furthermore, volunteering has given me an opportunity to sharpen the skills required for problem-solving and people management, key skills not only in volunteering but in other aspects of my life. All in all, it is safe to say that service as an NJCian has allowed me to make an impact on not only other people’s lives, but also my own. 
 
-I am honoured to have received the Lim Kim Woon Award, and I am very grateful for the people in NJC who have helped and inspired me on this journey. 
-              <p><b></b></p><center><b>Mithani Keya Niravkumar</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-I am honoured to be receiving the Lim Kim Woon Award and grateful to teachers, staff, friends and family for believing in me.
+I am honoured to have received the Lim Kim Woon Award, and I am very grateful for the people in NJC who have helped and inspired me on this journey.</p>
+				</details>
+			<b><center>Mithani Keya Niravkumar</center></b>
+       <img src="https://file.for.edu.sg/college54keya.jpg" class="awardee"> 
+			<br>
+          <details>
+						<summary>Read Keya's reflections</summary>
+             <p>I am honoured to be receiving the Lim Kim Woon Award and grateful to teachers, staff, friends and family for believing in me.
 
 My experience in NJC has been defined by filming food vlogs in the canteen, playing hide and seek at eighteen years old, befriending the school’s ‘aunties’ and ‘uncles’ and learning lessons from our teachers that extend far beyond our textbooks. These sweet memories of everyday life come together to form a chapter of my life.
 
 This leads me to my interpretation of our school motto ‘Service With Honour’ and how it leads me to what this award means to me. Service with honour is about weaving kindness and compassion into daily life. At NJC, I saw individuals truly serving. Teachers stayed back for consultations, mentors supported my community projects and research endeavours and friends picked up calls when a question had me in tears.
 
-I believe we do not need to make grand gestures to serve. Instead, even in small act of kindness - holding the door open, asking your elderly neighbour if she’s had a good lunch, checking in on our friends - we serve others with honour. To each of us, our life is our universe. And by even our smallest acts of kindness, we can add so much to another's world.
+I believe we do not need to make grand gestures to serve. Instead, even in small act of kindness - holding the door open, asking your elderly neighbour if she’s had a good lunch, checking in on our friends - we serve others with honour. To each of us, our life is our universe. And by even our smallest acts of kindness, we can add so much to another's world.</p>
             </details>
-            <details>
-            <summary>The NJC@69ers Award</summary>
-              <p><b></b></p><center><b>Yang Yifan</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-The Humanities have always been underappreciated, with its value lost and blanketed by our focus on STEM. We miss its importance, the Humanities’ relevance in nurturing empathy in our everyday selves. During trying times, it is the Humanities that pushes humanity on, through understanding one another’s troubles and sentiments, and reconnecting us to each other like in the pandemic. Despite physical distances that had left us feeling alone, there was a sense of unity and solidarity, helping to reconnect us in novel ways. 
-Offering us a glimpse into the future, the Humanities help us reimagine our landscapes – both concrete and abstract. The hope that the Humanities provide us is essential in building our communities and nations, and even building ourselves up. We see ourselves in others and know we’re not alone or that different from others. With hope, we are able to believe in a better tomorrow, to push for change. Ultimately, the Humanities is for everyone, and we all have the power to shape our future through it. Between our fingers and thumb rests a squat pen, and I urge everyone to dig with it; to reimagine our future, renew, and rewrite the blueprints of our past’s tomorrow.
+			<h5>The NJC@69ers Award</h5>
+			<b><center>Yang Yifan</center></b>
+       <img src="https://file.for.edu.sg/college54yifan.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Yifan's reflections</summary>
+<p>The Humanities have always been underappreciated, with its value lost and blanketed by our focus on STEM. We miss its importance, the Humanities’ relevance in nurturing empathy in our everyday selves. During trying times, it is the Humanities that pushes humanity on, through understanding one another’s troubles and sentiments, and reconnecting us to each other like in the pandemic. Despite physical distances that had left us feeling alone, there was a sense of unity and solidarity, helping to reconnect us in novel ways. 
+Offering us a glimpse into the future, the Humanities help us reimagine our landscapes – both concrete and abstract. The hope that the Humanities provide us is essential in building our communities and nations, and even building ourselves up. We see ourselves in others and know we’re not alone or that different from others. With hope, we are able to believe in a better tomorrow, to push for change. Ultimately, the Humanities is for everyone, and we all have the power to shape our future through it. Between our fingers and thumb rests a squat pen, and I urge everyone to dig with it; to reimagine our future, renew, and rewrite the blueprints of our past’s tomorrow.</p>
             </details>
-            <details>
-            <summary>The Stephen Loh Sports Excellence Award</summary>
-              <p><b></b></p><center><b>Megan Chua Si Xuan</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-I am humbled and honored that my teachers nominated me for this award. It will motivate me to continue to work hard to bring success for the softball team. 
+			<h5>The Stephen Loh Sports Excellence Award</h5>
+			<b><center>Megan Chua Si Xuan</center></b>
+       <img src="https://file.for.edu.sg/college54meganchua.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Megan's reflections</summary>
+<p>I am humbled and honored that my teachers nominated me for this award. It will motivate me to continue to work hard to bring success for the softball team. 
  
 Being a sportsperson has taught me to incorporate feedback to improve, adapt to different situations and be able to think on my feet. In line with the College Day theme of reconnect, renew and reimagine: as a sportsperson playing in a team, I make sure to reconnect with the team, especially when new members join the team each year. I continually renew my skills in a constant pursuit of honing my skills in the game. As team captain, I make sure to reimagine what success looks like to me as a sportsperson and to my team.
  
-No matter what curveballs may come my way, I am sure that NJ Softball will continue to swing and never stop believing in our ability to hit those curveballs as they come.
-              <p><b></b></p><center><b>Wan Shi Ting, Dawn</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-Being in NJ Basketball CCA over the past six years has been the biggest blessing to me. I have met many individuals who have helped shape me into the sportsman I am today: from coaches and teachers to teammates and seniors, these individuals have shown me the way in putting others before myself, and in caring for the people journeying both behind and alongside me.
+No matter what curveballs may come my way, I am sure that NJ Softball will continue to swing and never stop believing in our ability to hit those curveballs as they come.</p>
+				</details>
+			<b><center>Wan Shi Ting, Dawn</center></b>
+       <img src="https://file.for.edu.sg/college54dawnwan.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Dawn's reflections</summary>
+<p>Being in NJ Basketball CCA over the past six years has been the biggest blessing to me. I have met many individuals who have helped shape me into the sportsman I am today: from coaches and teachers to teammates and seniors, these individuals have shown me the way in putting others before myself, and in caring for the people journeying both behind and alongside me.
  
-I have come to appreciate how being a sportsman is more than just a tally of wins or even losses. In fact, I will no longer remember the scores as time passes. But what I will remember are the memories ingrained in my heart; of weal (e.g., travelling to Malaysia for training) and woe (e.g., crying together in tough times). These are the memories of NJ Basketball that will truly stick.
+I have come to appreciate how being a sportsman is more than just a tally of wins or even losses. In fact, I will no longer remember the scores as time passes. But what I will remember are the memories ingrained in my heart; of weal (e.g., travelling to Malaysia for training) and woe (e.g., crying together in tough times). These are the memories of NJ Basketball that will truly stick.</p>
              </details>
-            <details>
-            <summary>The SAC Sports Excellence Award</summary>
-              <p><b></b></p><center><b>Jovita Lee Jia En</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-Take the opportunities that are presented to you and don’t be afraid to step out of your comfort zone! We can never know when things like Covid-19 or injuries will put us off the court. So be grateful for the opportunities that come our way and make the best of them. Always put your best foot forward and don’t be afraid to try! Continue dreaming big and chasing your dreams.
+				<h5>The SAC Sports Excellence Award</h5>
+			<b><center>Jovita Lee Jia En</center></b>
+       <img src="https://file.for.edu.sg/college54jovitalee.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Jovita's reflections</summary>
+<p>Take the opportunities that are presented to you and don’t be afraid to step out of your comfort zone! We can never know when things like Covid-19 or injuries will put us off the court. So be grateful for the opportunities that come our way and make the best of them. Always put your best foot forward and don’t be afraid to try! Continue dreaming big and chasing your dreams.
 
-Winning this award has only made me more thankful for the things around me, for the support and opportunities NJC has given me. NJC has truly been an amazing place to be a student athlete and a leader who is not afraid to fail and come back stronger.
-              <p><b></b></p><center><b>Paolo Lim Rui Zhe</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-Winning this Sports Award has reminded me of the need to reconnect with the pure joy and passion that initially drew me to sports. The long hours of training, the sacrifices, and the perseverance: the moment of victory makes all these worth their while, reigniting my love for basketball.
+Winning this award has only made me more thankful for the things around me, for the support and opportunities NJC has given me. NJC has truly been an amazing place to be a student athlete and a leader who is not afraid to fail and come back stronger.</p>
+							</details>
+			<b><center>Paolo Lim Rui zhe</center></b>
+       <img src="https://file.for.edu.sg/college54paololim.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Paolo's reflections</summary>
+<p>Winning this Sports Award has reminded me of the need to reconnect with the pure joy and passion that initially drew me to sports. The long hours of training, the sacrifices, and the perseverance: the moment of victory makes all these worth their while, reigniting my love for basketball.
 
 This award has also inspired me to renew my commitment to basketball. Despite recent success and triumphs on the court, it is important to remain humble and continue to push myself to new heights. After all , complacency is the enemy of progress.
 
-Most importantly, this award has made me realize how basketball is more than just personal achievements. Rather, it’s about the friendships I can make and the enjoyment of the game of basketball. Through basketball, I have met wonderful seniors in NJC who have motivated me to push myself further and enjoy my journey as a sportsperson.
+Most importantly, this award has made me realize how basketball is more than just personal achievements. Rather, it’s about the friendships I can make and the enjoyment of the game of basketball. Through basketball, I have met wonderful seniors in NJC who have motivated me to push myself further and enjoy my journey as a sportsperson.</p>
             </details>
-            <details>
-            <summary>The SAC Arts Excellence Award</summary>
-              <p><b></b></p><center><b>Ng Hwee En, Kim</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-The arts are fundamentally a study of human connections and relationships, and that has been
-no exception with my journey as a humanities student in NJC. Through the study of humanities,
-it’s been a wonderful experience to gain insight into ourselves as human beings. To me, this
-award honours humanity itself, and what we can create.
+							<h5>The SAC Arts Excellence Award</h5>
+			<b><center>Ng Hwee En, Kim</center></b>
+       <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Kim's reflections</summary>
+<p>The arts are fundamentally a study of human connections and relationships, and that has been no exception with my journey as a humanities student in NJC. Through the study of humanities, it’s been a wonderful experience to gain insight into ourselves as human beings. To me, this
+award honours humanity itself, and what we can create. 
+	
+Humanities thrive on discourse. They thrive on discussions that prompt us to put on different lenses and attempt to understand that which may initially seem abstract, or even contrasting with our own views. Be it in unpacking communication through linguistics or the structures of our world through economics, my journey as an arts student has honed my ability to connect,
+ironically through disconnection – conflict that prompted deeper introspection and appreciation for differences.
 
-Humanities thrive on discourse. They thrive on discussions that prompt us to put on different
-lenses and attempt to understand that which may initially seem abstract, or even contrasting
-with our own views. Be it in unpacking communication through linguistics or the structures of our
-world through economics, my journey as an arts student has honed my ability to connect,
-ironically through disconnection – conflict that prompted deeper introspection and appreciation
-for differences.
+Beyond that, they are an exploration and expression of the self. As a writer myself, there is a salient understanding that beauty is often in the mundane, lying in plain sight. That can also be said for my journey as an arts student. It has truly been a humbling six years of learning and growing alongside my peers; and this award is a celebration of each and every one of us.</p>
+							</details>
+			<b><center>Shannon Lam Shan Ning</center></b>
+       <img src="https://file.for.edu.sg/college54shannonlam.jpg" class="awardee"> 
+			<br>
+			<details>
+				<summary>Read Shannon's reflections</summary>
+<p>If not for NJC, I would probably not have had the confidence to take up subjects in the Arts. What a journey it has been for me, propelled by the passion of the teachers and students around me. Our classes often seemed like ‘lessons on life’ where we learnt to reflect on ourselves, the people around us, and the interactions between the two.  
 
-Beyond that, they are an exploration and expression of the self. As a writer myself, there is a
-salient understanding that beauty is often in the mundane, lying in plain sight. That can also be
-said for my journey as an arts student. It has truly been a humbling six years of learning and
-growing alongside my peers; and this award is a celebration of each and every one of us.
-              <p><b></b></p><center><b>Shannon Lam Shan Ning</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-If not for NJC, I would probably not have had the confidence to take up subjects in the Arts. What a journey it has been for me, propelled by the passion of the teachers and students around me. Our classes often seemed like ‘lessons on life’ where we learnt to reflect on ourselves, the people around us, and the interactions between the two.  
-
-Looking back, I have come to realise that the greatest value from this Arts adventure is not the academic results gained; rather, it is the skill of thinking more deeply about the world around us. If you are like me and find that the Humanities tug at your heart, I encourage you to pursue this interest further. The journey may not always be smooth-sailing, but it will be worth your while.
+Looking back, I have come to realise that the greatest value from this Arts adventure is not the academic results gained; rather, it is the skill of thinking more deeply about the world around us. If you are like me and find that the Humanities tug at your heart, I encourage you to pursue this interest further. The journey may not always be smooth-sailing, but it will be worth your while.</p>
             </details>
-            <details>
-            <summary>The SAC Science Excellence Award</summary>
-              <p><b></b></p><center><b>Eunice Ho</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-I am honored to be a recipient of the SAC Science Excellence Award. 
+				<h5>The SAC Science Excellence Award</h5>
+			<b><center>Eunice Ho</center></b>
+       <img src="https://file.for.edu.sg/college54euniceho.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Eunice's reflections</summary>
+<p>I am honored to be a recipient of the SAC Science Excellence Award. 
 
 NJC has provided me with numerous opportunities to develop my interest in research, starting with the SPIRE programme in Secondary Two, which was what sparked my interest to begin with. Another notable opportunity was the International Research Exchange Programme (IREP). Through this programme, I had the privilege of collaborating with a group of Thai students on an analytical chemistry project, which broadened my perspective and deepened my understanding of science.
 
 In Junior College 1, I participated in the H3 research programme where I worked on DNAzyme hybrid catalysts under Dr Liu Zhennan at A*STAR. This rigorous research programme advanced my knowledge in the field of organometallic catalysts. My hard work paid off when I presented my research and won the project of the year award at the ASEAN Student Science Project Competition 2022.
 
-I would like to thank my research mentors, Ms Lee Shan Shan and Ms Lim Wei Li, as well as NJC's research and science departments for providing me with the various opportunities to explore my interest in research. Their guidance and support have been invaluable in my journey towards scientific excellence.
-              <p><b></b></p><center><b>Jay Tan Jun Jie</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-The pursuit of academic excellence is a journey that all of us trek together. Some love it, and some loathe it, but only we have the power to make our journey meaningful. To me, this college is a mystical place filled with adventures, and I chose to experience them with zest and positivity. NJC was where I had my first research experience, my first Student Council experience, and my first National School Games experience, and each of these taught me distinct, important life lessons – The first taught me how to learn, the second taught me how to empathise and the third taught me how to persevere.
+I would like to thank my research mentors, Ms Lee Shan Shan and Ms Lim Wei Li, as well as NJC's research and science departments for providing me with the various opportunities to explore my interest in research. Their guidance and support have been invaluable in my journey towards scientific excellence.</p>
+				</details>
+			<b><center>Jay Tan Jun Jie</center></b>
+       <img src="https://file.for.edu.sg/college54jaytan.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Jay's reflections</summary>
+<p>The pursuit of academic excellence is a journey that all of us trek together. Some love it, and some loathe it, but only we have the power to make our journey meaningful. To me, this college is a mystical place filled with adventures, and I chose to experience them with zest and positivity. NJC was where I had my first research experience, my first Student Council experience, and my first National School Games experience, and each of these taught me distinct, important life lessons – The first taught me how to learn, the second taught me how to empathise and the third taught me how to persevere.
 
-You might wonder then, how did I embark on so many endeavours at once? Well, to be frank, I simply led with my heart. I invite everyone to do as I did and to spend your time in this college reconnecting with yourself, renewing your passions, and reimagining your reality. Find meaning in whatever you do, no matter how distant, and always give your all. The road ahead may not be smooth, but I guarantee that it will definitely be one of the most rewarding and enriching experiences you will have!
+You might wonder then, how did I embark on so many endeavours at once? Well, to be frank, I simply led with my heart. I invite everyone to do as I did and to spend your time in this college reconnecting with yourself, renewing your passions, and reimagining your reality. Find meaning in whatever you do, no matter how distant, and always give your all. The road ahead may not be smooth, but I guarantee that it will definitely be one of the most rewarding and enriching experiences you will have!</p>
             </details>
-            <details>
-            <summary>The PAACT Aesthetics Excellence Award</summary>
-              <p><b></b></p><center><b>Chin Yi Xian</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-I am extremely honoured to receive the PAACT Aesthetics Excellence Award. Music is an integral part of my life, and stepping out of my comfort zone to play in many different orchestras has been eye-opening, as it allowed me to further hone my skills and acquire new experiences. However, being a musician has also been filled with ups and downs. The challenges that I faced were not easy to overcome but with the support of the people around me, I can look back on my journey thus far and say, "I have done it!". What matters the most was bouncing back from the numerous setbacks and doing my best for the audience and myself. NJC has offered me many “first experiences”, especially pertaining to my growth in the music domain. The teachers in NJCOGZ have given me the chance to lead the orchestra as student conductor which was a deep learning opportunity. My most valued takeaway is that music is not just a form of self-expression, but also an avenue for us to serve the community by sharing our music. This award will motivate me to become a better musician, and to continue working towards helping music reach everyone.
-              <p><b></b></p><center><b>Meenakshi Ilango</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-In the five years that I have spent with NJ Indian Dance, I have learnt invaluable lessons about myself, dance, leadership, and the interplay among the three. 
+			<h5>The PAACT Aesthetics Excellence Award</h5>
+			<b><center>Chin Yi Xian</center></b>
+       <img src="https://file.for.edu.sg/college54chinyixian.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Yi Xian's reflections</summary>
+<p>I am extremely honoured to receive the PAACT Aesthetics Excellence Award. Music is an integral part of my life, and stepping out of my comfort zone to play in many different orchestras has been eye-opening, as it allowed me to further hone my skills and acquire new experiences. However, being a musician has also been filled with ups and downs. The challenges that I faced were not easy to overcome but with the support of the people around me, I can look back on my journey thus far and say, "I have done it!". What matters the most was bouncing back from the numerous setbacks and doing my best for the audience and myself. NJC has offered me many “first experiences”, especially pertaining to my growth in the music domain. The teachers in NJCOGZ have given me the chance to lead the orchestra as student conductor which was a deep learning opportunity. My most valued takeaway is that music is not just a form of self-expression, but also an avenue for us to serve the community by sharing our music. This award will motivate me to become a better musician, and to continue working towards helping music reach everyone.</p>
+							</details>
+			<b><center>Meenakshi Ilango</center></b>
+       <img src="https://file.for.edu.sg/college54meenakshi.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Meenakshi's reflections</summary>
+<p>In the five years that I have spent with NJ Indian Dance, I have learnt invaluable lessons about myself, dance, leadership, and the interplay among the three.
+	
 When I first joined the CCA through DSA in Junior High 1, I was positively overwhelmed by the strong sisterhood of dancers and the number of new seniors I had utmost respect for. Years later, as I served my first term in the CCA’s Executive Committee, I was strongly guided by the same principles I had imbibed, such as discipline, drive, and order. Despite the solid grounding in values, the Covid pandemic hit me with a sense of burnout and loss of motivation. But the fundamental locus of passion and care that characterised NJID propelled me to discover new meaning in the leadership role I played. I shifted the focus of my leadership to serve with care, understanding, and love in mind, to enthuse the CCA amidst a bleak outlook with no ‘live’ and exciting performances to work towards. 
-Having seen our dance team evolve, I believe it will and should continue to grow, adapting to whatever new circumstances we may face. May NJID’s core of passion and love continue to fuel growth! 
+	
+Having seen our dance team evolve, I believe it will and should continue to grow, adapting to whatever new circumstances we may face. May NJID’s core of passion and love continue to fuel growth!</p>
             </details>
-            <details>
-            <summary>Outstanding Leadership Award</summary>
-              <p><b></b></p><center><b>Ong See Gek Cheryl</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-Six years in NJC have truly been an unforgettable and memorable journey. I am immensely grateful for the opportunities NJC has provided for me to learn, grow, and develop holistically, and not just in the academic domain. It was in NJC that I learned more about myself, honed my soft skills, and formed lasting memories. Nevertheless, I could not have achieved these without the support and guidance of wonderful teachers, family, and friends, who have been my strong pillars of support since day one. When faced with challenges, I feel that it is very important for us to believe in ourselves. Many of us tend to underestimate ourselves, but once we look past our fears and muster the courage to reimagine what we can be, we will be surprised at what we are truly capable of. This encapsulates the source of my motivation all these years. Just like how many people have gone out of their way to support me, I am inspired to also do the same. It is my goal to always reconnect with the values the college has instilled in me and to continue to strive to do my best and value-add to society.
-              <p><b></b></p><center><b>Soh Zhi Rong</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-I am truly honored to receive this award. This would not have been possible without the
-teachers and peers who have given me various opportunities to learn how to lead - and for that I
-am extremely grateful to them.
+				<h5>Outstanding Leadership Award</h5>
+			<b><center>Ong See Gek Cheryl</center></b>
+       <img src="https://file.for.edu.sg/college54cherylong.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Cheryl's reflections</summary>
+<p>Six years in NJC have truly been an unforgettable and memorable journey. I am immensely grateful for the opportunities NJC has provided for me to learn, grow, and develop holistically, and not just in the academic domain. It was in NJC that I learned more about myself, honed my soft skills, and formed lasting memories. Nevertheless, I could not have achieved these without the support and guidance of wonderful teachers, family, and friends, who have been my strong pillars of support since day one. When faced with challenges, I feel that it is very important for us to believe in ourselves. Many of us tend to underestimate ourselves, but once we look past our fears and muster the courage to reimagine what we can be, we will be surprised at what we are truly capable of. This encapsulates the source of my motivation all these years. Just like how many people have gone out of their way to support me, I am inspired to also do the same. It is my goal to always reconnect with the values the college has instilled in me and to continue to strive to do my best and value-add to society.</p>
+				</details>
+			<b><center>Soh Zhi Rong</center></b>
+       <img src="https://file.for.edu.sg/college54sohzhirong.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Zhi Rong's reflections</summary>
+<p>I am truly honored to receive this award. This would not have been possible without the teachers and peers who have given me various opportunities to learn how to lead - and for that I am extremely grateful to them.
 
-Many years later, I may not remember all the Chemistry concepts or Mathematical formulae that
-I have learnt in NJC. However, I am positive that I will remember the many important lessons on
-leadership I have learnt. As I watched my teachers and peers, I learnt the importance of leading
-by example, leading with empathy and leading harmoniously.
+Many years later, I may not remember all the Chemistry concepts or Mathematical formulae that I have learnt in NJC. However, I am positive that I will remember the many important lessons on leadership I have learnt. As I watched my teachers and peers, I learnt the importance of leading by example, leading with empathy and leading harmoniously.
 
-A senior once told me, “The more mistakes you make, the more you learn”. Don’t be afraid to
-take on bigger responsibilities, especially in your schooling life. There will be teachers to guide
-you and help you up when you fall. Try everything your heart tells you to and if you fail - it’s just
-another interesting story to tell at a gathering.
-              <p><b></b></p><center><b>Tan Chong Wei Sebastian</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-Coming into NJC as a JAE student, time morphs into our worst enemy as we attempt to
-experience as much as we can before our ‘two-year pass’ expires. I am extremely honoured to
-have teachers and friends willing to walk down this path with me and to be in a school that has provided me a plethora of opportunities to fully utilise this ‘pass’. 
+A senior once told me, “The more mistakes you make, the more you learn”. Don’t be afraid to take on bigger responsibilities, especially in your schooling life. There will be teachers to guide you and help you up when you fall. Try everything your heart tells you to and if you fail - it’s just	another interesting story to tell at a gathering.</p>
+				</details>
+			<b><center>Tan Chong Wei Sebastian</center></b>
+       <img src="https://file.for.edu.sg/college54sebastiantan.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Sebastian's reflections</summary>
+<p>Coming into NJC as a JAE student, time morphs into our worst enemy as we attempt to experience as much as we can before our ‘two-year pass’ expires. I am extremely honoured to have teachers and friends willing to walk down this path with me and to be in a school that has provided me a plethora of opportunities to fully utilise this ‘pass’. 
 
 Through these experiences, I can confidently say that NJC has been a catalyst to my personal growth. I would otherwise not be the person I am today if I had not been posted to NJC. Receiving this award is a testament to my hard work over the past two years. I hope it serves as an inspiration for future batches to continue striving to be the best version of themselves. 
 
-My advice to future batches would be this: even as you strive for excellence, always be kind and aim to make a positive impact on those whom you cross paths with. At the end of the day, it is not the accolades you receive, but your values that you will be remembered for.
-              <p><b></b></p><center><b>Yang Yifan</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-When I was younger, I would ponder over what it meant to be a good leader. Seeing seniors lead with such charismatic ease, I wondered how they always knew what to do. Only when it was my turn to step up did I start developing some ideas from practical experience. Here is my personal leadership philosophy: at its core, leadership is about forming relationships with the people around you, understanding them, and working together with them towards a common goal. It has to be ground-up; only by understanding the needs and voices of the people around us can we truly pave a path for them. Leadership means having a desire to serve others; thus, any action undertaken in service of others is already “leading”.
+My advice to future batches would be this: even as you strive for excellence, always be kind and aim to make a positive impact on those whom you cross paths with. At the end of the day, it is not the accolades you receive, but your values that you will be remembered for.</p>
+				</details>
+			<b><center>Yang Yifan</center></b>
+       <img src="https://file.for.edu.sg/college54yifan.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Yifan's reflections</summary>
+<p>When I was younger, I would ponder over what it meant to be a good leader. Seeing seniors lead with such charismatic ease, I wondered how they always knew what to do. Only when it was my turn to step up did I start developing some ideas from practical experience. Here is my personal leadership philosophy: at its core, leadership is about forming relationships with the people around you, understanding them, and working together with them towards a common goal. It has to be ground-up; only by understanding the needs and voices of the people around us can we truly pave a path for them. Leadership means having a desire to serve others; thus, any action undertaken in service of others is already “leading”.
 
 I am grateful to the teachers, other remarkable student leaders, and everyone I have worked with, who have never ceased to inspire me. Leading and working alongside them has been a privilege. What I have learned from them is simple but valuable: leading is about having a vision and staying true to it; it is also about the process of working with others to bring this vision to life, for the people around you.
 
-Be not afraid to reimagine the world, but instead work towards what is best for your community. That is what leadership is all about.
+Be not afraid to reimagine the world, but instead work towards what is best for your community. That is what leadership is all about.</p>
             </details>
-            <details>
-            <summary>The Junior High All-Round Excellence Award</summary>
-              <p><b></b></p><center><b>Luo Chang</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-Before the pandemic struck, I was 13 and searching for a purpose in the things I do. It was not until the lockdown that I was forced to slow down and introspect, to rediscover my passions and, most importantly, reconnect with myself. This break helped me realise my love for the sciences and teaching, which has forged my self-identity.
+			<h5>The Junior High All-Round Excellence Award</h5>
+			<b><center>Luo Chang</center></b>
+       <img src="https://file.for.edu.sg/college54luochang.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Luo Chang's reflections</summary>
+<p>Before the pandemic struck, I was 13 and searching for a purpose in the things I do. It was not until the lockdown that I was forced to slow down and introspect, to rediscover my passions and, most importantly, reconnect with myself. This break helped me realise my love for the sciences and teaching, which has forged my self-identity.
 
 Now aged 17, I find my call for a purpose answered through my endeavours in science research and community tutoring. These experiences have helped me reconnect with more than just myself – it has reconnected me with the larger community by establishing meaningful relationships for me to grow holistically as we emerge from a pandemic. 
 
-As a reconnected college, we can renew our participation in various opportunities to give back to our communities and bring to life the dream campus we collectively reimagine.
+As a reconnected college, we can renew our participation in various opportunities to give back to our communities and bring to life the dream campus we collectively reimagine.</p>
             </details>
-            <details>
-            <summary>The Elizabeth Poey Inspiration and Courage Award</summary>
-                      <p><b></b></p><center><b>Project Artemis</b></center><b> </b><br>
-              <img style="width:60%" src="/images/col1.png"> <br>
-Project Artemis aims to spread awareness on the importance of wildlife conservation in Singapore by reimagining education on wildlife through collaboration with various social service organisations.The project team had the opportunity to work alongside at-risk primary school students. Most of the core members are from Greenlink, the environmental club in NJC, and have a collective interest in wildlife conservation. 
+			<h5>The Elizabeth Poey Inspiration and Courage Award</h5>
+			<b><center>Project Artemis</center></b>
+			<details>
+						<summary>Read the members' reflections</summary>
+<p>Project Artemis aims to spread awareness on the importance of wildlife conservation in Singapore by reimagining education on wildlife through collaboration with various social service organisations.The project team had the opportunity to work alongside at-risk primary school students. Most of the core members are from Greenlink, the environmental club in NJC, and have a collective interest in wildlife conservation. 
 
 After months of project planning and liaising with the various stakeholders, the team held a series of workshops for different childcare centres where students were engaged through various hands-on activities. Project Artemis reached out to more than 200 primary school students, offering them opportunities to learn more about wildlife through engaging and interactive activities and applying this knowledge learnt into their daily lives. 
 
-Additionally, Project Artemis offers an avenue for young students to find new ways to make meaningful use of their time, enabling them to grow as individuals and take action to support future conservation efforts. It is now helmed by Greenlink, who will be liaising with the childcare centres to plan out future sessions, ensuring the sustainability of the project and its continued impact on primary school children. 
+Additionally, Project Artemis offers an avenue for young students to find new ways to make meaningful use of their time, enabling them to grow as individuals and take action to support future conservation efforts. It is now helmed by Greenlink, who will be liaising with the childcare centres to plan out future sessions, ensuring the sustainability of the project and its continued impact on primary school children.</p>
  </details>
-  </div>
 <h4> The NJC Subject Excellence Awards </h4>
   The NJC Subject Excellence Awards recognise NJC graduates based on excellence in each discipline/subject.
-
-    |                                     |                               |
-    |-------------------------------------|-------------------------------|
-    | H1 CHINESE                          | FELIX YEW CHENG EN            |
-    | H1 GENERAL PAPER                    | NATASHA ALEXANDRA GUNAWAN     |
-    | H1 MALAY                            | ARWEN ALYSSA TAN              |
-    | H1 TAMIL                            | AJITESH SURESH                |
-    | H1 MATHEMATICS                      | ASHLEY LIM EN YUE             |
-    | H1 ECONOMICS                        | KOH RUO XIN MARISSA           |
-    | H2 GEOGRAPHY                        | AAMIR RAJ M. KIMURA SINGH     |
-    | H2 LITERATURE IN ENGLISH            | NUR DEANNA SIM KHALID         |
-    | H2 ART                              | ASHLEY SEAH EN                |
-    | H2 KNOWLEDGE &amp; INQUIRY              | SHANNON LAM SHAN NING         |
-    | H2 BIOLOGY                          | EUNICE HO                     |
-    | H2 MATHEMATICS                      | TIAN JUELIN                   |
-    | H2 MALAY LANGUAGE AND LITERATURE    | ELIYAH BATRISYIAH BINTE RAYNI |
-    | H2 ECONOMICS                        | SHANNON LAM SHAN NING         |
-    | H2 ENGLISH LANGUAGE AND LINGUISTICS | KELLY ANG YI NING             |
-    | H2 TAMIL LANGUAGE AND LITERATURE    | SEVA MANICKAM                 |
-    | H2 PHYSICS                          | TAN CHEN                      |
-    | H2 FURTHER MATHEMATICS              | LU HAOMENG                    |
-    | H2 HISTORY                          | LI HUI                        |
-    | H2 CHEMISTRY                        | RAO ZHEHONG                   |
-    | H2 COMPUTING                        | KAI SATO                      |
-    | H2 MUSIC                            | NGOH JIN YT                   |
-    | H2 CHINESE LANGUAGE AND LITERATURE  | LI HUI                       
-	
-	
- <h4> GCE 'A' Level Examinations </h4>
-*insert image*
-
-We congratulate our 485 NJCians who sat for the 2022 GCE A-Level Examinations for their excellent performance. Their results are a testament to their dedication and perseverance.
+			<table>
+    <thead>
+        <tr><td></td>
+        <td></td>
+    </tr></thead>
+		<tbody>
+    <tr>
+        <td>H1 CHINESE</td>
+        <td>FELIX YEW CHENG EN</td>
+    </tr>
+    <tr>
+        <td>H1 GENERAL PAPER</td>
+        <td>NATASHA ALEXANDRA GUNAWAN</td>
+    </tr>
+    <tr>
+        <td>H1 MALAY</td>
+        <td>ARWEN ALYSSA TAN</td>
+    </tr>
+    <tr>
+        <td>H1 TAMIL</td>
+        <td>AJITESH SURESH</td>
+    </tr>
+    <tr>
+        <td>H1 MATHEMATICS</td>
+        <td>ASHLEY LIM EN YUE</td>
+    </tr>
+    <tr>
+        <td>H1 ECONOMICS</td>
+        <td>KOH RUO XIN MARISSA</td>
+    </tr>
+    <tr>
+        <td>H2 GEOGRAPHY</td>
+        <td>AAMIR RAJ M. KIMURA SINGH</td>
+    </tr>
+    <tr>
+        <td>H2 LITERATURE IN ENGLISH</td>
+        <td>NUR DEANNA SIM KHALID</td>
+    </tr>
+    <tr>
+        <td>H2 ART</td>
+        <td>ASHLEY SEAH EN</td>
+    </tr>
+    <tr>
+        <td>H2 KNOWLEDGE &amp; INQUIRY</td>
+        <td>SHANNON LAM SHAN NING</td>
+    </tr>
+    <tr>
+        <td>H2 BIOLOGY</td>
+        <td>EUNICE HO</td>
+    </tr>
+    <tr>
+        <td>H2 MATHEMATICS</td>
+        <td>TIAN JUELIN</td>
+    </tr>
+    <tr>
+        <td>H2 MALAY LANGUAGE AND LITERATURE</td>
+        <td>ELIYAH BATRISYIAH BINTE RAYNI</td>
+    </tr>
+    <tr>
+        <td>H2 ECONOMICS</td>
+        <td>SHANNON LAM SHAN NING</td>
+    </tr>
+    <tr>
+        <td>H2 ENGLISH LANGUAGE AND LINGUISTICS</td>
+        <td>KELLY ANG YI NING</td>
+    </tr>
+    <tr>
+        <td>H2 TAMIL LANGUAGE AND LITERATURE</td>
+        <td>SEVA MANICKAM</td>
+    </tr>
+    <tr>
+        <td>H2 PHYSICS</td>
+        <td>TAN CHEN</td>
+    </tr>
+    <tr>
+        <td>H2 FURTHER MATHEMATICS</td>
+        <td>LU HAOMENG</td>
+    </tr>
+    <tr>
+        <td>H2 HISTORY</td>
+        <td>LI HUI</td>
+    </tr>
+    <tr>
+        <td>H2 CHEMISTRY</td>
+        <td>RAO ZHEHONG</td>
+    </tr>
+    <tr>
+        <td>H2 COMPUTING</td>
+        <td>KAI SATO</td>
+    </tr>
+    <tr>
+        <td>H2 MUSIC</td>
+        <td>NGOH JIN YT</td>
+    </tr>
+    <tr>
+        <td>H2 CHINESE LANGUAGE AND LITERATURE</td>
+        <td>LI HUI</td>
+    </tr>
+			</tbody>
+				<tfoot>
+					<tr><td>
+					</td><td>
+				</td></tr></tfoot>
+</table>
+<h4> GCE 'A' Level Examinations </h4>
+<img src="https://file.for.edu.sg/college54alevelresults.jpg">
+<p>We congratulate our 485 NJCians who sat for the 2022 GCE A-Level Examinations for their excellent performance. Their results are a testament to their dedication and perseverance.
 
 The 2022 cohort achieved a median University Admission Score (UAS) of 82, with more than 1 in 3 attaining a UAS of 85 or more.
 
@@ -296,44 +398,121 @@ About 1 in 3 students scored at least 3 H2 distinctions and more than 1 in 5 stu
 
 In 16 of our H2 subjects, more than 3 in 5 students scored grades A or B.  In addition, about 6 in 7 H3 students scored a distinction or merit in their H3 subject(s).
 
-Beyond their academic achievements, we are most proud of their commitment to Service with Honour, to their CCAs, the College and the wider community. We wish them the very best, and look forward to seeing their continued growth and success in the future.
+Beyond their academic achievements, we are most proud of their commitment to Service with Honour, to their CCAs, the College and the wider community. We wish them the very best, and look forward to seeing their continued growth and success in the future.</p>
 
-  #### The NJC Academic Excellence Awards
+<h4>The NJC Academic Excellence Awards</h4>
   The NJC Academic Excellence Awards recognise students from Junior High 1 through to Senior High 1 who have excelled academically.
-
-    |                                             |                                                                                                                                                                                                                                                                          |
-    | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | JH1 Outstanding Academic Achievement Awards | TAN HUI EN CHARLOTTE (CHEN HUI'EN)<br>AINSLEY NEO KAIXIN<br>LIN WEIZHE<br>MANIKANDAN AKSHAYA                                                                                                                                                                             |
-    | JH2 Outstanding Academic Achievement Awards | NADINE ALYA RAMDHAN<br>TAN MIN HEAN (CHEN MINXIAN)<br>AARTHI SUHITHARAN<br>ESTABEL LEE<br>ESTHER SIAK KA YEE                                                                                                                                                             |
-    | JH3 Outstanding Academic Achievement Awards | EUNICE ANG GEH KAR<br>IAN IONG SONG EN<br>LEONG XIAN ZHU, SAMUEL<br>LAKSHMINARAYANAN THARUNIKA<br>CHOW YI XUAN, CLAIRE<br>ARIEL NEO KAIYI<br>ISABELLE ANG EN YI                                                                                                          |
-    | JH4 Outstanding Academic Achievement Awards | BENEDICT GOH YONG EN<br>ZHOU YUELIN<br>GALEN GAY<br>LUO CHANG (LOH CHANG)<br>FANG CHEN<br>TAY JUN REN IVAN                                                                                                                                                               |
-    | SH1 Outstanding Academic Achievement Awards | KRYSTAL ONG SHI HUI<br>FELIX YEW CHENG EN<br>AASHER LIM YAN KAI<br>CHLOE YOUNG<br>PARK SAEEUN<br>LI YICHEN<br>LIZANNE LIM YINNQI<br>RACHEL LIM QIAO JIE<br>XIE YU<br>WONG YU ZHEN<br>FENG SIYU<br>STEVEN NATHANAEL MULYADI<br>TIA KAI XIN MELODY<br>JAVIER TEY RUI SHENG |
-
-  #### The NJC CCA Awards
+			<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>JH1 Outstanding Academic Achievement Awards</td>
+            <td>TAN HUI EN CHARLOTTE (CHEN HUI'EN)<br>AINSLEY NEO KAIXIN<br>LIN WEIZHE<br>MANIKANDAN AKSHAYA</td>
+        </tr>
+        <tr>
+            <td>JH2 Outstanding Academic Achievement Awards</td>
+            <td>NADINE ALYA RAMDHAN<br>TAN MIN HEAN (CHEN MINXIAN)<br>AARTHI SUHITHARAN<br>ESTABEL LEE<br>ESTHER SIAK KA YEE</td>
+        </tr>
+        <tr>
+            <td>JH3 Outstanding Academic Achievement Awards</td>
+            <td>EUNICE ANG GEH KAR<br>IAN IONG SONG EN<br>LEONG XIAN ZHU, SAMUEL<br>LAKSHMINARAYANAN THARUNIKA<br>CHOW YI XUAN, CLAIRE<br>ARIEL NEO KAIYI<br>ISABELLE ANG EN YI</td>
+        </tr>
+        <tr>
+            <td>JH4 Outstanding Academic Achievement Awards</td>
+            <td>BENEDICT GOH YONG EN<br>ZHOU YUELIN<br>GALEN GAY<br>LUO CHANG (LOH CHANG)<br>FANG CHEN<br>TAY JUN REN IVAN</td>
+        </tr>
+        <tr>
+            <td>SH1 Outstanding Academic Achievement Awards</td>
+            <td>KRYSTAL ONG SHI HUI<br>FELIX YEW CHENG EN<br>AASHER LIM YAN KAI<br>CHLOE YOUNG<br>PARK SAEEUN<br>LI YICHEN<br>LIZANNE LIM YINNQI<br>RACHEL LIM QIAO JIE<br>XIE YU<br>WONG YU ZHEN<br>ENG SIYU<br>STEVEN NATHANAEL MULYADI<br>TIA KAI XIN MELODY<br>JAVIER TEY RUI SHENG</td>
+        </tr>
+    </tbody>
+				<tfoot>
+					<tr><td>
+					</td><td>
+					</td></tr></tfoot>
+</table>
+			
+<h4>The NJC CCA Awards</h4>
   The NJC CCA Awards recognise students who have achieved success in their respective CCAs and have contributed in leading their CCAs to greater heights.
 
   <details>
     <summary>Leadership</summary>
-
-    |                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-    | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-    | Student Council | BEATRICE FOO YAQI (FU YAQI)<br>NG HWEE EN, KIM<br>THAM YU XIN<br>LO XIEN FEI<br>SEE THOU JUN KAI<br>THAM YI SHAAN<br>AUDREY TAY RUI WEN<br>SONG PEIHUA ATHENA<br>BAN XIN HUI<br>XEE ZUN KYE<br>CHEW SHENG EE ETHAN<br>EDITH LOH POH HUI<br>LAU SOOK YEANG, MARY ANNE<br>RAE TANG<br>BALAVEN S/O MUTHAYAH<br>AMANDA LEE YEE XUAN<br>JOLENE CHEW PEI YING<br>CHEONG YING ZHEN<br>LOW WEN XI, WESLYN<br>AVERLYNN HOW LI WEI<br>JAYDEN NG KE HAN<br>LIM EN XI, ISABELLE<br>WONG ZHENG HAN<br>JAY TAN JUN JIE<br>EMRAN BILAL ELHASSAN<br>JAYASHREE SIVAKUMAR<br>ZOWIE ONG ZU YI<br>TING ZI JING<br>KAVIN BALAJI<br>TAN MIN WEN |
-  
+		<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Student Council</td>
+            <td>BEATRICE FOO YAQI (FU YAQI)<br>NG HWEE EN, KIM<br>THAM YU XIN<br>LO XIEN FEI<br>SEE THOU JUN KAI<br>THAM YI SHAAN<br>AUDREY TAY RUI WEN<br>SONG PEIHUA ATHENA<br>BAN XIN HUI<br>XEE ZUN KYE<br>CHEW SHENG EE ETHAN<br>EDITH LOH POH HUI<br>LAU SOOK YEANG, MARY ANNE<br>RAE TANG<br>BALAVEN S/O MUTHAYAH<br>AMANDA LEE YEE XUAN<br>JOLENE CHEW PEI YING<br>CHEONG YING ZHEN<br>LOW WEN XI, WESLYN<br>AVERLYNN HOW LI WEI<br>JAYDEN NG KE HAN<br>LIM EN XI, ISABELLE<br>WONG ZHENG HAN<br>JAY TAN JUN JIE<br>EMRAN BILAL ELHASSAN<br>JAYASHREE SIVAKUMAR<br>ZOWIE ONG ZU YI<br>TING ZI JING<br>KAVIN BALAJI<br>TAN MIN WEN</td>
+        </tr>
+    </tbody>
+			<tfoot>
+				<tr><td>
+				</td><td>
+				</td></tr></tfoot>
+</table>
   </details>
   <details>
     <summary>Sports and Games</summary>
-
-    |                               |                                                                                                                              |
-    | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-    | Basketball                    | LEW SI HUI<br>NADIA AZUHAR<br>LEOW KANG REN<br>TAN PENG RUI LAUREN<br>SAMSON SAMUEL AARON<br>SANGATI ESWAR SUJAN             |
-    | Canoeing/Dragon boat          | AVADHANAM SRIHARI JAYANTH SANDALYA<br>LOY QI EN JAELYN<br>TASYA DARAMALINGGAM<br>AVRIL WONG<br>CHEW HONG SOON<br>LIM SIM YEE |
-    | Climbing                      | LEE HONG JIA<br>ALICIA CHANG CHUO RAN<br>SUNTHAR HARIKARAN                                                                   |
-    | Floorball                     | TAN JIA XIN KIMBERLY<br>LIANG SOK EE<br>EDWARD THOMAS PATANI                                                                 |
-    | Hockey                        | MOHAMED FARSAT S/O ANSARI                                                                                                    |
-    | Shooting                      | KULANDAIVEL UDAYAR SENTHILKUMAR LAKSHAYAA<br>LOGANATHAN KRITHIK<br>BIAN LINGZHU<br>TING ZI JING<br>TO RUI XUAN<br>LOVELEY NG |
-    | Softball                      | NG XIN YI<br>NUKALA MURALI HEMANTH<br>MAJEE ANIKET<br>VICKI LIM SZE XUAN<br>KOH RUI EN                                       |
-    | Table Tennis                  | KOK WAI HENG                                                                                                                 |
-    | Track and Field/Cross Country | KUEK YU JING<br>FANG CHEN<br>TAN CHONG WEI SEBASTIAN<br>KOH JUN NING, CHERYL<br>TVISHA RHEA SIVAKUMAR<br>EMMA KONG HUAN XIN  |
+		<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Basketball</td>
+            <td>LEW SI HUI<br>NADIA AZUHAR<br>LEOW KANG REN<br>TAN PENG RUI LAUREN<br>SAMSON SAMUEL AARON<br>SANGATI ESWAR SUJAN</td>
+        </tr>
+        <tr>
+            <td>Canoeing/Dragon boat</td>
+            <td>AVADHANAM SRIHARI JAYANTH SANDALYA<br>LOY QI EN JAELYN<br>TASYA DARAMALINGGAM<br>AVRIL WONG<br>CHEW HONG SOON<br>LIM SIM YEE</td>
+        </tr>
+        <tr>
+            <td>Climbing</td>
+            <td>LEE HONG JIA<br>ALICIA CHANG CHUO RAN<br>SUNTHAR HARIKARAN</td>
+        </tr>
+        <tr>
+            <td>Floorball</td>
+            <td>TAN JIA XIN KIMBERLY<br>LIANG SOK EE<br>EDWARD THOMAS PATANI</td>
+        </tr>
+        <tr>
+            <td>Hockey</td>
+            <td>MOHAMED FARSAT S/O ANSARI</td>
+        </tr>
+        <tr>
+            <td>Shooting</td>
+            <td>KULANDAIVEL UDAYAR SENTHILKUMAR LAKSHAYAA<br>LOGANATHAN KRITHIK<br>BIAN LINGZHU<br>TING ZI JING<br>TO RUI XUAN<br>LOVELEY NG</td>
+        </tr>
+        <tr>
+            <td>Softball</td>
+            <td>NG XIN YI<br>NUKALA MURALI HEMANTH<br>MAJEE ANIKET<br>VICKI LIM SZE XUAN<br>KOH RUI EN</td>
+        </tr>
+        <tr>
+            <td>Table Tennis</td>
+            <td>KOK WAI HENG</td>
+        </tr>
+        <tr>
+            <td>Track and Field/Cross Country</td>
+            <td>KUEK YU JING<br>FANG CHEN<br>TAN CHONG WEI SEBASTIAN<br>KOH JUN NING, CHERYL<br>TVISHA RHEA SIVAKUMAR<br>EMMA KONG HUAN XIN</td>
+        </tr>
+    </tbody>
+			<tfoot>
+				<tr><td>
+				</td><td>
+				</td></tr></tfoot>
+</table>
   </details>
   <details>
     <summary>Performing Arts</summary>
@@ -515,6 +694,7 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
     | Titan Cup Boys A Division                                    | First Place                            | PAOLO LIM RUI ZHE<br>LEOW KANGREN<br>JULIEN SIOW MEIN YU<br>ONG YING QUAN REGAN<br>XU ZI HAO<br>SANGATI ESWAR SUJAN<br>SAMSON SAMUEL AARON<br>CHUI JUN LING ELROY<br>PEH ZHAOKEONG<br>MOHAMMAD IMAN BIN MOHD JUMARI<br>LUI ZHAOFENG<br>HAR CHEE JOON                                                                                                                                                        |
     | Titan Cup Girls                                              | 4th Place                              | WAN SHI TING DAWN<br>LEE KA HIE GAZELLE<br>LAI ROU YIN<br>THUM MUN KUAN<br>TENG YWEE SEE<br>ARDEN XIE XIN XUAN<br>ER SHI JIE<br>TAN PENG RUI LAURA<br>FOO KAI NING<br>JOVYN LEE ZHUO YING<br>CHEUNG YUET YUKI<br>CHAN CHO LENG RYN<br>TAN PENG RUI, LAUREN<br>RACHEL LIM QIAO JIE                                                                                                                           |
   </details>
+			  </div>
 </li>
 	
 <li>
@@ -717,3 +897,27 @@ I hope that our students can demonstrate resilience in the face of challenges an
 
 </li>
 </ul>
+
+<style>
+ul.jekyllcodex_accordion {position: relative; margin: 1.4rem 0!important; border-bottom: 1px solid rgba(0,0,0,0.25); padding-bottom: 0;}
+ul.jekyllcodex_accordion li {border-top: 1px solid rgba(0,0,0,0.25); list-style: none; margin-left: 0;}
+ul.jekyllcodex_accordion li input {display: none;}
+ul.jekyllcodex_accordion li label {display: block; cursor: pointer; padding: 0.75rem 2.4rem 0.75rem 0; margin: 0;}
+ul.jekyllcodex_accordion li div {display: none; padding-bottom: 1.2rem;}
+ul.jekyllcodex_accordion li input:checked + label {font-weight: bold;}
+ul.jekyllcodex_accordion li input:checked + label + div {display: block;}
+ul.jekyllcodex_accordion li label::before {content: "+"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
+ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45deg);}
+p {
+	text-align: justify;
+	}
+img {
+	max-width:80%;
+	aspect-ratio:4/3;
+	object-fit:contain;
+	}
+	.awardee {
+	max-height:350px;
+	object-fit:contain;
+	}
+</style>
