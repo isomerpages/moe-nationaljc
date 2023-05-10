@@ -54,17 +54,15 @@ Kita jayakan rakyat Singapura.</i>
 As the youth of the nation, we are called to serve with energy and total dedication. We cannot do this individually. As one NJCian said to me recently, “I came here because of the feeling of family.” NJCians honour one another’s uniqueness and we serve each other. During these short and packed years, we will unite to answer a lifetime’s call to serve with honour all Singaporeans and lead our nation to success. 
     </div>
   </li>
-	<li>
-    <input type=">
-    <label for=">Reconnect ∙ Renew ∙ Reimagine
-    <div>
-Three years after the pandemic began, many new phrases have arisen – new-norm, pre-COVID times, zoom from home, HBL – to name a few.   We have acquired new skills ranging from new ways of teaching and learning to buying food.  We have become both technologically-savvy and technologically-dependent.  We have had to think deeper and harder about disease and dis-ease. 
+	<li> 			 <input id="accordion1" type="checkbox">
+    <label for="accordion1">Reconnect ∙ Renew ∙ Reimagine</label>
+			Three years after the pandemic began, many new phrases have arisen – new-norm, pre-COVID times, zoom from home, HBL – to name a few.   We have acquired new skills ranging from new ways of teaching and learning to buying food.  We have become both technologically-savvy and technologically-dependent.  We have had to think deeper and harder about disease and dis-ease. 
 What does it mean to live in these post-COVID times?  What must we ensure that we bring back from before?  What have we learned that we might do better or differently?  Who are we and what do we want to become?  For this College Day, we aspire for our NJC-ians to:
 Reconnect – Due to the many disruptions and safety restrictions, we have not been able to carry out activities that keep us connected to each other and to the wider community like  College-wide events, VIA, having alumni members back visiting etc.  How might we reconnect with our past (alumni) and our present (community)? 
 Renew – NJC’s firm belief is that we serve with honour.  How might we renew our commitment to service and to developing ourselves to serve in future?   To this end, we need to renew relationships that were forged but may have fallen by the wayside and renew  skills and knowledge which stand the test of time  across a range of platforms both traditional and cutting-edge.
 Reimagine – As we create a new future together,  with a stronger sense of awareness of the society as a community and a deeper knowledge of globalisation, let’s reimagine what honour means to the College.  Who or what do we honour?  How do we go about doing that?  Let’s have the courage  to not only be open to change and grow but eager to do so.  
 Service with Honour!
-    </div>
+    
 </li>
 	
 <li>
