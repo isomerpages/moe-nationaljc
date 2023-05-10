@@ -253,8 +253,6 @@ After months of project planning and liaising with the various stakeholders, the
 Additionally, Project Artemis offers an avenue for young students to find new ways to make meaningful use of their time, enabling them to grow as individuals and take action to support future conservation efforts. It is now helmed by Greenlink, who will be liaising with the childcare centres to plan out future sessions, ensuring the sustainability of the project and its continued impact on primary school children. 
  </details>
   </div>
-
-
 <h4> The NJC Subject Excellence Awards </h4>
   The NJC Subject Excellence Awards recognise NJC graduates based on excellence in each discipline/subject.
 
@@ -285,7 +283,7 @@ Additionally, Project Artemis offers an avenue for young students to find new wa
     | H2 CHINESE LANGUAGE AND LITERATURE  | LI HUI                       
 	
 	
- <h3> GCE 'A' Level Examinations </h3>
+ <h4> GCE 'A' Level Examinations </h4>
 *insert image*
 
 We congratulate our 485 NJCians who sat for the 2022 GCE A-Level Examinations for their excellent performance. Their results are a testament to their dedication and perseverance.
