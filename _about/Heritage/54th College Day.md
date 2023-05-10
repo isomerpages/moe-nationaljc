@@ -72,7 +72,7 @@ Service with Honour!
 <label for="accordion4">Reimagining learning and serving</label>
     <div>
     **College Day Awards**
-              <img style="width:60%" src="/images/col1.png"> 
+              <img src="https://file.for.edu.sg/college54kimng.jpg"> 
 			<b><center>Ng Hwee En, Kim</center> </b>   
 			 <center></center><details>
            <summary>Read Kim's reflections</summary>
