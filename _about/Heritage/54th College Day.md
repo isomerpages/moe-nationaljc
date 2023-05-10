@@ -36,20 +36,20 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
       <div>
       <p><b></b></p><center><b>Mrs Lucy Toh</b></center><b> </b><br>
       <img id="accordion3" src="https://file.for.edu.sg/college54mrslucytoh.png"> <br>
-        As I write this Foreword, half of Senior High One are experiencing six nights in our Boarding School. The other half did so in the last week of Term One. 300 of them hail from over 80 secondary schools across the island while 200 of them came to NJC four years ago from over 80 primary schools. In each of our six cohorts of students from Junior High One to Senior High Two, our student body is wonderfully diverse, echoing our Singaporean heritage – truly we are the College of the Nation. 
+        As I write this Foreword, half of Senior High One are experiencing six nights in our Boarding School. The other half did so in the last week of Term One. 300 of them hail from over 80 secondary schools across the island while 200 of them came to NJC four years ago from over 80 primary schools. In each of our six cohorts of students from Junior High One to Senior High Two, our student body is wonderfully diverse, echoing our Singaporean heritage – truly we are the College of the Nation. <br>
 
 Today, like generations before them, these NJCians can once again put their arms around each other’s shoulders and sing their hearts out. No masks required. I take delight in knowing that the friendships they are forging will last a lifetime.
-
+<br>
 After months of collaborating and volunteering through internet platforms, once again, our students will go forth to learn and serve in-person. They will visit the elderly, teach younger learners, go to hospitals, research centres and more. 
-
+<br>
 As part of that learning, NJCians need to connect with alumni. That connection is vital to our sense of identity as privileged young people getting ready to serve our nation. Why? Because the NJC alumni are our role models.
 
-This year, we are able to assemble together in the parade square. Covid-19 stole our voices. But we are learning again how to sing together. In the last stanza of our historic College Anthem – 
+This year, we are able to assemble together in the parade square. Covid-19 stole our voices. But we are learning again how to sing together. In the last stanza of our historic College Anthem – <br>
 
 <i>Marilah semua belia negara,  
 Dengan semangat bakti semata;  
 Satukan tenaga bertindak mara,  
-Kita jayakan rakyat Singapura.</i>
+Kita jayakan rakyat Singapura.</i><br>
 
 As the youth of the nation, we are called to serve with energy and total dedication. We cannot do this individually. As one NJCian said to me recently, “I came here because of the feeling of family.” NJCians honour one another’s uniqueness and we serve each other. During these short and packed years, we will unite to answer a lifetime’s call to serve with honour all Singaporeans and lead our nation to success. 
     </div>
