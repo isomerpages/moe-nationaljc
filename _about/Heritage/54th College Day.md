@@ -75,7 +75,7 @@ Service with Honour!
     **College Day Awards**
               <img style="width:60%" src="/images/col1.png"> 
 			<b><center>Ng Hwee En, Kim</center> </b>   
-			 <center><details>
+			 <center></center><details>
            <summary>Read Kim's reflections</summary>
               
 I am greatly honoured to be selected as the Student of the Year. Despite what the name of the award may suggest, this is not an achievement of my own; neither is it reflective of my efforts of this past year alone.
@@ -85,7 +85,7 @@ This achievement is not just for the “me” today, but also the journey to get
 The student from 6 years ago could not have grown and changed so substantially as a person if not for the influence of those around me. The wisdom, inspiration and guidance of everyone on my NJ journey has not only ignited in me the desire to serve, but also provided me with the opportunity to give back meaningfully. 
 
 Service is essentially about the impact you leave on other individuals, and I have been privileged to have been able to leave an impact on others in my time here. As much as this award commemorates the end of 6 years in NJC, it also marks a new beginning of serving beyond the college in the future.
-            </details></center>
+            </details>
           <details>
             <summary>The Lim Kim Woon Award</summary>
               <p><b></b></p><center><b>Jenelle Lee Jingwen</b></center><b> </b><br>
