@@ -296,7 +296,7 @@ In 16 of our H2 subjects, more than 3 in 5 students scored grades A or B.  In ad
 
 Beyond their academic achievements, we are most proud of their commitment to Service with Honour, to their CCAs, the College and the wider community. We wish them the very best, and look forward to seeing their continued growth and success in the future.
 
-  ### The NJC Academic Excellence Awards
+  #### The NJC Academic Excellence Awards
   The NJC Academic Excellence Awards recognise students from Junior High 1 through to Senior High 1 who have excelled academically.
 
     |                                             |                                                                                                                                                                                                                                                                          |
