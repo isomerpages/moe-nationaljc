@@ -35,7 +35,7 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
     <label for="accordion2">Message from our Principal</label>
       <div>
       <p><b></b></p><center><b>Mrs Lucy Toh</b></center><b> </b><br>
-      <img id="accordion3" src="https://for.edu.sg/college54mrslucytoh"> <br>
+      <img id="accordion3" src="https://file.for.edu.sg/college54mrslucytoh.png"> <br>
         As I write this Foreword, half of Senior High One are experiencing six nights in our Boarding School. The other half did so in the last week of Term One. 300 of them hail from over 80 secondary schools across the island while 200 of them came to NJC four years ago from over 80 primary schools. In each of our six cohorts of students from Junior High One to Senior High Two, our student body is wonderfully diverse, echoing our Singaporean heritage – truly we are the College of the Nation. 
 
 Today, like generations before them, these NJCians can once again put their arms around each other’s shoulders and sing their hearts out. No masks required. I take delight in knowing that the friendships they are forging will last a lifetime.
