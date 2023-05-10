@@ -35,8 +35,7 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
     <label for="accordion2">Message from our Principal</label>
       <div>
       <p><b></b></p><center><b>Mrs Lucy Toh</b></center><b> </b><br>
-      <img style="width:60%" src="/![](/images/college%2054%20mrs%20lucy%20toh.jpg)
-								![![](/images/college%2054%20mrs%20lucy%20toh.jpg)](/images/college%2054%20mrs%20lucy%20toh.jpg)images/col1.png"> <br>
+      <img id="accordion3" src="https://file.for.edu.sg/college54mrslucytoh.png"> <br>
         As I write this Foreword, half of Senior High One are experiencing six nights in our Boarding School. The other half did so in the last week of Term One. 300 of them hail from over 80 secondary schools across the island while 200 of them came to NJC four years ago from over 80 primary schools. In each of our six cohorts of students from Junior High One to Senior High Two, our student body is wonderfully diverse, echoing our Singaporean heritage – truly we are the College of the Nation. 
 
 Today, like generations before them, these NJCians can once again put their arms around each other’s shoulders and sing their hearts out. No masks required. I take delight in knowing that the friendships they are forging will last a lifetime.
@@ -55,27 +54,25 @@ Kita jayakan rakyat Singapura.</i>
 As the youth of the nation, we are called to serve with energy and total dedication. We cannot do this individually. As one NJCian said to me recently, “I came here because of the feeling of family.” NJCians honour one another’s uniqueness and we serve each other. During these short and packed years, we will unite to answer a lifetime’s call to serve with honour all Singaporeans and lead our nation to success. 
     </div>
   </li>
-	<li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">Reconnect ∙ Renew ∙ Reimagine</label>
-    <div>
-Three years after the pandemic began, many new phrases have arisen – new-norm, pre-COVID times, zoom from home, HBL – to name a few.   We have acquired new skills ranging from new ways of teaching and learning to buying food.  We have become both technologically-savvy and technologically-dependent.  We have had to think deeper and harder about disease and dis-ease. 
+	<li> 			 <input id="accordion1" type="checkbox">
+    <label for="accordion1">Reconnect ∙ Renew ∙ Reimagine</label>
+			Three years after the pandemic began, many new phrases have arisen – new-norm, pre-COVID times, zoom from home, HBL – to name a few.   We have acquired new skills ranging from new ways of teaching and learning to buying food.  We have become both technologically-savvy and technologically-dependent.  We have had to think deeper and harder about disease and dis-ease. 
 What does it mean to live in these post-COVID times?  What must we ensure that we bring back from before?  What have we learned that we might do better or differently?  Who are we and what do we want to become?  For this College Day, we aspire for our NJC-ians to:
 Reconnect – Due to the many disruptions and safety restrictions, we have not been able to carry out activities that keep us connected to each other and to the wider community like  College-wide events, VIA, having alumni members back visiting etc.  How might we reconnect with our past (alumni) and our present (community)? 
 Renew – NJC’s firm belief is that we serve with honour.  How might we renew our commitment to service and to developing ourselves to serve in future?   To this end, we need to renew relationships that were forged but may have fallen by the wayside and renew  skills and knowledge which stand the test of time  across a range of platforms both traditional and cutting-edge.
 Reimagine – As we create a new future together,  with a stronger sense of awareness of the society as a community and a deeper knowledge of globalisation, let’s reimagine what honour means to the College.  Who or what do we honour?  How do we go about doing that?  Let’s have the courage  to not only be open to change and grow but eager to do so.  
 Service with Honour!
-    </div>
+    
 </li>
 	
 <li>
 <input id="accordion4" type="checkbox">
 <label for="accordion4">Reimagining learning and serving</label>
     <div>
-    **College Day Awards**
-              <img style="width:60%" src="/images/col1.png"> 
+			<h4> College Day Awards </h4>
+              <img src="https://file.for.edu.sg/college54kimng.jpg"> 
 			<b><center>Ng Hwee En, Kim</center> </b>   
-			 <center><details>
+			 <center></center><details>
            <summary>Read Kim's reflections</summary>
               
 I am greatly honoured to be selected as the Student of the Year. Despite what the name of the award may suggest, this is not an achievement of my own; neither is it reflective of my efforts of this past year alone.
@@ -85,7 +82,7 @@ This achievement is not just for the “me” today, but also the journey to get
 The student from 6 years ago could not have grown and changed so substantially as a person if not for the influence of those around me. The wisdom, inspiration and guidance of everyone on my NJ journey has not only ignited in me the desire to serve, but also provided me with the opportunity to give back meaningfully. 
 
 Service is essentially about the impact you leave on other individuals, and I have been privileged to have been able to leave an impact on others in my time here. As much as this award commemorates the end of 6 years in NJC, it also marks a new beginning of serving beyond the college in the future.
-            </details></center>
+            </details>
           <details>
             <summary>The Lim Kim Woon Award</summary>
               <p><b></b></p><center><b>Jenelle Lee Jingwen</b></center><b> </b><br>
@@ -254,9 +251,7 @@ After months of project planning and liaising with the various stakeholders, the
 Additionally, Project Artemis offers an avenue for young students to find new ways to make meaningful use of their time, enabling them to grow as individuals and take action to support future conservation efforts. It is now helmed by Greenlink, who will be liaising with the childcare centres to plan out future sessions, ensuring the sustainability of the project and its continued impact on primary school children. 
  </details>
   </div>
-
-
-  ### The NJC Subject Excellence Awards
+<h4> The NJC Subject Excellence Awards </h4>
   The NJC Subject Excellence Awards recognise NJC graduates based on excellence in each discipline/subject.
 
     |                                     |                               |
@@ -286,7 +281,7 @@ Additionally, Project Artemis offers an avenue for young students to find new wa
     | H2 CHINESE LANGUAGE AND LITERATURE  | LI HUI                       
 	
 	
- <h3> GCE 'A' Level Examinations </h3>
+ <h4> GCE 'A' Level Examinations </h4>
 *insert image*
 
 We congratulate our 485 NJCians who sat for the 2022 GCE A-Level Examinations for their excellent performance. Their results are a testament to their dedication and perseverance.
@@ -299,7 +294,7 @@ In 16 of our H2 subjects, more than 3 in 5 students scored grades A or B.  In ad
 
 Beyond their academic achievements, we are most proud of their commitment to Service with Honour, to their CCAs, the College and the wider community. We wish them the very best, and look forward to seeing their continued growth and success in the future.
 
-  ### The NJC Academic Excellence Awards
+  #### The NJC Academic Excellence Awards
   The NJC Academic Excellence Awards recognise students from Junior High 1 through to Senior High 1 who have excelled academically.
 
     |                                             |                                                                                                                                                                                                                                                                          |
@@ -310,7 +305,7 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
     | JH4 Outstanding Academic Achievement Awards | BENEDICT GOH YONG EN<br>ZHOU YUELIN<br>GALEN GAY<br>LUO CHANG (LOH CHANG)<br>FANG CHEN<br>TAY JUN REN IVAN                                                                                                                                                               |
     | SH1 Outstanding Academic Achievement Awards | KRYSTAL ONG SHI HUI<br>FELIX YEW CHENG EN<br>AASHER LIM YAN KAI<br>CHLOE YOUNG<br>PARK SAEEUN<br>LI YICHEN<br>LIZANNE LIM YINNQI<br>RACHEL LIM QIAO JIE<br>XIE YU<br>WONG YU ZHEN<br>FENG SIYU<br>STEVEN NATHANAEL MULYADI<br>TIA KAI XIN MELODY<br>JAVIER TEY RUI SHENG |
 
-  ### The NJC CCA Awards
+  #### The NJC CCA Awards
   The NJC CCA Awards recognise students who have achieved success in their respective CCAs and have contributed in leading their CCAs to greater heights.
 
   <details>
