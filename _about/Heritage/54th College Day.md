@@ -1363,15 +1363,15 @@ What do I gain from sharing all my knowledge and experiences? Hopefully the stud
       <img src="https://file.for.edu.sg/college54jessicagao.jpg" class="awardee"> 
 			<br>
 			<details>
-    <summary>To teach is to touch the lives of many<br>  
-And to help us learn Life's lessons.<br>  
-But to teach well is to make a difference<br>
+    <summary>To teach is to touch the lives of many
+And to help us learn Life's lessons.
+But to teach well is to make a difference
 In all the lives you touch.
 
-To teach is to be tender, loving,<br>
-strong and giving to all who rely upon you;<br>
-To encourage and praise. <br>
-But to teach well is to believe in what and whom you teach.<br>
+To teach is to be tender, loving,
+strong and giving to all who rely upon you;
+To encourage and praise.
+But to teach well is to believe in what and whom you teach.
 ~ Jann Matthew Papin
 </summary>
 <p>Even after 15 years in this teaching journey, I am still striving to be able to teach well. The teaching journey, as expected of all journeys in life, is not a straight line forward but is full of ups and downs and sometimes necessary diversions and u-turns. But I am heartened, in this journey, to have the company of my students as well as my fellow colleagues, as we strive to make the difference in the world and community we live in.</p>
