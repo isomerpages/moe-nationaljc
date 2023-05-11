@@ -15,6 +15,13 @@ sections:
           description: ""
           url: resources/news/
       background: /images/2023 open house four ip njc moh banner website (1)(1).png
+  - infopic:
+      title: Sistemic 2023
+      description: A six-day summit packed with talks, tours, activities, and workshops!
+      button: Learn more here
+      url: /permalink/sistemic2023/
+      image: /images/bkdrop.png
+      alt: Image alt text
   - infobar:
       title: DSA-Sec
       description: Direct School Admission to NJC's Six-Year Integrated Programme
