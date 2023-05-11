@@ -219,6 +219,104 @@ When I first joined the CCA through DSA in Junior High 1, I was positively overw
 	
 Having seen our dance team evolve, I believe it will and should continue to grow, adapting to whatever new circumstances we may face. May NJID’s core of passion and love continue to fuel growth!</p>
             </details>
+			<h5>The Yeong Wai Cheong Economics Award</h5>
+			<b><center>Nathlyn Wong Kai Ying</center></b>
+       <img src="https://file.for.edu.sg/college54nathlynwong.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Nathlyn's reflections</summary>
+<p>To me, Economics has been, and will continue to be, an extremely fulfilling subject, challenging me to push myself intellectually, while simultaneously furthering my knowledge of the workings of the world around me. It has truly helped to reinvigorate my pursuit of academic excellence, and, ultimately, my personal growth in my journey as a student at NJC. 
+
+To have my efforts recognised through the Yeong Wai Cheong Economics Award is a great honour, and motivates me to continue putting in my utmost effort into my studies. I have also begun to reimagine my personal goals and limits, as I now know that I am capable of greater heights than I had previously imagined. 
+
+I would like to express my sincere gratitude to my teachers and peers, my constant pillars of support and beacons of light in my past 5 years in NJC. From always guiding me through the tough times to celebrating the good times with me, I simply would not be where I am today without them. 
+</p>
+            </details>
+						<b><center>Kow Wen Hao Bryan</center></b>
+       <img src="https://file.for.edu.sg/college54kokwenhaobryan.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Bryan's reflections</summary>
+<p>Receiving the Yeong Wai Cheong Economics Award provides me with a sense of pride and accomplishment. When I first embarked on the study of Economics in SH1, I found it challenging. While others seemingly managed to grasp concepts with ease, I always seemed to be a step behind. However, with the help of my teacher, I better appreciated Economics and learnt to overcome my difficulties by taking small but consistent steps. This award motivates me to continue striving for excellence, knowing that I have been recognised for my resilience in pursuing Economics.</p>
+            </details>
+						<b><center>Ng Alyssa</center></b>
+       <img src="https://file.for.edu.sg/college54ngalyssa.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Alyssa's reflections</summary>
+<p>To me, receiving the Yeong Wai Cheong Economics Award is a validation of the hard work I have put into improving myself, while also giving me the opportunity to further pursue Economics. Taking it up as a new subject, I had never expected to find myself as interested in Economics as much as the other subjects that I already enjoyed learning more about. However, as I dug deeper into the subject and come to understand it better with the help of my teacher, I discovered a newfound appreciation for the discipline. This award now serves as a reminder of this journey and pushes me to strive for greater heights, to continue my work with renewed energy and focus.</p>
+            </details>
+						<b><center>Sim Hean Zun</center></b>
+       <img src="https://file.for.edu.sg/college54simheanzun.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Hean Zun's reflections</summary>
+<p>To me, Economics is a subject that teaches you how individuals, businesses and governments predict and develop new ideas to interact with fluctuating situations in the real world. Through Economics, I can better understand real-world conditions that help me in my future endeavours. 
+
+The Yeong Cheong Wai Economics Award is a great encouragement and motivation for me to further explore the field of Economics as a possible career option. I would like to express my gratitude to my subject tutor in SH1, Mr Donavan Low, who sparked my interest and passion in Economics. 
+
+# As the father of Macroeconomics John Maynard Keynes once said, “The Master-Economist must study the present in the light of the past for the purposes of the future”. This is the goal that I am working towards.
+</p>
+            </details>
+						<b><center>Yan Xinling</center></b>
+       <img src="https://file.for.edu.sg/college54yanxinling.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Xinling's reflections</summary>
+<p>Life begins as a rivulet of water, coursing into rivers, into streams, usually flowing one-way towards the ocean. I am grateful for the people in National Junior College who allowed this rivulet to deviate, meander some distance upstream, and reconnect with the main flow there.
+
+Receiving the Yeong Wai Cheong Economics Award is an affirmation that the potential foreseen in making this leap of faith is not mere mirage. The second attempt at SH1 gave me time to metamorphosize, as I chipped away at the cocoon of habits and circumstance calcifying into my being, and took a break from activities I liked but had little capacity for. Eventually, with greater presence of mind, I was able to rediscover the joy of pursuing knowledge that went beyond the textbooks, thus changing my life’s trajectory for the better.
+
+Of course, this would not be possible without the warmth and support of the people around me. 
+
+If you feel stuck, don’t be afraid to reconnect with yourself and reimagine how you can possibly achieve your dreams.
+</p>
+            </details>
+						<b><center>Riyas Mohamed Wazir Mohamed</center></b>
+			<details>
+						<summary>Read Wazir's reflections</summary>
+<p>Resilience and initiative: these are the two most important values everyone needs for their JC life to be a fulfilling one. When I first entered National Junior College, I was thrown a curveball. The workload was unlike anything I've experienced and it was difficult adapting to a new school environment. Being resilient during the initial uncertainty of Junior College life helped me cope with the rigour of academia and co-curricular activities and requirements. Moreover, realizing that I was not invincible and taking the initiative to seek help when needed propelled me to greater heights.
+
+I'll be forever grateful to teachers and my classmates for putting up with the endless volley of questions I threw at them whenever I had doubts or learning gaps. Being inquisitive and unafraid to ask for help has helped to smoothen my transition to Junior College life.</p>
+            </details>
+						<b><center>Kong Ruotong</center></b>
+       <img src="https://file.for.edu.sg/college54kongruotong.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Ruotong's reflections</summary>
+<p>Approaching Economics for the first time was frightening at first. I am glad the teachers in NJ are really knowledgeable and passionate about the subject. Their passion has sparked in me a deeper interest in the subject as well. They also offered me many opportunities to discover the subject further through programmes like the National Junior College-Chu Van An High School Twinning Programme. I really enjoyed my Economics journey with NJ. </p>
+            </details>
+						<b><center>Nishita</center></b>
+       <img src="https://file.for.edu.sg/college54nishita.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Nishita's reflections</summary>
+<p>Receiving the Yeong Wai Cheong Economics Award is a huge honour. I would like to express my gratitude to all my teachers who have made this possible and believed in me. I am privileged to be a member of this NJ community as everyone from teachers, friends, to non-teaching staff live together as one united family. We all know that Junior College life is stressful as we have many assignments to complete under tight deadlines. However,  I am really grateful to have amazing and encouraging teachers in NJC who will be the first one to lift us when we fall. One should never give up as our teachers will always be there for us to guide us and be the light in our darkness. I hope that everyone will try to reconnect with one another to maintain and to cherish the relationships that we share for a lifetime. Always remember to bring a smile to someone's face and see how beautiful your life will be! Service with honour!</p>
+            </details>
+						<b><center>Mohamed Farsat S/O Ansari</center></b>
+			<details>
+						<summary>Read Farsat's reflections</summary>
+<p>My experience studying in National Junior College has been a phenomenal one that I would remember for the rest of my life: although my life in NJC has been extremely challenging, it has also been extremely rewarding and exciting. 
+
+As a recipient of the Yeong Wai Cheong Economics Award, I am very grateful for this award as economics is a subject that I am very passionate about, and the monetary award and opportunities have helped me further my knowledge in this field.
+
+Hockey was not the CCA I had intended to join initially, when I entered NJC. However, it has turned out to be the best choice of my time in NJC. I was given the opportunity to give back to my CCA by serving as Captain of Hockey, a role that has allowed me to gain many valuable skills and values through the many experiences I have had leading my team. Through Hockey, I have forged unforgettable memories and this CCA award is a recognition I will value for the rest of my life.
+
+All in all, I greatly appreciate the awards given to me and I would like to thank my Teachers and NJC for giving me such an amazing JC experience.</p>
+            </details>
+						<b><center>Kok Wai Heng</center></b>
+       <img src="https://file.for.edu.sg/college54kokwaiheng.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Wai Heng's reflections</summary>
+<p>As a recipient of the Yeong Wai Cheong Economics award, I feel proud to have been recognised for my hard work and dedication towards the subject. Economics has always been a subject close to my heart, and I have consistently put in effort to improve my understanding of it. 
+
+I remembered failing my first Economics test as it was a very new subject and I was struggling to understand it. Of course, I felt disheartened and discouraged. But I am so grateful and appreciative to have my Economics teacher, Ms Foo, who was constantly there to give me her advice and encouragement and patiently clarified any doubts that I had. Eventually, I saw a huge improvement in my understanding of Economics. 
+
+This award allows me to actually experience the slogan that ‘nothing is impossible’ and that we should always try to overcome any obstacles that we face, as each challenge is an opportunity for growth. The slogan ‘nothing is impossible’ thus serves as a reminder that motivates me to work even harder and constantly strive for the best knowing that my efforts will eventually bear fruit.
+
+I am very blessed and honoured to be able to receive these two awards as they have provided me with opportunities and experiences that taught me to always take pride and put in all my heart to strive for the best in everything that I do. Thank you!</p>
+            </details>
 				<h5>Outstanding Leadership Award</h5>
 			<b><center>Ong See Gek Cheryl</center></b>
        <img src="https://file.for.edu.sg/college54cherylong.jpg" class="awardee"> 
