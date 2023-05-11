@@ -19,7 +19,7 @@ sections:
       title: Sistemic 2023
       description: A six-day summit packed with talks, tours, activities, and workshops!
       button: Learn more here
-      url: https://go.gov.sg/sistemic2023
+      url: /permalink/sistemic2023/
       image: /images/bkdrop.png
       alt: Image alt text
   - infobar:
