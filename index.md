@@ -48,4 +48,11 @@ sections:
       url: /voices
       image: /images/reflection1.png
       alt: Reflection
+  - infopic:
+      title: Sistemic 2023
+      description: Infopic description
+      button: Learn more here
+      url: https://go.gov.sg/sistemic2023
+      image: /images/bkdrop.png
+      alt: Image alt text
 ---
