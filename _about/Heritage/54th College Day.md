@@ -13,17 +13,17 @@ third_nav_title: Heritage
     <div>  
 		<center><b>Ms Gan Su Yi</b></center>
       <img src="https://file.for.edu.sg/college54gansuyi.jpg">
-			<p>Gan Su Yi is an alumna of NJC who was part of the graduating class of 2008. During her time at the College, she served as the College's Student Council President and was part of the Outdoor Activities Club. For her academic excellence, strong leadership qualities and contributions to school activities, she was named Student of the Year and class Valedictorian in 2008. As a President's Scholar, Su Yi began her illustrious career with the public sector, where she served at MINDEF, MND and the Prime Minister's Office. She continues to contribute to Singapore and our economy in her current role as a consultant for Bain &amp; Company, where she is on attachment from the Public Service.
+			<p>Gan Su Yi is an alumna of NJC from the graduating class of 2008. During her time at the College, she served as the College's 40th Student Council President and was a member of the Outdoor Activities Club. For her academic excellence, strong leadership qualities and contributions to school activities, she was named Student of the Year and class Valedictorian in 2008. A President's Scholar, Su Yi began her illustrious career with the public sector, where she served at MINDEF, MND and the Prime Minister's Office. She continues to contribute to Singapore and our economy in her current role as a consultant for Bain &amp; Company, where she is on attachment from the Public Service.
 	</p></div>
   </li>
 	<li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">Message from our Principal</label>
-     <div>
-     <center><b>Mrs Lucy Toh</b></center><br>
+		<div>
+			<center><b>Mrs Lucy Toh</b></center>
       <img src="https://file.for.edu.sg/college54mrslucytoh.png">      
 			 <p>As I write this Foreword, half of Senior High One are experiencing six nights in our Boarding School. The other half did so in the last week of Term One. 300 of them hail from over 80 secondary schools across the island while 200 of them came to NJC four years ago from over 80 primary schools. In each of our six cohorts of students from Junior High One to Senior High Two, our student body is wonderfully diverse, echoing our Singaporean heritage – truly we are the College of the Nation.
-
+				 
 Today, like generations before them, these NJCians can once again put their arms around each other’s shoulders and sing their hearts out. No masks required. I take delight in knowing that the friendships they are forging will last a lifetime.
 
 After months of collaborating and volunteering through internet platforms, once again, our students will go forth to learn and serve in-person. They will visit the elderly, teach younger learners, go to hospitals, research centres and more. 
@@ -45,16 +45,16 @@ As the youth of the nation, we are called to serve with energy and total dedicat
 		<input id="accordion3" type="checkbox">
 			<label for="accordion3">Reconnect ∙ Renew ∙ Reimagine</label>
 			<div>
-				<p>Three years after the pandemic began, many new phrases have arisen – new-norm, pre-COVID times, zoom from home, HBL – to name a few.   We have acquired new skills ranging from new ways of teaching and learning to buying food.  We have become both technologically-savvy and technologically-dependent.  We have had to think deeper and harder about disease and dis-ease.
+				<p>Three years after the pandemic began, many new phrases have emerged – new-norm, pre-COVID times, zoom from home, HBL – to name a few.   We have acquired new skills for new ways of leading our everyday lives, ranging from teaching and learning to buying food.  We have become technologically-savvy but also technologically-dependent.  We have had to think more deeply and harder about disease and dis-ease.
 				
-What does it mean to live in these post-COVID times?  What must we ensure that we bring back from before?  What have we learned that we might do better or differently?  Who are we and what do we want to become?  For this College Day, we aspire for our NJCians to:
+What does it mean to live in these post-COVID times?  What must we ensure that we bring back from the days before?  What have we learned that might help us do better or do things differently?  Who are we and what do we want to become?  For this College Day, the NJC community aspires to:
 		
-<strong>Reconnect</strong> – Due to the many disruptions and safety restrictions, we have not been able to carry out activities that keep us connected to each other and to the wider community like  College-wide events, VIA, having alumni members back visiting etc.  How might we reconnect with our past (alumni) and our present (community)? 
+<strong>Reconnect</strong> – Due to the many disruptions and safety restrictions, we have not been able to carry out activities that keep us connected to each other and to the wider community like  College-wide events, VIA, having alumni members back visiting etc.  How might we reconnect with our past (alumni) and our present (wider community)? 
 		
-<strong>Renew</strong> – NJC’s firm belief is that we serve with honour.  How might we renew our commitment to service and to developing ourselves to serve in future?   To this end, we need to renew relationships that were forged but may have fallen by the wayside and renew  skills and knowledge which stand the test of time  across a range of platforms both traditional and cutting-edge.
+<strong>Renew</strong> – NJC’s firm belief is that we serve with honour.  How might we renew our commitment to service and to developing ourselves to serve in future? To this end, we need to renew relationships that were forged but may have fallen by the wayside, and renew skills and knowledge which stand the test of time across a range of platforms both traditional and cutting-edge.
 		
-<strong>Reimagine</strong> – As we create a new future together,  with a stronger sense of awareness of the society as a community and a deeper knowledge of globalisation, let’s reimagine what honour means to the College.  Who or what do we honour?  How do we go about doing that?  Let’s have the courage  to not only be open to change and grow but eager to do so.  
-					
+<strong>Reimagine</strong> – As we create a new future together, imbued with a stronger sense of awareness of the society as a community and a deeper knowledge of globalisation, let’s reimagine what honour means to the College.  Who or what do we honour?  How do we go about doing that?  Let’s have the courage  to not only be open to change and grow but eager to do so. 
+		
 Service with Honour!
 			</p>
 		</div>
@@ -218,6 +218,104 @@ You might wonder then, how did I embark on so many endeavours at once? Well, to 
 When I first joined the CCA through DSA in Junior High 1, I was positively overwhelmed by the strong sisterhood of dancers and the number of new seniors I had utmost respect for. Years later, as I served my first term in the CCA’s Executive Committee, I was strongly guided by the same principles I had imbibed, such as discipline, drive, and order. Despite the solid grounding in values, the Covid pandemic hit me with a sense of burnout and loss of motivation. But the fundamental locus of passion and care that characterised NJID propelled me to discover new meaning in the leadership role I played. I shifted the focus of my leadership to serve with care, understanding, and love in mind, to enthuse the CCA amidst a bleak outlook with no ‘live’ and exciting performances to work towards. 
 	
 Having seen our dance team evolve, I believe it will and should continue to grow, adapting to whatever new circumstances we may face. May NJID’s core of passion and love continue to fuel growth!</p>
+            </details>
+			<h5>The Yeong Wai Cheong Economics Award</h5>
+			<b><center>Nathlyn Wong Kai Ying</center></b>
+       <img src="https://file.for.edu.sg/college54nathlynwong.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Nathlyn's reflections</summary>
+<p>To me, Economics has been, and will continue to be, an extremely fulfilling subject, challenging me to push myself intellectually, while simultaneously furthering my knowledge of the workings of the world around me. It has truly helped to reinvigorate my pursuit of academic excellence, and, ultimately, my personal growth in my journey as a student at NJC. 
+
+To have my efforts recognised through the Yeong Wai Cheong Economics Award is a great honour, and motivates me to continue putting in my utmost effort into my studies. I have also begun to reimagine my personal goals and limits, as I now know that I am capable of greater heights than I had previously imagined. 
+
+I would like to express my sincere gratitude to my teachers and peers, my constant pillars of support and beacons of light in my past 5 years in NJC. From always guiding me through the tough times to celebrating the good times with me, I simply would not be where I am today without them. 
+</p>
+            </details>
+						<b><center>Kow Wen Hao Bryan</center></b>
+       <img src="https://file.for.edu.sg/college54kokwenhaobryan.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Bryan's reflections</summary>
+<p>Receiving the Yeong Wai Cheong Economics Award provides me with a sense of pride and accomplishment. When I first embarked on the study of Economics in SH1, I found it challenging. While others seemingly managed to grasp concepts with ease, I always seemed to be a step behind. However, with the help of my teacher, I better appreciated Economics and learnt to overcome my difficulties by taking small but consistent steps. This award motivates me to continue striving for excellence, knowing that I have been recognised for my resilience in pursuing Economics.</p>
+            </details>
+						<b><center>Ng Alyssa</center></b>
+       <img src="https://file.for.edu.sg/college54ngalyssa.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Alyssa's reflections</summary>
+<p>To me, receiving the Yeong Wai Cheong Economics Award is a validation of the hard work I have put into improving myself, while also giving me the opportunity to further pursue Economics. Taking it up as a new subject, I had never expected to find myself as interested in Economics as much as the other subjects that I already enjoyed learning more about. However, as I dug deeper into the subject and come to understand it better with the help of my teacher, I discovered a newfound appreciation for the discipline. This award now serves as a reminder of this journey and pushes me to strive for greater heights, to continue my work with renewed energy and focus.</p>
+            </details>
+						<b><center>Sim Hean Zun</center></b>
+       <img src="https://file.for.edu.sg/college54simheanzun.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Hean Zun's reflections</summary>
+<p>To me, Economics is a subject that teaches you how individuals, businesses and governments predict and develop new ideas to interact with fluctuating situations in the real world. Through Economics, I can better understand real-world conditions that help me in my future endeavours. 
+
+The Yeong Cheong Wai Economics Award is a great encouragement and motivation for me to further explore the field of Economics as a possible career option. I would like to express my gratitude to my subject tutor in SH1, Mr Donavan Low, who sparked my interest and passion in Economics. 
+
+# As the father of Macroeconomics John Maynard Keynes once said, “The Master-Economist must study the present in the light of the past for the purposes of the future”. This is the goal that I am working towards.
+</p>
+            </details>
+						<b><center>Yan Xinling</center></b>
+       <img src="https://file.for.edu.sg/college54yanxinling.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Xinling's reflections</summary>
+<p>Life begins as a rivulet of water, coursing into rivers, into streams, usually flowing one-way towards the ocean. I am grateful for the people in National Junior College who allowed this rivulet to deviate, meander some distance upstream, and reconnect with the main flow there.
+
+Receiving the Yeong Wai Cheong Economics Award is an affirmation that the potential foreseen in making this leap of faith is not mere mirage. The second attempt at SH1 gave me time to metamorphosize, as I chipped away at the cocoon of habits and circumstance calcifying into my being, and took a break from activities I liked but had little capacity for. Eventually, with greater presence of mind, I was able to rediscover the joy of pursuing knowledge that went beyond the textbooks, thus changing my life’s trajectory for the better.
+
+Of course, this would not be possible without the warmth and support of the people around me. 
+
+If you feel stuck, don’t be afraid to reconnect with yourself and reimagine how you can possibly achieve your dreams.
+</p>
+            </details>
+						<b><center>Riyas Mohamed Wazir Mohamed</center></b>
+			<details>
+						<summary>Read Wazir's reflections</summary>
+<p>Resilience and initiative: these are the two most important values everyone needs for their JC life to be a fulfilling one. When I first entered National Junior College, I was thrown a curveball. The workload was unlike anything I've experienced and it was difficult adapting to a new school environment. Being resilient during the initial uncertainty of Junior College life helped me cope with the rigour of academia and co-curricular activities and requirements. Moreover, realizing that I was not invincible and taking the initiative to seek help when needed propelled me to greater heights.
+
+I'll be forever grateful to teachers and my classmates for putting up with the endless volley of questions I threw at them whenever I had doubts or learning gaps. Being inquisitive and unafraid to ask for help has helped to smoothen my transition to Junior College life.</p>
+            </details>
+						<b><center>Kong Ruotong</center></b>
+       <img src="https://file.for.edu.sg/college54kongruotong.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Ruotong's reflections</summary>
+<p>Approaching Economics for the first time was frightening at first. I am glad the teachers in NJ are really knowledgeable and passionate about the subject. Their passion has sparked in me a deeper interest in the subject as well. They also offered me many opportunities to discover the subject further through programmes like the National Junior College-Chu Van An High School Twinning Programme. I really enjoyed my Economics journey with NJ. </p>
+            </details>
+						<b><center>Nishita</center></b>
+       <img src="https://file.for.edu.sg/college54nishita.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Nishita's reflections</summary>
+<p>Receiving the Yeong Wai Cheong Economics Award is a huge honour. I would like to express my gratitude to all my teachers who have made this possible and believed in me. I am privileged to be a member of this NJ community as everyone from teachers, friends, to non-teaching staff live together as one united family. We all know that Junior College life is stressful as we have many assignments to complete under tight deadlines. However,  I am really grateful to have amazing and encouraging teachers in NJC who will be the first one to lift us when we fall. One should never give up as our teachers will always be there for us to guide us and be the light in our darkness. I hope that everyone will try to reconnect with one another to maintain and to cherish the relationships that we share for a lifetime. Always remember to bring a smile to someone's face and see how beautiful your life will be! Service with honour!</p>
+            </details>
+						<b><center>Mohamed Farsat S/O Ansari</center></b>
+			<details>
+						<summary>Read Farsat's reflections</summary>
+<p>My experience studying in National Junior College has been a phenomenal one that I would remember for the rest of my life: although my life in NJC has been extremely challenging, it has also been extremely rewarding and exciting. 
+
+As a recipient of the Yeong Wai Cheong Economics Award, I am very grateful for this award as economics is a subject that I am very passionate about, and the monetary award and opportunities have helped me further my knowledge in this field.
+
+Hockey was not the CCA I had intended to join initially, when I entered NJC. However, it has turned out to be the best choice of my time in NJC. I was given the opportunity to give back to my CCA by serving as Captain of Hockey, a role that has allowed me to gain many valuable skills and values through the many experiences I have had leading my team. Through Hockey, I have forged unforgettable memories and this CCA award is a recognition I will value for the rest of my life.
+
+All in all, I greatly appreciate the awards given to me and I would like to thank my Teachers and NJC for giving me such an amazing JC experience.</p>
+            </details>
+						<b><center>Kok Wai Heng</center></b>
+       <img src="https://file.for.edu.sg/college54kokwaiheng.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Wai Heng's reflections</summary>
+<p>As a recipient of the Yeong Wai Cheong Economics award, I feel proud to have been recognised for my hard work and dedication towards the subject. Economics has always been a subject close to my heart, and I have consistently put in effort to improve my understanding of it. 
+
+I remembered failing my first Economics test as it was a very new subject and I was struggling to understand it. Of course, I felt disheartened and discouraged. But I am so grateful and appreciative to have my Economics teacher, Ms Foo, who was constantly there to give me her advice and encouragement and patiently clarified any doubts that I had. Eventually, I saw a huge improvement in my understanding of Economics. 
+
+This award allows me to actually experience the slogan that ‘nothing is impossible’ and that we should always try to overcome any obstacles that we face, as each challenge is an opportunity for growth. The slogan ‘nothing is impossible’ thus serves as a reminder that motivates me to work even harder and constantly strive for the best knowing that my efforts will eventually bear fruit.
+
+I am very blessed and honoured to be able to receive these two awards as they have provided me with opportunities and experiences that taught me to always take pride and put in all my heart to strive for the best in everything that I do. Thank you!</p>
             </details>
 				<h5>Outstanding Leadership Award</h5>
 			<b><center>Ong See Gek Cheryl</center></b>
@@ -1344,7 +1442,7 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
 		<h4>Long Service Awards</h4>
 			<h5>15 Years</h5>
 			<b><center>Chua Chin Yang</center></b>
-      <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54chuachinyang.JPG" class="awardee"> 
 			<br>
 			<details>
            <summary>“He is no fool who gives what he cannot keep to gain what he cannot lose.”</summary>
@@ -1353,7 +1451,7 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
 What do I gain from sharing all my knowledge and experiences? Hopefully the students’ learning, and moments and memories that they keep with them through their lives and in time to come, also share and impart them to others. Until the day this no longer applies, each life touched is a life touched for the rest of the student’s life.</p>
   </details>
 					<b><center>Eng Wei Ping Michelle</center></b>
-      <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54michelleeng.jpg" class="awardee"> 
 			<br>
 			<details>
            <summary>I’m still in my teenage years of teaching, and many more years of learning to come. May my students and athletes feel the same about what comes ahead of them - so much more to learn and so much more to grow!</summary>
@@ -1363,18 +1461,19 @@ What do I gain from sharing all my knowledge and experiences? Hopefully the stud
       <img src="https://file.for.edu.sg/college54jessicagao.jpg" class="awardee"> 
 			<br>
 			<details>
-    <summary>To teach is to touch the lives of many
-And to help us learn Life's lessons.
-But to teach well is to make a difference
+    <summary>I am heartened, in this journey, to have the company of my students as well as my fellow colleagues, as we strive to make the difference in the world and community we live in.</summary>
+<p><q>To teach is to touch the lives of many<br>
+And to help us learn Life's lessons.<br>
+But to teach well is to make a difference<br>
 In all the lives you touch.
 
-To teach is to be tender, loving,
-strong and giving to all who rely upon you;
-To encourage and praise.
-But to teach well is to believe in what and whom you teach.
-~ Jann Matthew Papin
-</summary>
-<p>Even after 15 years in this teaching journey, I am still striving to be able to teach well. The teaching journey, as expected of all journeys in life, is not a straight line forward but is full of ups and downs and sometimes necessary diversions and u-turns. But I am heartened, in this journey, to have the company of my students as well as my fellow colleagues, as we strive to make the difference in the world and community we live in.</p>
+To teach is to be tender, loving,<br>
+strong and giving to all who rely upon you;<br>
+To encourage and praise.<br>
+But to teach well is to believe in what and whom you teach.<br>
+~ Jann Matthew Papin</q>
+	
+Even after 15 years in this teaching journey, I am still striving to be able to teach well. The teaching journey, as expected of all journeys in life, is not a straight line forward but is full of ups and downs and sometimes necessary diversions and u-turns. But I am heartened, in this journey, to have the company of my students as well as my fellow colleagues, as we strive to make the difference in the world and community we live in.</p>
   </details>
 		<b><center>Heng Li Li, Amanda</center></b>
       <img src="https://file.for.edu.sg/college54amandaheng.jpg" class="awardee"> 
@@ -1411,7 +1510,7 @@ I hope the students will always have their friends that they gained during their
 		<p>The past 10 years in this job has given me purpose in aiding the teachers, ensuring their practical lessons run smoothly and maximising the usage of the lab to benefit the students in their learning. What motivates me to come to work everyday are my colleagues. The continuous support and encouragement given by my colleagues allowed me to do my job with ease and contribute to the holistic education of the students in the school. My hopes for the students are to take the time to find purpose in life, stay humble and always spread kindness.</p>
   </details>
 		<b><center>Feng Pingping</center></b>
-      <img src="https://file.for.edu.sg/college54ahmadfuad.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54fengpingping.jpg" class="awardee"> 
 			<br>
   <details>
     <summary>I hope that all NJCians can be open to life and regret nothing at the end of the day.</summary>
@@ -1420,14 +1519,14 @@ I hope the students will always have their friends that they gained during their
 I hope that all NJCians can be open to life and regret nothing at the end of the day; use the 2-6 years here to acquire sufficient skills in managing themselves not just academically but also emotionally beyond the campus life. Learning to embrace their own strengths, weaknesses and appreciating each other’s differences is important for finding their inner joy and satisfaction in life.</p>
   </details>
 		<b><center>Ganesh Issardas Udasi</center></b>
-      <img src="https://file.for.edu.sg/college54ahmadfuad.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54ganesh.JPG" class="awardee"> 
 			<br>
   <details>
     <summary>The collective energy that our fraternity gives to all our NJCians fuel my passion and commitment to the work I do daily.</summary>
 		<p>The last 10 years that I have spent in NJC has been a privilege. This memorable decade enabled me to grow personally and professionally, and all this is made possible with the generous support and guidance I have received through working with collaborative colleagues. The collective energy that our fraternity gives to all our NJCians fuel my passion and commitment to the work I do daily. The concept of time is very real in the study of History. I would like to part with this quote, "Do something NOW for which your FUTURE self with thank you later." The present will pass, but always do things with purpose and impact, and be grateful for the past, present and future. Thank you, NJC, for making my years here fulfilling and enriching.</p>
   </details>
 		<b><center>Ho Hui Lin</center></b>
-      <img src="https://file.for.edu.sg/college54ahmadfuad.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54hohuilin.JPG" class="awardee"> 
 			<br>
   <details>
     <summary>Teaching at NJC has been a humbling experience, as the opportunity to work with students from different backgrounds over the years has allowed me to live vicariously and uncover more about myself as a person.</summary>
@@ -1445,7 +1544,7 @@ Teaching is never easy. There have been times when I have faced challenges but t
 I hope that NJCians will grow to become compassionate people who use their gifts to make the world a better place. Most importantly, I wish for them to be fearless in their pursuit of their passions and never let failure stop them. They all deserve to lead meaningful lives that bring joy to themselves and others.</p>
   </details>
 		<b><center>Lim Lai Har Karen</center></b>
-      <img src="https://file.for.edu.sg/college54jamiekao.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54karenlim.jpg" class="awardee"> 
 			<br>
   <details>
     <summary>My belief is that as I teach, I also learn from my students and colleagues. What also keeps me going is when my students are happy learners.</summary>
@@ -1456,14 +1555,14 @@ I wish to teach our NJC students to develop a sense of curiosity about the world
 My belief is that as I teach, I also learn from my students and colleagues. What also keeps me going is when my students are happy learners.</p>
   </details>
 		<b><center>Mak Wei Shan</center></b>
-      <img src="https://file.for.edu.sg/college54jamiekao.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54makweishan.jpg" class="awardee"> 
 			<br>
   <details>
     <summary>It is my genuine hope that every NJC-ian who passes through these hallowed halls finds their place in life and society, and contributes actively to their community in various ways.</summary>
 		<p>It was surreal when I first stepped into NJC as a teacher; it felt like not too long ago when I was here as a student. It is my genuine hope that every NJC-ian who passes through these hallowed halls (or rather, the hallowed long corridor from the bus stop to the school building - great way to keep fit!) finds their place in life and society, and contributes actively to their community in various ways. I also wish for the students here that no matter how much time passes or how many fantastic places in the world you travel to, you will always be able to come back to NJC or to your NJC people, and think to yourself that ah, this feels like home.</p>
   </details>
 		<b><center>Neo Shu Ting</center></b>
-      <img src="https://file.for.edu.sg/college54jamiekao.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54neoshuting.jpg" class="awardee"> 
 			<br>
   <details>
     <summary>What I love best about teaching is the fact that I am constantly growing alongside my students and colleagues in the Language Arts department and the Symphonic Band team.</summary>
@@ -1552,7 +1651,6 @@ ul.jekyllcodex_accordion li label::before {content: "+"; font-weight: normal; fo
 ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45deg);}
 p, summary {
 	text-align: justify;
-	white-space: pre-line;
 	}
 img {
 	max-width:80%;
