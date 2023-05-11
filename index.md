@@ -16,7 +16,7 @@ sections:
           url: resources/news/
       background: /images/2023 open house four ip njc moh banner website (1)(1).png
   - infopic:
-      title: Sistemic 2023
+      title: SISTEMIC 2023
       description: A six-day summit packed with talks, tours, activities, and workshops!
       button: Learn more here
       url: /permalink/sistemic2023/
