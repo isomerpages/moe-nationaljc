@@ -1442,7 +1442,7 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
 		<h4>Long Service Awards</h4>
 			<h5>15 Years</h5>
 			<b><center>Chua Chin Yang</center></b>
-      <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54chuachinyang.JPG" class="awardee"> 
 			<br>
 			<details>
            <summary>“He is no fool who gives what he cannot keep to gain what he cannot lose.”</summary>
@@ -1451,7 +1451,7 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
 What do I gain from sharing all my knowledge and experiences? Hopefully the students’ learning, and moments and memories that they keep with them through their lives and in time to come, also share and impart them to others. Until the day this no longer applies, each life touched is a life touched for the rest of the student’s life.</p>
   </details>
 					<b><center>Eng Wei Ping Michelle</center></b>
-      <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54michelleeng.jpg" class="awardee"> 
 			<br>
 			<details>
            <summary>I’m still in my teenage years of teaching, and many more years of learning to come. May my students and athletes feel the same about what comes ahead of them - so much more to learn and so much more to grow!</summary>
@@ -1461,18 +1461,19 @@ What do I gain from sharing all my knowledge and experiences? Hopefully the stud
       <img src="https://file.for.edu.sg/college54jessicagao.jpg" class="awardee"> 
 			<br>
 			<details>
-    <summary>To teach is to touch the lives of many
-And to help us learn Life's lessons.
-But to teach well is to make a difference
+    <summary>I am heartened, in this journey, to have the company of my students as well as my fellow colleagues, as we strive to make the difference in the world and community we live in.</summary>
+<p><q>To teach is to touch the lives of many<br>
+And to help us learn Life's lessons.<br>
+But to teach well is to make a difference<br>
 In all the lives you touch.
 
-To teach is to be tender, loving,
-strong and giving to all who rely upon you;
-To encourage and praise.
-But to teach well is to believe in what and whom you teach.
-~ Jann Matthew Papin
-</summary>
-<p>Even after 15 years in this teaching journey, I am still striving to be able to teach well. The teaching journey, as expected of all journeys in life, is not a straight line forward but is full of ups and downs and sometimes necessary diversions and u-turns. But I am heartened, in this journey, to have the company of my students as well as my fellow colleagues, as we strive to make the difference in the world and community we live in.</p>
+To teach is to be tender, loving,<br>
+strong and giving to all who rely upon you;<br>
+To encourage and praise.<br>
+But to teach well is to believe in what and whom you teach.<br>
+~ Jann Matthew Papin</q>
+	
+Even after 15 years in this teaching journey, I am still striving to be able to teach well. The teaching journey, as expected of all journeys in life, is not a straight line forward but is full of ups and downs and sometimes necessary diversions and u-turns. But I am heartened, in this journey, to have the company of my students as well as my fellow colleagues, as we strive to make the difference in the world and community we live in.</p>
   </details>
 		<b><center>Heng Li Li, Amanda</center></b>
       <img src="https://file.for.edu.sg/college54amandaheng.jpg" class="awardee"> 
@@ -1509,7 +1510,7 @@ I hope the students will always have their friends that they gained during their
 		<p>The past 10 years in this job has given me purpose in aiding the teachers, ensuring their practical lessons run smoothly and maximising the usage of the lab to benefit the students in their learning. What motivates me to come to work everyday are my colleagues. The continuous support and encouragement given by my colleagues allowed me to do my job with ease and contribute to the holistic education of the students in the school. My hopes for the students are to take the time to find purpose in life, stay humble and always spread kindness.</p>
   </details>
 		<b><center>Feng Pingping</center></b>
-      <img src="https://file.for.edu.sg/college54ahmadfuad.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54fengpingping.jpg" class="awardee"> 
 			<br>
   <details>
     <summary>I hope that all NJCians can be open to life and regret nothing at the end of the day.</summary>
@@ -1518,14 +1519,14 @@ I hope the students will always have their friends that they gained during their
 I hope that all NJCians can be open to life and regret nothing at the end of the day; use the 2-6 years here to acquire sufficient skills in managing themselves not just academically but also emotionally beyond the campus life. Learning to embrace their own strengths, weaknesses and appreciating each other’s differences is important for finding their inner joy and satisfaction in life.</p>
   </details>
 		<b><center>Ganesh Issardas Udasi</center></b>
-      <img src="https://file.for.edu.sg/college54ahmadfuad.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54ganesh.JPG" class="awardee"> 
 			<br>
   <details>
     <summary>The collective energy that our fraternity gives to all our NJCians fuel my passion and commitment to the work I do daily.</summary>
 		<p>The last 10 years that I have spent in NJC has been a privilege. This memorable decade enabled me to grow personally and professionally, and all this is made possible with the generous support and guidance I have received through working with collaborative colleagues. The collective energy that our fraternity gives to all our NJCians fuel my passion and commitment to the work I do daily. The concept of time is very real in the study of History. I would like to part with this quote, "Do something NOW for which your FUTURE self with thank you later." The present will pass, but always do things with purpose and impact, and be grateful for the past, present and future. Thank you, NJC, for making my years here fulfilling and enriching.</p>
   </details>
 		<b><center>Ho Hui Lin</center></b>
-      <img src="https://file.for.edu.sg/college54ahmadfuad.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54hohuilin.JPG" class="awardee"> 
 			<br>
   <details>
     <summary>Teaching at NJC has been a humbling experience, as the opportunity to work with students from different backgrounds over the years has allowed me to live vicariously and uncover more about myself as a person.</summary>
@@ -1543,7 +1544,7 @@ Teaching is never easy. There have been times when I have faced challenges but t
 I hope that NJCians will grow to become compassionate people who use their gifts to make the world a better place. Most importantly, I wish for them to be fearless in their pursuit of their passions and never let failure stop them. They all deserve to lead meaningful lives that bring joy to themselves and others.</p>
   </details>
 		<b><center>Lim Lai Har Karen</center></b>
-      <img src="https://file.for.edu.sg/college54jamiekao.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54karenlim.jpg" class="awardee"> 
 			<br>
   <details>
     <summary>My belief is that as I teach, I also learn from my students and colleagues. What also keeps me going is when my students are happy learners.</summary>
@@ -1554,14 +1555,14 @@ I wish to teach our NJC students to develop a sense of curiosity about the world
 My belief is that as I teach, I also learn from my students and colleagues. What also keeps me going is when my students are happy learners.</p>
   </details>
 		<b><center>Mak Wei Shan</center></b>
-      <img src="https://file.for.edu.sg/college54jamiekao.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54makweishan.jpg" class="awardee"> 
 			<br>
   <details>
     <summary>It is my genuine hope that every NJC-ian who passes through these hallowed halls finds their place in life and society, and contributes actively to their community in various ways.</summary>
 		<p>It was surreal when I first stepped into NJC as a teacher; it felt like not too long ago when I was here as a student. It is my genuine hope that every NJC-ian who passes through these hallowed halls (or rather, the hallowed long corridor from the bus stop to the school building - great way to keep fit!) finds their place in life and society, and contributes actively to their community in various ways. I also wish for the students here that no matter how much time passes or how many fantastic places in the world you travel to, you will always be able to come back to NJC or to your NJC people, and think to yourself that ah, this feels like home.</p>
   </details>
 		<b><center>Neo Shu Ting</center></b>
-      <img src="https://file.for.edu.sg/college54jamiekao.jpg" class="awardee"> 
+      <img src="https://file.for.edu.sg/college54neoshuting.jpg" class="awardee"> 
 			<br>
   <details>
     <summary>What I love best about teaching is the fact that I am constantly growing alongside my students and colleagues in the Language Arts department and the Symphonic Band team.</summary>
