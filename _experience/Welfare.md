@@ -20,8 +20,8 @@ If you would like to find out more about our initiatives or to speak with our te
 |  |  |
 |---|---|
 | Ms Sharon Phua<br>Head of Department<br>Student Welfare and Boarding | Email:<br>[sharon\_phua\_phek\_heng@moe.edu.sg](mailto:sharon_phua_phek_heng@moe.edu.sg) |
-| Ms Jesmin Tan<br> Counsellor | Email:<br>[jesmintan@calvarycomm.sg](mailto:jesmintan@calvarycomm.sg)
-| Ms Hui Yoke Cheng, Von<br>Counsellor | Email:<br>[Hui\_Yoke\_Cheng@schools.gov.sg](mailto:Hui_Yoke_Cheng@schools.gov.sg) |
+| Ms Siti 'Omairah<br> Counsellor | Email:<br>[siti_omairah_amrhan_a@schools.gov.sg](mailto:jesmintan@calvarycomm.sg)
+| Ms Jesmin Tan<br>Counsellor | Email:<br>[jesmintan@calvarycomm.sg](mailto:Hui_Yoke_Cheng@schools.gov.sg) |
 
 
 Counselling is a collaborative therapeutic relationship which allows the student to have a safe space to explore his/her issues and challenges. Together with the student, we work on his/her strengths and expand the repertoire of his/her coping resources to facilitate growth and build solutions to any issues or challenges faced.
@@ -32,4 +32,4 @@ For the incoming new students, the transition process is important and they need
 
 Click&nbsp;[here](/files/njc-mental-health-resources-list.pdf)&nbsp;for Helplines.
 
-Click&nbsp;[here](/files/NJC-Counselling-appointment.pdf) for Student’s Counselling Appointment.
+Click&nbsp;[here](/files/njc counselling appointment poster qr code.pdf) for Student’s Counselling Appointment.
