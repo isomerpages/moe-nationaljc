@@ -64,7 +64,7 @@ Service with Honour!
 <label for="accordion4"><h5>Reimagining learning and serving</h5></label>
     <div>
 			<h4>College Day Awards </h4>
-			<h5>Student of the Year</h5>
+			<h5 style="margin-block-start:auto;">Student of the Year</h5>
 <i>The National Junior College Student of the Year is the pinnacle of all student awards, recognising all-round excellence in academia, CCA, leadership and service.</i>
 			<b><center>Ng Hwee En, Kim</center></b>
       <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
@@ -142,7 +142,7 @@ NJC has provided me with numerous opportunities to develop my interest in resear
 
 In Junior College 1, I participated in the H3 research programme where I worked on DNAzyme hybrid catalysts under Dr Liu Zhennan at A*STAR. This rigorous research programme advanced my knowledge in the field of organometallic catalysts. My hard work paid off when I presented my research and won the project of the year award at the ASEAN Student Science Project Competition 2022.
 
-I would like to thank my research mentors, Ms Lee Shan Shan and Ms Lim Wei Li, as well as NJC's research and science departments for providing me with the various opportunities to explore my interest in research. Their guidance and support have been invaluable in my journey towards scientific excellence.</p>
+I would like to thank my research mentors, Ms Lee Shan Shan and Ms Lim Wei Li, as well as NJC's research and science departments for providing me with the various opportunities to explore my interest in research. Their guidance and support have been invaluable in my journey towards scientific excellence.</p></details>
 			<b><center>Jay Tan Jun Jie</center></b>
        <img src="https://file.for.edu.sg/college54jaytan.jpg" class="awardee"> 
 			<br>
@@ -1452,14 +1452,15 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
 				</tfoot>
 </table>
   </details>
-</details></div>
+</div>
+<br>
 </li>
 <li>
   <input id="accordion5" type="checkbox">
   <label for="accordion5"><h5>Renewing our commitment to college and country</h5></label>
   <div>
 		<h4>Long Service Awards</h4>
-			<h5>15 Years</h5>
+			<h5 style="margin-block-start:auto;">15 Years</h5>
 			<b><center>Chua Chin Yang</center></b>
       <img src="https://file.for.edu.sg/college54chuachinyang.JPG" class="awardee"> 
 			<br>
