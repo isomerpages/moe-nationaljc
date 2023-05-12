@@ -20,8 +20,8 @@ If you would like to find out more about our initiatives or to speak with our te
 |  |  |
 |---|---|
 | Ms Sharon Phua<br>Head of Department<br>Student Welfare and Boarding | Email:<br>[sharon\_phua\_phek\_heng@moe.edu.sg](mailto:sharon_phua_phek_heng@moe.edu.sg) |
-| Ms Jesmin Tan<br> Counsellor | Email:<br>[jesmintan@calvarycomm.sg](mailto:jesmintan@calvarycomm.sg)
-| Ms Hui Yoke Cheng, Von<br>Counsellor | Email:<br>[Hui\_Yoke\_Cheng@schools.gov.sg](mailto:Hui_Yoke_Cheng@schools.gov.sg) |
+| Ms Siti 'Omairah<br> Counsellor | Email:<br>[siti_omairah_amrhan_a@schools.gov.sg](mailto:jesmintan@calvarycomm.sg)
+| Ms Jesmin Tan<br>Counsellor | Email:<br>[jesmintan@calvarycomm.sg](mailto:Hui_Yoke_Cheng@schools.gov.sg) |
 
 
 Counselling is a collaborative therapeutic relationship which allows the student to have a safe space to explore his/her issues and challenges. Together with the student, we work on his/her strengths and expand the repertoire of his/her coping resources to facilitate growth and build solutions to any issues or challenges faced.
@@ -30,6 +30,7 @@ Research has shown that having strong parental support will nurture confident ch
 
 For the incoming new students, the transition process is important and they need the support of their parents. Click&nbsp;[here](https://nationaljc.moe.edu.sg/wp-content/uploads/2021/01/Sec1_Tips-slides-for-website.pptx)&nbsp;for more resources in supporting your child’s transition.
 
-Click&nbsp;[here](/files/Helplines-updated-Feb-2021.pdf)&nbsp;for Helplines.
+Click&nbsp;[here](/files/njc-mental-health-resources-list.pdf)&nbsp;for Helplines.
 
-Click&nbsp;[here](/files/NJC-Counselling-appointment.pdf) for Student’s Counselling Appointment.
+Click [here](/files/njc%20counselling%20appointment%20poster%20qr%20code.pdf) for Student's Counselling Appointment.
+

@@ -25,7 +25,7 @@ third_nav_title: Heritage
 			 <p>As I write this Foreword, half of Senior High One are experiencing six nights in our Boarding School. The other half did so in the last week of Term One. 300 of them hail from over 80 secondary schools across the island while 200 of them came to NJC four years ago from over 80 primary schools. In each of our six cohorts of students from Junior High One to Senior High Two, our student body is wonderfully diverse, echoing our Singaporean heritage – truly we are the College of the Nation.
 				 
 Today, like generations before them, these NJCians can once again put their arms around each other’s shoulders and sing their hearts out. No masks required. I take delight in knowing that the friendships they are forging will last a lifetime.
-
+				 
 After months of collaborating and volunteering through internet platforms, once again, our students will go forth to learn and serve in-person. They will visit the elderly, teach younger learners, go to hospitals, research centres and more. 
 
 As part of that learning, NJCians need to connect with alumni. That connection is vital to our sense of identity as privileged young people getting ready to serve our nation. Why? Because the NJC alumni are our role models.
@@ -51,7 +51,7 @@ What does it mean to live in these post-COVID times?  What must we ensure that w
 		
 <strong>Reconnect</strong> – Due to the many disruptions and safety restrictions, we have not been able to carry out activities that keep us connected to each other and to the wider community like  College-wide events, VIA, having alumni members back visiting etc.  How might we reconnect with our past (alumni) and our present (wider community)? 
 		
-<strong>Renew</strong> – NJC’s firm belief is that we serve with honour.  How might we renew our commitment to service and to developing ourselves to serve in future? To this end, we need to renew relationships that were forged but may have fallen by the wayside, and renew skills and knowledge which stand the test of time across a range of platforms both traditional and cutting-edge.
+<strong>Renew</strong> – NJC’s firm belief is that we serve with honour.  How might we renew our commitment to service and to developing ourselves to serve in future? To this end, we need to renew relationships that were forged but may have fallen by the wayside. We need to renew both traditional  and cutting-edge skills and knowledge which stand the test of time as we continue to use a range of platforms in our daily lives.
 		
 <strong>Reimagine</strong> – As we create a new future together, imbued with a stronger sense of awareness of the society as a community and a deeper knowledge of globalisation, let’s reimagine what honour means to the College.  Who or what do we honour?  How do we go about doing that?  Let’s have the courage  to not only be open to change and grow but eager to do so. 
 		
@@ -64,7 +64,8 @@ Service with Honour!
 <label for="accordion4"><h5>Reimagining learning and serving</h5></label>
     <div>
 			<h4>College Day Awards </h4>
-			<h5>Student of the Year</h5>
+			<h5 style="margin-block-start:1.5rem;">Student of the Year</h5>
+<i>The National Junior College Student of the Year is the pinnacle of all student awards, recognising all-round excellence in academia, CCA, leadership and service.</i>
 			<b><center>Ng Hwee En, Kim</center></b>
       <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
 			<br>
@@ -79,6 +80,7 @@ The student from 6 years ago could not have grown and changed so substantially a
 Service is essentially about the impact you leave on other individuals, and I have been privileged to have been able to leave an impact on others in my time here. As much as this award commemorates the end of 6 years in NJC, it also marks a new beginning of serving beyond the college in the future.</p>
             </details>
 			<h5>The Lim Kim Woon Award</h5>
+<i>The Lim Kim Woon Award, initiated and structured by a former NJCian in honour of our first Principal, recognises students who exemplify the hallmark characteristics and traits of our motto, Service with Honour.</i>
 			<b><center>Jenelle Lee Jingwen</center></b>
        <img src="https://file.for.edu.sg/college54jenellelee.jpg" class="awardee"> 
 			<br>
@@ -103,58 +105,8 @@ This leads me to my interpretation of our school motto ‘Service With Honour’
 
 I believe we do not need to make grand gestures to serve. Instead, even in small act of kindness - holding the door open, asking your elderly neighbour if she’s had a good lunch, checking in on our friends - we serve others with honour. To each of us, our life is our universe. And by even our smallest acts of kindness, we can add so much to another's world.</p>
             </details>
-			<h5>The NJC@69ers Award</h5>
-			<b><center>Yang Yifan</center></b>
-       <img src="https://file.for.edu.sg/college54yifan.jpg" class="awardee"> 
-			<br>
-			<details>
-						<summary>Read Yifan's reflections</summary>
-<p>The Humanities have always been underappreciated, with its value lost and blanketed by our focus on STEM. We miss its importance, the Humanities’ relevance in nurturing empathy in our everyday selves. During trying times, it is the Humanities that pushes humanity on, through understanding one another’s troubles and sentiments, and reconnecting us to each other like in the pandemic. Despite physical distances that had left us feeling alone, there was a sense of unity and solidarity, helping to reconnect us in novel ways. 
-Offering us a glimpse into the future, the Humanities help us reimagine our landscapes – both concrete and abstract. The hope that the Humanities provide us is essential in building our communities and nations, and even building ourselves up. We see ourselves in others and know we’re not alone or that different from others. With hope, we are able to believe in a better tomorrow, to push for change. Ultimately, the Humanities is for everyone, and we all have the power to shape our future through it. Between our fingers and thumb rests a squat pen, and I urge everyone to dig with it; to reimagine our future, renew, and rewrite the blueprints of our past’s tomorrow.</p>
-            </details>
-			<h5>The Stephen Loh Sports Excellence Award</h5>
-			<b><center>Megan Chua Si Xuan</center></b>
-       <img src="https://file.for.edu.sg/college54meganchua.jpg" class="awardee"> 
-			<br>
-			<details>
-						<summary>Read Megan's reflections</summary>
-<p>I am humbled and honored that my teachers nominated me for this award. It will motivate me to continue to work hard to bring success for the softball team. 
- 
-Being a sportsperson has taught me to incorporate feedback to improve, adapt to different situations and be able to think on my feet. In line with the College Day theme of reconnect, renew and reimagine: as a sportsperson playing in a team, I make sure to reconnect with the team, especially when new members join the team each year. I continually renew my skills in a constant pursuit of honing my skills in the game. As team captain, I make sure to reimagine what success looks like to me as a sportsperson and to my team.
- 
-No matter what curveballs may come my way, I am sure that NJ Softball will continue to swing and never stop believing in our ability to hit those curveballs as they come.</p>
-				</details>
-			<b><center>Wan Shi Ting, Dawn</center></b>
-       <img src="https://file.for.edu.sg/college54dawnwan.jpg" class="awardee"> 
-			<br>
-			<details>
-						<summary>Read Dawn's reflections</summary>
-<p>Being in NJ Basketball CCA over the past six years has been the biggest blessing to me. I have met many individuals who have helped shape me into the sportsman I am today: from coaches and teachers to teammates and seniors, these individuals have shown me the way in putting others before myself, and in caring for the people journeying both behind and alongside me.
- 
-I have come to appreciate how being a sportsman is more than just a tally of wins or even losses. In fact, I will no longer remember the scores as time passes. But what I will remember are the memories ingrained in my heart; of weal (e.g., travelling to Malaysia for training) and woe (e.g., crying together in tough times). These are the memories of NJ Basketball that will truly stick.</p>
-             </details>
-				<h5>The SAC Sports Excellence Award</h5>
-			<b><center>Jovita Lee Jia En</center></b>
-       <img src="https://file.for.edu.sg/college54jovitalee.jpg" class="awardee"> 
-			<br>
-			<details>
-						<summary>Read Jovita's reflections</summary>
-<p>Take the opportunities that are presented to you and don’t be afraid to step out of your comfort zone! We can never know when things like Covid-19 or injuries will put us off the court. So be grateful for the opportunities that come our way and make the best of them. Always put your best foot forward and don’t be afraid to try! Continue dreaming big and chasing your dreams.
-
-Winning this award has only made me more thankful for the things around me, for the support and opportunities NJC has given me. NJC has truly been an amazing place to be a student athlete and a leader who is not afraid to fail and come back stronger.</p>
-							</details>
-			<b><center>Paolo Lim Rui zhe</center></b>
-       <img src="https://file.for.edu.sg/college54paololim.jpg" class="awardee"> 
-			<br>
-			<details>
-						<summary>Read Paolo's reflections</summary>
-<p>Winning this Sports Award has reminded me of the need to reconnect with the pure joy and passion that initially drew me to sports. The long hours of training, the sacrifices, and the perseverance: the moment of victory makes all these worth their while, reigniting my love for basketball.
-
-This award has also inspired me to renew my commitment to basketball. Despite recent success and triumphs on the court, it is important to remain humble and continue to push myself to new heights. After all , complacency is the enemy of progress.
-
-Most importantly, this award has made me realize how basketball is more than just personal achievements. Rather, it’s about the friendships I can make and the enjoyment of the game of basketball. Through basketball, I have met wonderful seniors in NJC who have motivated me to push myself further and enjoy my journey as a sportsperson.</p>
-            </details>
-							<h5>The SAC Arts Excellence Award</h5>
+			<h5>The SAC Arts Excellence Award</h5>
+			<i>The SAC Arts Excellence Award recognises academic excellence in the arts.</i>
 			<b><center>Ng Hwee En, Kim</center></b>
        <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
 			<br>
@@ -177,7 +129,8 @@ Beyond that, they are an exploration and expression of the self. As a writer mys
 
 Looking back, I have come to realise that the greatest value from this Arts adventure is not the academic results gained; rather, it is the skill of thinking more deeply about the world around us. If you are like me and find that the Humanities tug at your heart, I encourage you to pursue this interest further. The journey may not always be smooth-sailing, but it will be worth your while.</p>
             </details>
-				<h5>The SAC Science Excellence Award</h5>
+			<h5>The SAC Science Excellence Award</h5>
+			<i>The SAC Science Excellence Award recognises excellence in the sciences, both in core curricula and in co-curricular scientific endeavours.</i>
 			<b><center>Eunice Ho</center></b>
        <img src="https://file.for.edu.sg/college54euniceho.jpg" class="awardee"> 
 			<br>
@@ -189,8 +142,7 @@ NJC has provided me with numerous opportunities to develop my interest in resear
 
 In Junior College 1, I participated in the H3 research programme where I worked on DNAzyme hybrid catalysts under Dr Liu Zhennan at A*STAR. This rigorous research programme advanced my knowledge in the field of organometallic catalysts. My hard work paid off when I presented my research and won the project of the year award at the ASEAN Student Science Project Competition 2022.
 
-I would like to thank my research mentors, Ms Lee Shan Shan and Ms Lim Wei Li, as well as NJC's research and science departments for providing me with the various opportunities to explore my interest in research. Their guidance and support have been invaluable in my journey towards scientific excellence.</p>
-				</details>
+I would like to thank my research mentors, Ms Lee Shan Shan and Ms Lim Wei Li, as well as NJC's research and science departments for providing me with the various opportunities to explore my interest in research. Their guidance and support have been invaluable in my journey towards scientific excellence.</p></details>
 			<b><center>Jay Tan Jun Jie</center></b>
        <img src="https://file.for.edu.sg/college54jaytan.jpg" class="awardee"> 
 			<br>
@@ -200,7 +152,62 @@ I would like to thank my research mentors, Ms Lee Shan Shan and Ms Lim Wei Li, a
 
 You might wonder then, how did I embark on so many endeavours at once? Well, to be frank, I simply led with my heart. I invite everyone to do as I did and to spend your time in this college reconnecting with yourself, renewing your passions, and reimagining your reality. Find meaning in whatever you do, no matter how distant, and always give your all. The road ahead may not be smooth, but I guarantee that it will definitely be one of the most rewarding and enriching experiences you will have!</p>
             </details>
+				<h5>The SAC Sports Excellence Award</h5>
+			<i>The SAC Sports Excellence Award is the pinnacle sports award, recognising sportsmanship and sporting excellence.</i>
+			<b><center>Jovita Lee Jia En</center></b>
+       <img src="https://file.for.edu.sg/college54jovitalee.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Jovita's reflections</summary>
+<p>Take the opportunities that are presented to you and don’t be afraid to step out of your comfort zone! We can never know when things like Covid-19 or injuries will put us off the court. So be grateful for the opportunities that come our way and make the best of them. Always put your best foot forward and don’t be afraid to try! Continue dreaming big and chasing your dreams.
+
+Winning this award has only made me more thankful for the things around me, for the support and opportunities NJC has given me. NJC has truly been an amazing place to be a student athlete and a leader who is not afraid to fail and come back stronger.</p>
+							</details>
+			<b><center>Paolo Lim Rui zhe</center></b>
+       <img src="https://file.for.edu.sg/college54paololim.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Paolo's reflections</summary>
+<p>Winning this Sports Award has reminded me of the need to reconnect with the pure joy and passion that initially drew me to sports. The long hours of training, the sacrifices, and the perseverance: the moment of victory makes all these worth their while, reigniting my love for basketball.
+
+This award has also inspired me to renew my commitment to basketball. Despite recent success and triumphs on the court, it is important to remain humble and continue to push myself to new heights. After all , complacency is the enemy of progress.
+
+Most importantly, this award has made me realize how basketball is more than just personal achievements. Rather, it’s about the friendships I can make and the enjoyment of the game of basketball. Through basketball, I have met wonderful seniors in NJC who have motivated me to push myself further and enjoy my journey as a sportsperson.</p>
+            </details>
+			<h5>The NJC@69ers Award</h5>
+			<i>The NJC@69ers award, initiated and structured by the first cohort of NJCians, recognises excellence in the arts and humanities, both in core-curricula and co-curricular endeavours.</i>
+			<b><center>Yang Yifan</center></b>
+       <img src="https://file.for.edu.sg/college54yifan.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Yifan's reflections</summary>
+<p>The Humanities have always been underappreciated, with its value lost and blanketed by our focus on STEM. We miss its importance, the Humanities’ relevance in nurturing empathy in our everyday selves. During trying times, it is the Humanities that pushes humanity on, through understanding one another’s troubles and sentiments, and reconnecting us to each other like in the pandemic. Despite physical distances that had left us feeling alone, there was a sense of unity and solidarity, helping to reconnect us in novel ways. 
+Offering us a glimpse into the future, the Humanities help us reimagine our landscapes – both concrete and abstract. The hope that the Humanities provide us is essential in building our communities and nations, and even building ourselves up. We see ourselves in others and know we’re not alone or that different from others. With hope, we are able to believe in a better tomorrow, to push for change. Ultimately, the Humanities is for everyone, and we all have the power to shape our future through it. Between our fingers and thumb rests a squat pen, and I urge everyone to dig with it; to reimagine our future, renew, and rewrite the blueprints of our past’s tomorrow.</p>
+            </details>
+			<h5>The Stephen Loh Sports Excellence Award</h5>
+			<i>The Stephen Loh Sports Excellence Award is the pinnacle sports award, recognising sportsmanship and sporting excellence in Track &amp; Field, Squash and Canoeing.</i>
+			<b><center>Megan Chua Si Xuan</center></b>
+       <img src="https://file.for.edu.sg/college54meganchua.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Megan's reflections</summary>
+<p>I am humbled and honored that my teachers nominated me for this award. It will motivate me to continue to work hard to bring success for the softball team. 
+ 
+Being a sportsperson has taught me to incorporate feedback to improve, adapt to different situations and be able to think on my feet. In line with the College Day theme of reconnect, renew and reimagine: as a sportsperson playing in a team, I make sure to reconnect with the team, especially when new members join the team each year. I continually renew my skills in a constant pursuit of honing my skills in the game. As team captain, I make sure to reimagine what success looks like to me as a sportsperson and to my team.
+ 
+No matter what curveballs may come my way, I am sure that NJ Softball will continue to swing and never stop believing in our ability to hit those curveballs as they come.</p>
+				</details>
+			<b><center>Wan Shi Ting, Dawn</center></b>
+       <img src="https://file.for.edu.sg/college54dawnwan.jpg" class="awardee"> 
+			<br>
+			<details>
+						<summary>Read Dawn's reflections</summary>
+<p>Being in NJ Basketball CCA over the past six years has been the biggest blessing to me. I have met many individuals who have helped shape me into the sportsman I am today: from coaches and teachers to teammates and seniors, these individuals have shown me the way in putting others before myself, and in caring for the people journeying both behind and alongside me.
+ 
+I have come to appreciate how being a sportsman is more than just a tally of wins or even losses. In fact, I will no longer remember the scores as time passes. But what I will remember are the memories ingrained in my heart; of weal (e.g., travelling to Malaysia for training) and woe (e.g., crying together in tough times). These are the memories of NJ Basketball that will truly stick.</p>
+             </details>
 			<h5>The PAACT Aesthetics Excellence Award</h5>
+			<i>The PAACT Aesthetics Excellence Award recognises excellence in the aesthetics.</i>
 			<b><center>Chin Yi Xian</center></b>
        <img src="https://file.for.edu.sg/college54chinyixian.jpg" class="awardee"> 
 			<br>
@@ -220,6 +227,7 @@ When I first joined the CCA through DSA in Junior High 1, I was positively overw
 Having seen our dance team evolve, I believe it will and should continue to grow, adapting to whatever new circumstances we may face. May NJID’s core of passion and love continue to fuel growth!</p>
             </details>
 			<h5>The Yeong Wai Cheong Economics Award</h5>
+			<i>The Yeong Wai Cheong Economics Award recognises NJCians who have displayed resilience and excellence in the pursuit of Economics.</i>
 			<b><center>Nathlyn Wong Kai Ying</center></b>
        <img src="https://file.for.edu.sg/college54nathlynwong.jpg" class="awardee"> 
 			<br>
@@ -363,6 +371,7 @@ I am grateful to the teachers, other remarkable student leaders, and everyone I 
 Be not afraid to reimagine the world, but instead work towards what is best for your community. That is what leadership is all about.</p>
             </details>
 			<h5>The Junior High All-Round Excellence Award</h5>
+			<i>The Junior High All-Round Excellence Award is the pinnacle of all Junior High student awards, recognising all-round excellence in academia, CCA, leadership and service.</i>
 			<b><center>Luo Chang</center></b>
        <img src="https://file.for.edu.sg/college54luochang.jpg" class="awardee"> 
 			<br>
@@ -375,6 +384,7 @@ Now aged 17, I find my call for a purpose answered through my endeavours in scie
 As a reconnected college, we can renew our participation in various opportunities to give back to our communities and bring to life the dream campus we collectively reimagine.</p>
             </details>
 			<h5>The Elizabeth Poey Inspiration and Courage Award</h5>
+				<i>The Elizabeth Poey Inspiration and Courage (EPIC) Award is designed to recognise and celebrate outstanding students, from all academic levels, who have shown the courage and vision to actively advocate for transformational change in Singapore society or in the world. This award is the first team award designed in National Junior College and is the first step towards stimulating a greater adventurous spirit and a “rugged society” mentality in a collaborative manner amongst NJC students.</i>
 			<b><center>Project Artemis</center></b>
 			<details>
 						<summary>Read the members' reflections</summary>
@@ -386,7 +396,6 @@ Additionally, Project Artemis offers an avenue for young students to find new wa
  </details>
 <h4> The NJC Subject Excellence Awards </h4>
  The NJC Subject Excellence Awards recognise NJC graduates based on excellence in each discipline/subject.
-
 <table>
 	<thead>
 		<tr>
@@ -1444,13 +1453,14 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
 </table>
   </details>
 </div>
+<br>
 </li>
 <li>
   <input id="accordion5" type="checkbox">
   <label for="accordion5"><h5>Renewing our commitment to college and country</h5></label>
   <div>
 		<h4>Long Service Awards</h4>
-			<h5>15 Years</h5>
+			<h5 style="margin-block-start:1.5rem;">15 Years</h5>
 			<b><center>Chua Chin Yang</center></b>
       <img src="https://file.for.edu.sg/college54chuachinyang.JPG" class="awardee"> 
 			<br>
@@ -1638,20 +1648,109 @@ I hope that our students can demonstrate resilience in the face of challenges an
   <label for="accordion6"><h5>Reconnecting with our friends and partners</h5></label>
   <div>
   <h4>The NJC Partners' Award</h4>
-
-
-
+<table>
+    <tbody><tr>
+        <td>NJC Partners' Awards (Individual)</td>
+        <td>Ms Jael Tan Haw Kian</td>
+        <td>PAACT (President)</td>
+    </tr>
+    <tr>
+        <td>NJC Partners’ Awards (Individual)</td>
+        <td>Dr Nikolai Yakovlev</td>
+        <td>National University of Singapore (NUS)</td>
+    </tr>
+    <tr>
+        <td>NJC Partners’ Awards (Individual)</td>
+        <td>Dr Ren Yi</td>
+        <td>Institute of Materials Research and Engineering (IMRE), A*STAR</td>
+    </tr>
+    <tr>
+        <td>NJC Partners’ Awards (Organisation)</td>
+        <td>Ms Tan Lin Hui</td>
+        <td>Ministry of Home Affairs</td>
+    </tr>
+    <tr>
+        <td>NJC Partners’ Awards (Organisation)</td>
+        <td>Ms Izzah Sorfina Binte Razali</td>
+        <td>NUS College of Design and Engineering</td>
+    </tr>
+    <tr>
+        <td>NJC Partners’ Awards (Organisation)</td>
+        <td>Mr Loh Peng Leong Joseph</td>
+        <td>Family Central</td>
+    </tr>
+    <tr>
+        <td>NJC Partners’ Awards (Organisation)</td>
+        <td>Mr Tan Guan Ning</td>
+        <td>Bishan Home for the Intellectually Disabled</td>
+    </tr>
+		</tbody></table>
   <h4>The Friends of NJC Award</h4>
-
-
-  </div>
-
+<table>
+    <tbody><tr>
+        <td>Friends of NJC Awards (Individual)</td>
+        <td>Mr Cliff Tham An Ting</td>
+        <td>Singapore Food Agency (SFA)</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Individual)</td>
+        <td>Dr Daren Ler Shan Wen</td>
+        <td>National University of Singapore (NUS)</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Individual)</td>
+        <td>Dr Khoo Eng Huat</td>
+        <td>Institute of Higher Performance Computing (IHPC), A*STAR</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Individual)</td>
+        <td>Dr Derrick Yong</td>
+        <td>Endofotonics</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Individual)</td>
+        <td>Mr Mak Kah Woh Gary</td>
+        <td>PAACT (Vice President)</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Organisation)</td>
+        <td> </td>
+        <td>Singapore Food Agency</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Organisation)</td>
+        <td>Mr Zenn Goh Yu Cheng</td>
+        <td>Singapore University of Technology and Design (SUTD)</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Organisation)</td>
+        <td>Mr Chan Choon Loong (Principal)</td>
+        <td>School of Science and Technology, Singapore</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Organisation)</td>
+        <td>Ms Keziah Teo Xin Ai</td>
+        <td>MINDS (Eunos)</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Organisation)</td>
+        <td>Ms Chloe Ding</td>
+        <td>Team Nila</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Organisation)</td>
+        <td>Mr Chia Zhao Wei</td>
+        <td>Boon Lay Youth Network</td>
+    </tr>
+</tbody></table>
+	</div>
 </li>
 </ul>
 
 <style>
 p, summary {
 	text-align: justify;
+	white-space: pre-wrap;
 	}
 img {
 	max-width:80%;
