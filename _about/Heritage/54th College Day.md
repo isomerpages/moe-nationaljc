@@ -179,7 +179,8 @@ Most importantly, this award has made me realize how basketball is more than jus
 			<br>
 			<details>
 						<summary>Read Yifan's reflections</summary>
-<p>The Humanities have always been underappreciated, with its value lost and blanketed by our focus on STEM. We miss its importance, the Humanities’ relevance in nurturing empathy in our everyday selves. During trying times, it is the Humanities that pushes humanity on, through understanding one another’s troubles and sentiments, and reconnecting us to each other like in the pandemic. Despite physical distances that had left us feeling alone, there was a sense of unity and solidarity, helping to reconnect us in novel ways. 
+<p>The Humanities have always been underappreciated, with its value lost and blanketed by our focus on STEM. We miss its importance, the Humanities’ relevance in nurturing empathy in our everyday selves. During trying times, it is the Humanities that pushes humanity on, through understanding one another’s troubles and sentiments, and reconnecting us to each other like in the pandemic. Despite physical distances that had left us feeling alone, there was a sense of unity and solidarity, helping to reconnect us in novel ways.
+
 Offering us a glimpse into the future, the Humanities help us reimagine our landscapes – both concrete and abstract. The hope that the Humanities provide us is essential in building our communities and nations, and even building ourselves up. We see ourselves in others and know we’re not alone or that different from others. With hope, we are able to believe in a better tomorrow, to push for change. Ultimately, the Humanities is for everyone, and we all have the power to shape our future through it. Between our fingers and thumb rests a squat pen, and I urge everyone to dig with it; to reimagine our future, renew, and rewrite the blueprints of our past’s tomorrow.</p>
             </details>
 			<h5>The Stephen Loh Sports Excellence Award</h5>
@@ -319,7 +320,7 @@ All in all, I greatly appreciate the awards given to me and I would like to than
 			<br>
 			<details>
 						<summary>Read Wai Heng's reflections</summary>
-<p>As a recipient of the Yeong Wai Cheong Economics award, I feel proud to have been recognised for my hard work and dedication towards the subject. Economics has always been a subject close to my heart, and I have consistently put in effort to improve my understanding of it. 
+<p>As a recipient of the Yeong Wai Cheong Economics Award, I feel proud to have been recognised for my hard work and dedication towards the subject. Economics has always been a subject close to my heart, and I have consistently put in effort to improve my understanding of it. 
 
 I remembered failing my first Economics test as it was a very new subject and I was struggling to understand it. Of course, I felt disheartened and discouraged. But I am so grateful and appreciative to have my Economics teacher, Ms Foo, who was constantly there to give me her advice and encouragement and patiently clarified any doubts that I had. Eventually, I saw a huge improvement in my understanding of Economics. 
 
@@ -344,7 +345,7 @@ I am very blessed and honoured to be able to receive these two awards as they ha
 
 Many years later, I may not remember all the Chemistry concepts or Mathematical formulae that I have learnt in NJC. However, I am positive that I will remember the many important lessons on leadership I have learnt. As I watched my teachers and peers, I learnt the importance of leading by example, leading with empathy and leading harmoniously.
 
-A senior once told me, “The more mistakes you make, the more you learn”. Don’t be afraid to take on bigger responsibilities, especially in your schooling life. There will be teachers to guide you and help you up when you fall. Try everything your heart tells you to and if you fail - it’s just	another interesting story to tell at a gathering.</p>
+A senior once told me, “The more mistakes you make, the more you learn”. Don’t be afraid to take on bigger responsibilities, especially in your schooling life. There will be teachers to guide you and help you up when you fall. Try everything your heart tells you to and if you fail - it’s just another interesting story to tell at a gathering.</p>
 				</details>
 			<b><center>Tan Chong Wei Sebastian</center></b>
        <img src="https://file.for.edu.sg/college54sebastiantan.jpg" class="awardee"> 
@@ -1480,16 +1481,16 @@ What do I gain from sharing all my knowledge and experiences? Hopefully the stud
 			<br>
 			<details>
     <summary>I am heartened, in this journey, to have the company of my students as well as my fellow colleagues, as we strive to make the difference in the world and community we live in.</summary>
-<p><q>To teach is to touch the lives of many<br>
-And to help us learn Life's lessons.<br>
-But to teach well is to make a difference<br>
+<p>"To teach is to touch the lives of many
+And to help us learn Life's lessons.
+But to teach well is to make a difference
 In all the lives you touch.
 
-To teach is to be tender, loving,<br>
-strong and giving to all who rely upon you;<br>
-To encourage and praise.<br>
-But to teach well is to believe in what and whom you teach.<br>
-~ Jann Matthew Papin</q>
+To teach is to be tender, loving,
+strong and giving to all who rely upon you;
+To encourage and praise.
+But to teach well is to believe in what and whom you teach."
+~ Jann Matthew Papin
 	
 Even after 15 years in this teaching journey, I am still striving to be able to teach well. The teaching journey, as expected of all journeys in life, is not a straight line forward but is full of ups and downs and sometimes necessary diversions and u-turns. But I am heartened, in this journey, to have the company of my students as well as my fellow colleagues, as we strive to make the difference in the world and community we live in.</p>
   </details>
