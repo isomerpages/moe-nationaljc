@@ -1638,14 +1638,102 @@ I hope that our students can demonstrate resilience in the face of challenges an
   <label for="accordion6"><h5>Reconnecting with our friends and partners</h5></label>
   <div>
   <h4>The NJC Partners' Award</h4>
-
-
-
+<table>
+    <tbody><tr>
+        <td>NJC Partners' Awards (Individual)</td>
+        <td>Ms Jael Tan Haw Kian</td>
+        <td>PAACT (President)</td>
+    </tr>
+    <tr>
+        <td>NJC Partners’ Awards (Individual)</td>
+        <td>Dr Nikolai Yakovlev</td>
+        <td>National University of Singapore (NUS)</td>
+    </tr>
+    <tr>
+        <td>NJC Partners’ Awards (Individual)</td>
+        <td>Dr Ren Yi</td>
+        <td>Institute of Materials Research and Engineering (IMRE), A*STAR</td>
+    </tr>
+    <tr>
+        <td>NJC Partners’ Awards (Organisation)</td>
+        <td>Ms Tan Lin Hui</td>
+        <td>Ministry of Home Affairs</td>
+    </tr>
+    <tr>
+        <td>NJC Partners’ Awards (Organisation)</td>
+        <td>Ms Izzah Sorfina Binte Razali</td>
+        <td>NUS College of Design and Engineering</td>
+    </tr>
+    <tr>
+        <td>NJC Partners’ Awards (Organisation)</td>
+        <td>Mr Loh Peng Leong Joseph</td>
+        <td>Family Central</td>
+    </tr>
+    <tr>
+        <td>NJC Partners’ Awards (Organisation)</td>
+        <td>Mr Tan Guan Ning</td>
+        <td>Bishan Home for the Intellectually Disabled</td>
+    </tr>
+		</tbody></table>
   <h4>The Friends of NJC Award</h4>
-
-
-  </div>
-
+<table>
+    <tbody><tr>
+        <td>Friends of NJC Awards (Individual)</td>
+        <td>Mr Cliff Tham An Ting</td>
+        <td>Singapore Food Agency (SFA)</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Individual)</td>
+        <td>Dr Daren Ler Shan Wen</td>
+        <td>National University of Singapore (NUS)</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Individual)</td>
+        <td>Dr Khoo Eng Huat</td>
+        <td>Institute of Higher Performance Computing (IHPC), A*STAR</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Individual)</td>
+        <td>Dr Derrick Yong</td>
+        <td>Endofotonics</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Individual)</td>
+        <td>Mr Mak Kah Woh Gary</td>
+        <td>PAACT (Vice President)</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Organisation)</td>
+        <td> </td>
+        <td>Singapore Food Agency</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Organisation)</td>
+        <td>Mr Zenn Goh Yu Cheng</td>
+        <td>Singapore University of Technology and Design (SUTD)</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Organisation)</td>
+        <td>Mr Mr Chan Choon Loong (Principal)</td>
+        <td>School of Science and Technology, Singapore</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Organisation)</td>
+        <td>Ms Keziah Teo Xin Ai</td>
+        <td>MINDS (Eunos)</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Organisation)</td>
+        <td>Ms Chloe Ding</td>
+        <td>Team Nila</td>
+    </tr>
+    <tr>
+        <td>Friends of NJC Awards (Organisation)</td>
+        <td>Mr Chia Zhao Wei</td>
+        <td>Boon Lay Youth Network</td>
+    </tr>
+</tbody></table>
+	</div>
 </li>
 </ul>
 
