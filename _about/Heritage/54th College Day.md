@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Heritage
 ---
 <h1>54th College Day</h1>
-<img src="/images/collegedaylogo.jpeg">
+<img src="https://file.for.edu.sg/college54logo.jpg">
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1">Guest of Honour</label> 
+    <label for="accordion1"><h5>Guest of Honour</h5></label> 
     <div>  
 		<center><b>Ms Gan Su Yi</b></center>
       <img src="https://file.for.edu.sg/college54gansuyi.jpg">
@@ -18,7 +18,7 @@ third_nav_title: Heritage
   </li>
 	<li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2">Message from our Principal</label>
+    <label for="accordion2"><h5>Message from our Principal</h5></label>
 		<div>
 			<center><b>Mrs Lucy Toh</b></center>
       <img src="https://file.for.edu.sg/college54mrslucytoh.png">      
@@ -43,7 +43,7 @@ As the youth of the nation, we are called to serve with energy and total dedicat
   </li>
 	<li>
 		<input id="accordion3" type="checkbox">
-			<label for="accordion3">Reconnect ∙ Renew ∙ Reimagine</label>
+			<label for="accordion3"><h5>Reconnect ∙ Renew ∙ Reimagine</h5></label>
 			<div>
 				<p>Three years after the pandemic began, many new phrases have emerged – new-norm, pre-COVID times, zoom from home, HBL – to name a few.   We have acquired new skills for new ways of leading our everyday lives, ranging from teaching and learning to buying food.  We have become technologically-savvy but also technologically-dependent.  We have had to think more deeply and harder about disease and dis-ease.
 				
@@ -61,7 +61,7 @@ Service with Honour!
 </li>
 <li>
 <input id="accordion4" type="checkbox">
-<label for="accordion4">Reimagining learning and serving</label>
+<label for="accordion4"><h5>Reimagining learning and serving</h5></label>
     <div>
 			<h4>College Day Awards </h4>
 			<h5>Student of the Year</h5>
@@ -273,6 +273,8 @@ If you feel stuck, don’t be afraid to reconnect with yourself and reimagine ho
 </p>
             </details>
 						<b><center>Riyas Mohamed Wazir Mohamed</center></b>
+			       <img src="https://file.for.edu.sg/college54wazir.JPG" class="awardee"> 
+			<br>
 			<details>
 						<summary>Read Wazir's reflections</summary>
 <p>Resilience and initiative: these are the two most important values everyone needs for their JC life to be a fulfilling one. When I first entered National Junior College, I was thrown a curveball. The workload was unlike anything I've experienced and it was difficult adapting to a new school environment. Being resilient during the initial uncertainty of Junior College life helped me cope with the rigour of academia and co-curricular activities and requirements. Moreover, realizing that I was not invincible and taking the initiative to seek help when needed propelled me to greater heights.
@@ -294,6 +296,8 @@ I'll be forever grateful to teachers and my classmates for putting up with the e
 <p>Receiving the Yeong Wai Cheong Economics Award is a huge honour. I would like to express my gratitude to all my teachers who have made this possible and believed in me. I am privileged to be a member of this NJ community as everyone from teachers, friends, to non-teaching staff live together as one united family. We all know that Junior College life is stressful as we have many assignments to complete under tight deadlines. However,  I am really grateful to have amazing and encouraging teachers in NJC who will be the first one to lift us when we fall. One should never give up as our teachers will always be there for us to guide us and be the light in our darkness. I hope that everyone will try to reconnect with one another to maintain and to cherish the relationships that we share for a lifetime. Always remember to bring a smile to someone's face and see how beautiful your life will be! Service with honour!</p>
             </details>
 						<b><center>Mohamed Farsat S/O Ansari</center></b>
+			       <img src="https://file.for.edu.sg/college54farsat.JPG" class="awardee"> 
+			<br>
 			<details>
 						<summary>Read Farsat's reflections</summary>
 <p>My experience studying in National Junior College has been a phenomenal one that I would remember for the rest of my life: although my life in NJC has been extremely challenging, it has also been extremely rewarding and exciting. 
@@ -381,111 +385,117 @@ After months of project planning and liaising with the various stakeholders, the
 Additionally, Project Artemis offers an avenue for young students to find new ways to make meaningful use of their time, enabling them to grow as individuals and take action to support future conservation efforts. It is now helmed by Greenlink, who will be liaising with the childcare centres to plan out future sessions, ensuring the sustainability of the project and its continued impact on primary school children.</p>
  </details>
 <h4> The NJC Subject Excellence Awards </h4>
-  The NJC Subject Excellence Awards recognise NJC graduates based on excellence in each discipline/subject.
-			<table>
-    <thead>
-        <tr><td></td>
-        <td></td>
-    </tr></thead>
-		<tbody>
-    <tr>
-        <td>H1 CHINESE</td>
-        <td>FELIX YEW CHENG EN</td>
-    </tr>
-    <tr>
-        <td>H1 GENERAL PAPER</td>
-        <td>NATASHA ALEXANDRA GUNAWAN</td>
-    </tr>
-    <tr>
-        <td>H1 MALAY</td>
-        <td>ARWEN ALYSSA TAN</td>
-    </tr>
-    <tr>
-        <td>H1 TAMIL</td>
-        <td>AJITESH SURESH</td>
-    </tr>
-    <tr>
-        <td>H1 MATHEMATICS</td>
-        <td>ASHLEY LIM EN YUE</td>
-    </tr>
-    <tr>
-        <td>H1 ECONOMICS</td>
-        <td>KOH RUO XIN MARISSA</td>
-    </tr>
-    <tr>
-        <td>H2 GEOGRAPHY</td>
-        <td>AAMIR RAJ M. KIMURA SINGH</td>
-    </tr>
-    <tr>
-        <td>H2 LITERATURE IN ENGLISH</td>
-        <td>NUR DEANNA SIM KHALID</td>
-    </tr>
-    <tr>
-        <td>H2 ART</td>
-        <td>ASHLEY SEAH EN</td>
-    </tr>
-    <tr>
-        <td>H2 KNOWLEDGE &amp; INQUIRY</td>
-        <td>SHANNON LAM SHAN NING</td>
-    </tr>
-    <tr>
-        <td>H2 BIOLOGY</td>
-        <td>EUNICE HO</td>
-    </tr>
-    <tr>
-        <td>H2 MATHEMATICS</td>
-        <td>TIAN JUELIN</td>
-    </tr>
-    <tr>
-        <td>H2 MALAY LANGUAGE AND LITERATURE</td>
-        <td>ELIYAH BATRISYIAH BINTE RAYNI</td>
-    </tr>
-    <tr>
-        <td>H2 ECONOMICS</td>
-        <td>SHANNON LAM SHAN NING</td>
-    </tr>
-    <tr>
-        <td>H2 ENGLISH LANGUAGE AND LINGUISTICS</td>
-        <td>KELLY ANG YI NING</td>
-    </tr>
-    <tr>
-        <td>H2 TAMIL LANGUAGE AND LITERATURE</td>
-        <td>SEVA MANICKAM</td>
-    </tr>
-    <tr>
-        <td>H2 PHYSICS</td>
-        <td>TAN CHEN</td>
-    </tr>
-    <tr>
-        <td>H2 FURTHER MATHEMATICS</td>
-        <td>LU HAOMENG</td>
-    </tr>
-    <tr>
-        <td>H2 HISTORY</td>
-        <td>LI HUI</td>
-    </tr>
-    <tr>
-        <td>H2 CHEMISTRY</td>
-        <td>RAO ZHEHONG</td>
-    </tr>
-    <tr>
-        <td>H2 COMPUTING</td>
-        <td>KAI SATO</td>
-    </tr>
-    <tr>
-        <td>H2 MUSIC</td>
-        <td>NGOH JIN YT</td>
-    </tr>
-    <tr>
-        <td>H2 CHINESE LANGUAGE AND LITERATURE</td>
-        <td>LI HUI</td>
-    </tr>
-			</tbody>
-				<tfoot>
-					<tr><td>
-					</td><td>
-				</td></tr></tfoot>
+ The NJC Subject Excellence Awards recognise NJC graduates based on excellence in each discipline/subject.
+
+<table>
+	<thead>
+		<tr>
+			<td></td>
+			<td></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+				<td>H1 CHINESE</td>
+				<td>FELIX YEW CHENG EN</td>
+		</tr>
+		<tr>
+				<td>H1 GENERAL PAPER</td>
+				<td>NATASHA ALEXANDRA GUNAWAN</td>
+		</tr>
+		<tr>
+				<td>H1 MALAY</td>
+				<td>ARWEN ALYSSA TAN</td>
+		</tr>
+		<tr>
+				<td>H1 TAMIL</td>
+				<td>AJITESH SURESH</td>
+		</tr>
+		<tr>
+				<td>H1 MATHEMATICS</td>
+				<td>ASHLEY LIM EN YUE</td>
+		</tr>
+		<tr>
+				<td>H1 ECONOMICS</td>
+				<td>KOH RUO XIN MARISSA</td>
+		</tr>
+		<tr>
+				<td>H2 GEOGRAPHY</td>
+				<td>AAMIR RAJ M. KIMURA SINGH</td>
+		</tr>
+		<tr>
+				<td>H2 LITERATURE IN ENGLISH</td>
+				<td>NUR DEANNA SIM KHALID</td>
+		</tr>
+		<tr>
+				<td>H2 ART</td>
+				<td>ASHLEY SEAH EN</td>
+		</tr>
+		<tr>
+				<td>H2 KNOWLEDGE &amp; INQUIRY</td>
+				<td>SHANNON LAM SHAN NING</td>
+		</tr>
+		<tr>
+				<td>H2 BIOLOGY</td>
+				<td>EUNICE HO</td>
+		</tr>
+		<tr>
+				<td>H2 MATHEMATICS</td>
+				<td>TIAN JUELIN</td>
+		</tr>
+		<tr>
+				<td>H2 MALAY LANGUAGE AND LITERATURE</td>
+				<td>ELIYAH BATRISYIAH BINTE RAYNI</td>
+		</tr>
+		<tr>
+				<td>H2 ECONOMICS</td>
+				<td>SHANNON LAM SHAN NING</td>
+		</tr>
+		<tr>
+				<td>H2 ENGLISH LANGUAGE AND LINGUISTICS</td>
+				<td>KELLY ANG YI NING</td>
+		</tr>
+		<tr>
+				<td>H2 TAMIL LANGUAGE AND LITERATURE</td>
+				<td>SEVA MANICKAM</td>
+		</tr>
+		<tr>
+				<td>H2 PHYSICS</td>
+				<td>TAN CHEN</td>
+		</tr>
+		<tr>
+				<td>H2 FURTHER MATHEMATICS</td>
+				<td>LU HAOMENG</td>
+		</tr>
+		<tr>
+				<td>H2 HISTORY</td>
+				<td>LI HUI</td>
+		</tr>
+		<tr>
+				<td>H2 CHEMISTRY</td>
+				<td>RAO ZHEHONG</td>
+		</tr>
+		<tr>
+				<td>H2 COMPUTING</td>
+				<td>KAI SATO</td>
+		</tr>
+		<tr>
+				<td>H2 MUSIC</td>
+				<td>NGOH JIN YT</td>
+		</tr>
+		<tr>
+				<td>H2 CHINESE LANGUAGE AND LITERATURE</td>
+				<td>LI HUI</td>
+		</tr>
+	</tbody>
+		<tfoot>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>
+		</tfoot>
 </table>
+			
 <h4> GCE 'A' Level Examinations </h4>
 <img src="https://file.for.edu.sg/college54alevelresults.jpg">
 <p>We congratulate our 485 NJCians who sat for the 2022 GCE A-Level Examinations for their excellent performance. Their results are a testament to their dedication and perseverance.
@@ -1437,7 +1447,7 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
 </li>
 <li>
   <input id="accordion5" type="checkbox">
-  <label for="accordion5">Renewing our commitment to college and country</label>
+  <label for="accordion5"><h5>Renewing our commitment to college and country</h5></label>
   <div>
 		<h4>Long Service Awards</h4>
 			<h5>15 Years</h5>
@@ -1625,7 +1635,7 @@ I hope that our students can demonstrate resilience in the face of challenges an
 </li>
 <li>
   <input id="accordion6" type="checkbox">
-  <label for="accordion6">Reconnecting with our friends and partners</label>
+  <label for="accordion6"><h5>Reconnecting with our friends and partners</h5></label>
   <div>
   <h4>The NJC Partners' Award</h4>
 
@@ -1640,15 +1650,6 @@ I hope that our students can demonstrate resilience in the face of challenges an
 </ul>
 
 <style>
-ul.jekyllcodex_accordion {position: relative; margin: 1.4rem 0!important; border-bottom: 1px solid rgba(0,0,0,0.25); padding-bottom: 0;}
-ul.jekyllcodex_accordion li {border-top: 1px solid rgba(0,0,0,0.25); list-style: none; margin-left: 0;}
-ul.jekyllcodex_accordion li input {display: none;}
-ul.jekyllcodex_accordion li label {display: block; cursor: pointer; padding: 0.75rem 2.4rem 0.75rem 0; margin: 0;}
-ul.jekyllcodex_accordion li div {display: none; padding-bottom: 1.2rem;}
-ul.jekyllcodex_accordion li input:checked + label {font-weight: bold;}
-ul.jekyllcodex_accordion li input:checked + label + div {display: block;}
-ul.jekyllcodex_accordion li label::before {content: "+"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
-ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45deg);}
 p, summary {
 	text-align: justify;
 	}
