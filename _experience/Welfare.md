@@ -30,6 +30,6 @@ Research has shown that having strong parental support will nurture confident ch
 
 For the incoming new students, the transition process is important and they need the support of their parents. Click&nbsp;[here](https://nationaljc.moe.edu.sg/wp-content/uploads/2021/01/Sec1_Tips-slides-for-website.pptx)&nbsp;for more resources in supporting your child’s transition.
 
-Click&nbsp;[here](/files/Helplines-updated-Feb-2021.pdf)&nbsp;for Helplines.
+Click&nbsp;[here](/files/njc-mental-health-resources-list.pdf)&nbsp;for Helplines.
 
 Click&nbsp;[here](/files/NJC-Counselling-appointment.pdf) for Student’s Counselling Appointment.
