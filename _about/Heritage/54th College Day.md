@@ -163,7 +163,7 @@ You might wonder then, how did I embark on so many endeavours at once? Well, to 
 
 Winning this award has only made me more thankful for the things around me, for the support and opportunities NJC has given me. NJC has truly been an amazing place to be a student athlete and a leader who is not afraid to fail and come back stronger.</p>
 							</details>
-			<b><center>Paolo Lim Rui zhe</center></b>
+			<b><center>Paolo Lim Rui Zhe</center></b>
        <img src="https://file.for.edu.sg/college54paololim.jpg" class="awardee"> 
 			<br>
 			<details>
