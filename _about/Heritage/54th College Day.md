@@ -1723,7 +1723,7 @@ I hope that our students can demonstrate resilience in the face of challenges an
     </tr>
     <tr>
         <td>Friends of NJC Awards (Organisation)</td>
-        <td>Mr Mr Chan Choon Loong (Principal)</td>
+        <td>Mr Chan Choon Loong (Principal)</td>
         <td>School of Science and Technology, Singapore</td>
     </tr>
     <tr>
