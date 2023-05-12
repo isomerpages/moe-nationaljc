@@ -112,11 +112,9 @@ I believe we do not need to make grand gestures to serve. Instead, even in small
 			<br>
 			<details>
 						<summary>Read Kim's reflections</summary>
-<p>The arts are fundamentally a study of human connections and relationships, and that has been no exception with my journey as a humanities student in NJC. Through the study of humanities, it’s been a wonderful experience to gain insight into ourselves as human beings. To me, this
-award honours humanity itself, and what we can create. 
+<p>The arts are fundamentally a study of human connections and relationships, and that has been no exception with my journey as a humanities student in NJC. Through the study of humanities, it’s been a wonderful experience to gain insight into ourselves as human beings. To me, this award honours humanity itself, and what we can create.
 	
-Humanities thrive on discourse. They thrive on discussions that prompt us to put on different lenses and attempt to understand that which may initially seem abstract, or even contrasting with our own views. Be it in unpacking communication through linguistics or the structures of our world through economics, my journey as an arts student has honed my ability to connect,
-ironically through disconnection – conflict that prompted deeper introspection and appreciation for differences.
+Humanities thrive on discourse. They thrive on discussions that prompt us to put on different lenses and attempt to understand that which may initially seem abstract, or even contrasting with our own views. Be it in unpacking communication through linguistics or the structures of our world through economics, my journey as an arts student has honed my ability to connect, ironically through disconnection – conflict that prompted deeper introspection and appreciation for differences.
 
 Beyond that, they are an exploration and expression of the self. As a writer myself, there is a salient understanding that beauty is often in the mundane, lying in plain sight. That can also be said for my journey as an arts student. It has truly been a humbling six years of learning and growing alongside my peers; and this award is a celebration of each and every one of us.</p>
 							</details>
@@ -263,7 +261,7 @@ I would like to express my sincere gratitude to my teachers and peers, my consta
 
 The Yeong Cheong Wai Economics Award is a great encouragement and motivation for me to further explore the field of Economics as a possible career option. I would like to express my gratitude to my subject tutor in SH1, Mr Donavan Low, who sparked my interest and passion in Economics. 
 
-# As the father of Macroeconomics John Maynard Keynes once said, “The Master-Economist must study the present in the light of the past for the purposes of the future”. This is the goal that I am working towards.
+As the father of Macroeconomics John Maynard Keynes once said, “The Master-Economist must study the present in the light of the past for the purposes of the future”. This is the goal that I am working towards.
 </p>
             </details>
 						<b><center>Yan Xinling</center></b>
