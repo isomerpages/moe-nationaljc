@@ -64,7 +64,7 @@ Service with Honour!
 <label for="accordion4"><h5>Reimagining learning and serving</h5></label>
     <div>
 			<h4>College Day Awards </h4>
-			<h5 style="margin-block-start:auto;">Student of the Year</h5>
+			<h5 style="margin-block-start:1.5rem;">Student of the Year</h5>
 <i>The National Junior College Student of the Year is the pinnacle of all student awards, recognising all-round excellence in academia, CCA, leadership and service.</i>
 			<b><center>Ng Hwee En, Kim</center></b>
       <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
