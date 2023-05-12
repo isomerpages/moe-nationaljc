@@ -1460,7 +1460,7 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
   <label for="accordion5"><h5>Renewing our commitment to college and country</h5></label>
   <div>
 		<h4>Long Service Awards</h4>
-			<h5 style="margin-block-start:auto;">15 Years</h5>
+			<h5 style="margin-block-start:1.5rem;">15 Years</h5>
 			<b><center>Chua Chin Yang</center></b>
       <img src="https://file.for.edu.sg/college54chuachinyang.JPG" class="awardee"> 
 			<br>
