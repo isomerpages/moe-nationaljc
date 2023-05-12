@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Heritage
 ---
 <h1>54th College Day</h1>
-<img src="/images/collegedaylogo.jpeg">
+<img src="https://file.for.edu.sg/college54logo.jpg">
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
-    <label for="accordion1">Guest of Honour</label> 
+    <label for="accordion1"><h5>Guest of Honour</h5></label> 
     <div>  
 		<center><b>Ms Gan Su Yi</b></center>
       <img src="https://file.for.edu.sg/college54gansuyi.jpg">
@@ -18,7 +18,7 @@ third_nav_title: Heritage
   </li>
 	<li>
     <input id="accordion2" type="checkbox">
-    <label for="accordion2">Message from our Principal</label>
+    <label for="accordion2"><h5>Message from our Principal</h5></label>
 		<div>
 			<center><b>Mrs Lucy Toh</b></center>
       <img src="https://file.for.edu.sg/college54mrslucytoh.png">      
@@ -1658,4 +1658,13 @@ img {
 	max-height:350px;
 	object-fit:contain;
 	}
+	ul.jekyllcodex_accordion {position: relative; margin: 1.4rem 0!important; border-bottom: 1px solid rgba(0,0,0,0.25); padding-bottom: 0;}
+ul.jekyllcodex_accordion li {border-top: 1px solid rgba(0,0,0,0.25); list-style: none; margin-left: 0;}
+ul.jekyllcodex_accordion li input {display: none;}
+ul.jekyllcodex_accordion li label {display: block; cursor: pointer; padding: 0.75rem 2.4rem 0.75rem 0; margin: 0;}
+ul.jekyllcodex_accordion li div {display: none; padding-bottom: 1.2rem;}
+ul.jekyllcodex_accordion li input:checked + label {font-weight: bold;}
+ul.jekyllcodex_accordion li input:checked + label + div {display: block;}
+ul.jekyllcodex_accordion li label::before {content: "+"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
+ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45deg);}
 </style>
