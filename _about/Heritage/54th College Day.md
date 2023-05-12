@@ -1650,9 +1650,6 @@ I hope that our students can demonstrate resilience in the face of challenges an
 </ul>
 
 <style>
-p, summary {
-	text-align: justify;
-	}
 img {
 	max-width:80%;
 	aspect-ratio:4/3;
