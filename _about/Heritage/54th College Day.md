@@ -43,7 +43,7 @@ As the youth of the nation, we are called to serve with energy and total dedicat
   </li>
 	<li>
 		<input id="accordion3" type="checkbox">
-			<label for="accordion3">Reconnect ∙ Renew ∙ Reimagine</label>
+			<label for="accordion3"><h5>Reconnect ∙ Renew ∙ Reimagine</h5></label>
 			<div>
 				<p>Three years after the pandemic began, many new phrases have emerged – new-norm, pre-COVID times, zoom from home, HBL – to name a few.   We have acquired new skills for new ways of leading our everyday lives, ranging from teaching and learning to buying food.  We have become technologically-savvy but also technologically-dependent.  We have had to think more deeply and harder about disease and dis-ease.
 				
@@ -61,7 +61,7 @@ Service with Honour!
 </li>
 <li>
 <input id="accordion4" type="checkbox">
-<label for="accordion4">Reimagining learning and serving</label>
+<label for="accordion4"><h5>Reimagining learning and serving</h5></label>
     <div>
 			<h4>College Day Awards </h4>
 			<h5>Student of the Year</h5>
@@ -273,6 +273,8 @@ If you feel stuck, don’t be afraid to reconnect with yourself and reimagine ho
 </p>
             </details>
 						<b><center>Riyas Mohamed Wazir Mohamed</center></b>
+			       <img src="https://file.for.edu.sg/college54wazir.JPG" class="awardee"> 
+			<br>
 			<details>
 						<summary>Read Wazir's reflections</summary>
 <p>Resilience and initiative: these are the two most important values everyone needs for their JC life to be a fulfilling one. When I first entered National Junior College, I was thrown a curveball. The workload was unlike anything I've experienced and it was difficult adapting to a new school environment. Being resilient during the initial uncertainty of Junior College life helped me cope with the rigour of academia and co-curricular activities and requirements. Moreover, realizing that I was not invincible and taking the initiative to seek help when needed propelled me to greater heights.
@@ -294,6 +296,8 @@ I'll be forever grateful to teachers and my classmates for putting up with the e
 <p>Receiving the Yeong Wai Cheong Economics Award is a huge honour. I would like to express my gratitude to all my teachers who have made this possible and believed in me. I am privileged to be a member of this NJ community as everyone from teachers, friends, to non-teaching staff live together as one united family. We all know that Junior College life is stressful as we have many assignments to complete under tight deadlines. However,  I am really grateful to have amazing and encouraging teachers in NJC who will be the first one to lift us when we fall. One should never give up as our teachers will always be there for us to guide us and be the light in our darkness. I hope that everyone will try to reconnect with one another to maintain and to cherish the relationships that we share for a lifetime. Always remember to bring a smile to someone's face and see how beautiful your life will be! Service with honour!</p>
             </details>
 						<b><center>Mohamed Farsat S/O Ansari</center></b>
+			       <img src="https://file.for.edu.sg/college54farsat.JPG" class="awardee"> 
+			<br>
 			<details>
 						<summary>Read Farsat's reflections</summary>
 <p>My experience studying in National Junior College has been a phenomenal one that I would remember for the rest of my life: although my life in NJC has been extremely challenging, it has also been extremely rewarding and exciting. 
@@ -1443,7 +1447,7 @@ Beyond their academic achievements, we are most proud of their commitment to Ser
 </li>
 <li>
   <input id="accordion5" type="checkbox">
-  <label for="accordion5">Renewing our commitment to college and country</label>
+  <label for="accordion5"><h5>Renewing our commitment to college and country</h5></label>
   <div>
 		<h4>Long Service Awards</h4>
 			<h5>15 Years</h5>
@@ -1631,7 +1635,7 @@ I hope that our students can demonstrate resilience in the face of challenges an
 </li>
 <li>
   <input id="accordion6" type="checkbox">
-  <label for="accordion6">Reconnecting with our friends and partners</label>
+  <label for="accordion6"><h5>Reconnecting with our friends and partners</h5></label>
   <div>
   <h4>The NJC Partners' Award</h4>
 
