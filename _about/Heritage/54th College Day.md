@@ -65,6 +65,7 @@ Service with Honour!
     <div>
 			<h4>College Day Awards </h4>
 			<h5>Student of the Year</h5>
+<i>The National Junior College Student of the Year is the pinnacle of all student awards, recognising all-round excellence in academia, CCA, leadership and service.</i>
 			<b><center>Ng Hwee En, Kim</center></b>
       <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
 			<br>
@@ -79,6 +80,7 @@ The student from 6 years ago could not have grown and changed so substantially a
 Service is essentially about the impact you leave on other individuals, and I have been privileged to have been able to leave an impact on others in my time here. As much as this award commemorates the end of 6 years in NJC, it also marks a new beginning of serving beyond the college in the future.</p>
             </details>
 			<h5>The Lim Kim Woon Award</h5>
+<i>The Lim Kim Woon Award, initiated and structured by a former NJCian in honour of our first Principal, recognises students who exemplify the hallmark characteristics and traits of our motto, Service with Honour.</i>
 			<b><center>Jenelle Lee Jingwen</center></b>
        <img src="https://file.for.edu.sg/college54jenellelee.jpg" class="awardee"> 
 			<br>
@@ -104,6 +106,7 @@ This leads me to my interpretation of our school motto ‘Service With Honour’
 I believe we do not need to make grand gestures to serve. Instead, even in small act of kindness - holding the door open, asking your elderly neighbour if she’s had a good lunch, checking in on our friends - we serve others with honour. To each of us, our life is our universe. And by even our smallest acts of kindness, we can add so much to another's world.</p>
             </details>
 			<h5>The NJC@69ers Award</h5>
+			<p>The NJC@69ers award, initiated and structured by the first cohort of NJCians, recognises excellence in the arts and humanities, both in core-curricula and co-curricular endeavours.</p>
 			<b><center>Yang Yifan</center></b>
        <img src="https://file.for.edu.sg/college54yifan.jpg" class="awardee"> 
 			<br>
@@ -113,6 +116,8 @@ I believe we do not need to make grand gestures to serve. Instead, even in small
 Offering us a glimpse into the future, the Humanities help us reimagine our landscapes – both concrete and abstract. The hope that the Humanities provide us is essential in building our communities and nations, and even building ourselves up. We see ourselves in others and know we’re not alone or that different from others. With hope, we are able to believe in a better tomorrow, to push for change. Ultimately, the Humanities is for everyone, and we all have the power to shape our future through it. Between our fingers and thumb rests a squat pen, and I urge everyone to dig with it; to reimagine our future, renew, and rewrite the blueprints of our past’s tomorrow.</p>
             </details>
 			<h5>The Stephen Loh Sports Excellence Award</h5>
+			<p>The Stephen Loh Sports Excellence Award is the pinnacle sports award, recognising sportsmanship and sporting excellence in Track &amp; Field, Squash and Canoeing.
+</p>
 			<b><center>Megan Chua Si Xuan</center></b>
        <img src="https://file.for.edu.sg/college54meganchua.jpg" class="awardee"> 
 			<br>
@@ -134,6 +139,7 @@ No matter what curveballs may come my way, I am sure that NJ Softball will conti
 I have come to appreciate how being a sportsman is more than just a tally of wins or even losses. In fact, I will no longer remember the scores as time passes. But what I will remember are the memories ingrained in my heart; of weal (e.g., travelling to Malaysia for training) and woe (e.g., crying together in tough times). These are the memories of NJ Basketball that will truly stick.</p>
              </details>
 				<h5>The SAC Sports Excellence Award</h5>
+			<p>The SAC Sports Excellence Award is the pinnacle sports award, recognising sportsmanship and sporting excellence.</p>
 			<b><center>Jovita Lee Jia En</center></b>
        <img src="https://file.for.edu.sg/college54jovitalee.jpg" class="awardee"> 
 			<br>
@@ -154,7 +160,8 @@ This award has also inspired me to renew my commitment to basketball. Despite re
 
 Most importantly, this award has made me realize how basketball is more than just personal achievements. Rather, it’s about the friendships I can make and the enjoyment of the game of basketball. Through basketball, I have met wonderful seniors in NJC who have motivated me to push myself further and enjoy my journey as a sportsperson.</p>
             </details>
-							<h5>The SAC Arts Excellence Award</h5>
+							<div><h5>The SAC Arts Excellence Award</h5>
+			<i>The SAC Arts Excellence Award recognises academic excellence in the arts.</i></div>
 			<b><center>Ng Hwee En, Kim</center></b>
        <img src="https://file.for.edu.sg/college54kim.jpg" class="awardee"> 
 			<br>
