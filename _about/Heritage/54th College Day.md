@@ -25,7 +25,7 @@ third_nav_title: Heritage
 			 <p>As I write this Foreword, half of Senior High One are experiencing six nights in our Boarding School. The other half did so in the last week of Term One. 300 of them hail from over 80 secondary schools across the island while 200 of them came to NJC four years ago from over 80 primary schools. In each of our six cohorts of students from Junior High One to Senior High Two, our student body is wonderfully diverse, echoing our Singaporean heritage – truly we are the College of the Nation.
 				 
 Today, like generations before them, these NJCians can once again put their arms around each other’s shoulders and sing their hearts out. No masks required. I take delight in knowing that the friendships they are forging will last a lifetime.
-
+				 
 After months of collaborating and volunteering through internet platforms, once again, our students will go forth to learn and serve in-person. They will visit the elderly, teach younger learners, go to hospitals, research centres and more. 
 
 As part of that learning, NJCians need to connect with alumni. That connection is vital to our sense of identity as privileged young people getting ready to serve our nation. Why? Because the NJC alumni are our role models.
@@ -1652,6 +1652,7 @@ I hope that our students can demonstrate resilience in the face of challenges an
 <style>
 p, summary {
 	text-align: justify;
+	white-space: pre-wrap;
 	}
 img {
 	max-width:80%;
