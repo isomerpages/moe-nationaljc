@@ -51,7 +51,7 @@ What does it mean to live in these post-COVID times?  What must we ensure that w
 		
 <strong>Reconnect</strong> – Due to the many disruptions and safety restrictions, we have not been able to carry out activities that keep us connected to each other and to the wider community like  College-wide events, VIA, having alumni members back visiting etc.  How might we reconnect with our past (alumni) and our present (wider community)? 
 		
-<strong>Renew</strong> – NJC’s firm belief is that we serve with honour.  How might we renew our commitment to service and to developing ourselves to serve in future? To this end, we need to renew relationships that were forged but may have fallen by the wayside, and renew skills and knowledge which stand the test of time across a range of platforms both traditional and cutting-edge.
+<strong>Renew</strong> – NJC’s firm belief is that we serve with honour.  How might we renew our commitment to service and to developing ourselves to serve in future? To this end, we need to renew relationships that were forged but may have fallen by the wayside. We need to renew both traditional  and cutting-edge skills and knowledge which stand the test of time as we continue to use range of platforms in our daily lives.
 		
 <strong>Reimagine</strong> – As we create a new future together, imbued with a stronger sense of awareness of the society as a community and a deeper knowledge of globalisation, let’s reimagine what honour means to the College.  Who or what do we honour?  How do we go about doing that?  Let’s have the courage  to not only be open to change and grow but eager to do so. 
 		
