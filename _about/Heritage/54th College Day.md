@@ -381,7 +381,7 @@ After months of project planning and liaising with the various stakeholders, the
 Additionally, Project Artemis offers an avenue for young students to find new ways to make meaningful use of their time, enabling them to grow as individuals and take action to support future conservation efforts. It is now helmed by Greenlink, who will be liaising with the childcare centres to plan out future sessions, ensuring the sustainability of the project and its continued impact on primary school children.</p>
  </details>
 <h4> The NJC Subject Excellence Awards </h4>
-  The NJC Subject Excellence Awards recognise NJC graduates based on excellence in each discipline/subject.
+  <h3>The NJC Subject Excellence Awards recognise NJC graduates based on excellence in each discipline/subject.</h3>
 
 <table>
 	<thead>
