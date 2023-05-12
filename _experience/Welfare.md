@@ -32,4 +32,5 @@ For the incoming new students, the transition process is important and they need
 
 Click&nbsp;[here](/files/njc-mental-health-resources-list.pdf)&nbsp;for Helplines.
 
-Click&nbsp;[here](/files/njc counselling appointment poster qr code.pdf) for Student’s Counselling Appointment.
+Click [here](/files/njc%20counselling%20appointment%20poster%20qr%20code.pdf) for Student's Counselling Appointment.
+
