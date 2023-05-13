@@ -1,5 +1,5 @@
 title: National Junior College
-url: ""
+url: https://www.nationaljc.moe.edu.sg
 favicon: /images/njcfavlogo.png
 colors:
   primary-color: "#fa1717"
@@ -57,3 +57,4 @@ is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
