@@ -13,7 +13,7 @@ locations:
         time: 8.30am - 5.30pm
         description: Closed on Public Holidays
     maps_link: ""
-    title: Contact
+    title: College Address
 contacts:
   - content:
       - phone: +65 6466 1144
