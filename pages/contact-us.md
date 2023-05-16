@@ -17,7 +17,22 @@ locations:
 contacts:
   - content:
       - phone: +65 6466 1144
+      - email: ""
+      - other: ""
+    title: General Office Tel
+  - content:
+      - phone: ""
       - email: njc@moe.edu.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: Email
+  - content:
+      - phone: ""
+      - email: ""
+      - other: 67, 74, 151, 154, 156, 174, 852, 961
+    title: Bus Services
+  - content:
+      - phone: ""
+      - email: ""
+      - other: Tan Kah Kee (Downtown Line)
+    title: Nearest MRT Station
 ---
