@@ -15,6 +15,11 @@ sections:
           description: ""
           url: resources/news/
       background: /images/2023 open house four ip njc moh banner website (1)(1).png
+  - infobar:
+      title: Programme Highlights
+      subtitle: 20 May Open House
+      button: Click here
+      url: https://for.edu.sg/2023njcpublicitypamphlet
   - infopic:
       title: SISTEMIC 2023
       description: A six-day summit packed with talks, tours, activities, and workshops!
