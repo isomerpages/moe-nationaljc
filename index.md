@@ -55,4 +55,9 @@ sections:
       url: /voices
       image: /images/reflection1.png
       alt: Reflection
+  - infobar:
+      title: Programme Highlights
+      subtitle: 20 May Open House
+      button: Click here
+      url: https://for.edu.sg/2023njcpublicitypamphlet
 ---
