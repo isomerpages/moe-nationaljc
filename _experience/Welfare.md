@@ -28,9 +28,6 @@ Counselling is a collaborative therapeutic relationship which allows the student
 
 Research has shown that having strong parental support will nurture confident children. In NJC, we work in partnership with the parents to further support students in their socio and emotional wellbeing. Hence, it is crucial for parents to be involved in the students’ journey.
 
-For the incoming new students, the transition process is important and they need the support of their parents. Click&nbsp;[here](https://nationaljc.moe.edu.sg/wp-content/uploads/2021/01/Sec1_Tips-slides-for-website.pptx)&nbsp;for more resources in supporting your child’s transition.
-
-Click&nbsp;[here](/files/njc-mental-health-resources-list.pdf)&nbsp;for Helplines.
+For the incoming new students, the transition process is important and they need the support of their parents. Click [here](https://for.edu.sg/njcmentalhealthresourceslist) for more resources in supporting your child’s transition.
 
 Click [here](/files/njc%20counselling%20appointment%20poster%20qr%20code.pdf) for Student's Counselling Appointment.
-
