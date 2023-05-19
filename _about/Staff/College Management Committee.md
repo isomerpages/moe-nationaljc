@@ -12,4 +12,4 @@ third_nav_title: Staff
 
 <img src="/images/cm7.png" style="width:80%">
 		 
-<img src="/images/cmc4image.png" style="width:87%">
+<img src="/images/cmc6images.png" style="width:20%">
