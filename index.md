@@ -14,7 +14,7 @@ sections:
         - title: News
           description: ""
           url: resources/news/
-      background: /images/2023 open house four ip njc moh banner website (1)(1).png
+      background: /images/assembly at parade square (again).jpg
   - infopic:
       title: SISTEMIC 2023
       description: A six-day summit packed with talks, tours, activities, and workshops!
