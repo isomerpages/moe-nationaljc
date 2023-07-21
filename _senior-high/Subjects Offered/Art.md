@@ -4,72 +4,26 @@ permalink: /art-elective-programme/permalink/
 description: ""
 third_nav_title: Subjects Offered
 ---
-### Art Elective Programme
+### Senior High AEP
 
-![](/images/niche1.png)
+<img src="/images/aep1.png" style="width:80%">
 
-**Creatives of Tomorrow:  
-Care to Dream, Dare to Make**
+*Insert video here.*
 
-**This is the mission of the National Junior College Art Elective Programme (AEP@NJC).**  
-**AEP@NJC strives to nurture and develop passion, for those who wish to make a change in our future world.**
+Students from the AEP in Junior High may continue to offer&nbsp;[H2 Art](/files/aep1.pdf)&nbsp;at Senior High, leading to the GCE ‘A’ Level Examination, subject to pre-requisites in overall academic performance and learning dispositions. In H2 Art, students undergo a rigorous curriculum that develops their ability to make connections with different ideas, experiment with different materials and processes. project management and investigative learning through Studio Practice and Study of Visual Arts (SOVA). There will be many opportunities for authentic, experiential and collaborative learning as part of the SH Art learning experience.
 
-Established in 1985, the National Junior College Art Elective Programme champions creativity and innovation in artistic making and critical thinking. Students of this Programme follow a dynamic curriculum that has been developed and is constantly evolving, to remain aligned with the industry practices of the real world. Through a carefully designed six-year scheme of work, students embark on learning experiences that are anchored by phenomenon-based themes, essential questions and levels of innovation. These learning outcomes are mapped out for each year in the Developmental Levels of Study (see chart below).
+At the end of SH1, H2 Art students are also offered the opportunity to take H3 Art. The&nbsp;[H3 Theory of Art syllabus](/files/aep2.pdf)&nbsp;equips and deepens students’ skills for critical thinking and expounds the discourse of issues surrounding contemporary society, both within and outside of the Art world. Students who display a keen interest to deepen their art pursuit and have met the necessary prerequisites set by the school are strongly recommended to take up the subject to maximise their potential in the subject. Students may approach any of the art tutors if they have any queries.
 
-Across all years of study from Junior High 1 to Senior High 2, students are also nurtured to build the competencies of critical thought and effective communication. In addition to the practical hands-on components of making, visual literacy is a core component of the Programme. This is enhanced with the learning experiences of reflective and responsive art writing, in-depth study of visual cultures, and critical discourse through discussions and debate.
+**Non-AEP students who would like to opt for Art may also apply for the subject at H2 level. They will be required to sit for a qualifying test, submit a portfolio and undergo an interview as part of the selection process. Interested students may approach any of the art tutors to find out more.**
 
-Moreover, student outcomes of learning are assessed thoughtfully through a variety of modes in the areas of craft, concept and connection, both formatively and authentically. Project submissions, work proposals, open presentations, authentic showcases, real-world applications, and industry exposure are but a few of the key milestones that punctuate the six-year learning journey in the NJC Art Elective Programme.
-
-**Why choose AEP@NJC?**  
-Graduates of our Programme excel in:
-
-**•**&nbsp;Embracing multiple perspectives and interpretations  
-• Generating original solutions and possibilities for problem solving  
-• Overcoming obstacles and tackling complex challenges  
-• Innovating with new materials and processes  
-• Risk-taking to chart new milestones
-
-**DEVELOPMENTAL LEVELS OF STUDY**
-
-![](/images/niche2.png)
-
-**1) Studio Practice**  
-•Elegant task-based challenges, self-directed idea generation with guided autonomy, principle-based exercises.  
-•Visual journaling, gathering &amp; research, material exploration, process experimentation, aesthetic troubleshooting, and problem-solving.  
-•Exhibition &amp; showcase, curation, and presentations
-
-**2) Visual Cultures and Literacy**  
-•In-depth investigation into art history and visual cultures  
-•Disciplinary literacy in academic art writing, based on observation, critique and discourse.
-
-**3) Authentic and Experiential Learning**  
-•Masterclasses and conversations with professional artists/ arts practitioners  
-•Visits to professional artist studios and working spaces  
-•Participation in industry-based events and competitions  
-•Learning journeys to exhibitions in museums and galleries  
-•Visits to other schools showcasing works by Art students
-
-**4)NETWORKING WITH THE WIDER CREATIVE FRATERNITY**  
-AEP students are part of a wider AEP fraternity, comprising 7 secondary schools and 3 junior colleges. Throughout the year, AEP students gather together for combined activities and workshops.
-
-These include:  
-•Secondary 1 Inter-School AEP Workshop  
-•Secondary 3 Inter-School AEP Workshop, in partnership with Art, Design &amp; Media Faculty, Nanyang Technological University  
-•JC1 Baby Tropical Lab, co-organised by MOE &amp; LaSalle College of the Arts
-
-In addition, AEP@NJC also explores and maintains collaborations with institutes of higher learning (IHLs) such as Nanyang Polytechnic (NYP) and Nanyang Technological University (NTU), and also various professional industry partners to provide up-to-date learning exposure for our students.
+_
 
 **Visit our SH2 AEP Graduation show!**  
 [Class of 2019](https://njartgradshow2020.wordpress.com/)  
-[Class of 2020](https://sh2aep2020.wixsite.com/my-site)
+[Class of 2020](https://sh2aep2020.wixsite.com/my-site)  
+[Class of 2021](https://njcgradshow2022.wixsite.com/eexhibition)
 
-**For more information on AEP@NJC, click&nbsp;[here](https://nationaljc.moe.edu.sg/micrositestandard/sh-aep/)**
+**For more information on AEP@NJC contact us at&nbsp;[njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
 
-**For external Secondary School students looking for details on AEP Centre, click&nbsp;[here](https://nationaljc.moe.edu.sg/micrositestandard/aep-centre-njc/)**
-
-**Contact us at&nbsp;[njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
-
-**Keep up to date with the latest happenings in AEP@NJC:**  
-Follow us!&nbsp;[https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)
-
-<img src="/images/niche3.png" style="width:20%">
+Or Keep up to date with the latest happenings in AEP@NJC:
+**Follow us!&nbsp;[https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)**
