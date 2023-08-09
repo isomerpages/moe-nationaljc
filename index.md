@@ -16,7 +16,6 @@ sections:
           url: resources/news/
   - infobar:
       title: NJC-CVAHS Twinning Exchange Programme
-      subtitle: .
       button: Learn more here
       url: /permalink/njccvahs2023/
   - infopic:
