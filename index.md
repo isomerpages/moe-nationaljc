@@ -14,6 +14,11 @@ sections:
         - title: News
           description: ""
           url: resources/news/
+  - infobar:
+      title: NJC-CVAHS Twinning Exchange Programme
+      subtitle: Infobar Subtitle
+      button: Learn more here
+      url: /permalink/NJC-CVAHAS2023/
   - infopic:
       title: SISTEMIC 2023
       description: A six-day summit packed with talks, tours, activities, and workshops!
