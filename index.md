@@ -14,7 +14,6 @@ sections:
         - title: News
           description: ""
           url: resources/news/
-      background: /images/assembly at parade square (again).jpg
   - infopic:
       title: SISTEMIC 2023
       description: A six-day summit packed with talks, tours, activities, and workshops!
