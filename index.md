@@ -14,7 +14,7 @@ sections:
         - title: News
           description: ""
           url: resources/news/
-      background: /images/ndp @ njc 8 aug 2023.jpeg
+      background: /images/ndp @ njc2.jpeg
   - infobar:
       title: NJC-CVAHS Twinning Exchange Programme
       button: Learn more here
