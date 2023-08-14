@@ -56,7 +56,7 @@ _All students who have received a letter from MOE stating that they are eligible
 
 _However, a child can qualify for NJC without having to qualify to read Higher Mother Tongue. Arrangements will be made to support his/her learning of Mother Tongue at the appropriate level._
 
-_Student has to obtain at least a ‘C’ grade if he/she is to continue reading Higher Mother Tongue in JH3 and JH4. Students who read Higher Chinese but wish to change to Express CL may do so at the end of JH2._&nbsp;&nbsp;
+_Student has to obtain at least a ‘C’ grade if he/she is to continue reading Higher Mother Tongue in JH3 and JH4. Students who read Higher Chinese but wish to change to G3 CL may do so at the end of JH2._&nbsp;&nbsp;
 
 **Is Higher Mother Tongue O-level Examination to be taken in JH4?**
 
@@ -156,7 +156,7 @@ _There is no quota for the number of DSA places set aside for any one talent are
 
 **What is the PSLE score requirement for a student accepted via DSA?**&nbsp;
 
-_As long as the student meets the PSLE cut-off for Express stream as set by MOE (i.e. AL 20), the student can be admitted to NJC if a confirmed offer has been given._&nbsp;
+_As long as the student meets the PSLE cut-off for Posting Group 3 as set by MOE (i.e. AL 22), the student can be admitted to NJC via DSA._&nbsp;
 
 **If my child is unable to cope with or loses interest in the talent area, can he/she stop participating in that area and/or opt to pursue another area of interest instead?**
 
@@ -172,7 +172,7 @@ _Students who are successfully admitted via the DSA are expected to honour their
 
 _All successful applicants will be informed of the outcome — Confirmed Offer, Waiting List, or Unsuccessful — by 11 Sep 2023._
 
-_Students given a Confirmed Offer are guaranteed a place in the school, provided that they accept the offer via the DSA-Sec Portal between 23 Oct – 27 Oct 2023, and qualify for the Express stream based on their PSLE results._
+_Students given a Confirmed Offer are guaranteed a place in the school, provided that they accept the offer via the DSA-Sec Portal between 23 Oct – 27 Oct 2023, and qualify for Posting Group 3 based on their PSLE results._
 
 **If I am unsuccessful under the DSA, how else can I gain admission to NJC?**&nbsp;
 
