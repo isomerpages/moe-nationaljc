@@ -14,7 +14,7 @@ sections:
         - title: News
           description: ""
           url: resources/news/
-      background: /images/ndp @ njc 3.jpeg
+      background: /images/ndp @ njc 169.png
   - infobar:
       title: Results of Moot Parliament Programme Debates 2023
       button: Read More
