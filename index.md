@@ -59,4 +59,9 @@ sections:
       url: /voices
       image: /images/reflection1.png
       alt: Reflection
+  - infobar:
+      title: Results of Moot Parliament Programme Debates 2023
+      description: Infobar description
+      button: Read More
+      url: /permalink/mootdebates2023
 ---
