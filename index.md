@@ -16,6 +16,10 @@ sections:
           url: resources/news/
       background: /images/ndp @ njc 3.jpeg
   - infobar:
+      title: Results of Moot Parliament Programme Debates 2023
+      button: Read More
+      url: /permalink/mootdebates2023
+  - infobar:
       title: NJC-CVAHS Twinning Exchange Programme
       button: Learn more here
       url: /permalink/njccvahs2023/
@@ -59,9 +63,4 @@ sections:
       url: /voices
       image: /images/reflection1.png
       alt: Reflection
-  - infobar:
-      title: Results of Moot Parliament Programme Debates 2023
-      description: Infobar description
-      button: Read More
-      url: /permalink/mootdebates2023
 ---
