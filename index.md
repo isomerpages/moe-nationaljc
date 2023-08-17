@@ -21,7 +21,7 @@ sections:
       url: /permalink/mootdebates2023
   - infobar:
       title: NJC-CVAHS Twinning Exchange Programme
-      button: Learn more here
+      button: Read More
       url: /permalink/njccvahs2023/
   - infopic:
       title: SISTEMIC 2023
