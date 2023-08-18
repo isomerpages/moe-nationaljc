@@ -14,7 +14,7 @@ sections:
         - title: News
           description: ""
           url: resources/news/
-      background: /images/ndp @ njc 18 aug.png
+      background: /images/assembly at parade square (again).jpg
   - infobar:
       title: Results of Moot Parliament Programme Debates 2023
       button: Read More
