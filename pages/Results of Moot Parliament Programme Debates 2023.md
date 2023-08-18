@@ -18,5 +18,3 @@ NJC Team 8 was also awarded the Best Opposition Team and the Best Overall Debate
 Congratulations to both the teams for their very strong work ethics and positive learning attitude.&nbsp;
 
 We would like to extend our sincere appreciation to all the help and support given by the GE Branch in the form of workshops, symposiums, and a wide and enriching learning experience, and the expert and student mentors who were unstintingly generous with their time and expertise.
-
-
