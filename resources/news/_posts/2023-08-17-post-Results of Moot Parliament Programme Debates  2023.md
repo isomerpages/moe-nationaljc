@@ -7,6 +7,8 @@ description: ""
 image: ""
 ---
 The Moot Parliament Programme is organised&nbsp;by the Gifted Education Branch, Ministry of Education.&nbsp; The <a href="https://www.facebook.com/nationaljc/posts/718293383643815"> two teams </a>worked closely with their expert and student mentors from March to July 2023 to craft bills on issues close to their hearts.
+
+![](/images/moot%20parliament%202023%20w%20teachers.jpg)
   
 The Bill submitted by NJC Team 8 was&nbsp;"Coercive Control in Spousal Relations Bill 2023". The team comprised: Isabelle Ang En Yi, Jeong Siyeon, Liu Yihui, Valentina Tan Teng Xuan from JH402 and Koh Hui Yee from JH405
   
