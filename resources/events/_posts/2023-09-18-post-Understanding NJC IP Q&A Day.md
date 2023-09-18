@@ -11,12 +11,13 @@ Time: Anytime between 9am-12pm
 Venue: NJC Campus   
 Target Audience: P6 students and parents 
 
-**Programme Outline:**  
-10.00-10.30am Teachers’ Panel  
-10.30-11.00am Principal’s Engagement with Parents  
-11.00-11.30am Student Panel 1  
-11.30am-12.00pm Student Panel 2
+**Programme**  
+9-10am School Tour   
+10-11am Principal's Address and Teachers' Q&A Session   
+11am-12pm School Tour 
 
-This year, our principal, Mr Ang, would like to invite you to engage in a discussion with him. Please click on this link to start your engagement session: [https://www.menti.com/53bd87b6](https://www.menti.com/53bd87b6)
 
-Mr Ang will be addressing your responses and queries on 20 November at 10.30am! Tune in to our [NJC Facebook](https://www.facebook.com/nationaljc/) or [NJC Youtube](https://www.youtube.com/channel/UCgF6BtaHoSmqnYiXVMcOtsw?reload=9) for Mr Ang’s livestream session.
+Pop by NJC on 18th November 2023 if you'd like to find out more about our IP curriculum and opportunities offered! 
+No sign-up required. 
+Please register at the NJC atrium upon arrival. See you soon!
+
