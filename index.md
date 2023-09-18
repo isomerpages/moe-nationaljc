@@ -68,6 +68,6 @@ sections:
       subtitle: Add an image and text
       id: infopic
       button: Button Text
-      image: /images/2023 njc november qna website banner.jpeg
+      image: /images/2023 njc november qna prog outline 2.jpeg
       alt: Image alt text
 ---
