@@ -16,12 +16,12 @@ sections:
           url: resources/news/
       background: /images/assembly at parade square (again).jpg
   - infobar:
-      title: "Understanding NJC IP Nov Q&A Day "
+      title: Understanding NJC IP Nov Q&A Day
       id: infobar
-      description: "Pop by NJC on 18th November 2023.  No sign-up is required. Please
-        register at the NJC atrium upon arrival. See you soon! "
+      description: Pop by NJC on 18th November 2023.  No sign-up is required. Please
+        register at the NJC atrium upon arrival. See you soon!
       button: Find out more
-      url: /permalink/IPQnANov2023
+      url: /permalink/ipqnanov2023
   - infobar:
       title: Results of Moot Parliament Programme Debates 2023
       button: Read More
