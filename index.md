@@ -63,4 +63,11 @@ sections:
       url: /voices
       image: /images/reflection1.png
       alt: Reflection
+  - infopic:
+      title: Understanding NJC IP Nov Q&A Day
+      subtitle: Add an image and text
+      id: infopic
+      button: Button Text
+      image: /images/2023 njc november qna website banner.jpeg
+      alt: Image alt text
 ---
