@@ -24,7 +24,7 @@ sections:
       alt: Image alt text
       description: Pop by NJC on 18th November 2023.  No sign-up is required. Please
         register at the NJC atrium upon arrival. See you soon!
-      url: https://www.nationaljc.moe.edu.sg/resources/events/permalink/ipqnanov2023/
+      url: https://www.nationaljc.moe.edu.sg/permalink/ipqnanov2023/
   - infobar:
       title: Results of Moot Parliament Programme Debates 2023
       button: Read More
