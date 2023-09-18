@@ -4,7 +4,6 @@ permalink: /permalink/ipqnanov2023/
 description: ""
 image: ""
 ---
-
 **Understanding NJC IP Nov Q&A Day** 
 
 Date: 18 November 2023 (Saturday) 
