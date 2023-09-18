@@ -14,7 +14,7 @@ sections:
         - title: News
           description: ""
           url: resources/news/
-      background: /images/2023 njc november qna website banner (1).jpeg
+      background: /images/assembly at parade square (again).jpg
   - infopic:
       title: Understanding NJC IP Nov Q&A Day
       subtitle: Add an image and text
