@@ -70,4 +70,6 @@ sections:
       button: Button Text
       image: /images/2023 njc november qna prog outline 2.jpeg
       alt: Image alt text
+      description: Pop by NJC on 18th November 2023.  No sign-up is required. Please
+        register at the NJC atrium upon arrival. See you soon!
 ---
