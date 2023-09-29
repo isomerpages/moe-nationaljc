@@ -14,7 +14,7 @@ sections:
         - title: News
           description: ""
           url: resources/news/
-      background: /images/29 sept 2023 njc november qna website banner (1).png
+      background: /images/5 2023 njc november qna website banner resized.jpg
   - infopic:
       title: Understanding NJC IP Nov Q&A Day
       subtitle: Add an image and text
