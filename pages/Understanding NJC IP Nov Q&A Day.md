@@ -5,11 +5,8 @@ description: ""
 image: ""
 ---
 **Understanding NJC IP Nov Q&A Day** 
-
 Date: 18 November 2023 (Saturday) 
-
 Time: Anytime between 9am-12pm 
-
 Venue: NJC Campus 
 
 Target Audience: P6 students and parents   
