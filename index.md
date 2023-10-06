@@ -14,7 +14,15 @@ sections:
         - title: News
           description: ""
           url: resources/news/
-      background: /images/assembly at parade square (again).jpg
+      background: /images/shrunk2023 njc november qna website banner resized.png
+  - infopic:
+      title: Understanding NJC IP Nov Q&A Day
+      subtitle: Add an image and text
+      id: infopic
+      image: /images/2023 njc november qna prog outline 2.jpeg
+      alt: Image alt text
+      description: Pop by NJC on 18th November 2023.  No sign-up is required. Please
+        register at the NJC atrium upon arrival. See you soon!
   - infobar:
       title: Results of Moot Parliament Programme Debates 2023
       button: Read More
