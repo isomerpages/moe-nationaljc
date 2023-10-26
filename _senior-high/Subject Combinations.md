@@ -50,13 +50,10 @@ Admission to universities is determined by discipline-specific pre-requisites an
 
 
 Here are the subject combinations offered in National Junior College, displayed in text.
-
-<img src="/images/subcom9.png" style="width:70%">
-
-<img src="/images/subcom10.png" style="width:70%">
-
-<img src="/images/subcom11.png" style="width:70%">
-For AY 2023,&nbsp;**all qualifying tests**&nbsp;will be administered on&nbsp;**06 February between 8am to 12pm**. Please note that there will be&nbsp;**NO**&nbsp;make up qualifying test/re-test after 06 February.
+![](/images/SH%20Subject%20Combination/arts%20combi.png)
+![](/images/SH%20Subject%20Combination/sci%20combi%201.png)
+![](/images/SH%20Subject%20Combination/sci%20combi%202.png)
+For AY 2024,&nbsp;**all qualifying tests**&nbsp;will be administered on&nbsp;**05 February**. Please note that there will be&nbsp;**NO**&nbsp;make up qualifying test/re-test after 05 February.
 
 **Career Diagnostic Quiz**
 
