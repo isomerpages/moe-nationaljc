@@ -47,7 +47,7 @@ Admission to universities is determined by discipline-specific pre-requisites an
 
 **Pre-requisites for Specific Subjects in NJC**
 
-<img src="/images/subcom8.png" style="width:70%">
+
 
 Here are the subject combinations offered in National Junior College, displayed in text.
 
