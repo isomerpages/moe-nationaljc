@@ -21,14 +21,15 @@ Admission to universities is determined by discipline-specific pre-requisites an
 \# The curriculum time for H1 subjects is approximately half that of H2 subjects., e.g. H1 Economics runs for 2 hours a week or approximately 100 hours for 2 years and H2 Economics runs for 4 hours a week or approximately 200 hours for 2 years.
 
 1.  Students may select subjects at three different levels of study: Higher 1 (H1), Higher 2 (H2) and Higher 3 (H3). A student may not offer the same subject at both H1 and H2.
-2.  Every student will offer a combination of H1 / H2 / H3 subjects + MTL. The number of academic units computed is: Minimum (Norm): 9 + 1 (H1 MTL), Maximum: 11 + 1 (H1 MTL)
-3.  All students must take Mother Tongue (MTL) at H1 unless they have obtained a minimum of D7 for Higher MTL at ‘O’ Level, in which case, they need not take H1 MTL and may use their ‘O’ Level HMTL results for university admission score computation with rebasing. However, the H1 MTL unit cannot be replaced by another content unit (except for students who offer H2 MTLL in lieu of H1 MTL).
-4.  Students who select H2 Mother Tongue Language and Literature (MTLL) in lieu of H1 MTL will not have any H1 MTL component in the computation of units for admission to local universities. However, the maximum number of academic units that they may offer is 10 + 2 (H2 MTLL, inclusive of the H1 MTL unit).
-5.  All students must select either H1 General Paper (GP) or H2 Knowledge and Inquiry (KI).
-6.  All students must attempt Project Work (PW) at Senior High 1.
-7.  All students must select at least 4 content-based subjects. E.g. 3xH2 and 1x H1. One of the content-based subjects must be of a contrasting disciplineE.g. a Science course (Science and Mathematics) must include an Arts subject (Knowledge Skills, Languages, Humanities and the Arts)
-8.  All students may be offered at most two H3 subjects.
-9.  One academic unit is used for each H1 or H3 subject offered; two academic units are used for each H2 subject offered.
+2.  Every student will offer a combination of H1 / H2 / H3 subjects + MTL. The number of academic units computed is: Minimum (Norm): 7 + 1 (H1 MTL), Maximum: 11 + 1 (H1 MTL)
+3.  All students must read H1 General Paper (GP), Project Work (PW) and Mother Tongue (MTL).
+4.  All students must take Mother Tongue (MTL) at H1 unless they have obtained a minimum of D7 for Higher MTL at ‘O’ Level, in which case, they need not take H1 MTL and may use their ‘O’ Level HMTL results for university admission score computation with rebasing. However, the H1 MTL unit cannot be replaced by another content unit (except for students who offer H2 MTLL in lieu of H1 MTL).
+5.  All students must attempt PW at Senior High 1. 
+6.  Students who select H2 Mother Tongue Language and Literature (MTLL) in lieu of H1 MTL will not have any H1 MTL component in the computation of units for admission to local universities. However, the maximum number of academic units that they may offer is 10 + 2 (H2 MTLL, inclusive of the H1 MTL unit).
+7.  All students must read at least FOUR content-based subjects, three of which have to be at H2 and at least one of the content-based subjects must be of a contrasting discipline.
+8.  All students may read at most two H3 subjects.
+9.  Apart from H3 Research, all other H3 subjects may only be offered in Senior High 2 (SH2).
+10.  One academic unit is used for each H1 or H3 subject offered; two academic units are used for each H2 subject offered.
 
 **Revised UAS Computation**
 ![](/images/SH%20Subject%20Combination/uas%20computation1.png)
