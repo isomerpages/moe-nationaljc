@@ -55,7 +55,3 @@ Here are the subject combinations offered in National Junior College, displayed 
 ![](/images/SH%20Subject%20Combination/sci%20combi%201.png)
 ![](/images/SH%20Subject%20Combination/sci%20combi%202.png)
 For AY 2024,&nbsp;**all qualifying tests**&nbsp;will be administered on&nbsp;**05 February**. Please note that there will be&nbsp;**NO**&nbsp;make up qualifying test/re-test after 05 February.
-
-**Career Diagnostic Quiz**
-
-If you are interested to explore what careers various subject combinations can lead to, you may try our&nbsp;[Career Diagnostic Quiz](https://nationaljc.moe.edu.sg/career-diagnostic-quiz/). (Unable to recreate quiz on Isomer)
