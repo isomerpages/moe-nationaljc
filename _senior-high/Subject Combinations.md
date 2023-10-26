@@ -26,7 +26,7 @@ Admission to universities is determined by discipline-specific pre-requisites an
 4.  Students who select H2 Mother Tongue Language and Literature (MTLL) in lieu of H1 MTL will not have any H1 MTL component in the computation of units for admission to local universities. However, the maximum number of academic units that they may offer is 10 + 2 (H2 MTLL, inclusive of the H1 MTL unit).
 5.  All students must select either H1 General Paper (GP) or H2 Knowledge and Inquiry (KI).
 6.  All students must take H1 Project Work (PW).
-7.  All students must select at least 4 content-based subjects. E.g. 3 H2 1 H1.One of the content-based subjects must be of a contrasting disciplineE.g. a Science course (Science and Mathematics) must include an Arts subject (Knowledge Skills, Languages, Humanities and the Arts)
+7.  All students must select at least 4 content-based subjects. E.g. 3xH2 and 1x H1. One of the content-based subjects must be of a contrasting disciplineE.g. a Science course (Science and Mathematics) must include an Arts subject (Knowledge Skills, Languages, Humanities and the Arts)
 8.  All students may be offered at most two H3 subjects.
 9.  One academic unit is used for each H1 or H3 subject offered; two academic units are used for each H2 subject offered.
 
@@ -46,7 +46,7 @@ Admission to universities is determined by discipline-specific pre-requisites an
 
 
 **Pre-requisites for Specific Subjects in NJC**
-
+![](/images/SH%20Subject%20Combination/h2%20subject%20prerequisite.png)
 
 
 Here are the subject combinations offered in National Junior College, displayed in text.
