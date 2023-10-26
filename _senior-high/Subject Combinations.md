@@ -31,7 +31,7 @@ Admission to universities is determined by discipline-specific pre-requisites an
 9.  One academic unit is used for each H1 or H3 subject offered; two academic units are used for each H2 subject offered.
 
 **Revised UAS Computation**
-
+![](/images/SH%20Subject%20Combination/uas%20computation.png)
 
 **Guidelines on Subject Combination**
 
