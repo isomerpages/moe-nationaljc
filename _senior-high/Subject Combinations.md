@@ -34,8 +34,8 @@ Admission to universities is determined by discipline-specific pre-requisites an
 ![](/images/SH%20Subject%20Combination/uas%20computation1.png)
 
 **Subjects Offered in Senior High**
-
-
+![](/images/SH%20Subject%20Combination/science%20and%20humanities.png)
+![](/images/SH%20Subject%20Combination/knowledge%20skills%20and%20languages.png)
 
 **NJC Internal Policy on Subject Combination**
 
@@ -44,18 +44,6 @@ Admission to universities is determined by discipline-specific pre-requisites an
         *   The pre-requisite to read a specific subject (see table below)
         *   The pre-requisites to read a specific combination (see graphic below)
 
-**How to read the Subject Combination Graphic**
-
-<img src="/images/subcom3.png" style="width:70%">
-	
-Your Choices:
-<img src="/images/subcom4.png" style="width:70%">
-		 
-<img src="/images/subcom5.png" style="width:70%">
-
-<img src="/images/subcom6.png" style="width:70%">
-
-<img src="/images/subcom7.png" style="width:70%">
 
 **Pre-requisites for Specific Subjects in NJC**
 
