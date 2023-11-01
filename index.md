@@ -17,7 +17,6 @@ sections:
       background: /images/assembly at parade square (again).jpg
   - infopic:
       title: Understanding NJC IP Nov Q&A Day
-      subtitle: Add an image and text
       id: infopic
       image: /images/2023 njc november qna prog outline 2.jpeg
       alt: Image alt text
