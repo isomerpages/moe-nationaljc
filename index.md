@@ -50,6 +50,7 @@ sections:
       id: infopic
       description: A big congratulations to our very own Ms Jan, who received the
         Inspiring Teacher of English award!
+      url: https://www.straitstimes.com/singapore/parenting-education/8-educators-receive-inspiring-teacher-of-english-award-for-their-innovation-and-passion?fbclid=IwAR2NoHs1JNMSnvslFr_wybYUUnMaRoAKZKOvmQwjU5TzHg0n5IS9MEk07Ec
       image: /images/inspiring teacher of english award.jpg
       alt: Image alt text
 ---
