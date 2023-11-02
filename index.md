@@ -23,6 +23,15 @@ sections:
       description: Pop by NJC on 18th November 2023.  No sign-up is required. Please
         register at the NJC atrium upon arrival. See you soon!
   - infopic:
+      title: "Inspiring Teacher of English Award "
+      id: infopic
+      description: A big congratulations to our very own Ms Jan, who received the
+        Inspiring Teacher of English award!
+      button: read more
+      url: https://www.straitstimes.com/singapore/parenting-education/8-educators-receive-inspiring-teacher-of-english-award-for-their-innovation-and-passion?fbclid=IwAR2NoHs1JNMSnvslFr_wybYUUnMaRoAKZKOvmQwjU5TzHg0n5IS9MEk07Ec
+      image: /images/inspiring teacher of english award.jpg
+      alt: Image alt text
+  - infopic:
       title: Our Strategic Thrusts
       description: Our strategic thrusts are crafted to reflect our vision and mission
         as we move onward to the next 50 years.
@@ -45,13 +54,4 @@ sections:
       url: /voices
       image: /images/reflection1.png
       alt: Reflection
-  - infopic:
-      title: "Inspiring Teacher of English Award "
-      id: infopic
-      description: A big congratulations to our very own Ms Jan, who received the
-        Inspiring Teacher of English award!
-      button: read more
-      url: https://www.straitstimes.com/singapore/parenting-education/8-educators-receive-inspiring-teacher-of-english-award-for-their-innovation-and-passion?fbclid=IwAR2NoHs1JNMSnvslFr_wybYUUnMaRoAKZKOvmQwjU5TzHg0n5IS9MEk07Ec
-      image: /images/inspiring teacher of english award.jpg
-      alt: Image alt text
 ---
