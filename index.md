@@ -22,24 +22,15 @@ sections:
       alt: Image alt text
       description: Pop by NJC on 18th November 2023.  No sign-up is required. Please
         register at the NJC atrium upon arrival. See you soon!
-  - infobar:
-      title: Results of Moot Parliament Programme Debates 2023
-      button: Read More
-      url: /permalink/mootdebates2023
-  - infobar:
-      title: NJC-CVAHS Twinning Exchange Programme
-      button: Read More
-      url: /permalink/njccvahs2023/
-  - infobar:
-      title: DSA-Sec
-      description: Direct School Admission to NJC's Six-Year Integrated Programme
-      button: more details
-      url: /admissions/ip-dsa/
-  - infobar:
-      title: DSA-JC
-      description: Direct School Admission to NJC's  Two-Year A-Level Programme
-      button: More details
-      url: /admissions/jc-dsa/
+  - infopic:
+      title: "Inspiring Teacher of English Award "
+      id: infopic
+      description: A big congratulations to our very own Ms Jan, who received the
+        Inspiring Teacher of English award!
+      button: read more here
+      url: https://www.straitstimes.com/singapore/parenting-education/8-educators-receive-inspiring-teacher-of-english-award-for-their-innovation-and-passion?fbclid=IwAR2NoHs1JNMSnvslFr_wybYUUnMaRoAKZKOvmQwjU5TzHg0n5IS9MEk07Ec
+      image: /images/inspiring teacher of english award.jpg
+      alt: Image alt text
   - infopic:
       title: Our Strategic Thrusts
       description: Our strategic thrusts are crafted to reflect our vision and mission
