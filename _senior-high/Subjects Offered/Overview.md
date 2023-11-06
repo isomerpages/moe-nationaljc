@@ -21,8 +21,8 @@ In National Junior College, we offer a wide range of subjects that may be read a
 
 |  |  |  |
 |---|---|---|
-| <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/mother-tongue"><img src="/images/b7.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/knowledge-and-inquiry"><img src="/images/b8.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/general-paper"><img src="/images/b9.png" style="width:55%"></a> |
-| <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/english-language-and-linguistics"><img src="/images/b10.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/foreign-language"><img src="/images/b11.png" style="width:55%"></a> |  |
+| <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/mother-tongue"><img src="/images/Subjects Offered/mtll-alvl.png" style="width:30%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/knowledge-and-inquiry"><img src="/images/Subjects Offered/ki-alvlb8.png" style="width:30%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/general-paper"><img src="/images/Subjects Offered/general-paper.png" style="width:30%"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/english-language-and-linguistics"><img src="/images/Subjects Offered/eng-lang-ling.png" style="width:30%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/foreign-language"><img src="/images/Subjects Offered/foreign-lang.png" style="width:30%"></a> |  |
 
 
 #### Science and Mathematics
