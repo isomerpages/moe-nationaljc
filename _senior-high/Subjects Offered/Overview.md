@@ -13,8 +13,8 @@ In National Junior College, we offer a wide range of subjects that may be read a
 
 |  |  |  |
 |---|---|---|
-| <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/geography"><img src="/images/geography.png" style="width:30%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/history"><img src="/images/b2.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/economics"><img src="/images/Subjects Offered/economics.png" style="width:30%"></a> |
-| <a href="https://moe-nationaljc-staging.netlify.app/art-elective-programme/senior-high-aep"><img src="/images/b4.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/music-elective-programme/"><img src="/images/b5.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/literature-in-english"><img src="/images/b6.png" style="width:55%"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/geography"><img src="/images/geography.png" style="width:30%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/history"><img src="/images/Subjects Offered/history.png" style="width:30%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/economics"><img src="/images/Subjects Offered/economics.png" style="width:30%"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/art-elective-programme/senior-high-aep"><img src="/images/Subjects Offered/art-alevel.png" style="width:30%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/music-elective-programme/"><img src="/images/Subjects Offered/music-alevel.png" style="width:30%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/senior-high/subjects-offered/literature-in-english"><img src="/images/Subjects Offered/lit-in-eng.png" style="width:30%"></a> |
 
 
 #### Knowledge Skills and Languages
