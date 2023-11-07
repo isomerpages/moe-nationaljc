@@ -3,6 +3,7 @@ title: Overview
 permalink: /junior-high/Subjects-Offered/overview/
 description: ""
 third_nav_title: Subjects Offered
+variant: markdown
 ---
 ### Subjects Offered in Junior High 
 
@@ -27,7 +28,7 @@ Here in National Junior College, we offer a wide range of subjects/programmes th
 
 |  |  |  |
 |---|---|---|
-| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/mother-tongue"><img src="/images/a14.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/a15.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/language-arts"><img src="/images/a16.png" style="width:55%"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/mother-tongue"><img src="/images/Subjects Offered/MTL-JH.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/Subjects Offered/HigherMTL.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/language-arts"><img src="/images/a16.png" style="width:55%"></a> |
 | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/thinking"><img src="/images/a17.png" style="width:55%"></a> |  | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/a18.png" style="width:55%"></a> |
 
 #### Science and Mathematics
