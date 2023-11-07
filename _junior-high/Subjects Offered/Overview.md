@@ -13,8 +13,8 @@ Here in National Junior College, we offer a wide range of subjects/programmes th
 
 |  |  |  |
 |---|---|---|
-| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/Subjects Offered/aeseducation.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/boarding/"><img src="/images/a2.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/character/overview/"><img src="/images/Subjects Offered/cce-jh.png" style="width:55%"></a> |
-| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/overview/"><img src="/images/Subjects Offered/cca-jh.png" style="width:55%"></a> |  | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/physical-education"><img src="/images/Subjects Offered/phyeducation.png" style="width:55%"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/Subjects Offered/aeseducation.png" style="width:55%"></a> | <img src="/images/Subjects Offered/via-jh.png" style="width:55%"> | <a href="https://moe-nationaljc-staging.netlify.app/character/overview/"><img src="/images/Subjects Offered/cce-jh.png" style="width:55%"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/overview/"><img src="/images/Subjects Offered/cca-jh.png" style="width:55%"></a> |<img src="/images/Subjects Offered/adveducation.png" style="width:55%">  | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/physical-education"><img src="/images/Subjects Offered/phyeducation.png" style="width:55%"></a> |
 
 #### Humanities and the Arts
 
