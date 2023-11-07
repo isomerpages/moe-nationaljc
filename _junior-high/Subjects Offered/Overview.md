@@ -29,7 +29,7 @@ Here in National Junior College, we offer a wide range of subjects/programmes th
 |  |  |  |
 |---|---|---|
 | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/mother-tongue"><img src="/images/Subjects Offered/mtl-jh.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/Subjects Offered/highermtl.png" style="width:55%"></a> | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/language-arts"><img src="/images/Subjects Offered/languagearts.png" style="width:55%"></a> |
-| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/thinking"><img src="/images/Subjects Offered/thinking.png" style="width:55%"></a> |  | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/Subjects Offered/MOE3rdlang.png" style="width:55%"></a> |
+| <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/thinking"><img src="/images/Subjects Offered/thinking.png" style="width:55%"></a> |  | <a href="https://moe-nationaljc-staging.netlify.app/junior-high/subjects-offered/overview/"><img src="/images/Subjects Offered/moe3rdlang.png" style="width:55%"></a> |
 
 #### Science and Mathematics
 
