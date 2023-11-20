@@ -16,4 +16,4 @@ In addition, our curriculum incorporates special subjects such as Thinking, and 
 
 Our various growth and development programmes, with a highlight being a residential experience in our boarding school, underscore our desire to offer the opportunities to turn a child’s various gifts to&nbsp;relevant talents for the future.
 
-<img src="/images/Subjects Offered/jh/ad4.png" style="width:80%">
+<img src="/images/Subjects Offered/jh_curriculum.png" style="width:80%">
