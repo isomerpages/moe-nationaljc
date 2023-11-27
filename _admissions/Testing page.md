@@ -1,6 +1,7 @@
 ---
 title: Testing page
 permalink: /admissions/test1123/
-variant: tiptap
+variant: markdown
 description: oi
 ---
+snkjanskkjnsnkwjdnjanwkjdnWKNDKnwjdnkNKDNNJKl lcjjncajndjkwnjk
