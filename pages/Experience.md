@@ -1,6 +1,7 @@
 ---
 title: Experience
 permalink: /permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+![](/images/Benzie_photo.jpeg)
