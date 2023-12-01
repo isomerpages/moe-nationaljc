@@ -3,9 +3,11 @@ title: Junior High Science
 permalink: /junior-high/subjects-offered/permalink/
 description: ""
 third_nav_title: Subjects Offered
+variant: markdown
 ---
 **Junior High Science**
- ![](https://lh3.googleusercontent.com/qzISDXqm1WWM_kEthMTkYeEOqtnVZvxzJnA-5gLAzb0LBxg3bHqcmNDuH6gYT4tMpj8fRPRy94CyxJa0WTDcbcjJ7Dr3ZdHaV_Z1o4jfCX5B1rgEJW4Z2ymD0Crilbwzllk_rjinreyxURDAtSe3AA)
+
+ ![](/images/JH_science_logo.jpeg)
 
 The Junior High Science Programme aims to develop students as Self-regulated learners and Critical thinkers, who appreciate the Interconnectedness between Science and the world through Experiential learning on the Nature of Science (NoS), who contribute to the society as Concerned citizens and Enthusiastic lifelong learners.
 
