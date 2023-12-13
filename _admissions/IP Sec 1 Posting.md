@@ -24,11 +24,13 @@ If you are not already familiar with PG, you may visit [http://pg.moe.edu.sg/#
 
 Should you have any queries, or if you are unable to access PG, please contact the College at 64661144 or email us at [njc@moe.edu.sg](mailto:at%E2%80%AFnjc@moe.edu.sg).&nbsp;
 
-Lastly, please note that the school term begins on **8 Jan 2024 (Mon)** for National Junior College.&nbsp;
+Lastly, please note that the school term begins on                      **8 Jan 2024 (Mon)** for National Junior College.&nbsp;
 
 Thank you.&nbsp;
 
 **Appeals for admission to NJC IP Junior High 1 2024**&nbsp;
+
+Appeals for admission to NJC IP Junior High 1 for AY2024 will start from  **9am, 20 Dec 2023 (Wed)** and will close at **10am, 22 Dec 2023 (Fri)**.
 
 Your child’s PSLE score must meet the school’s cut-off point (COP) which will be known on the posting day. Only official online appeals within the appeal period, complete with supporting documents, will be accepted. Late appeals will not be entertained.&nbsp;
 
