@@ -58,7 +58,7 @@ sections:
       title: Sec 1 Registration
       id: infopic
       button: For more info
-      url: /admissions/ip-sec1-posting/
+      url: /resources/events/s1-registration-2024/
       image: /images/s1_reg_pic.jpeg
       alt: Registration
 ---
