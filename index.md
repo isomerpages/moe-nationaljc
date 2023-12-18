@@ -16,6 +16,14 @@ sections:
           url: resources/news/
       background: /images/assembly at parade square .jpg
   - infopic:
+      title: Sec 1 Registration
+      id: infopic
+      button: For more info
+      url: /resources/events/s1-registration-2024/
+      image: /images/s1_reg_pic.jpeg
+      alt: Registration
+      description: For students who are posted to NJC in 2024
+  - infopic:
       title: Understanding NJC IP Nov Q&A Day
       id: infopic
       image: /images/2023 njc november qna prog outline 2.jpeg
@@ -54,12 +62,4 @@ sections:
       url: /voices
       image: /images/reflection1.png
       alt: Reflection
-  - infopic:
-      title: Sec 1 Registration
-      id: infopic
-      button: For more info
-      url: /resources/events/s1-registration-2024/
-      image: /images/s1_reg_pic.jpeg
-      alt: Registration
-      description: "Students who are Posted to NJC for 2024: S1 Registration"
 ---
