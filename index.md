@@ -61,4 +61,5 @@ sections:
       url: /resources/events/s1-registration-2024/
       image: /images/s1_reg_pic.jpeg
       alt: Registration
+      description: "Students who are Posted to NJC for 2024: S1 Registration"
 ---
