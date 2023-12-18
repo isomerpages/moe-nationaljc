@@ -23,7 +23,7 @@ sections:
       description: Pop by NJC on 18th November 2023.  No sign-up is required. Please
         register at the NJC atrium upon arrival. See you soon!
   - infopic:
-      title: "Inspiring Teacher of English Award "
+      title: Inspiring Teacher of English Award
       id: infopic
       description: A big congratulations to our very own Ms Jan, who received the
         Inspiring Teacher of English award!
@@ -54,4 +54,11 @@ sections:
       url: /voices
       image: /images/reflection1.png
       alt: Reflection
+  - infopic:
+      title: Sec 1 Registration
+      id: infopic
+      button: For more info
+      url: /Sec1IPPosting
+      image: /images/s1_reg_pic.jpeg
+      alt: Registration
 ---
