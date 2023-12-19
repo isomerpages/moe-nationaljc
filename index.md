@@ -20,7 +20,7 @@ sections:
       id: infopic
       button: For more info
       url: /resources/events/s1-registration-2024/
-      image: /images/s1_reg_pic.jpeg
+      image: /images/s1_registration.jpeg
       alt: Registration
       description: For students who are posted to NJC in 2024
   - infopic:
