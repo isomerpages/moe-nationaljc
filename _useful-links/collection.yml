@@ -2,7 +2,7 @@ collections:
   useful-links:
     output: true
     order:
-      - For Staff.md
-      - For Parent.md
       - For Students.md
+      - For Parent.md
+      - For Staff.md
       - For Canteen Vendors.md
