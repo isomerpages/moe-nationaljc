@@ -18,8 +18,8 @@ sections:
   - infopic:
       title: "National Junior College Open House: 12 January 2024"
       id: infopic
-      button: For more info
-      url: /resources/events/
+      button: READ MORE HERE
+      url: /resources/events/openhouse2024/
       image: /images/NJ_Website.PNG
       alt: Open House
   - infopic:
