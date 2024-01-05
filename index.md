@@ -16,13 +16,12 @@ sections:
           url: resources/news/
       background: /images/assembly at parade square .jpg
   - infopic:
-      title: Sec 1 Registration
+      title: "National Junior College Open House: 12 January 2024"
       id: infopic
       button: For more info
-      url: /resources/events/s1-registration-2024/
-      image: /images/s1_registration.jpeg
-      alt: Registration
-      description: For students who are posted to NJC in 2024
+      url: /resources/events/
+      image: /images/NJ_Website.PNG
+      alt: Open House
   - infopic:
       title: Understanding NJC IP Nov Q&A Day
       id: infopic
