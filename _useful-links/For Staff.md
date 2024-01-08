@@ -46,7 +46,7 @@ Email: help@schools.gov.sg <br>
 *   Your password has been reset.
 
 2.  MIMS Password reset by Local Administrator ( LA ):  
-*   Email: muhammad_shah_rezal_jamaludin@moe.edu.sg.
+*   Email: njc_it@moe.edu.sg
 *   Provide your MIMS Login ID to LA.  
 *   A temporary password will be sent to your notification email in your MIMS profile and mobile number ( if it is available ).  
 *   If you did not setup notification email or mobile number in your MIMS profile, the temporary password will be sent to LA’s email address instead.
@@ -54,9 +54,3 @@ Email: help@schools.gov.sg <br>
 * Follow this link to setup 3 Security Questions to be able to self service reset password.
 
 3. VPN Pin Reset: Contact SSOE2 Helpdesk <br>
-
-
-
-
-
-
