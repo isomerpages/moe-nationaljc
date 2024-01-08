@@ -6,7 +6,7 @@ variant: markdown
 ---
 <b style="color:blue;font-size:40px"> For Staffs </b> 
 
-<p style="color:blue;font-size:20px"> Links </p>
+<p style="color:blue;font-size:30px"> Links </p>
 
 
 [MOE Intranet](https://intranet.moe.gov.sg/)
@@ -28,7 +28,7 @@ variant: markdown
 
 [Student Portal](http://www.edhub.net/studentportal/index.php) 
 
-<p style="color:blue;font-size:20px"> SSOE2 Helpdesk Contact </p>
+<p style="color:blue;font-size:30px"> SSOE2 Helpdesk Contact </p>
 Operating Day &amp; Hours: <br>
 Mon - Fri ( 7am to 7pm ) <br>
 Sat ( 7am to 2pm ) <br>
@@ -36,7 +36,7 @@ Local: 1800 7663 663 <br>
 Overseas: +65 6559 4318 <br>
 Email: help@schools.gov.sg <br>
 
-<p style="color:blue;font-size:20px"> Laptop Issues Guides: </p>
+<p style="color:blue;font-size:30px"> Laptop Issues Guides: </p>
 
 1.  MIMS Self Service Password Reset ( You **MUST** have setup 3 Security Questions before ):
 *   Click&nbsp;**Forgot your Password**.
