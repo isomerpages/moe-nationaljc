@@ -132,7 +132,7 @@ Any requests for special consideration with regard to the guidelines should be s
 ---
 **
 
-# DO NOT REMOVE SHAH EDITING
+# ^ ABOVE IS BEFORE | DO NOT REMOVE SHAH EDITING. 
 
 <b>NJC’s Framework</b>
 
