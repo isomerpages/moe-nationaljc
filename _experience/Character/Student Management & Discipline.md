@@ -133,7 +133,7 @@ Any requests for special consideration with regard to the guidelines should be s
 **
   
 
-**NJC’s Framework**
+<b>NJC’s Framework</b>
 
   
 
@@ -177,7 +177,7 @@ The expectations and decorum of our students are expressed in the following sect
 
   
 
-**1\. Attendance and Punctuality**
+<b>1\. Attendance and Punctuality</b>
 
   
 
@@ -189,7 +189,7 @@ Therefore, attendance and commitment in school are essential. Students are expec
 
   
 
-**1.1 Reporting Times and Late-coming**
+<b>1.1 Reporting Times and Late-coming</b>
 
   
 
@@ -206,58 +206,56 @@ The school gates will close at 7.40 a.m. Students are to be at morning assembly 
   
 
 Junior High students are to report to lesson venues by 7.40 a.m.
-
 Senior High students with 7.40 a.m. lessons are to report to lesson venues by 7.40 a.m.
-
-All students are to be at morning assembly by 8.45 a.m. Students who fail to do so will be deemed as late.
-
-  
-
-Thursdays
+All students are to be at morning assembly by 8.45 a.m. Students who fail to do so will be <u>deemed as late</u>.
 
   
 
-The school gates will close at 8.40 a.m. Students are to be at morning assembly by 8.45 a.m. Students who fail to do so will be deemed as late.
+<u>Thursdays</u>
 
   
 
-**1.2 Assembly and Flag Raising Ceremony**
+The school gates will close at 8.40 a.m. Students are to be at morning assembly by 8.45 a.m. Students who fail to do so will be <u>deemed as late</u>.
 
   
 
-All students must attend Morning Assembly and Flag-Raising Ceremony, and observe the ceremony with dignity and respect. Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart. Non-Singapore citizens should stand still to show respect to the host country during the Flag-Raising and Pledge Taking Ceremony.
+<b>1.2 Assembly and Flag Raising Ceremony</b>
 
   
 
-**1.3 Absenteeism**
+All students must attend Morning Assembly and Flag-Raising Ceremony, and observe the ceremony with dignity and respect. <b>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over the heart</b>. Non-Singapore citizens should stand still to show respect to the host country during the Flag-Raising and Pledge Taking Ceremony.
 
   
 
-Absence from school without a valid reason and leaving school during school hours or before 12 p.m. without permission from the Principal or teachers will be considered an act of truancy.
+<b>1.3 Absenteeism</b>
+
+  
+
+Absence from school without a valid reason and leaving school during school hours or before 12 p.m. without permission from the Principal or teachers will be considered an <u>act of truancy</u>.
 
   
 
 Students who are absent from school should notify their Personal Mentor before assembly.
 
-Students must submit their medical certificate or parent’s letter (maximum of five per semester) the moment they return to school.
+Students must submit their <b>medical certificate or parent’s letter (maximum of five per semester)</b> the moment they return to school.
 
   
 
 Only a valid medical certificate issued by a registered medical practitioner will be accepted. A valid COVID- 19 positive test result will also be accepted, subject to prevailing national guidelines.
 
-TCM certificates are acceptable only if the TCM practitioner is registered under the Ministry of Health. However, please note that TCM certificates will not be accepted for tests/examinations. Students who are absent from tests and examinations without valid/approved medical certificates will be given zero marks for the papers that they have missed.
+TCM certificates are acceptable only if the TCM practitioner is registered under the Ministry of Health. However, please note that TCM certificates will not be accepted for tests/examinations. Students who are absent from tests and examinations without valid/approved medical certificates will be given <u>zero marks</u> for the papers that they have missed.
 
   
 
-Students who wish to request for leave during the school term (e.g. urgent family matters) are required to submit a parent’s letter via email addressed to the Principal (njc@moe.edu.sg), Personal Mentor and Year Head together with relevant supporting documents. All requests are subject to approval by the Principal.
+Students who wish to request for leave during the school term (e.g. urgent family matters) are required to submit <b> parent’s letter via email addressed to the Principal (njc@moe.edu.sg), Personal Mentor and Year Head</b> together with relevant supporting documents. All requests are subject to approval by the Principal.
 
   
 
-**1.4 Early excuse during school hours**
+<b>1.4 Early excuse during school hours</b>
 
   
 
-Online Blue Form System
+<u>Online Blue Form System</u>
 
   
 
@@ -265,7 +263,7 @@ Students who are unwell or need to leave school for official functions or medica
 
   
 
-After obtaining approval for early excuse from the Personal Mentor, students are to approach the General Office Reception counter to sign out their early excuse using the online blue form system. It is considered an act of truancy if a student signs out their early excuse without obtaining approval.
+After obtaining approval for early excuse from the Personal Mentor, students are to approach the General Office Reception counter to sign out their early excuse using the <b>online blue form system</b>. It is considered an act of truancy if a student signs out their early excuse without obtaining approval.
 
   
 
@@ -273,7 +271,7 @@ Parents/Guardians will be required to pick the child/ward up from the General Of
 
   
 
-**2\. General Behaviour and Decorum**
+<b>2\. General Behaviour and Decorum</b>
 
   
 
@@ -281,7 +279,7 @@ NJC is a community of self-regulated learners, guided by honesty and integrity. 
 
   
 
-**2.1 Food and Drink Guidelines**
+<b>2.1 Food and Drink Guidelines</b>
 
   
 
@@ -304,13 +302,9 @@ Students are allowed to bring certain food and drinks to classrooms, but must ad
 
   
 
-**2.2 Personal Mobile Devices Guidelines**
-
-  
-
-Junior High and Senior High Students
-
-  
+<b> 2.2 Personal Mobile Devices Guidelines </b>
+	
+<b><u> Junior High and Senior High Students </u></b>
 
 1.  Students are strictly not allowed to use any mobile devices during lessons, unless granted permission by teachers to use the devices.
     
@@ -321,19 +315,14 @@ Junior High and Senior High Students
 4.  Students are not to charge their personal mobile devices at will in school. Prior permission must be obtained from the teachers to charge the devices.
     
 5.  Students are to be personally responsible for the safekeeping of their personal mobile devices and any device that is left unattended will be confiscated.
-    
+
+<b><u>Junior High Students</u></b>
+
+All personal mobile devices in school are to be used as learning tools only. <b>They are not to be used at will for entertainment</b> (i.e. gaming, social networking sites and videos) <b>at all times within the College</b>.
 
   
 
-Junior High Students
-
-  
-
-All personal mobile devices in school are to be used as learning tools only. They are not to be used at will for entertainment (i.e. gaming, social networking sites and videos) at all times within the College.
-
-  
-
-Consequences for Junior and Senior High Students
+<b><u>Consequences for Junior and Senior High Students</u></b>
 
   
 
@@ -344,25 +333,23 @@ Consequences for Junior and Senior High Students
 
   
 
-**2.3 Dress Code &amp; Appearance**
+<b>2.3 Dress Code &amp; Appearance</b>
 
   
 
-All students of NJC are school ambassadors who are instrumental in upholding the tradition and reputation of the College at all times.
+<b>All students of NJC are school ambassadors who are instrumental in upholding the tradition and reputation of the College at all times.</b>
 
-  
-
-1.  Students are expected to be neatly and appropriately attired whenever they are wearing the school uniform. All students are to wear the prescribed school uniform and no modifications are allowed to the uniform. Unless otherwise instructed, students are not allowed to wear PE attire during lectures and academic lessons. Exceptions will be made for students who have lessons/lectures immediately after PE (without any break). These students are required to change into their school uniform at the next available break.
+1.  Students are expected to be neatly and appropriately attired whenever they are wearing the school uniform. All students are to wear the prescribed school uniform and <b>no modifications</b> are allowed to the uniform. Unless otherwise instructed, students are <b>not allowed</b> to wear PE attire during lectures and academic lessons. Exceptions will be made for students who have lessons/lectures immediately after PE (without any break). These students are required to change into their school uniform at the next available break.
     
-2.  All students are expected to wear the college pin on the left collar of the school uniform.
+2.  All students are expected to wear the <b>college pin on the left collar</b> of the school uniform.
     
 3.  Girls with hair touching the collar are expected to tie it up neatly. In addition, only one ear stud should be worn per ear. All other accessories are strictly not allowed.
     
-4.  Boys must be clean shaven and no facial hair is allowed. In addition, ear accessories (e.g.: ear rings, ear studs) are strictly not allowed.
+4.  Boys must be <b>clean shaven</b> and <b>no facial hair</b> is allowed. In addition, ear accessories (e.g.: ear rings, ear studs) are strictly not allowed.
     
-5.  Socks must be white in colour and need to be visible at all times.
+5.  Socks must be white in colour and need to be <b>visible</b> at all times.
     
-6.  Shoes and shoelaces that are garish in nature are not allowed.
+6.  Shoes and shoelaces that are <b>garish</b> in nature are not allowed.
     
 7.  Necklaces and other non-approved accessories are not allowed.
     
