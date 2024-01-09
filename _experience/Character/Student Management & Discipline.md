@@ -391,52 +391,29 @@ Students who commit a major offence that has been reported to the police will be
 
 2.5 Conduct Grade Criteria
 
-  
-
 The default conduct grade for all students is VERY GOOD. Students who exhibit exemplary conduct may have their conduct grade raised to EXCELLENT. Students who do not adhere to school rules may have their conduct grade downgraded to either GOOD, FAIR or POOR.
 
-  
-
-Consequences
-
-  
+<u>Consequences</u>
 
 Downgrade of Conduct Grade:
 
 *   Affects eligibility for MOE &amp; School Awards, scholarships, school based programmes, overseas trips and running for leadership positions
     
 *   Affects leadership position(s) in school
-    
-
-  
 
 2.6 Other Matters
 
-  
-
-Classroom Cleanliness
-
-  
+<u>Classroom Cleanliness</u>
 
 Students have the responsibility to look after the school facilities and its environment.
 
-  
-
 All students are expected to maintain the cleanliness of their classrooms and personal desk, as well as their duty when rostered. The class committee is to ensure that the duty roster is followed throughout the year.
-
-  
 
 Students who attend lessons in other classes’ homerooms are expected to be responsible and considerate in the use of the equipment and personal desks of others.
 
-  
-
 Any defacing of furniture or misuse of equipment in the classrooms is considered vandalism and will be deemed a disciplinary offence. Such behaviour may also be reported to the police.
 
-  
-
-Possession of weapons
-
-  
+<u>Possession of weapons</u>
 
 All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
 
