@@ -23,13 +23,6 @@ sections:
       image: /images/NJ_Website.PNG
       alt: Open House
   - infopic:
-      title: Understanding NJC IP Nov Q&A Day
-      id: infopic
-      image: /images/2023 njc november qna prog outline 2.jpeg
-      alt: Image alt text
-      description: Pop by NJC on 18th November 2023.  No sign-up is required. Please
-        register at the NJC atrium upon arrival. See you soon!
-  - infopic:
       title: Inspiring Teacher of English Award
       id: infopic
       description: A big congratulations to our very own Ms Jan, who received the
