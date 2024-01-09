@@ -131,7 +131,8 @@ Any requests for special consideration with regard to the guidelines should be s
 
 ---
 **
-  
+
+DO NOT REMOVE SHAH EDITING
 
 <b>NJC’s Framework</b>
 
@@ -356,7 +357,7 @@ All personal mobile devices in school are to be used as learning tools only. <b>
 
   
 
-2.4 Offences
+<b>2.4 Offences</b>
 
 The rules are created to safeguard the interests of the different stakeholders in the school community. Students must learn to be responsible for their actions and expect certain consequences if their actions or inactions have affected the interests of others.
 
@@ -364,27 +365,27 @@ Offences would generally be categorised into Minor or Major Offences. For studen
 
   
 
-2.4.1 Minor Offences
+<b>2.4.1 Minor Offences</b>
 
-  
-
-TABLE
-
-  
+|  |  | 
+| -------- | -------- |
+| **Attire &amp; Grooming** | Facial hair (Moustache, Beard)<br>Long hair, fringe and/or sideburns (fringe should not cross the eyebrows when pulled down. Sides and back of the hair should be sloped.)<br>Extreme hairstyles (not in line with school requirement)<br>Highlighted / tinted / dyed hair<br>Long fingernails / coloured nails<br>No collar pin<br>Coloured socks and / or socks that are not visible<br>Modified school uniform (e.g. tapered pants or altered skirts)<br>Ill-fitting or torn school uniform<br>Improper PE attire (only red shorts and PE T-shirt allowed)<br>Improper wearing of uniform<br>Improper footwear (includes slippers/flip- flops and sandals)<br>Wearing of jewelery, talisman or any form of adornment<br>Excessive earrings (for girls) or wearing of earrings (for boys)<br>Piercing on the facial regions<br>Tattoo
+| **Attendance** |  Late Coming
+|**Misconduct** | Eating outside designated areas<br>Unruly or disruptive behaviour (e.g. Use of vulgarities)<br>Use of mobile devices during lessons without permission<br>Inappropriate use of mobile devices (e.g. Social media or gaming)<br>Playing of poker/gambling cards<br>Lying
 
 2.4.2 Major Offences
 
   
 
-A student who commits a major offence is liable to be suspended or expelled from school.
-
-Depending on the nature of the offence, the student will be referred to the police or the Student Development Committee. Parents will be notified of the offence and both students and parents will have to see the Principal. The student may be required to undergo counselling and the offence will be recorded in the School Offence Module (SOM) in the school cockpit system.
-
-  
+A student who commits a major offence is liable to be suspended or expelled from school. Depending on the nature of the offence, the student will be referred to the police or the Student Development Committee. Parents will be notified of the offence and both students and parents will have to see the Principal. The student may be required to undergo counselling and the offence will be recorded in the School Offence Module (SOM) in the school cockpit system.
 
 Students who commit a major offence that has been reported to the police will be dealt with by the police. Students who commit multiple major offences will be expelled.
 
-TABLE
+| | | 
+| -------- | -------- |
+| **Attendance** | Truancy (Absence from lessons /school programmes without official permission)<br>Leaving school grounds without permission
+| **Misconduct** |  Eating outside designated areas<br>Unruly or disruptive behaviour (e.g. Use of vulgarities)<br>Use of mobile devices during lessons without permission<br>Inappropriate use of mobile devices (e.g. Social media or gaming)<br>Playing of poker/gambling cards <br>Lying
+|**Academic dishonesty** | Cheating<br>Plagiarism
 
   
 
