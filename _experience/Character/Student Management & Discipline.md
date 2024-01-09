@@ -336,9 +336,9 @@ All personal mobile devices in school are to be used as learning tools only. <b>
 
 <b>2.3 Dress Code &amp; Appearance</b>
 
-  
-
 <b>All students of NJC are school ambassadors who are instrumental in upholding the tradition and reputation of the College at all times.</b>
+
+<img src="/images/cce2.png" style="width:80%">
 
 1.  Students are expected to be neatly and appropriately attired whenever they are wearing the school uniform. All students are to wear the prescribed school uniform and <b>no modifications</b> are allowed to the uniform. Unless otherwise instructed, students are <b>not allowed</b> to wear PE attire during lectures and academic lessons. Exceptions will be made for students who have lessons/lectures immediately after PE (without any break). These students are required to change into their school uniform at the next available break.
     
@@ -357,7 +357,7 @@ All personal mobile devices in school are to be used as learning tools only. <b>
 
   
 
-<b>2.4 Offences</b>
+**2.4 Offences**
 
 The rules are created to safeguard the interests of the different stakeholders in the school community. Students must learn to be responsible for their actions and expect certain consequences if their actions or inactions have affected the interests of others.
 
@@ -365,7 +365,7 @@ Offences would generally be categorised into Minor or Major Offences. For studen
 
   
 
-<b>2.4.1 Minor Offences</b>
+**2.4.1 Minor Offences**
 
 |  |  | 
 | -------- | -------- |
@@ -373,9 +373,7 @@ Offences would generally be categorised into Minor or Major Offences. For studen
 | **Attendance** |  Late Coming
 |**Misconduct** | Eating outside designated areas<br>Unruly or disruptive behaviour (e.g. Use of vulgarities)<br>Use of mobile devices during lessons without permission<br>Inappropriate use of mobile devices (e.g. Social media or gaming)<br>Playing of poker/gambling cards<br>Lying
 
-2.4.2 Major Offences
-
-  
+**2.4.2 Major Offences**
 
 A student who commits a major offence is liable to be suspended or expelled from school. Depending on the nature of the offence, the student will be referred to the police or the Student Development Committee. Parents will be notified of the offence and both students and parents will have to see the Principal. The student may be required to undergo counselling and the offence will be recorded in the School Offence Module (SOM) in the school cockpit system.
 
@@ -387,9 +385,7 @@ Students who commit a major offence that has been reported to the police will be
 | **Misconduct** |  Eating outside designated areas<br>Unruly or disruptive behaviour (e.g. Use of vulgarities)<br>Use of mobile devices during lessons without permission<br>Inappropriate use of mobile devices (e.g. Social media or gaming)<br>Playing of poker/gambling cards <br>Lying
 |**Academic dishonesty** | Cheating<br>Plagiarism
 
-  
-
-2.5 Conduct Grade Criteria
+**2.5 Conduct Grade Criteria**
 
 The default conduct grade for all students is VERY GOOD. Students who exhibit exemplary conduct may have their conduct grade raised to EXCELLENT. Students who do not adhere to school rules may have their conduct grade downgraded to either GOOD, FAIR or POOR.
 
@@ -401,7 +397,7 @@ Downgrade of Conduct Grade:
     
 *   Affects leadership position(s) in school
 
-2.6 Other Matters
+**2.6 Other Matters**
 
 <u>Classroom Cleanliness</u>
 
