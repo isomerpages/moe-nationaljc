@@ -2,6 +2,7 @@
 title: AEP at NJC Learning Spaces
 permalink: /art-elective-programme/AEP-at-njc-learning-spaces/
 description: ""
+variant: markdown
 ---
 ### AEP@NJC Learning Spaces
 
@@ -15,16 +16,17 @@ Guided by our principles of Openness, Flexibility, and Responsiveness, the Art B
 
 **LEVEL 1 – PLAYGROUND**  
 • Ceramics and Glass Kilns  
-• Electric Pottery Wheel  
-• Clay Pugmill  
-• Ceramic Slab Rollers  
-• Etching and Printmaking Presses  
-• Silkscreen Printing Apparatus  
-• 3D Modelling & Prototyping Support
+• Electric Pottery Wheel  <br>
+• Clay Pugmill  <br>
+• Ceramic Slab Rollers  <br>
+• Etching and Printmaking Presses  <br>
+• Silkscreen Printing Apparatus <br>
+• 3D Modelling &amp; Prototyping Support <br>
+•Woodwork &amp; Acrylic Makerspace
 
 **LEVEL 2 – SANDBOX**  
 •Professional Filmmaking hardware  
-•Photography Darkroom Studio Facility  
+•Photography Studio &amp; Darkroom Facility  
 •Light-sensitive exposure units  
 •Digital Imaging Software  
 •Industrial-grade Laser Cutter  
@@ -37,9 +39,8 @@ Guided by our principles of Openness, Flexibility, and Responsiveness, the Art B
 **LEVEL 3 – DREAMLAB**  
 •Artists’ Studios  
 •AEP@NJC Gallery  
-•Wood & Acrylic Makerspace
 
-**For more information on AEP@NJC contact us at [njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
+**For more information on AEP@NJC contact us at&nbsp;[njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
 
 Or Keep up to date with the latest happenings in AEP@NJC:
-**Follow us! [https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)**
+**Follow us!&nbsp;[https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)**

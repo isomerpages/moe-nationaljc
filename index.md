@@ -16,20 +16,12 @@ sections:
           url: resources/news/
       background: /images/assembly at parade square .jpg
   - infopic:
-      title: Sec 1 Registration
+      title: "National Junior College Open House: 12 January 2024"
       id: infopic
-      button: For more info
-      url: /resources/events/s1-registration-2024/
-      image: /images/s1_registration.jpeg
-      alt: Registration
-      description: For students who are posted to NJC in 2024
-  - infopic:
-      title: Understanding NJC IP Nov Q&A Day
-      id: infopic
-      image: /images/2023 njc november qna prog outline 2.jpeg
-      alt: Image alt text
-      description: Pop by NJC on 18th November 2023.  No sign-up is required. Please
-        register at the NJC atrium upon arrival. See you soon!
+      button: READ MORE HERE
+      url: /resources/events/openhouse2024/
+      image: /images/NJ_Website.PNG
+      alt: Open House
   - infopic:
       title: Inspiring Teacher of English Award
       id: infopic

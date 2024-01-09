@@ -2,6 +2,7 @@
 title: Overview
 permalink: /co-curricular-activities/overview/
 description: ""
+variant: markdown
 ---
 ### Co-Curriculum Activities Overview
 
@@ -35,8 +36,8 @@ The following 15 JH CCAs cater developmental programs and various opportunities 
 |  |  |  |
 |---|---|---|
 | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/badminton"><img style="width:55%" src="/images/c16.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/climbing"><img style="width:55%" src="/images/c17.png"></a> | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/floorball"><img style="width:55%" src="/images/c18.png"></a> |
-|  <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/football"><img style="width:55%" src="/images/c19.png"></a>| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/hockey"><img style="width:55%" src="/images/c20.png"></a> |<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/netball"><img style="width:55%" src="/images/c21.png"></a>  |
-|<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/table-tennis"><img style="width:55%" src="/images/c22.png"></a>  | <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/touch-rugby"><img style="width:55%" src="/images/c23.png"></a> |  |
+|  <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/football"><img style="width:55%" src="/images/c19.png"></a>| <a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/netball"><img style="width:55%" src="/images/c21.png"></a> |<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/table-tennis"><img style="width:55%" src="/images/c22.png"></a>  | 
+<a href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/touch-rugby"><img style="width:55%" src="/images/c23.png"></a> | | | |
 
 |  |  |  |
 |---|---|---|
