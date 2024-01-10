@@ -240,7 +240,7 @@ Offences would generally be categorised into Minor or Major Offences. For studen
 
 **2.4.1 Minor Offences**
 
-|  |  | 
+| | | 
 | -------- | -------- |
  |<b>Attire &amp; Grooming</b>| Facial hair (Moustache, Beard)<br>Long hair, fringe and/or sideburns (fringe should not cross the eyebrows when pulled down. Sides and back of the hair should be sloped.)<br>Extreme hairstyles (not in line with school requirement)<br>Highlighted / tinted / dyed hair<br>Long fingernails / coloured nails<br>No collar pin<br>Coloured socks and / or socks that are not visible<br>Modified school uniform (e.g. tapered pants or altered skirts)<br>Ill-fitting or torn school uniform<br>Improper PE attire (only red shorts and PE T-shirt allowed)<br>Improper wearing of uniform<br>Improper footwear (includes slippers/flip- flops and sandals)<br>Wearing of jewelery, talisman or any form of adornment<br>Excessive earrings (for girls) or wearing of earrings (for boys)<br>Piercing on the facial regions<br>Tattoo
 |<b>Attendance</b>|  Late Coming
