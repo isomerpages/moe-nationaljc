@@ -242,9 +242,9 @@ Offences would generally be categorised into Minor or Major Offences. For studen
 
 |  |  | 
 | -------- | -------- |
- | **Attire &amp; Grooming** | <li>Facial hair (Moustache, Beard)</li><li>Long hair, fringe and/or sideburns (fringe should not cross the eyebrows when pulled down. Sides and back of the hair should be sloped.)</li><li>Extreme hairstyles (not in line with school requirement)</li><li>Highlighted / tinted / dyed hair</li><li>Long fingernails / coloured nails</li><li>No collar pin</li><li>Coloured socks and / or socks that are not visible</li><li>Modified school uniform (e.g. tapered pants or altered skirts)</li><li>Ill-fitting or torn school uniform</li><li>Improper PE attire (only red shorts and PE T-shirt allowed)<br>Improper wearing of uniform</li><li>Improper footwear (includes slippers/flip- flops and sandals)</li><li>Wearing of jewelery, talisman or any form of adornment</li><li>Excessive earrings (for girls) or wearing of earrings (for boys)</li><li>Piercing on the facial regions</li><li>Tattoo
-| **Attendance** |  </li><li>Late Coming
-|**Misconduct** | </li><li>Eating outside designated areas</li><li>Unruly or disruptive behaviour (e.g. Use of vulgarities)</li><li>Use of mobile devices during lessons without permission</li><li>Inappropriate use of mobile devices (e.g. Social media or gaming)</li><li>Playing of poker/gambling cards</li><li>Lying
+ | **Attire &amp; Grooming** | Facial hair (Moustache, Beard)<br>Long hair, fringe and/or sideburns (fringe should not cross the eyebrows when pulled down. Sides and back of the hair should be sloped.)<br>Extreme hairstyles (not in line with school requirement)<br>Highlighted / tinted / dyed hair<br>Long fingernails / coloured nails<br>No collar pin<br>Coloured socks and / or socks that are not visible<br>Modified school uniform (e.g. tapered pants or altered skirts)<br>Ill-fitting or torn school uniform<br>Improper PE attire (only red shorts and PE T-shirt allowed)<br>Improper wearing of uniform<br>Improper footwear (includes slippers/flip- flops and sandals)<br>Wearing of jewelery, talisman or any form of adornment<br>Excessive earrings (for girls) or wearing of earrings (for boys)<br>Piercing on the facial regions<br>Tattoo
+**Attendance** |  Late Coming
+|**Misconduct** | Eating outside designated areas<br>Unruly or disruptive behaviour (e.g. Use of vulgarities)<br>Use of mobile devices during lessons without permission<br>Inappropriate use of mobile devices (e.g. Social media or gaming)<br>Playing of poker/gambling cards<br>Lying
 
 **2.4.2 Major Offences**
 
@@ -254,8 +254,8 @@ Students who commit a major offence that has been reported to the police will be
 
 | | | 
 | -------- | -------- |
-| **Attendance** | </li><li>Truancy (Absence from lessons /school programmes without official permission)</li><li>Leaving school grounds without permission
-| **Misconduct** | </li><li>Eating outside designated areas</li><li>Unruly or disruptive behaviour (e.g. Use of vulgarities)</li><li>Use of mobile devices during lessons without permission</li><li>Inappropriate use of mobile devices (e.g. Social media or gaming)</li><li>Playing of poker/gambling cards</li><li>Lying
+| <b>Attendance</b> | <li>Truancy (Absence from lessons /school programmes without official permission)</li><li>Leaving school grounds without permission
+| <b>Misconduct</b> | </li><li>Eating outside designated areas</li><li>Unruly or disruptive behaviour (e.g. Use of vulgarities)</li><li>Use of mobile devices during lessons without permission</li><li>Inappropriate use of mobile devices (e.g. Social media or gaming)</li><li>Playing of poker/gambling cards<br>Lying
 |**Academic dishonesty** | </li><li>Cheating</li><li>Plagiarism
 
 **2.5 Conduct Grade Criteria**
