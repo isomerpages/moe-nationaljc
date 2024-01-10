@@ -254,8 +254,8 @@ Students who commit a major offence that has been reported to the police will be
 
 | | | 
 | -------- | -------- |
-| <b>Attendance</b> | <li>Truancy (Absence from lessons /school programmes without official permission)</li><li>Leaving school grounds without permission
-| <b>Misconduct</b> | </li><li>Eating outside designated areas</li><li>Unruly or disruptive behaviour (e.g. Use of vulgarities)</li><li>Use of mobile devices during lessons without permission</li><li>Inappropriate use of mobile devices (e.g. Social media or gaming)</li><li>Playing of poker/gambling cards<br>Lying
+| <b>Attendance</b> | <li>Truancy (Absence from lessons /school programmes without official permission)</li><li>Leaving school grounds without permission</li>
+| <b>Misconduct</b> | <li>Eating outside designated areas</li><li>Unruly or disruptive behaviour (e.g. Use of vulgarities)</li><li>Use of mobile devices during lessons without permission</li><li>Inappropriate use of mobile devices (e.g. Social media or gaming)</li><li>Playing of poker/gambling cards<br>Lying
 |**Academic dishonesty** | </li><li>Cheating</li><li>Plagiarism
 
 **2.5 Conduct Grade Criteria**
