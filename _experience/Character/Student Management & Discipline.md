@@ -254,9 +254,9 @@ Students who commit a major offence that has been reported to the police will be
 
 | | | 
 | -------- | -------- |
-| <b>Attendance</b> | <ul><li>Truancy Test (Absence from lessons /school programmes without official permission)</li><li>Leaving school grounds without permission</li></ul>
-| <b>Misconduct</b> | <li>Eating outside designated areas</li><li>Unruly or disruptive behaviour (e.g. Use of vulgarities)</li><li>Use of mobile devices during lessons without permission</li><li>Inappropriate use of mobile devices (e.g. Social media or gaming)</li><li>Playing of poker/gambling cards<br>Lying
-|**Academic dishonesty** | </li><li>Cheating</li><li>Plagiarism
+| <b>Attendance</b> | Truancy Test (Absence from lessons /school programmes without official permission)<br>Leaving school grounds without permission
+| <b>Misconduct</b> | Eating outside designated areas<br>Unruly or disruptive behaviour (e.g. Use of vulgarities)<br>Use of mobile devices during lessons without permission<br>Inappropriate use of mobile devices (e.g. Social media or gaming)<br>Playing of poker/gambling cards<br>Lying
+|<b>Academic dishonesty</b> | <br>Cheating<br>Plagiarism
 
 <b>2.5 Conduct Grade Criteria</b>
 
@@ -284,4 +284,4 @@ Any defacing of furniture or misuse of equipment in the classrooms is considered
 
 <u>Possession of weapons</u>
 
-All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
+All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
