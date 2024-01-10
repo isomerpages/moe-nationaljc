@@ -242,11 +242,11 @@ Offences would generally be categorised into Minor or Major Offences. For studen
 
 |  |  | 
 | -------- | -------- |
- | **Attire &amp; Grooming** | Facial hair (Moustache, Beard)<br>Long hair, fringe and/or sideburns (fringe should not cross the eyebrows when pulled down. Sides and back of the hair should be sloped.)<br>Extreme hairstyles (not in line with school requirement)<br>Highlighted / tinted / dyed hair<br>Long fingernails / coloured nails<br>No collar pin<br>Coloured socks and / or socks that are not visible<br>Modified school uniform (e.g. tapered pants or altered skirts)<br>Ill-fitting or torn school uniform<br>Improper PE attire (only red shorts and PE T-shirt allowed)<br>Improper wearing of uniform<br>Improper footwear (includes slippers/flip- flops and sandals)<br>Wearing of jewelery, talisman or any form of adornment<br>Excessive earrings (for girls) or wearing of earrings (for boys)<br>Piercing on the facial regions<br>Tattoo
-**Attendance** |  Late Coming
-|**Misconduct** | Eating outside designated areas<br>Unruly or disruptive behaviour (e.g. Use of vulgarities)<br>Use of mobile devices during lessons without permission<br>Inappropriate use of mobile devices (e.g. Social media or gaming)<br>Playing of poker/gambling cards<br>Lying
+ |<b>Attire &amp; Grooming</b>| Facial hair (Moustache, Beard)<br>Long hair, fringe and/or sideburns (fringe should not cross the eyebrows when pulled down. Sides and back of the hair should be sloped.)<br>Extreme hairstyles (not in line with school requirement)<br>Highlighted / tinted / dyed hair<br>Long fingernails / coloured nails<br>No collar pin<br>Coloured socks and / or socks that are not visible<br>Modified school uniform (e.g. tapered pants or altered skirts)<br>Ill-fitting or torn school uniform<br>Improper PE attire (only red shorts and PE T-shirt allowed)<br>Improper wearing of uniform<br>Improper footwear (includes slippers/flip- flops and sandals)<br>Wearing of jewelery, talisman or any form of adornment<br>Excessive earrings (for girls) or wearing of earrings (for boys)<br>Piercing on the facial regions<br>Tattoo
+|<b>Attendance</b>|  Late Coming
+|<b>Misconduct</b>| Eating outside designated areas<br>Unruly or disruptive behaviour (e.g. Use of vulgarities)<br>Use of mobile devices during lessons without permission<br>Inappropriate use of mobile devices (e.g. Social media or gaming)<br>Playing of poker/gambling cards<br>Lying
 
-**2.4.2 Major Offences**
+<b>2.4.2 Major Offences</b>
 
 A student who commits a major offence is liable to be suspended or expelled from school. Depending on the nature of the offence, the student will be referred to the police or the Student Development Committee. Parents will be notified of the offence and both students and parents will have to see the Principal. The student may be required to undergo counselling and the offence will be recorded in the School Offence Module (SOM) in the school cockpit system.
 
@@ -258,7 +258,7 @@ Students who commit a major offence that has been reported to the police will be
 | <b>Misconduct</b> | <li>Eating outside designated areas</li><li>Unruly or disruptive behaviour (e.g. Use of vulgarities)</li><li>Use of mobile devices during lessons without permission</li><li>Inappropriate use of mobile devices (e.g. Social media or gaming)</li><li>Playing of poker/gambling cards<br>Lying
 |**Academic dishonesty** | </li><li>Cheating</li><li>Plagiarism
 
-**2.5 Conduct Grade Criteria**
+<b>2.5 Conduct Grade Criteria</b>
 
 The default conduct grade for all students is VERY GOOD. Students who exhibit exemplary conduct may have their conduct grade raised to EXCELLENT. Students who do not adhere to school rules may have their conduct grade downgraded to either GOOD, FAIR or POOR.
 
@@ -270,7 +270,7 @@ Downgrade of Conduct Grade:
     
 *   Affects leadership position(s) in school
 
-**2.6 Other Matters**
+<b>2.6 Other Matters</b>
 
 <u>Classroom Cleanliness</u>
 
@@ -284,7 +284,4 @@ Any defacing of furniture or misuse of equipment in the classrooms is considered
 
 <u>Possession of weapons</u>
 
-All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
-
-  
-**</li>
+All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
