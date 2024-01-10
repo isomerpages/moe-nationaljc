@@ -2,7 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Overview.md
       - CCAs offered to both JH and SH/.keep
       - CCAs offered to both JH and SH/Basketball.md
       - CCAs offered to both JH and SH/Canoeing and Dragon Boating.md
