@@ -14,7 +14,7 @@ sections:
         - title: News
           description: ""
           url: resources/news/
-      background: /images/Cropped.jpeg
+      background: /images/Banner_Test.gif
       title: College of the Nation
       subtitle: Home of Scholars and Leaders who Serve with Honour
   - infopic:
