@@ -2,7 +2,6 @@ collections:
   experience:
     output: true
     order:
-      - Co Curricular Activities/Overview.md
       - Co Curricular Activities/.keep
       - Experience.md
       - Values In Action.md
