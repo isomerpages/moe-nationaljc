@@ -117,7 +117,7 @@ Students must submit their <b>medical certificate or parent’s letter (maximum 
 
 Only a valid medical certificate issued by a registered medical practitioner will be accepted. A valid COVID- 19 positive test result will also be accepted, subject to prevailing national guidelines.
 
-TCM certificates are acceptable only if the TCM practitioner is registered under the Ministry of Health. However, please note that TCM certificates will not be accepted for tests/examinations. Students who are absent from tests and examinations without valid/approved medical certificates will be given <u>**zero marks**</u> for the papers that they have missed.
+TCM certificates are acceptable only if the TCM practitioner is registered under the Ministry of Health. However, please note that TCM certificates will not be accepted for tests/examinations. Students who are absent from tests and examinations without valid/approved medical certificates will be given <u><b>zero marks</b></u> for the papers that they have missed.
 
   
 
