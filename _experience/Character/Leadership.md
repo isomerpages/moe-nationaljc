@@ -3,6 +3,7 @@ title: Leadership
 permalink: /experience/Character/leadership/
 description: ""
 third_nav_title: Character
+variant: markdown
 ---
 ### Leadership
 
@@ -14,7 +15,7 @@ NJCians are encouraged to step up and explore opportunities to develop their lea
 
 \-[Student Council](https://moe-nationaljc-staging.netlify.app/student-council/)
 
-\-Peer Support Leader (for Upper JH students)
+\-Peer Support Leader
 
 \-Sapphires Programme
 

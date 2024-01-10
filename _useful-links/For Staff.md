@@ -38,19 +38,18 @@ Email: help@schools.gov.sg <br>
 
 <p style="color:blue;font-size:30px"> Laptop Issues Guides: </p>
 
-1.  MIMS Self Service Password Reset ( You **MUST** have setup 3 Security Questions before ):
+1.  <b>MIMS Self Service Password Reset</b> ( You **MUST** have setup 3 Security Questions before. <b>Sign In MIMIS Portal &gt; MIMS SSPR &gt; Setup Security Questions</b> ):
 *   Click&nbsp;**Forgot your Password**.
 *   Key in your MIMS Login ID.&nbsp;Click&nbsp;**Search**.  
 *   You will be prompted to answer the&nbsp;challenge questions you set during registration.  
 *   Enter new password twice.&nbsp;Click&nbsp;**Submit**.  
 *   Your password has been reset.
 
-2.  MIMS Password reset by Local Administrator ( LA ):  
+2.  <b>MIMS Password reset by Local Administrator ( LA )</b>:  
 *   Email: njc_it@moe.edu.sg
 *   Provide your MIMS Login ID to LA.  
-*   A temporary password will be sent to your notification email in your MIMS profile and mobile number ( if it is available ).  
-*   If you did not setup notification email or mobile number in your MIMS profile, the temporary password will be sent to LA’s email address instead.
+*   You will then be given a temporary password from the LA.
 *   **IMPORTANT**: Please proceed to restart your Laptop and sign in using the new temporary password given by the LA.
-* Follow this link to setup 3 Security Questions to be able to self service reset password.
 
-3. VPN Pin Reset: Contact SSOE2 Helpdesk <br>
+
+3. <b>VPN Pin Reset</b>:<br>Contact SSOE2 Helpdesk 1800 7663 663
