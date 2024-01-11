@@ -14,7 +14,7 @@ sections:
         - title: News
           description: ""
           url: resources/news/
-      background: /images/Banner_Test.gif
+      background: /images/HomeBanner2.gif
   - infopic:
       title: "National Junior College Open House: 12 January 2024"
       id: infopic
