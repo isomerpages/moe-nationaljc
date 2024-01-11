@@ -14,9 +14,7 @@ sections:
         - title: News
           description: ""
           url: resources/news/
-      background: /images/Cropped.jpeg
-      title: College of the Nation
-      subtitle: Home of Scholars and Leaders who Serve with Honour
+      background: /images/HomeBanner2.gif
   - infopic:
       title: "National Junior College Open House: 12 January 2024"
       id: infopic
