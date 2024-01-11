@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<h3>Humanities</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Contact</p></th></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p></p>
+<h3>Humanities</h3><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/hum3.png"></div><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/hum4.png"></div><p></p>
