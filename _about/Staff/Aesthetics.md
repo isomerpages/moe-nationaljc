@@ -3,8 +3,6 @@ title: Aesthetics
 permalink: /about/staff/aesthetics/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
-### Aesthetics
-
-<img src="/images/AES3__2_.png" style="width:80%">
+<h3>Aesthetics</h3><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Contact</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mdm Ong Theng Choo</p></td><td rowspan="1" colspan="1"><p>ST/Art</p></td><td rowspan="1" colspan="1"><p>ong_theng_choo@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Gayle Sim</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>gayle_sim@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Brandon Lim</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>lim_jing_hong@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Michelle Lin</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>lin_qinrong_michelle@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Aaron Lum</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>lum_zhi_yong_aaron@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Lynette&nbsp; Yeo</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>lynette_yeo_yan_teng@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Wun Cheng Yi</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>wun_cheng_yi@moe.edu.sg</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Ernest Yeo</p></td><td rowspan="1" colspan="1"><p>Teacher</p></td><td rowspan="1" colspan="1"><p>ernest_yeo@moe.edu.sg</p></td></tr></tbody></table><p></p>
