@@ -15,6 +15,7 @@ sections:
           description: ""
           url: resources/news/
       background: /images/HomeBanner2.gif
+      url: njc@moe.edu.sg
   - infopic:
       title: "National Junior College Open House: 12 January 2024"
       id: infopic
