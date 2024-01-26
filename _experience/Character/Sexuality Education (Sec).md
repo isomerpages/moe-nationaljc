@@ -45,13 +45,14 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 **At National Junior College, the following Sexuality Education lessons will be taught in 2024:**
 
-**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> **Secondary 1**
+**2024 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> 
+**Secondary 1**
 
 ![](/images/1_SED_SEC.png)
 
 ![](/images/2_SED_SEC.png)
 	
-**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> 
+**2024 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> 
 **Secondary 2**
 
 ![](/images/3_SED_SEC.png)
@@ -60,14 +61,14 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 ![](/images/5_SED_SEC.png)
 
-**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> 
+**2024 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> 
 **Secondary 3**
 
 ![](/images/6_SED_SEC.png)
 ![](/images/7_SED_SEC.png)
 
-2023 SEXUALITY EDUCATION LESSONS IN CCE 2021<br> 
-Secondary 4<br>
+**2024 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> 
+**Secondary 4**<br>
 
 ![](/images/8_SED_SEC.png)
 ![](/images/9_SED_SEC.png)
