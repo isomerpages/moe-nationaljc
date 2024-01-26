@@ -48,6 +48,8 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 **2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> **Secondary 1**
 
 ![](/images/1_SED_SEC.png)
+
+![](/images/2_SED_SEC.png)
 	
 &nbsp;**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> 
 **Secondary 2**
