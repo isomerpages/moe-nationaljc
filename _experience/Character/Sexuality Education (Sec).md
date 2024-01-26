@@ -46,8 +46,8 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 **At National Junior College, the following Sexuality Education lessons will be taught in 2024:**
 
 **2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> **Secondary 1**
-         
-				 TABLE
+
+![](/images/1_SED_SEC.png)
 	
 &nbsp;**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> 
 **Secondary 2**
@@ -88,6 +88,8 @@ TABLE
 
 13.	Parents can contact the school at 6466 1144 or via email at njc@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
 
+
+<br><br>
 **(Please insert School’s Letterhead)**
 
 Date
