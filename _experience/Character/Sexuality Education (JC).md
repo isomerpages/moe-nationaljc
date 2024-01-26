@@ -52,22 +52,22 @@ You may click here [here](https://go.gov.sg/moe-sexuality-education) for more in
 ![](/images/PREUY2_IPY6_2.png)
 
 
-_**(Senior High 1 only) eTeens**_&nbsp;**Programme**
+**eTeens Programme:** 
 
-_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.
+6. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions. <br><br>
 
-Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
+7. Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
-**At National Junior College, the**&nbsp;_**eTeens**_&nbsp;**programme will be implemented as follows in 2023:**
+**At National Junior College, the eTeens programme will be implemented as follows in 2024:**
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bolder">Topics/Lessons</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bolder">Programme Learning Objectives</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bolder">Time Period</span></th></tr></thead><tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mass Talk by HPB appointed vendor</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">·       Awareness of the different STI and HIV<br><br>·       Modes of transmission for STI and HIV<br>·       Modes of protection against infection, specifically abstinence and the correct use of condom<br>·       Consequences and impact of STI/HIV<br>·       State the ways of managing the impact of STIs</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Term 3 Week 9</td></tr></tbody></table>
 
-**Information for Parents**
 
-Parents may opt their children out of Sexuality Education and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+**INFORMATION FOR PARENTS**
 
-Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year through Parents Gateway and is also downloadable&nbsp;[here](/files/NJC_SEd_Opt-Out-Form.pdf). The completed form is to be submitted by 20/03/2023.
+8. Parents may opt their children out of Sexuality Education and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-Parents who wish to opt their children out of the&nbsp;_**eTeens**_&nbsp;**programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](/files/eTeens-Opt-Out-Form-JCCI-2023.pdf). The completed form is to be submitted by 20/03/2023.
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also found [here](https://form.gov.sg/65b0d83d2f6c2880eb08018b). The completed form is to be submitted by 12th April 2024. 
 
-Parents can contact the school via telephone at 6466 1144 or via email at njc@moe.edu.sg for discussion or to seek clarification about the school’s sexuality education programme.
+10. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also found [here](https://form.gov.sg/65b0d9577ed92f9250dadb36). The completed form is to be submitted by 12th April 2024. 
+
+11. Parents can contact the school at 6466 1144 or via email at njc@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
