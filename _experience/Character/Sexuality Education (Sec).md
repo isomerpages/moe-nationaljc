@@ -99,32 +99,3 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 12.	Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/65b0da2190d4ae5b33259254).  The completed form is to be submitted by 8th March 2024.
 
 13.	Parents can contact the school at 6466 1144 or via email at njc@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
-
-
-<br><br>
-**(Please insert School’s Letterhead)**
-
-Date
-
-Dear Parents/ Guardians 
-
-
-**MOE SEXUALITY EDUCATION IN SCHOOLS** 
-
-Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues
-
-2.	The **Goals** of Sexuality Education are:
-*	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.
-*	Guide students to make wise, informed and responsible decisions on sexuality matters.
-*	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. 
-
-
-3.	The **Key Messages** of Sexuality Education are:
-*	Love and respect yourself as you love and respect others;
-*	Build positive relationships based on love and respect (which are the foundation for strong families);
-*	Make responsible decisions for yourself, your family and society; and
-*	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
-
-4.	Please visit the school’s Sexuality Education webpage (please insert the relevant hyperlink) for more information on **DEF Secondary School’s Sexuality Education Programme for 2024.**
-
-Thank you.
