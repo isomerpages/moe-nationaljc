@@ -86,10 +86,10 @@ TABLE
 
 12.	Parents who wish to opt their children out of the **eTeens programme** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/65b0da2190d4ae5b33259254).  The completed form is to be submitted by 8th March 2024.
 
-
 13.	Parents can contact the school at 6466 1144 or via email at njc@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
 
-(Please insert School’s Letterhead)	
+**(Please insert School’s Letterhead)**
+
 Date
 
 Dear Parents/ Guardians 
@@ -114,4 +114,3 @@ Dear Parents/ Guardians
 4.	Please visit the school’s Sexuality Education webpage (please insert the relevant hyperlink) for more information on **DEF Secondary School’s Sexuality Education Programme for 2024.**
 
 Thank you.
-
