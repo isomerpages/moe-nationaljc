@@ -65,13 +65,16 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 **Secondary 3**
 
 ![](/images/6_SED_SEC.png)
+
 ![](/images/7_SED_SEC.png)
 
 **2024 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> 
 **Secondary 4**<br>
 
 ![](/images/8_SED_SEC.png)
+
 ![](/images/9_SED_SEC.png)
+
 ![](/images/10_SED_SEC.png)
 
 **_eTeens_ Programme**:<br>
