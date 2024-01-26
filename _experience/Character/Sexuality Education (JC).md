@@ -46,6 +46,7 @@ You may click here [here](https://go.gov.sg/moe-sexuality-education) for more in
 ![](/images/PREUY1_IPY5_2.png)
 
 **Pre-U Year 2 / IP Year 6**
+
 ![](/images/PREUY2_IPY6_1.png)
 
 ![](/images/PREUY2_IPY6_2.png)
