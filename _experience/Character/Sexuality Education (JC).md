@@ -60,7 +60,7 @@ You may click here [here](https://go.gov.sg/moe-sexuality-education) for more in
 
 **At National Junior College, the eTeens programme will be implemented as follows in 2024:**
 
-
+![](/images/eTeens.png)
 
 **INFORMATION FOR PARENTS**
 
