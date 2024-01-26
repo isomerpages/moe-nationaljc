@@ -58,15 +58,20 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 ![](/images/4_SED_SEC.png)
 
+![](/images/5_SED_SEC.png)
+
 **2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**<br> 
 **Secondary 3**
 
-TABLE
+![](/images/6_SED_SEC.png)
+![](/images/7_SED_SEC.png)
 
 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021<br> 
-;Secondary 4<br>
-        
-TABLE
+Secondary 4<br>
+
+![](/images/8_SED_SEC.png)
+![](/images/9_SED_SEC.png)
+![](/images/10_SED_SEC.png)
 
 **_eTeens_ Programme**:<br>
 
@@ -78,7 +83,7 @@ TABLE
 
 **At National Junior College, the eTeens programme will be implemented as follows in 2024:**
 
-TABLE
+![](/images/11_SED_SEC.png)
 
 **INFORMATION FOR PARENTS**
 
