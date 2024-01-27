@@ -35,24 +35,26 @@ You may click here [here](https://go.gov.sg/moe-sexuality-education) for more in
 
 5. The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/MI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships. 
 
-**At National Junior College, the following Sexuality Education lessons will be taught in 2024:**
+**At National Junior College, the following Sexuality Education lessons will be taught in <u>2024</u>:**
 
-**2023 Sexuality Education Lessons in CCE 2021**
+<center> <b>2024 Sexuality Education Lessons in CCE 2021</b>
 
-**Pre-U Year 1 / IP Year 5**
+<b> PRE-U YEAR 1 / IP YEAR 5 </b> </center>
 
 ![](/images/PREUY1_IPY5_1.png)
 
 ![](/images/PREUY1_IPY5_2.png)
 
-**Pre-U Year 2 / IP Year 6**
+<center> <b>2024 Sexuality Education Lessons in CCE 2021</b>
+
+<b> PRE-U YEAR 2 / IP YEAR 6 </b> </center>
 
 ![](/images/PREUY2_IPY6_1.png)
 
 ![](/images/PREUY2_IPY6_2.png)
 
 
-**eTeens Programme:** 
+<b><u> *eTeens* Programme: </u></b> 
 
 6. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions. <br><br>
 
@@ -68,6 +70,6 @@ You may click here [here](https://go.gov.sg/moe-sexuality-education) for more in
 
 9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also found [here](https://form.gov.sg/65b0d83d2f6c2880eb08018b). The completed form is to be submitted by 12th April 2024. 
 
-10. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also found [here](https://form.gov.sg/65b0d9577ed92f9250dadb36). The completed form is to be submitted by 12th April 2024. 
+10. Parents who wish to opt their children out of the <b> *eTeens* Programme: </b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also found [here](https://form.gov.sg/65b0d9577ed92f9250dadb36). The completed form is to be submitted by 12th April 2024. 
 
 11. Parents can contact the school at 6466 1144 or via email at njc@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
