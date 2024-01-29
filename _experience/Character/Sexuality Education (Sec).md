@@ -55,14 +55,14 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 1 </b> </center>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/1_SED_SEC.png"><br>
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/1_SED_SEC.png">
 <img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/2_SED_SEC.png">
 	
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 2 </b> </center>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/3_SED_SEC.png"><br>
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/3_SED_SEC.png">
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/4_SED_SEC.png"><br>
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/4_SED_SEC.png">
 
 <img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/5_SED_SEC.png">
 
@@ -80,17 +80,22 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 	
 <img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/10_SED_SEC.png">
 
+<br>
+	
 <b><u> <i>eTeens</i> Programme </u> </b>:
 
 <li>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</li>
 
 <li>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</li>
 
+<br>
 
 <b>At National Junior College, the eTeens programme will be implemented as follows in 2024:</b>
 
 <img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/11_SED_SEC.png">
 
+<br>
+	
 <b>INFORMATION FOR PARENTS</b>
 
 <li>Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
