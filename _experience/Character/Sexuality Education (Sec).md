@@ -80,7 +80,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 	
 <img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/10_SED_SEC.png">
 
-<b><u> *eTeens* Programme </u> </b>:
+<b><u> <i>eTeens</i> Programme </u> </b>:
 
 <li>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</li>
 
