@@ -24,13 +24,11 @@ Please join us on 2 February 2024 at 7.20am at the NJC School Hall. A week-long 
 
 The JAE appeal period is strictly from **1 February 2024 (Thu), 9 am to 7 February 2024 (Wed), 12 pm.**
 
-**To appeal for admission to National Junior College, please fill out the online application form [here](https://go.gov.sg/2024sh1appeal). Please note that we do not accept hard-copy application forms.**
-
-If you are unable to upload your GCE ‘O’ Level results slip and other supporting documents using the online form, you should submit the softcopy documents to njc@moe.edu.sg by 7 February 2024 (Wed), 12 pm.
+To appeal for admission to National Junior College, please fill out the online application form which will be made available later. Please note that we do not accept hard-copy application forms.
 
 You may be called up for auditions, trials or interviews by the respective teachers-in-charge.
 
-For information about subject combinations and pre-requisites, you may refer to this [webpage](https://moe-nationaljc-staging.netlify.app/senior-high/subject-combinations/). If you have plans to read a subject that requires a qualifying test, please note that all qualifying tests will be administered on 5 February (Mon), 3 pm to 6 pm. Applicants who put in the appeal by 4 February (Sun) 11.59 pm and are shortlisted will be notified if you are to come for the qualifying test. There will be no make-up qualifying test/re-test after 5 February (Mon).
+For information about subject combinations and pre-requisites, you may refer to this [webpage](https://www.nationaljc.moe.edu.sg/senior-high/subject-combinations/). If you have plans to read a subject that requires a qualifying test, please note that all qualifying tests will be administered on 5 February (Mon), 3 pm to 6 pm. Applicants who put in the appeal by 4 February (Sun) 11.59 pm and are shortlisted will be notified if you are to come for the qualifying test. There will be no make-up qualifying test/re-test after 5 February (Mon).
 
 **Successful applicants will be notified of the outcome of their appeal application by phone call, latest by 7 February 2024 (Wed), 12 pm.** You will be required to bring along your original GCE ‘O’ Level results slip and Form A.
 
@@ -46,5 +44,4 @@ For information about subject combinations and pre-requisites, you may refer to 
 </li>
 </ol>
 
-	
 Appeals that take place after the JAE will be aligned to these principles, in order to be fair to all applicants.
