@@ -41,17 +41,17 @@ You may click here [here](https://go.gov.sg/moe-sexuality-education) for more in
 
 <b> PRE-U YEAR 1 / IP YEAR 5 </b> </center>
 
-![](/images/PREUY1_IPY5_1.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/PREUY1_IPY5_1.png)
 
-![](/images/PREUY1_IPY5_2.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/PREUY1_IPY5_2.png)
 
 <center> <b>2024 Sexuality Education Lessons in CCE 2021</b>
 
 <b> PRE-U YEAR 2 / IP YEAR 6 </b> </center>
 
-![](/images/PREUY2_IPY6_1.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/PREUY2_IPY6_1.png)
 
-![](/images/PREUY2_IPY6_2.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/PREUY2_IPY6_2.png)
 
 
 <b><u> *eTeens* Programme: </u></b> 
@@ -62,7 +62,7 @@ You may click here [here](https://go.gov.sg/moe-sexuality-education) for more in
 
 **At National Junior College, the eTeens programme will be implemented as follows in 2024:**
 
-![](/images/eTeens.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/eTeens.png)
 
 **INFORMATION FOR PARENTS**
 
