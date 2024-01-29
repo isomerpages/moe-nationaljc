@@ -19,19 +19,20 @@ variant: markdown
 *	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
 </li><br><br>
 	
-<li>The <b>Key Messages</b> of Sexuality Education are:
+<li>The <b>Key Messages</b> of Sexuality Education are:</li>
 
-*	Love and respect yourself as you love and respect others;
-*	Build positive relationships based on love and respect (which are the foundation for strong families);
-*	Make responsible decisions for yourself, your family and society; and
-*	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br><br>
+<li>Love and respect yourself as you love and respect others;</li>
+<li>Build positive relationships based on love and respect (which are the foundation for strong families);</li>
+<li>Make responsible decisions for yourself, your family and society; and</li>
+<li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
+<br><br>
 
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.<br><br>
 
 <b>OVERVIEW OF NATIONAL JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2024</b><br><br>
 
-</li><li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.<br><br>
+<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.<br><br>
 
 </li><li>The subjects that incorporate topics on sexuality include: 
 * Science 
