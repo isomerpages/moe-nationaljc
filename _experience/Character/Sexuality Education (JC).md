@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Character
 variant: markdown
 ---
-### Sexuality Education (JC)
+&lt;### Sexuality Education (JC)
 
 <b>MOE Sexuality Education in Schools</b>
 <ol>
@@ -62,11 +62,11 @@ You may click here <a for="" href="https://go.gov.sg/moe-sexuality-education">OV
 
 7. Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages. 
 
-**At National Junior College, the eTeens programme will be implemented as follows in 2024:**
+<b>At National Junior College, the eTeens programme will be implemented as follows in 2024:</b>
 
 ![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/eTeens.png)
 
-**INFORMATION FOR PARENTS**
+<b>INFORMATION FOR PARENTS</b>
 
 8. Parents may opt their children out of Sexuality Education and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
