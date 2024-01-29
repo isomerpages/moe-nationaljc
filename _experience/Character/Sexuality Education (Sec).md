@@ -49,43 +49,44 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 1 </b> </center>
 
-![](/images/1_SED_SEC.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/1_SED_SEC.png)
 
-![](/images/2_SED_SEC.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/2_SED_SEC.png)
 	
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 2 </b> </center>
 
-![](/images/3_SED_SEC.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/3_SED_SEC.png)
 
-![](/images/4_SED_SEC.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/4_SED_SEC.png)
 
-![](/images/5_SED_SEC.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/5_SED_SEC.png)
 
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 3 </b> </center>
 
-![](/images/6_SED_SEC.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/6_SED_SEC.png)
 
-![](/images/7_SED_SEC.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/7_SED_SEC.png)
 
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 4 </b> </center>
 
-![](/images/8_SED_SEC.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/8_SED_SEC.png)
 
-![](/images/9_SED_SEC.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/9_SED_SEC.png)
 
-![](/images/10_SED_SEC.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/10_SED_SEC.png)
 
-<b> <u> *eTeens* Programme </u> </b>:<br><br>
+<b><u> *eTeens* Programme </u> </b>:<br><br>
 
-<li>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.<br><br>
+<li>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+</li><br><br>
 
-
-</li><li>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.<br><br>
+<li>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
+</li><br><br>
 
 
 **At National Junior College, the eTeens programme will be implemented as follows in 2024:**
 
-![](/images/11_SED_SEC.png)
+![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/11_SED_SEC.png)
 
 **INFORMATION FOR PARENTS**
 
@@ -95,4 +96,4 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 12.	Parents who wish to opt their children out of the <b> *eTeens* Programme </b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://form.gov.sg/65b0da2190d4ae5b33259254).  The completed form is to be submitted by 8th March 2024.
 
-13.	Parents can contact the school at 6466 1144 or via email at njc@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
+13.	Parents can contact the school at 6466 1144 or via email at njc@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
