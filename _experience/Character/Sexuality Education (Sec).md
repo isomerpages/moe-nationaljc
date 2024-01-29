@@ -49,30 +49,19 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 1 </b> </center>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/1_SED_SEC.png">
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/2_SED_SEC.png">
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/1_SEC.png">
 	
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 2 </b> </center>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/3_SED_SEC.png">
-
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/4_SED_SEC.png">
-
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/5_SED_SEC.png">
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/2_SEC.png">
 
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 3 </b> </center>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/6_SED_SEC.png">
-
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/7_SED_SEC.png">
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/3_SEC.png">
 
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 4 </b> </center>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/8_SED_SEC.png">
-	
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/9_SED_SEC.png">
-	
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/10_SED_SEC.png">
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/4_SEC.png">
 
 <br>
 	
@@ -96,7 +85,7 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 
 <li>Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/65b0da647091a98ec324400b">here</a>. The completed form is to be submitted by 8th March 2024.</li>
 
-<li>Parents who wish to opt their children out of the <b> <i>eTeens</i> Programme </b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/65b0da2190d4ae5b33259254">here</a>.  The completed form is to be submitted by 8th March 2024.</li>
+<li>Parents who wish to opt their children out of the <b> <i>eTeens</i> Programme </b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also found <a href="https://form.gov.sg/65b0da2190d4ae5b33259254">here</a>.  The completed form is to be submitted by 8th March 2024.</li>
 
 <li>Parents can contact the school at 6466 1144 or via email at njc@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
