@@ -34,14 +34,21 @@ variant: markdown
 You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education.
 
 <br>
+<br>
 
 <b>OVERVIEW OF NATIONAL JUNIOR COLLEGE’S SEXUALITY EDUCATION PROGRAMME FOR 2024</b>
 
+<br>
+	
 <li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope">here</a> for more information on the scope of Sexuality Education in the school curriculum.</li>
+
+<br>
 
 <b>Sexuality Education:</b>
 
 <li>The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/MI package covers themes of Interpersonal Relationships, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.</li>
+
+<br>
 
 <b>At National Junior College, the following Sexuality Education lessons will be taught in <u>2024</u>:</b>
 
@@ -60,16 +67,23 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 <img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/PREUY2_IPY6_1.png">
 
 <img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/PREUY2_IPY6_2.png">
+	
+<br>
 
 <b><u> <i>eTeens</i> Programme: </u></b> 
 
 <li>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/MI Year 1 students with accurate information on STIs/HIV and protection from a health perspective. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</li>
 
 <li>Students learn the health, social and financial implications of STIs/HIV on an individual and the family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</li>
+	
+<br>
+
 
 <b>At National Junior College, the eTeens programme will be implemented as follows in 2024:</b>
 
 <img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/eTeens.png">
+
+<br>
 
 <b>INFORMATION FOR PARENTS</b>
 
