@@ -68,17 +68,17 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 3 </b> </center>
 
-![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/6_SED_SEC.png)
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/6_SED_SEC.png">
 
-![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/7_SED_SEC.png)
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/7_SED_SEC.png">
 
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 4 </b> </center>
 
-![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/8_SED_SEC.png)
-
-![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/9_SED_SEC.png)
-
-![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/10_SED_SEC.png)
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/8_SED_SEC.png">
+	
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/9_SED_SEC.png">
+	
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/10_SED_SEC.png">
 
 <b><u> *eTeens* Programme </u> </b>:
 
@@ -87,17 +87,17 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 <li>Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.</li>
 
 
-**At National Junior College, the eTeens programme will be implemented as follows in 2024:**
+<b>At National Junior College, the eTeens programme will be implemented as follows in 2024:</b>
 
-![](/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/11_SED_SEC.png)
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/11_SED_SEC.png">
 
-**INFORMATION FOR PARENTS**
+<b>INFORMATION FOR PARENTS</b>
 
 <li>Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.</li>
 
-<li>Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/65b0da647091a98ec324400b">here</a>. The completed form is to be submitted by 8th March 2024.</li>
+<li>Parents who wish to opt their children out of the <b>Sexuality Education lessons</b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/65b0da647091a98ec324400b">here</a>. The completed form is to be submitted by 8th March 2024.</li>
 
-<li>Parents who wish to opt their children out of the <b> *eTeens* Programme </b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/65b0da2190d4ae5b33259254">here</a>.  The completed form is to be submitted by 8th March 2024.</li>
+<li>Parents who wish to opt their children out of the <b> <u>eTeens</u> Programme </b> need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/65b0da2190d4ae5b33259254">here</a>.  The completed form is to be submitted by 8th March 2024.</li>
 
 <li>Parents can contact the school at 6466 1144 or via email at njc@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</li>
 </ol>
