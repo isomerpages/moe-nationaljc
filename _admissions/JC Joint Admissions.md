@@ -20,26 +20,31 @@ Welcome to the NJC Family!
 
 Please join us on 2 February 2024 at 7.20am at the NJC School Hall. A week-long Orientation programme has been organised for you by your seniors from 2 Feb – 8 Feb 2024. Your Orientation Group Leaders (OGLs) will be contacting you, and helping you to adjust to NJC and make new friends.
 
-**Appeals for Admission to NJC 2-year ‘A’ Level Programme in AY2023**
+**Appeals for Admission to NJC 2-year ‘A’ Level Programme in AY2024**
 
-The JAE appeal period is strictly from&nbsp;**2 February 2023 (Thurs), 9 am**&nbsp;to&nbsp;**8 February 2023 (Wed), 12 pm.**
+The JAE appeal period is strictly from **1 February 2024 (Thu), 9 am to 7 February 2024 (Wed), 12 pm.**
 
-**To appeal for admission to National Junior College, please fill out the online application form**&nbsp;[**here**](https://go.gov.sg/2023sh1appeal)**.**&nbsp;**Please note that we do not accept hard-copy application forms.**
+**To appeal for admission to National Junior College, please fill out the online application form [here](https://go.gov.sg/2024sh1appeal). Please note that we do not accept hard-copy application forms.**
 
-If you are unable to upload your GCE ‘O’ Level results slip and other supporting documents using the online form, you should submit the softcopy documents to&nbsp;njc@moe.edu.sg&nbsp;by 8 February 2023 (Wed),&nbsp;12 pm.
+If you are unable to upload your GCE ‘O’ Level results slip and other supporting documents using the online form, you should submit the softcopy documents to njc@moe.edu.sg by 7 February 2024 (Wed), 12 pm.
 
 You may be called up for auditions, trials or interviews by the respective teachers-in-charge.
 
-For information about subject combinations and pre-requisites, you may refer to this&nbsp;[webpage](https://moe-nationaljc-staging.netlify.app/senior-high/subject-combinations/). If you have plans to read a subject that requires a qualifying test or interview, please note that all qualifying tests or interviews will be administered on&nbsp;**6 February (Mon), 2 pm to 6 pm**. Applicants who put in the appeal by 5 February (Sun) 11.59 pm&nbsp;and&nbsp;are shortlisted will be notified if you are to come for the qualifying test or interview. There will be NO make-up qualifying test/re-test after 6 February (Mon).
+For information about subject combinations and pre-requisites, you may refer to this [webpage](https://moe-nationaljc-staging.netlify.app/senior-high/subject-combinations/). If you have plans to read a subject that requires a qualifying test, please note that all qualifying tests will be administered on 5 February (Mon), 3 pm to 6 pm. Applicants who put in the appeal by 4 February (Sun) 11.59 pm and are shortlisted will be notified if you are to come for the qualifying test. There will be no make-up qualifying test/re-test after 5 February (Mon).
 
-**Successful applicants will be notified of the outcome of their appeal application through a phone call, latest by 8 February 2023 (Wed), 5 pm.**&nbsp;You will be required to bring along your original GCE ‘O’ Level results slip&nbsp;and&nbsp;Form A for verification.
+**Successful applicants will be notified of the outcome of their appeal application by phone call, latest by 7 February 2024 (Wed), 12 pm.** You will be required to bring along your original GCE ‘O’ Level results slip and Form A.
 
 **Important notes:**
+<ol>
+<li>All applicants are still required to report to the college that they are posted to by the Ministry of Education on the morning of 2 February 2024 (Fri) at 7.30 am, pending the outcome of their appeal application to National Junior College.
+</li>
 
-1\. All applicants are still required to report to the college that they are&nbsp;posted to&nbsp;by the Ministry of Education&nbsp;on the morning of 3&nbsp;February 2023 (Fri) at 7.30 am, pending the outcome of their appeal application to National Junior College.
+<li> Please do NOT submit an appeal if you already have a place in another school under the Direct School Admission (DSA), as it will not be accepted.
+</li>
 
-2\. Please do NOT submit an appeal if you already have a place in another school under the Direct School Admission (DSA), as it will not be accepted.
+<li> Please be aware that school admissions are based on objective and transparent measures of academic merit, i.e. L1R5 aggregate score. Applications are considered only if the applicant meets the net aggregate score of the lowest-ranked applicant for the course that he/she is appealing for. 
+</li>
+</ol>
 
-3\. Please be aware that school admissions are based on objective and transparent measures of academic merit, i.e. L1R5 aggregate score. Applications are considered only if the applicant meets the net aggregate score of the lowest-ranked applicant for the course that he/she is appealing for.&nbsp;**For 2023, the cut-off net aggregate score is 7 for the Science stream and 8 for the Arts stream.**
-
+	
 Appeals that take place after the JAE will be aligned to these principles, in order to be fair to all applicants.
