@@ -17,6 +17,13 @@ sections:
       background: /images/HomeBanner2.gif
       url: njc@moe.edu.sg
   - infopic:
+      title: Joint Admissions Exercise
+      id: infopic
+      button: read more here
+      url: /admissions/jc-joint-admissions/
+      image: /images/JAE.jpg
+      alt: Image alt text
+  - infopic:
       title: "National Junior College Open House: 12 January 2024"
       id: infopic
       button: READ MORE HERE
