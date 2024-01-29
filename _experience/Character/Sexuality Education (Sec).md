@@ -61,8 +61,10 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 2 </b> </center>
 
 <img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/3_SED_SEC.png"><br>
+
 <img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/4_SED_SEC.png"><br>
-<img src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/5_SED_SEC.png">
+
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/5_SED_SEC.png">
 
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 3 </b> </center>
 
