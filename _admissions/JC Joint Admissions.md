@@ -40,7 +40,7 @@ For information about subject combinations and pre-requisites, you may refer to 
 <li> Please do NOT submit an appeal if you already have a place in another school under the Direct School Admission (DSA), as it will not be accepted.
 </li>
 
-<li> Please be aware that school admissions are based on objective and transparent measures of academic merit, i.e. L1R5 aggregate score. Applications are considered only if the applicant meets the net aggregate score of the lowest-ranked applicant for the course that he/she is appealing for. 
+<li> Please be aware that school admissions are based on objective and transparent measures of academic merit, i.e. L1R5 aggregate score. Applications are considered only if the applicant meets the net aggregate score of the lowest-ranked applicant for the course that he/she is appealing for. <b>For 2024, the cut-off net aggregate score is 7 for the Science stream and 8 for the Arts stream.</b>
 </li>
 </ol>
 
