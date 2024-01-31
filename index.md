@@ -21,7 +21,7 @@ sections:
       id: infopic
       button: read more here
       url: /admissions/jc-joint-admissions/
-      image: /images/Screenshot_2024_01_31_181003.png
+      image: /images/JAE.jpg
       alt: Image alt text
       description: Welcome to NJC! Join us on 2 Feb 2024 at 7.20am at the NJC School
         Hall. Orientation will be conducted from 2 – 8 Feb 2024. See you!
