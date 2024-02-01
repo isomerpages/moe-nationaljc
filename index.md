@@ -17,12 +17,14 @@ sections:
       background: /images/Images for Banner/HomeBanner2.gif
       url: njc@moe.edu.sg
   - infopic:
-      title: Joint Admissions Exercise
+      title: "Students who are Posted to NJC : 2024 JAE"
       id: infopic
       button: read more here
       url: /admissions/jc-joint-admissions/
       image: /images/JAE.jpg
       alt: Image alt text
+      description: Welcome to NJC! Join us on 2 Feb 2024 at 7.20am at the NJC School
+        Hall. Orientation will be conducted from 2 – 8 Feb 2024. See you!
   - infopic:
       title: "National Junior College Open House: 12 January 2024"
       id: infopic

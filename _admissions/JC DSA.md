@@ -2,6 +2,7 @@
 title: JC DSA
 permalink: /admissions/jc-dsa/
 description: ""
+variant: markdown
 ---
 ### Junior College (Direct School Admission)
 
@@ -21,7 +22,7 @@ We invite students with special talents and/or achievements in the following are
 
 |  |  |
 |---|---|
-| **1. CCA Excellence**<br><br>Please refer to this <a target="_blank" href="https://moe-nationaljc-staging.netlify.app/co-curricular-activities/overview">page</a> for a description of CCAs offered in NJC. | **Sports and Games**<br>Badminton<br>Basketball<br>Canoeing &amp; Dragon Boating<br>Floorball<br>Football  (Boys Only)<br>Hockey (Boys Only)<br>Netball (Girls Only)<br>Rock Wall Climbing<br>Shooting<br>Softball<br>Squash<br>Table Tennis<br>Touch Rugby (Girls Only)<br>Track and Field / Cross Country<br><br>**Performing Arts**<br>Chinese Dance<br>Chinese Orchestra<br>Choir<br>Concert Band<br>Guitar Ensemble<br>Guzheng Ensemble<br>Indian Dance<br>Malay Dance<br>String Ensemble<br>Western Dance<br><br>**Clubs &amp; Societies**<br>AVA &amp; PA club<br> Chinese Language, Drama and Debating<br>English Language, Drama and Debating<br>Greenlink Club (Environmental Science)<br>Indian Language, Drama and Debating<br>Interact Club (Community Youth Leadership)<br>Makers' Society (Innovation)<br>Malay Language, Drama and Debating<br>Production Society (Film &amp; Photography)<br> |
+| **1. CCA Excellence**<br><br>Please refer to this <a target="_blank" href="https://www.nationaljc.moe.edu.sg/co-curricular-activities/overview/">page</a> for a description of CCAs offered in NJC. | **Sports and Games**<br>Badminton<br>Basketball<br>Canoeing &amp; Dragon Boating<br>Floorball<br>Football  (Boys Only)<br>Hockey (Boys Only)<br>Netball (Girls Only)<br>Rock Wall Climbing<br>Shooting<br>Softball<br>Squash<br>Table Tennis<br>Touch Rugby (Girls Only)<br>Track and Field / Cross Country<br><br>**Performing Arts**<br>Chinese Dance<br>Chinese Orchestra<br>Choir<br>Concert Band<br>Guitar Ensemble<br>Guzheng Ensemble<br>Indian Dance<br>Malay Dance<br>String Ensemble<br>Western Dance<br><br>**Clubs &amp; Societies**<br>AVA &amp; PA club<br> Chinese Language, Drama and Debating<br>English Language, Drama and Debating<br>Greenlink Club (Environmental Science)<br>Indian Language, Drama and Debating<br>Interact Club (Community Youth Leadership)<br>Makers' Society (Innovation)<br>Malay Language, Drama and Debating<br>Production Society (Film &amp; Photography)<br> |
 | 2. Art Excellence  | MOE Art Elective Programme (AEP) <br>**(must offer A-Level H2 Art**) |
 | 3. Music Excellence  | Music Programme<br> **(must offer A-Level H2 Music)** |
 | 4. Science Research Excellence (refer to this <a target="_blank" href="https://moe-nationaljc-staging.netlify.app/niche-programmes/research/">page</a> for details) | Science Training and Research Programme<br> **(must offer A-Level H3 Science Research)** |
