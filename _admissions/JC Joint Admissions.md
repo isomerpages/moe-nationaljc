@@ -22,7 +22,7 @@ Please join us on 2 February 2024 at 7.20am at the NJC School Hall. A week-long 
 
 **Appeals for Admission to NJC 2-year ‘A’ Level Programme in AY2024**
 
-The JAE appeal period is strictly from **1 February 2024 (Thu), 9 am to 7 February 2024 (Wed), 12 pm.**
+The JAE appeal period is strictly from **1 February 2024 (Thu), 9 am** to **7 February 2024 (Wed), 12 pm.**
 
 **To appeal for admission to National Junior College, please fill out the online application form&nbsp;[here](https://go.gov.sg/2024sh1appeal).&nbsp;Please note that we do not accept hard-copy application
 forms.**
