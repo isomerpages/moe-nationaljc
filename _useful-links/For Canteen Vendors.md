@@ -2,17 +2,18 @@
 title: For Canteen Vendors
 permalink: /useful-links/for-canteen-vendors/
 description: ""
+variant: markdown
 ---
-#### School Canteen Advertisement
+## National Junior College Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall | 25 May 2023 | Rice or noodle stalls are acceptable.|
+| Malay Food Stall | 29 March 2024 | Rice or noodle stalls are acceptable.|
 
 **Application Procedure**
-
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-* [Application Form](/files/formbf7.pdf)
+
+* [Application Form](/files/FormBF7.pdf)
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
@@ -20,11 +21,10 @@ description: ""
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
-
 * Address: National Junior College, 37 Hillcrest Road, Singapore 288913
 * Contact No: 6466 1144
-* Email: njc@moe.edu.sg
-* Contact Person: Mr Boo Chee Yong / Ms Hiew Mei Chin
+* Email: njc@moe.edu.sg; 
+* Contact Person: Mr Boo Chee Yong / Ms Hiew Mei Chin 
 
 **How to get there?**
 * Nearest MRT: Tan Kah Kee MRT (DT8 line) – 10 minutes walking distance
@@ -33,7 +33,8 @@ description: ""
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines 
+(See [Link](https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 * Able to maintain high standard of food safety and personal hygiene.
 * Healthy and fit to operate the stall.
 
