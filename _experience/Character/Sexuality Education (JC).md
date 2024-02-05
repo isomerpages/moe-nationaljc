@@ -56,7 +56,7 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 
 <b> PRE-U YEAR 1 / IP YEAR 5 </b> </center>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/JC_2.jpg">
+<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/SEd_JC_1.png">
 
 <center> <b>2024 Sexuality Education Lessons in CCE 2021</b><br>
 
