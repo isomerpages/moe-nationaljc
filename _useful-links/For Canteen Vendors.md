@@ -4,7 +4,7 @@ permalink: /useful-links/for-canteen-vendors/
 description: ""
 variant: markdown
 ---
-National Junior College Canteen Advertisement
+### National Junior College Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
