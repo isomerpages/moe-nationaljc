@@ -10,7 +10,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Hiew Mei Chin, <strong>AM / Finance &amp; Admin</strong>
+<p>Ms Hiew Mei Chin, <strong>AM/Finance &amp; Admin</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Boo Chee Yong, <strong>AM / Student &amp; Staff Matters</strong>
+<p>Mr Boo Chee Yong, <strong>AM/Student &amp; Staff Matters</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Keng Ghee Kenneth, <strong>AM / Boarding</strong>&nbsp;</p>
+<p>Mr Tan Keng Ghee Kenneth, <strong>AM/Boarding</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_keng_ghee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_keng_ghee@moe.edu.sg</a>
@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Choong Cher Siong, <strong>OM / College</strong>
+<p>Mr Choong Cher Siong, <strong>OM/College</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
