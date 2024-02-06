@@ -82,9 +82,6 @@ a specific combination (see graphic below)</p>
 </div>
 <p>Here are the subject combinations offered in National Junior College,
 displayed in text.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH%20Subject%20Combination/arts%20combi.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH Subject Combination/JAE_Arts_word.png">
@@ -93,8 +90,9 @@ displayed in text.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH Subject Combination/JAE_Science_Word.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH%20Subject%20Combination/sci%20combi%202.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH Subject Combination/JAE_Science_Word_2.png">
 </div>
 <p>For AY 2024,&nbsp;<strong>all qualifying tests</strong>&nbsp;will be administered
 on&nbsp;<strong>05 February</strong>. Please note that there will be&nbsp;<strong>NO</strong>&nbsp;make
