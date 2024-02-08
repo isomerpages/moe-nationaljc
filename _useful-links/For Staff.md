@@ -8,7 +8,6 @@ variant: markdown
 
 <p style="color:blue;font-size:30px"> Links </p>
 
-
 [MOE Intranet](https://intranet.moe.gov.sg/)
 
 [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/app/login)
