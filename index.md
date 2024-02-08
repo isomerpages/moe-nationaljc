@@ -23,6 +23,8 @@ sections:
         Eden family! All proceeds will go to the Eden Centre for Adults. Let’s
         do good while having fun!
       alt: Image alt text
+      url: /funtasia/
+      image: /images/Funtasia2024.jpg
   - infopic:
       title: "Students who are Posted to NJC : 2024 JAE"
       id: infopic
