@@ -4,7 +4,7 @@ permalink: /useful-links/for-staff/
 description: ""
 variant: markdown
 ---
-<b style="font-size:50px"> For Staffs </b> 
+<b style="font-size:50px"> For Staff </b> 
 
 <p style="color:blue;font-size:30px"> Links </p>
 
