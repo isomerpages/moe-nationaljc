@@ -26,7 +26,7 @@ sections:
         Eden family! All proceeds will go to the Eden Centre for Adults. Let’s
         do good while having fun!
       alt: Image alt text
-      url: /funtasia/
+      url: /resources/events/funtasia/
       image: /images/Funtasia2024.jpg
       button: read more here
   - infopic:
