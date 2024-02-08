@@ -28,6 +28,7 @@ variant: markdown
 [Student Portal](http://www.edhub.net/studentportal/index.php) 
 
 <b style="color:blue;font-size:30px"> SSOE2 Helpdesk Contact </b>
+
 Operating Day &amp; Hours: <br>
 Mon - Fri ( 7am to 7pm ) <br>
 Sat ( 7am to 2pm ) <br>
