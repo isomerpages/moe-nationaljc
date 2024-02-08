@@ -49,19 +49,19 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 1 </b> </center>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/1SEC.png">
+<img alt="Description of the image" src="/images/For%20SEd%20JC%20&amp;%20Sec/1SEC.png">
 	
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 2 </b> </center>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/2SEC.png">
+<img alt="Description of the image" src="/images/For%20SEd%20JC%20&amp;%20Sec/2SEC.png">
 
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 3 </b> </center>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/3SEC.png">
+<img alt="Description of the image" src="/images/For%20SEd%20JC%20&amp;%20Sec/3SEC.png">
 
 <center> <b> 2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 <br> SECONDARY 4 </b> </center>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/4SEC.png">
+<img alt="Description of the image" src="/images/For%20SEd%20JC%20&amp;%20Sec/4SEC.png">
 
 <br>
 	
@@ -75,7 +75,7 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 
 <b>At National Junior College, the eTeens programme will be implemented as follows in 2024:</b>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/11_SED_SEC.png">
+<img alt="Description of the image" src="/images/For%20SEd%20JC%20&amp;%20Sec/11_SED_SEC.png">
 
 <br>
 	
