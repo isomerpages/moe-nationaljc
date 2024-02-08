@@ -15,7 +15,8 @@ will go to the Eden Centre for Adults.</p>
 </p>
 <p>Let's do good while having fun together!</p>
 <p>Stay tuned for more updates!</p>
-<p></p>
 <p>Meanwhile, check us out at our socials:</p>
 <p>Insta</p>
 <p>Tele</p>
+<p>Tiktok</p>
+<p>Facebook</p>
