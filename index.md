@@ -14,6 +14,9 @@ sections:
         - title: News
           description: ""
           url: resources/news/
+        - title: Useful Links
+          description: ""
+          url: /useful-links/
       background: /images/Images for Banner/HomeBanner2.gif
       url: njc@moe.edu.sg
   - infopic:
