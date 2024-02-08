@@ -17,7 +17,7 @@ sections:
       background: /images/Images for Banner/HomeBanner2.gif
       url: njc@moe.edu.sg
   - infopic:
-      title: Funtasia 2024
+      title: "Funtasia 2024:  11 May 2024"
       id: infopic
       description: Funtasia is back! Join us at our campus on 11 May 2024 (Sat),
         10am-3pm, for a fun-filled day with members of the NJC and Eden family.
