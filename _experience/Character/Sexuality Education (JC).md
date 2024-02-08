@@ -30,7 +30,7 @@ variant: markdown
 <li>Make responsible decisions for yourself, your family and society; and</li>
 <li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
 </ul>
-
+	
 You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for more information on MOE Sexuality Education.
 
 <br>
@@ -56,13 +56,13 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 
 <b> PRE-U YEAR 1 / IP YEAR 5 </b> </center>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/SEd_JC_1.png">
+<img alt="Description of the image" src="/images/For%20SEd%20JC%20&amp;%20Sec/SEd_JC_1.png">
 
 <center> <b>2024 Sexuality Education Lessons in CCE 2021</b><br>
 
 <b> PRE-U YEAR 2 / IP YEAR 6 </b> </center>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/JC_1.jpg">
+<img alt="Description of the image" src="/images/For%20SEd%20JC%20&amp;%20Sec/JC_1.jpg">
 
 	
 <br>
@@ -78,7 +78,7 @@ You may click <a href="https://go.gov.sg/moe-sexuality-education">here</a> for m
 
 <b>At National Junior College, the eTeens programme will be implemented as follows in 2024:</b>
 
-<img alt="Description of the image" src="/images/For%20Sexual%20Education%20JC%20&amp;%20Sec/eTeens.png">
+<img alt="Description of the image" src="/images/For%20SEd%20JC%20&amp;%20Sec/eTeens.png">
 
 <br>
 
