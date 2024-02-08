@@ -25,6 +25,7 @@ sections:
       alt: Image alt text
       url: /funtasia/
       image: /images/Funtasia2024.jpg
+      button: read more here
   - infopic:
       title: "Students who are Posted to NJC : 2024 JAE"
       id: infopic
