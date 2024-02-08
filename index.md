@@ -19,8 +19,9 @@ sections:
   - infopic:
       title: "Funtasia 2024:  11 May 2024"
       id: infopic
-      description: Funtasia is back! Join us at our campus on 11 May 2024 (Sat),
-        10am-3pm, for a fun-filled day with members of the NJC and Eden family.
+      description: Funtasia is back! Join us for a fun-filled day with our NJC and
+        Eden family! All proceeds will go to the Eden Centre for Adults. Let’s
+        do good while having fun!
       alt: Image alt text
   - infopic:
       title: "Students who are Posted to NJC : 2024 JAE"
