@@ -4,7 +4,7 @@ permalink: /useful-links/for-students/
 description: ""
 variant: markdown
 ---
-<h1>For Students</h1>
+<b style="font-size:50px"> For Students </b> 
 <p style="color:blue;font-size:30px"> MIMS Self Service Password Reset </p>
 
 <p><a href="/files/MIMS_Self_Service_Password_Reset_Service.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal Self-Service Password Reset Guide</a></p>
