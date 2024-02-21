@@ -23,4 +23,4 @@ Canoeing and Dragon Boat Team A Div Girls – 2nd
 
 View [our Facebook page](https://www.facebook.com/nationaljc/posts/pfbid026hrmFPTfJXJENhj5MHNpVpEjZHnpq1KLcpAeGxTZJwBe63aSxVzuoKmwQWRzYBokl) for more updates
 
-Read [our student athletes reflections](https://moe-nationaljc-staging.netlify.app/voices)
+Read [our student athletes reflections](/voices)
