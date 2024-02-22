@@ -1,0 +1,24 @@
+collections:
+  senior-high:
+    output: true
+    order:
+      - Overview.md
+      - Subjects Offered/.keep
+      - Subjects Offered/Overview.md
+      - Subjects Offered/Art.md
+      - Subjects Offered/Geography.md
+      - Subjects Offered/History.md
+      - Subjects Offered/Economics.md
+      - Subjects Offered/Literature in English.md
+      - Subjects Offered/Mother Tongue.md
+      - Subjects Offered/Knowledge and Inquiry.md
+      - Subjects Offered/General Paper.md
+      - Subjects Offered/English Language and Linguistics.md
+      - Subjects Offered/Foreign Language.md
+      - Subjects Offered/Biology.md
+      - Subjects Offered/Chemistry.md
+      - Subjects Offered/Physics.md
+      - Subjects Offered/Computing.md
+      - Subjects Offered/Mathematics.md
+      - Subjects Offered/Further Mathematics.md
+      - Subject Combinations.md

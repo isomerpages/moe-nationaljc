@@ -1,0 +1,80 @@
+---
+layout: homepage
+title: National Junior College
+description: Brief site description here
+image: /images/njclogo.png
+permalink: /
+notification: ""
+sections:
+  - hero:
+      key_highlights:
+        - title: Events
+          description: ""
+          url: resources/events/
+        - title: News
+          description: ""
+          url: resources/news/
+        - title: Useful Links
+          description: ""
+          url: /useful-links/for-staff/
+      background: /images/Images for Banner/HomeBanner2.gif
+      url: njc@moe.edu.sg
+  - infopic:
+      title: "Funtasia: 11 May 2024"
+      id: infopic
+      description: Funtasia is back! Join us for a fun-filled day with our NJC and
+        Eden family! All proceeds will go to the Eden Centre for Adults. Let’s
+        do good while having fun!
+      alt: Image alt text
+      url: /resources/events/funtasia/
+      image: /images/Funtasia2024.jpg
+      button: read more here
+  - infopic:
+      title: "Students who are Posted to NJC : 2024 JAE"
+      id: infopic
+      button: read more here
+      url: /admissions/jc-joint-admissions/
+      image: /images/JAE.jpg
+      alt: Image alt text
+      description: Welcome to NJC! Join us on 2 Feb 2024 at 7.20am at the NJC School
+        Hall. Orientation will be conducted from 2 – 8 Feb 2024. See you!
+  - infopic:
+      title: "National Junior College Open House: 12 January 2024"
+      id: infopic
+      button: READ MORE HERE
+      url: /resources/events/openhouse2024/
+      image: /images/NJ_Website.PNG
+      alt: Open House
+  - infopic:
+      title: Inspiring Teacher of English Award
+      id: infopic
+      description: A big congratulations to our very own Ms Jan, who received the
+        Inspiring Teacher of English award!
+      button: read more here
+      url: https://www.straitstimes.com/singapore/parenting-education/8-educators-receive-inspiring-teacher-of-english-award-for-their-innovation-and-passion?fbclid=IwAR2NoHs1JNMSnvslFr_wybYUUnMaRoAKZKOvmQwjU5TzHg0n5IS9MEk07Ec
+      image: /images/inspiring teacher of english award.jpg
+      alt: Image alt text
+  - infopic:
+      title: Our Strategic Thrusts
+      description: Our strategic thrusts are crafted to reflect our vision and mission
+        as we move onward to the next 50 years.
+      button: Learn more here
+      url: /about/strategic-thrusts
+      image: /images/strategicthrust1.png
+      alt: Strategic Thrusts
+  - infopic:
+      title: Our Research
+      description: One of the cornerstones of the College. Learn how we nurture your
+        child to be a researcher who will benefit society.
+      button: Learn more here
+      url: /research-at-njc/
+      image: /images/research1.png
+      alt: Research
+  - infopic:
+      title: Our Reflections
+      description: Learn what our staff, students and alumni have to say.
+      button: Learn more here
+      url: /voices
+      image: /images/reflection1.png
+      alt: Reflection
+---

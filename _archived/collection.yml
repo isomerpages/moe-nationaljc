@@ -1,0 +1,5 @@
+collections:
+  archived:
+    output: true
+    order:
+      - Hockey (Boys Only).md

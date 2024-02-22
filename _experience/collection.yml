@@ -1,0 +1,15 @@
+collections:
+  experience:
+    output: true
+    order:
+      - Experience.md
+      - Values In Action.md
+      - Character/.keep
+      - Character/Overview.md
+      - Character/Student Management & Discipline.md
+      - Character/Leadership.md
+      - Character/Sexuality Education (JC).md
+      - Character/Sexuality Education (Sec).md
+      - Character/Guidance.md
+      - Welfare.md
+      - Environment.md

@@ -1,0 +1,5 @@
+collections:
+  test-page:
+    output: true
+    order:
+      - Example Title.md

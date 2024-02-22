@@ -1,0 +1,15 @@
+collections:
+  music-elective-programme:
+    output: true
+    order:
+      - Overview.md
+      - Application Procedure.md
+      - Curriculum.md
+      - Affiliated CCAs.md
+      - Distinctives & Highlights.md
+      - Achievements.md
+      - Facilities & Resources.md
+      - Event Calendar.md
+      - Frequently Asked Questions.md
+      - Testimonials.md
+      - Contact.md
