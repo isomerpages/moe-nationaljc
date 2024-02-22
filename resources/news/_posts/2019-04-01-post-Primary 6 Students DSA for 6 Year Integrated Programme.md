@@ -10,4 +10,4 @@ description: ""
 All 2019 Primary 6 students are welcome to apply for entry into the NJC 6-Year Integrated Programme (IP) for Junior High 1 beginning 2020.
 
 
-Click [here](https://moe-nationaljc-staging.netlify.app/admissions/ip-dsa/) for more details.
+Click [here](/admissions/ip-dsa/) for more details.

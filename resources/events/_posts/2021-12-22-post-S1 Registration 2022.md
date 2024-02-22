@@ -17,6 +17,6 @@ If you are not already familiar with PG, you may visit [http://pg.moe.edu.sg/#h
 
 Should you have any queries, or if you are unable to access PG, please contact the College at 6466 1144 or email us at [njc@moe.edu.sg](mailto:njc@moe.edu.sg).
 
-If you would like to appeal to join NJC, please click [here](https://moe-nationaljc-staging.netlify.app/admissions/ip-sec1-posting) for information and instructions.
+If you would like to appeal to join NJC, please click [here](/admissions/ip-sec1-posting) for information and instructions.
 
 Thank you.

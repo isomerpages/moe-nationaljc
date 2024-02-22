@@ -37,4 +37,4 @@ To ensure that every visitor enjoy a fulfilling experience in the tour, we kindl
 
 Please sign up for the tour [here](https://goo.gl/forms/fY1tAocmTsCnHaf13). The closing date for the application for a tour is **10 October 2018 (Wednesday), 5pm**. All tour applications will be confirmed via email.
 
-Do visit our website [here](https://moe-nationaljc-staging.netlify.app/) regularly for updates.
+Do visit our website [here](/) regularly for updates.

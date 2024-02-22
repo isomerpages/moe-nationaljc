@@ -65,9 +65,9 @@ In addition, AEP@NJC also explores and maintains collaborations with institutes 
 [Class of 2020](https://sh2aep2020.wixsite.com/my-site)<br>
 [Class of 2022](https://njcgradshow2022.wixsite.com/eexhibition)
 
-**For more information on AEP@NJC, click&nbsp;[here](https://moe-nationaljc-staging.netlify.app/art-elective-programme/)**
+**For more information on AEP@NJC, click&nbsp;[here](/art-elective-programme/)**
 
-**For external Secondary School students looking for details on AEP Centre, click&nbsp;[here](https://moe-nationaljc-staging.netlify.app/art-elective-programme/aep-centre-at-njc)**
+**For external Secondary School students looking for details on AEP Centre, click&nbsp;[here](/art-elective-programme/aep-centre-at-njc)**
 
 **Contact us at&nbsp;[njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
 

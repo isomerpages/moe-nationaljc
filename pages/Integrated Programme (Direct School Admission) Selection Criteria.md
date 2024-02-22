@@ -49,4 +49,4 @@ _The selection criteria below are subject to changes. Applicants are advised to 
 |---|---|---|
 | 1.  Engineering Innovation and Solutions| (1) Ability to understand issues from multiple perspectives<br>(2) Has a strong curiosity for the unknown and keenness for learning<br>(3) Is innovative, adaptive and has an inclusive mindset which is integrative and evaluative<br>(4) Effective team player<br>(5) Potential and interest to develop as an Innovation and Entrepreneurship Leader<br>(6) Passion for championing sustainability and community initiatives using STEAM.<br><br>Applicants may be asked to submit their portfolio (consisting of personal statement and relevant supporting documents) and attend an in-person situational test as part of the shortlisting process. | To be engaged in and lead STEAM-based co-curricular activities (e.g. coding workshops, design thinking workshops, research and innovation projects etc.) for 4 years in Junior High. |
 
-Click&nbsp;[here](https://moe-nationaljc-staging.netlify.app/admissions/ip-dsa)&nbsp;to return to the IP DSA page
+Click&nbsp;[here](/admissions/ip-dsa)&nbsp;to return to the IP DSA page

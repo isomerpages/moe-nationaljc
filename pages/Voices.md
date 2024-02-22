@@ -15,7 +15,7 @@ Earlier this April, I represented NJC in the B Division Girls Artistic Gymnastic
 
 In the past two to three years, I have struggled a lot with constant injuries as well as having to maintain the right balance between my school work and the long training hours. My deepest appreciation goes to my family, school friends and gymnastics friends who made sure I paced myself and gave me the support I needed. This NSG has been meaningful to me as it was my first time representing NJC. Moving forward, I hope to learn from this experience and perform better in the future!
 
-**Sports – [Canoeing](https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/canoeing-and-dragon-boating)**
+**Sports – [Canoeing](/co-curricular-activities/ccas-offered-to-both-jh-and-sh/canoeing-and-dragon-boating)**
 
 22 April 2022
 
@@ -41,7 +41,7 @@ This was our first National School Games in 3 years. Our team trained hard for i
 
 Heart and soul, Go the distance.
 
-**Sports – [Climbing](https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/climbing)**
+**Sports – [Climbing](/co-curricular-activities/clubs-and-societies/climbing)**
 
 1 April 2022
 
@@ -53,7 +53,7 @@ _Reflection by: Sunthar Harikaran, 21SH20 (4th Position; 18 & under male categor
 
 This was my first ever climbing competition and I had a lot of fun participating. Although difficult, I am glad that I had the opportunity to participate in such a competition. It helped me gauge where I am at in my climbing journey and what I have to do to get where I want to be. I need to climb on my own more often and constantly push myself to do better. I want to improve myself further so that I do not become dependent on using only my height to climb. I want to thank the teachers for allowing us to participate in this competition. It was a fruitful experience. I look forward to competing again.
 
-**Performing Arts – [Guzheng](https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/co-and-ge)**
+**Performing Arts – [Guzheng](/co-curricular-activities/ccas-offered-to-both-jh-and-sh/co-and-ge)**
 
 25th January 2022  
 _Reflection by: Dong Jiayi, JH404_   
@@ -63,7 +63,7 @@ _Reflection by: Ang Zhi Yi Zelia, 21SH15_ 
 Hello everyone, I am Zelia. On behalf of SHGZ, we appreciate the guidance and support received which culminated in a great performance! We feel a sense of accomplishment and are grateful for the new skills gained by experiencing new things out of our comfort zone. Although we faced challenges during this journey, we overcame it together. This competition has been one memorable journey together, bonding us even more! If given the opportunity, we definitely would participate in it again! Thank you!  
 _View [our Facebook page](https://www.facebook.com/nationaljc/posts/1664414163896108) for more photo updates_
 
-**Sports – [Basketball](https://moe-nationaljc-staging.netlify.app/co-curricular-activities/ccas-offered-to-both-jh-and-sh/basketball)**
+**Sports – [Basketball](/co-curricular-activities/ccas-offered-to-both-jh-and-sh/basketball)**
 
 25th September 2019
 
@@ -78,7 +78,7 @@ Over the last 6 years , i have been given countless opportunities to step out of
 _Reflection by : Shao Ning Shannon, 18SH17_  
 To me, playing a team sport requires trust. Trust in each other, trust in our coaches, and trust in the system. We all walked into this CCA, without knowing what to expect. But we walked out of it, with no regrets. It is about trusting the process, believing that the little details that we paid attention to, would make a difference, and ultimately lead us to our destination. Passion, resilience, trust. This is what NJ Basketball is about.  Thank you everyone who played a part in making this happen. Thank you Mr Ang, Mr Johl, Mr Leong, Mr Tan, for your continuous guidance and support. Service with honour.
 
-**Sports – [Outdoor Activities Club](https://moe-nationaljc-staging.netlify.app/co-curricular-activities/clubs-and-societies/oac)**
+**Sports – [Outdoor Activities Club](/co-curricular-activities/clubs-and-societies/oac)**
 
 7th August 2019  
 
