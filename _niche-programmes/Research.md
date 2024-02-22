@@ -13,7 +13,7 @@ By offering research in Science, Mathematics, Computing, Sports Sciences, Humani
 
 With these rich experiences, Research@NJC students are articulate, critical in thought, effective academic collaborators, resilient in learning and serving the world that they live in.
 
-For more information, click&nbsp;[here](https://moe-nationaljc-staging.netlify.app/research-at-njc/)&nbsp;to visit our Research Website or contact our teachers:
+For more information, click&nbsp;[here](/research-at-njc/)&nbsp;to visit our Research Website or contact our teachers:
 
 For any queries, you may contact us at the following emails.
 

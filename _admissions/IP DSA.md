@@ -21,7 +21,7 @@ We invite students with special talents and/or achievements in the following are
 
 |  |  |
 |---|---|
-| **Co-Curricular Activities**<br><br>Please refer to this [page](https://moe-nationaljc-staging.netlify.app/co-curricular-activities/overview) for a description of CCAs offered in NJC | **Sports and Games**<br>Basketball<br>Canoeing<br>Cross Country; Track and Field<br>Shooting<br>Softball (girls only)<br>Squash<br><br>**Performing Arts**<br>Choir <br>Chinese Dance<br>Chinese Orchestra<br>Concert Band<br>Guitar Ensemble<br>Guzheng Ensemble<br>Indian Dance <br>Malay Dance<br>Modern Dance<br>String Ensemble |
+| **Co-Curricular Activities**<br><br>Please refer to this [page](/co-curricular-activities/overview) for a description of CCAs offered in NJC | **Sports and Games**<br>Basketball<br>Canoeing<br>Cross Country; Track and Field<br>Shooting<br>Softball (girls only)<br>Squash<br><br>**Performing Arts**<br>Choir <br>Chinese Dance<br>Chinese Orchestra<br>Concert Band<br>Guitar Ensemble<br>Guzheng Ensemble<br>Indian Dance <br>Malay Dance<br>Modern Dance<br>String Ensemble |
 | **Music** | **Music Programme**  <br>*(will be required to take Music as an academic subject for 4 years in Junior High)* |
 | **Science, Technology, Engineering and Mathematics** | **Engineering Innovation and Solutions** <br>(*will be required to be engaged in and lead STEAM-based activities for 4 years in Junior High)* |
 | **Visual Arts, Design and Media** | **MOE Art Elective Programme**<br>*(will be required to take Art as an academic subject for 4 years in Junior High)*|
@@ -43,7 +43,7 @@ Applicants will be shortlisted and selected based on the following general crite
 3.  Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve; and
 4.  Possess good academic potential to thrive in the Integrated Programme.
 
-as well as&nbsp;[criteria](https://moe-nationaljc-staging.netlify.app/integrated-programme-selection-criteria)&nbsp;specific to each talent area.
+as well as&nbsp;[criteria](/integrated-programme-selection-criteria)&nbsp;specific to each talent area.
 
 All shortlisted candidates will be&nbsp;**notified via email by mid-July 2023**&nbsp;to attend an in-person audition / trial&nbsp;held in National Junior College. More details on the performance task will be provided in the email notification.
 
@@ -59,6 +59,6 @@ If you have any enquiries on DSA-Sec, you may call our General Office at 6466 11
 
 For more information on the DSA-Sec exercise, please refer to the MOE website:&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).  
   
-Please also see our&nbsp;[Frequently Asked Questions](https://moe-nationaljc-staging.netlify.app/faq/).
+Please also see our&nbsp;[Frequently Asked Questions](/faq/).
 
 We thank you for your interest in National Junior College.
