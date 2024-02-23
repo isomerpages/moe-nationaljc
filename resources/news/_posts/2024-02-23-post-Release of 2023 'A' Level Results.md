@@ -17,7 +17,7 @@ dedication and perseverance.</p>
 <p>In all 19 H2 subjects offered, at least 1 in 2 students scored grades
 A or B. In addition, about 3 in 4 H3 students scored a distinction or merit
 in their H3 subject(s).</p>
-<p>Beyond their academic achievements, we are most proud of their commitment
-to Service with Honour, to their CCAs, the College and the wider community.
-We wish them the very best, and look forward to seeing their continued
-growth and success in the future.</p>
+<p>Apart from their academic successes, we are also very proud of our student’s
+unwavering commitment to Service with Honour, their active participation
+in CCAs, and their contributions to both the College and the wider community.
+We wish them all a very bright, promising and fulfilling future ahead!</p>
