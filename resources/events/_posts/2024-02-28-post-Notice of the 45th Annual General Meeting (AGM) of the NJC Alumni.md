@@ -16,7 +16,7 @@ Singapore 288913)</p>
 <p>The AGM will be conducted in person.</p>
 <p><u>Agenda:</u>
 </p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Confirmation of 44th AGM minutes</p>
 </li>
@@ -29,6 +29,6 @@ Singapore 288913)</p>
 <li>
 <p>AOB</p>
 </li>
-</ol>
+</ul>
 <p>Please register your attendance on <a href="https://bit.ly/NJC45AGM" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/NJC45AGM</a> by 16 March 2024.</p>
 <p>NJC Alumni</p>
