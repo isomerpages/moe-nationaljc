@@ -2,6 +2,7 @@
 title: Personal Data Protection
 permalink: /about/personal-data-protection/
 description: ""
+variant: markdown
 ---
 ### Personal Data Protection
 
@@ -11,7 +12,7 @@ We strongly believe and are committed to discharging our duty to ensure that you
 
 This Data Protection Policy is intended to assist you in understanding how we collect, use, disclose, protect and process any personal data that we receive from you, and designed in accordance with the requirements under the Personal Data Protection Act 2012 (“PDPA”).
 
-1.  **Introduction to the Personal Data Protection Act 2012**
+1. **Introduction to the Personal Data Protection Act 2012**
 
 *   “Personal Data” is hereinafter defined as data, whether true or not, about an individual who can be identified from that data or from that data and other information to which the organisation has or is likely to have access.1.2 Various examples of Personal Data may include full names, NRIC/FIN numbers, passport numbers, mobile telephone numbers, photographs or video images of an individual, and personal email.
 *   In general, before we collect any personal data from you, we will notify you of the purposes for which your Personal Data may be collected, used and/or disclosed, as well as obtain your consent for the collection, use and/or disclosure of your Personal Data for the intended purposes.
