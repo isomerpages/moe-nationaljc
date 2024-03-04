@@ -119,7 +119,7 @@ variant: tiptap
 <p>Ms Nur Aisha Bte Jaini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_aisha_bte_jaini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisha_bte_jaini@moe.edu.sg</a>
+<p><a href="mailto:nur_aisha_bte_jaini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aisha_jaini@moe.edu.sg</a>
 </p>
 </td>
 </tr>
