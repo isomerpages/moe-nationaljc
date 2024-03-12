@@ -1,7 +1,8 @@
 ---
 title: Integrated Programme (Direct School Admission) Selection Criteria
-permalink: /Integrated-Programme-Selection-Criteria/
+permalink: /integrated-programme-selection-criteria/
 description: ""
+variant: tiptap
 ---
 #### DSA-Sec Selection Criteria
 
