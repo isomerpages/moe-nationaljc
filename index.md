@@ -27,7 +27,7 @@ sections:
         do good while having fun!
       alt: Image alt text
       url: /resources/events/funtasia/
-      image: /images/Funtasia2024.jpg
+      image: /images/Funtasia2024/Funtasia2024.jpg
       button: read more here
   - infopic:
       title: "Students who are Posted to NJC : 2024 JAE"
