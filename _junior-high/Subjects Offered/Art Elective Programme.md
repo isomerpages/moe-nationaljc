@@ -63,7 +63,9 @@ In addition, AEP@NJC also explores and maintains collaborations with institutes 
 **Visit our SH2 AEP Graduation show!**  
 [Class of 2019](https://njartgradshow2020.wordpress.com/)<br>
 [Class of 2020](https://sh2aep2020.wixsite.com/my-site)<br>
-[Class of 2022](https://njcgradshow2022.wixsite.com/eexhibition)
+[Class of 2022](https://njcgradshow2022.wixsite.com/eexhibition)<br>
+[Class of 2023](https://aep2024.wixsite.com/exhibit)
+
 
 **For more information on AEP@NJC, click&nbsp;[here](/art-elective-programme/)**
 
