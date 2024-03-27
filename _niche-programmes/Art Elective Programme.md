@@ -2,6 +2,7 @@
 title: Art Elective Programme
 permalink: /niche-programmes/art-elective/
 description: ""
+variant: markdown
 ---
 ### Art Elective Programme
 
@@ -22,7 +23,7 @@ Moreover, student outcomes of learning are assessed thoughtfully through a varie
 **Why choose AEP@NJC?**  
 Graduates of our Programme excel in:
 
-**•** Embracing multiple perspectives and interpretations  
+**•**&nbsp;Embracing multiple perspectives and interpretations  
 • Generating original solutions and possibilities for problem solving  
 • Overcoming obstacles and tackling complex challenges  
 • Innovating with new materials and processes  
@@ -34,8 +35,8 @@ Graduates of our Programme excel in:
 
 **1) Studio Practice**  
 •Elegant task-based challenges, self-directed idea generation with guided autonomy, principle-based exercises.  
-•Visual journaling, gathering & research, material exploration, process experimentation, aesthetic troubleshooting, and problem-solving.  
-•Exhibition & showcase, curation, and presentations
+•Visual journaling, gathering &amp; research, material exploration, process experimentation, aesthetic troubleshooting, and problem-solving.  
+•Exhibition &amp; showcase, curation, and presentations
 
 **2) Visual Cultures and Literacy**  
 •In-depth investigation into art history and visual cultures  
@@ -53,23 +54,24 @@ AEP students are part of a wider AEP fraternity, comprising 7 secondary schools 
 
 These include:  
 •Secondary 1 Inter-School AEP Workshop  
-•Secondary 3 Inter-School AEP Workshop, in partnership with Art, Design & Media Faculty, Nanyang Technological University  
-•JC1 Baby Tropical Lab, co-organised by MOE & LaSalle College of the Arts
+•Secondary 3 Inter-School AEP Workshop, in partnership with Art, Design &amp; Media Faculty, Nanyang Technological University  
+•JC1 Baby Tropical Lab, co-organised by MOE &amp; LaSalle College of the Arts
 
 In addition, AEP@NJC also explores and maintains collaborations with institutes of higher learning (IHLs) such as Nanyang Polytechnic (NYP) and Nanyang Technological University (NTU), and also various professional industry partners to provide up-to-date learning exposure for our students.
 
 **Visit our SH2 AEP Graduation show!**  
 [Class of 2019](https://njartgradshow2020.wordpress.com/)  
-[Class of 2020](https://sh2aep2020.wixsite.com/my-site)
+[Class of 2020](https://sh2aep2020.wixsite.com/my-site)  
+[Class of 2022](https://njcgradshow2022.wixsite.com/eexhibition)  
+[Class of 2023](https://aep2024.wixsite.com/exhibit)
 
-**For more information on AEP@NJC, click [here](/art-elective-programme/)**
+**For more information on AEP@NJC, click&nbsp;[here](/art-elective-programme/)**
 
-**For external Secondary School students looking for details on AEP Centre, click [here](/art-elective-programme/aep-centre-at-njc)**
+**For external Secondary School students looking for details on AEP Centre, click&nbsp;[here](/art-elective-programme/aep-centre-at-njc)**
 
-**Contact us at [njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
+**Contact us at&nbsp;[njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
 
 **Keep up to date with the latest happenings in AEP@NJC:**  
-Follow us! [https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)
+Follow us!&nbsp;[https://www.instagram.com/njc\_aep/](https://www.instagram.com/njc_aep/)
 
-<img src="/images/niche3.png" 
-     style="width:20%">
+<img src="/images/niche3.png" style="width:20%">
