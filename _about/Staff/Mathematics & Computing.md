@@ -70,16 +70,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Liew Yew Tze, <strong>LH/Mathematics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:liew_yew_tze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_yew_tze@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Marcus Chong, <strong>SH/Education and Career Guidance</strong>
 </p>
 </td>
