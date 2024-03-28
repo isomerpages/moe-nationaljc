@@ -6,6 +6,10 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3>Mathematics and Computing (SH &amp; JH)</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos 2024/Maths__Large_.jpg">
+</div>
 <table>
 <tbody>
 <tr>

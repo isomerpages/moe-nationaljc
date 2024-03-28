@@ -6,6 +6,9 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3>Admin Office</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos 2024/EAS_Large_.jpg">
+</div>
 <table>
 <tbody>
 <tr>

@@ -6,6 +6,9 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3>English</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos 2024/English_Department__Large_.jpg">
+</div>
 <table>
 <tbody>
 <tr>

@@ -6,6 +6,9 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3>Aesthetics</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos 2024/Aesthetics__Large_.jpg">
+</div>
 <table>
 <tbody>
 <tr>
