@@ -34,6 +34,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Wang Muran, <strong>HOD/Higher Mathematics &amp; Computing (Ag)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wang_muran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_muran@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Chua Siok Kheng, <strong>LT/Mathematics</strong>
 </p>
 </td>
@@ -79,16 +89,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chong_hur_ling_marcus@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_hur_ling_marcus@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Wang Muran, <strong>HOD/Higher Mathematics &amp; Computing</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wang_muran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_muran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
