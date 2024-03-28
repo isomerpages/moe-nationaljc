@@ -19,7 +19,7 @@ In addition, career talks are being conducted periodically to expose students to
 
 The Programme is currently exploring possibilities for inter-disciplinary collaborative learning in music composition and history of the arts.
 
-Students may appeal into NJC via DSA or JAE through the NJC Music Programme.
+Please note that the Music Programme is only offered to Junior High students.
 
 | Name | Email |
 |:---:|:---:|
