@@ -53,15 +53,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Chin Yang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chua_chin_yang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chin_yang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Deborah Ann Fernandez</p>
 </td>
 <td rowspan="1" colspan="1">
