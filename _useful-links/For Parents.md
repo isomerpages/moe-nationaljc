@@ -63,7 +63,7 @@ child/ward might face?</p>
 </p>
 <p><a href="https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0" rel="noopener noreferrer nofollow" target="_blank">DMA Guides &amp; Resources for Parents</a>
 </p>
-<p><a href="https://form.gov.sg/65cd765476f141cbca2cc7e9" rel="noopener noreferrer nofollow" target="_blank">Change of DMA Option FormSG</a>
+<p><a href="https://form.gov.sg/65cd765476f141cbca2cc7e9" rel="noopener noreferrer nofollow" target="_blank">FormSG: Change of DMA Option</a>
 </p>
 <h4></h4>
 <p></p>
