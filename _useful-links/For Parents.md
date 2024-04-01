@@ -15,9 +15,46 @@ levels of restrictions, controls and monitoring for the different DMA options
 after school hours.</p>
 </li>
 </ol>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Links/For Parents/Screenshot_2024_04_01_231152.png">
 </div>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>The after-school hours are as follows:</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Links/For Parents/Screenshot_2024_04_01_231318.png">
+</div>
+<p>3. Parents/Guardians may wish to consider the following questions before
+deciding on which After-School</p>
+<p>DMA Option is best for their child/ward.</p>
+<p>a. Child’s/Ward’s current device usage habits</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>How much time does my child/ward spend on his/her device?</p>
+</li>
+<li>
+<p>How well is my child/ward able to regulate his/her device usage on his/her
+own?</p>
+</li>
+<li>
+<p>Does my child/ward get easily distracted while doing online learning?</p>
+</li>
+</ul>
+<p>b. Parental/Guardian involvement</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>How confident and familiar am I with managing my child’s/ward’s cyber
+wellness?</p>
+</li>
+<li>
+<p>Are there existing routines and open conversations on the use of the internet
+at home?</p>
+</li>
+<li>
+<p>Am I aware of how to prevent different types of cyber threats that my
+child/ward might face?</p>
+</li>
+</ul>
 <p></p>
