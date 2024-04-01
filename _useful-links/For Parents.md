@@ -17,3 +17,7 @@ after school hours.</p>
 </ol>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Links/For Parents/Screenshot_2024_04_01_231152.png">
+</div>
+<p></p>
