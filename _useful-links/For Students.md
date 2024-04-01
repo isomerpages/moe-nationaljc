@@ -39,4 +39,4 @@ In Mobile Guardian App &gt; press profile icon on the top left &gt; press "My Ca
 Head to Bytz. 15-20 mins estimated waiting time to resolve this issue.
 
 **Stuck in Sleep Hours Profile:**     
-In Mobile Guardian App, press the profile icon on the top left and click the sync button and give it some time for it to sync with the servers.
+In Mobile Guardian App &gt; press the profile icon on the top left &gt; click the sync button &gt; wait and give it some time for it to sync with the servers.
