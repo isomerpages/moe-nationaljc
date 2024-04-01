@@ -38,7 +38,7 @@ Email: help@schools.gov.sg <br>
 
 <b style="color:blue;font-size:30px"> MIMS Issues Guides: </b>
 
-1.  MIMS Self Service Password Reset: <br>
+1.  <b>MIMS Self Service Password Reset</b>: <br>
 (You **MUST** have setup 3 Security Questions before, follow these steps to do so:<br> <b>Sign In MIMS Portal &gt; MIMS SSPR &gt; Setup Security Questions</b>)
 *   Click&nbsp;**Forgot your Password**.
 *   Key in your MIMS Login ID.&nbsp;Click&nbsp;**Search**.  
