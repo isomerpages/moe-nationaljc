@@ -26,8 +26,12 @@ after school hours.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Links/For Parents/Screenshot_2024_04_01_231318.png">
 </div>
-<p>3. Parents/Guardians may wish to consider the following questions before
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Parents/Guardians may wish to consider the following questions before
 deciding on which After-School DMA Option is best for their child/ward.</p>
+</li>
+</ol>
 <p>a. Child’s/Ward’s current device usage habits</p>
 <ul data-tight="true" class="tight">
 <li>
