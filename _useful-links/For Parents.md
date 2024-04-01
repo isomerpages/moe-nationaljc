@@ -59,6 +59,6 @@ at home?</p>
 child/ward might face?</p>
 </li>
 </ul>
-<h4><a href="https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0" rel="noopener noreferrer nofollow" target="_blank">DMA Default ,Option A &amp; B Guides + Resources for Parents</a></h4>
+<h4><a href="https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0" rel="noopener noreferrer nofollow" target="_blank">DMA Guides &amp; Resources for Parents</a></h4>
 <h4></h4>
 <p></p>
