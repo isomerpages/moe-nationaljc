@@ -4,18 +4,15 @@ permalink: /useful-links/for-parents/
 variant: tiptap
 description: ""
 ---
-<p><a href="https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0" rel="noopener noreferrer nofollow" target="_blank">PDLP Guides &amp; Resources</a>
-</p>
+<h4><a href="https://drive.google.com/drive/folders/1v-TiyDZGUeOhJazC4LyU-j0UlMUqddm0" rel="noopener noreferrer nofollow" target="_blank">DMA Guides &amp; Resources for Parents</a></h4>
+<h4>DMA Settings After School Hours</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>During school hours, the Default Setting will apply. Parents/Guardians
+are given a choice to opt for an Alternative Setting, which will apply
+only to after school hours. The following table outlines the different
+levels of restrictions, controls and monitoring for the different DMA options
+after school hours.</p>
+</li>
+</ol>
 <p></p>
-<p>Device Management Application (DMA)</p>
-<p>4. Your child’s/ward’s PLD will be installed with a Device Management
-Application (DMA) to provide a</p>
-<p>safer digital environment for learning.</p>
-<p>5. The following DMA settings will be in place as a default:</p>
-<p>• MOE and the school will set the level of web content filtering, including
-filtering out pornography,</p>
-<p>gambling, extremist and violence-related sites.</p>
-<p>• PLD usage time will be set to 6 a.m. to 11 p.m.</p>
-<p>• The school will determine the applications and programmes to be installed
-to support teaching</p>
-<p>and learning</p>
