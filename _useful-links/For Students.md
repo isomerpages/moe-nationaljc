@@ -33,7 +33,7 @@ variant: markdown
 <b style="color:blue;font-size:30px"> PLD iPad Troubleshooting </b>
 
 **Missing Apps:**  
-In Mobile Guardian App, press profile icon on the top left &gt; press "My Catalogue" &gt; press install on button on the required Apps.
+In Mobile Guardian App &gt; press profile icon on the top left &gt; press "My Catalogue" &gt; press install button on the required Apps.
 
 **Stuck in Mobile Guardian App:**  
 Head to Bytz. 15-20 mins estimated waiting time to resolve this issue.
