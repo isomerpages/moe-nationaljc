@@ -24,4 +24,3 @@ Please note that the Music Programme is only offered to Junior High students.
 |:---:|:---:|
 | Ms Gayle Sim | gayle_sim@moe.edu.sg |
 | Mr Aaron Lum | lum_zhi_yong_aaron@moe.edu.sg |
-| Ms Lynette Yeo | lynette_yeo_yan_teng@moe.edu.sg |
