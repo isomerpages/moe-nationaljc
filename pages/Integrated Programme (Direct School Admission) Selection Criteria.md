@@ -344,10 +344,7 @@ in the video.
 a Selection Test comprising theory, aural and writing components.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Join the Music Programme, taking Music as an academic subject for 4 years
-in Junior High.
-<br>
-<br>Suitability to continue participation in the Music Programme, and to take
+<p>Suitability to continue participation in the Music Programme, and to take
 H2 Music at the A-Level examinations will be assessed at the end of 4 years
 by subject tutors.</p>
 </td>
