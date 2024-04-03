@@ -344,7 +344,7 @@ in the video.
 a Selection Test comprising theory, aural and writing components.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Join the Music Programme taking Music as an elective for 4 years in Junior
+<p>Join the Music Programme, taking Music as an elective for 4 years in Junior
 High.</p>
 </td>
 </tr>
