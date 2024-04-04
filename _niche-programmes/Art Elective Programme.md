@@ -68,7 +68,7 @@ In addition, AEP@NJC also explores and maintains collaborations with institutes 
 
 **For more information on AEP@NJC, click&nbsp;[here](https://www.nationaljc.moe.edu.sg/art-elective-programme/)**
 
-**For external Secondary School students looking for details on AEP Centre, click&nbsp;[here](https://www.nationaljc.moe.edu.sg/art-elective-programme/AEP-centre-at-NJC/)**
+**For external Secondary School students looking for details on AEP Centre, click [here](https://www.nationaljc.moe.edu.sg/art-elective-programme/AEP-centre-at-NJC/)**
 
 **Contact us at&nbsp;[njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
 
