@@ -47,7 +47,7 @@ Graduates of our Programme excel in:
 •Learning journeys to exhibitions in museums and galleries  
 •Visits to other schools showcasing works by Art students
 
-**4)NETWORKING WITH THE WIDER CREATIVE FRATERNITY**  
+**4) NETWORKING WITH THE WIDER CREATIVE FRATERNITY**  
 AEP students are part of a wider AEP fraternity, comprising 7 secondary schools and 3 junior colleges. Throughout the year, AEP students gather together for combined activities and workshops.
 
 These include:  
