@@ -67,7 +67,7 @@ In addition, AEP@NJC also explores and maintains collaborations with institutes 
 [Class of 2023](https://aep2024.wixsite.com/exhibit)
 
 
-**For more information on AEP@NJC, click&nbsp;[here](/art-elective-programme/)**
+**For more information on AEP@NJC, click&nbsp;[here](https://www.nationaljc.moe.edu.sg/art-elective-programme/)**
 
 **For external Secondary School students looking for details on AEP Centre, click&nbsp;[here](https://www.nationaljc.moe.edu.sg/art-elective-programme/AEP-centre-at-NJC/)**
 
