@@ -19,7 +19,7 @@ _
 **Visit our SH2 AEP Graduation show!**  
 [Class of 2019](https://njartgradshow2020.wordpress.com/)  
 [Class of 2020](https://sh2aep2020.wixsite.com/my-site)  
-[Class of 2021](https://njcgradshow2022.wixsite.com/eexhibition)  
+[Class of 2022](https://njcgradshow2022.wixsite.com/eexhibition)  
 [Class of 2023](https://aep2024.wixsite.com/exhibit)
 
 
