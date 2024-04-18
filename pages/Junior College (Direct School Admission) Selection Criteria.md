@@ -18,12 +18,12 @@ variant: markdown
 
 <p><i>The selection criteria below are subject to changes. Applicants are advised to refer to the webpage at the point of application.</i></p>
 
-#### Sports &amp; Games
-
-####  Performing Arts
-
-#### Clubs and Societies
-
-#### Special Programmes
-
+<u><h4>Sports &amp; Games</h4></u>
+![](/images/JC%20DSA%20CRITERIA/JC_CRIT_1.png)
+<u><h4>Performing Arts</h4></u>
+![](/images/JC%20DSA%20CRITERIA/JC_CRIT_2.png)
+<u><h4>Clubs and Societies</h4></u>
+![](/images/JC%20DSA%20CRITERIA/JC_3.png)
+#<u><h4>Special Programmes</h4></u>
+![](/images/JC%20DSA%20CRITERIA/JC_4.png)
 <br>**Click&nbsp;[here](https://nationaljc.moe.edu.sg/admissions/jc-dsa/)&nbsp;to return to the JC DSA page.**
