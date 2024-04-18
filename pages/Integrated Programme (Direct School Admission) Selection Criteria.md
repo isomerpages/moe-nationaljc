@@ -38,10 +38,15 @@ will be shortlisted or given an offer.</p>
 <p>1. Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Ball sense, agility, coordination
-<br>(2) Playmaking and teamwork
-<br>(3) Assists and (offensive and defensive) rebound</p>
+<p>(1) Ball sense, agility, coordination</p>
+<p>(2) Playmaking and teamwork</p>
+<p>(3) Assists and (offensive and defensive) rebound</p>
 <p>(4) Offensive skills such as ball handling, shooting, layup.</p>
+<p>(5) Defensive skills such as man to man defense and zone defense</p>
+<p>(6) Experiences at competitive games would be an advantage</p>
+<p>(7) Stamina for guards would be an advantage</p>
+<p>(8) Size and height for centers and small forwards would be an advantage</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
@@ -58,7 +63,7 @@ will be shortlisted or given an offer.</p>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA
 <br>
-<br>Committed to participate in Dragonboat as well.</p>
+<br>Committed to participate in Dragon boat as well.</p>
 </td>
 </tr>
 <tr>
@@ -86,8 +91,9 @@ Cross-Country are expected to commit to Track &amp; Field, and vice versa.</p>
 <p>5. Shooting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Consistency of shots
-<br>(2) Physical Stability</p>
+<p>(1) Consistency of shots</p>
+<p>(2) NAPFA Silver Award or above</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
