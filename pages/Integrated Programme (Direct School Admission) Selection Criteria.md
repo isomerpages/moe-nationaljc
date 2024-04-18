@@ -4,19 +4,19 @@ permalink: /integrated-programme-selection-criteria/
 description: ""
 variant: tiptap
 ---
+<h4>Integrated Programme (Direct School Admission) Selection Criteria</h4>
 <h4>DSA-Sec Selection Criteria</h4>
 <p>Applicants will be shortlisted and selected based on the following general
-criteria:
-<br>1. Demonstrate passion for and commitment to the area of interest;
-<br>2. Exemplify positive character traits, including resilience, motivation
-and integrity;
-<br>3. Display a commitment to contribute to the school, through the area
-of interest as well as other opportunities to serve; and
-<br>4. Possess good academic potential to thrive in the Integrated Programme.</p>
+criteria:</p>
+<p>1. Demonstrate passion for and commitment to the area of interest;</p>
+<p>2. Exemplify positive character traits, including resilience, motivation
+and integrity;</p>
+<p>3. Display a commitment to contribute to the school, through the area
+of interest as well as other opportunities to serve; and</p>
+<p>4. Possess good academic potential to thrive in the Integrated Programme.</p>
 <p>In addition, each talent area has specific criteria as shown below. Please
 note that meeting all the criteria does not guarantee that the applicant
-will be shortlisted or given an offer. In addition, past experience, practised
-talent or achievements in the talent area are not necessary requirements.</p>
+will be shortlisted or given an offer.</p>
 <p><em>The selection criteria below are subject to changes. Applicants are advised to refer to the webpage at the point of application.</em>
 </p>
 <h4>Sports &amp; Games</h4>
@@ -38,9 +38,10 @@ talent or achievements in the talent area are not necessary requirements.</p>
 <p>1. Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Ball sense
-<br>(2) Agility
-<br>(3) Coordination</p>
+<p>(1) Ball sense, agility, coordination
+<br>(2) Playmaking and teamwork
+<br>(3) Assists and (offensive and defensive) rebound</p>
+<p>(4) Offensive skills such as ball handling, shooting, layup.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
