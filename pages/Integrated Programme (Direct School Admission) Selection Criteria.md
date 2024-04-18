@@ -19,7 +19,7 @@ note that meeting all the criteria does not guarantee that the applicant
 will be shortlisted or given an offer.</p>
 <p><em>The selection criteria below are subject to changes. Applicants are advised to refer to the webpage at the point of application.</em>
 </p>
-<h4>Sports &amp; Games</h4>
+<h4><u>Sports &amp; Games</u></h4>
 <table>
 <tbody>
 <tr>
@@ -104,8 +104,9 @@ Cross-Country are expected to commit to Track &amp; Field, and vice versa.</p>
 <p>6. Softball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Reflexes
-<br>(2) Hand-eye coordination</p>
+<p>(1) Reflexes and Hand-eye coordination
+<br>(2) Interest in leading and guiding peers who are new to the sport, and
+in building positive team culture</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
@@ -125,7 +126,7 @@ Cross-Country are expected to commit to Track &amp; Field, and vice versa.</p>
 </tr>
 </tbody>
 </table>
-<h4>Visual, Literary and Performing Arts</h4>
+<h4><u>Visual, Literary and Performing Arts</u></h4>
 <table>
 <tbody>
 <tr>
@@ -172,9 +173,10 @@ bassoon, double bass, harp, saxophone OR a range of percussion instruments
 <p>3. Chinese Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Flexibility and coordination.
-<br>(2) Clarity, flow and control of body movements.
-<br>(3) Skills acquisition during choreography.</p>
+<p>(1) Flexibility and coordination
+<br>(2) Clarity, flow and control of body movements
+<br>(3) Skills acquisition during choreography</p>
+<p>(4) Performance quality</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
@@ -188,8 +190,8 @@ bassoon, double bass, harp, saxophone OR a range of percussion instruments
 <td rowspan="1" colspan="1">
 <p>(1) Movement and technique
 <br>(2) Spatial awareness
-<br>(3) Dynamic awareness
-<br>(4) Performance quality</p>
+<br>(3) Dynamic awareness</p>
+<p>(4) Performance quality</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
