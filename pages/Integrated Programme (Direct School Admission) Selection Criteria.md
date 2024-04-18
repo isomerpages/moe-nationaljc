@@ -328,7 +328,6 @@ an Art conversation with the art teachers.</p>
 <p>Join the Art Elective Programme (AEP), taking Art as an academic subject
 for 4 years in Junior High.
 <br>
-<br>
 </p>
 <p>Suitability to continue participation in the AEP and taking Art in the
 A-Level examinations as an H2 subject will be assessed at the end of 4
@@ -345,7 +344,6 @@ years by subject tutors.</p>
 <br>(3) Ability to perform fluently and musically on their chosen 1st instrument
 in an art music style (e.g. classical Western or classical Indian) – not
 pop music
-<br>
 <br>As part of the shortlisting process, applicants will be contacted to submit
 the following:
 <br>(a) Video Submission
@@ -363,21 +361,22 @@ instrument, where applicable. An accompanist is recommended, but not compulsory.
 The student may choose to use a backing track.
 <br>(b) Cover page
 <br>– Students also need to submit an accompanying cover page (use template
-provided <a href="https://docs.google.com/document/d/1BKKnLK3iU1WMoTwfYjpTvYvdinOSky0v/edit?usp=sharing&amp;ouid=108259911809378653811&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">here</a>,
-stating their performing experience and the title of the 2 pieces played
-in the video.
-<br>
+provided here), stating their performing experience and the title of the
+2 pieces played in the video.
 <br>Shortlisted applicants will attend a face-to-face session to complete
-a Selection Test comprising theory, aural and writing components.</p>
+a Selection Test:
+<br>Test comprises of theory, aural and writing components.
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Join the Music Programme, taking Music as an elective for 4 years in Junior
-High.</p>
+<p>Join the Music Programme, taking Music as an academic subject for 4 years
+in Junior High.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Science, Technology, Engineering and Mathematics</h4>
+<h4><u>Science, Technology, Engineering and Mathematics (STEM) </u></h4>
 <table>
 <tbody>
 <tr>
@@ -396,19 +395,32 @@ High.</p>
 <p>1. Engineering Innovation and Solutions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Ability to understand issues from multiple perspectives
-<br>(2) Has a strong curiosity for the unknown and keenness for learning
-<br>(3) Is innovative, adaptive and has an inclusive mindset which is integrative
-and evaluative
-<br>(4) Effective team player
-<br>(5) Potential and interest to develop as an Innovation and Entrepreneurship
-Leader
-<br>(6) Passion for championing sustainability and community initiatives using
-STEAM.
-<br>
-<br>Applicants may be asked to submit their portfolio (consisting of personal
-statement and relevant supporting documents) and attend an in-person situational
-test as part of the shortlisting process.</p>
+<p>(1) Ability to understand issues from multiple perspectives</p>
+<p>(2) Has a strong curiosity for the unknown and keenness for learning</p>
+<p>(3) Is innovative, adaptive and has an inclusive mindset which is integrative
+and evaluative</p>
+<p>(5) Effective team player</p>
+<p>(6) Potential and interest to develop as an Innovation and Entrepreneurship
+Leader</p>
+<p>(7) Passion for championing sustainability and community initiatives using
+STEAM.</p>
+<p></p>
+<p>Candidates will undergo a two-phase shortlisting process.</p>
+<p></p>
+<p>During the initial phase, the school's admission team will reach out to
+applicants in mid to late June to request their portfolios.</p>
+<p></p>
+<p>Portfolio Submission Guidelines (submit as 2 separate PDF documents):</p>
+<p>&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Mandatory:</strong> A one-page
+portfolio outlining reasons for selection and his/her involvement in STEM/research
+activities.</p>
+<p></p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Optional:</em> Candidates may provide
+additional supporting documents.</p>
+<p></p>
+<p>Phase 1 shortlisted applicants will then be invited to participate in
+an in-person situational task, for which all necessary materials will be
+provided.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To be engaged in and lead STEAM-based co-curricular activities (e.g. coding
