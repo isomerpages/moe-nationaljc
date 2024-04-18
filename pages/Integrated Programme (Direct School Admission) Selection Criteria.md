@@ -5,21 +5,32 @@ description: ""
 variant: markdown
 ---
 <h4>Integrated Programme (Direct School Admission) Selection Criteria</h4>
+
 <h4>DSA-Sec Selection Criteria</h4>
+
 <p>Applicants will be shortlisted and selected based on the following general
 criteria:</p>
+
 <p>1. Demonstrate passion for and commitment to the area of interest;</p>
+
 <p>2. Exemplify positive character traits, including resilience, motivation
 and integrity;</p>
+
 <p>3. Display a commitment to contribute to the school, through the area
 of interest as well as other opportunities to serve; and</p>
+
 <p>4. Possess good academic potential to thrive in the Integrated Programme.</p>
+
 <p>In addition, each talent area has specific criteria as shown below. Please
 note that meeting all the criteria does not guarantee that the applicant
 will be shortlisted or given an offer.</p>
-<p><em>The selection criteria below are subject to changes. Applicants are advised to refer to the webpage at the point of application.</em>
+
+<p>
+<em>The selection criteria below are subject to changes. Applicants are advised to refer to the webpage at the point of application.</em>
 </p>
+
 <h4><u>Sports &amp; Games</u></h4>
+
 <table>
 <tbody>
 <tr>
