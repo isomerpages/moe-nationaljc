@@ -376,7 +376,7 @@ in Junior High.</p>
 </tr>
 </tbody>
 </table>
-<h4><u>Science, Technology, Engineering and Mathematics (STEM) </u></h4>
+<h4><u>Science, Technology, Engineering and Mathematics (STEM)</u></h4>
 <table>
 <tbody>
 <tr>
