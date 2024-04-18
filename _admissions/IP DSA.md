@@ -44,7 +44,7 @@ Applicants will be shortlisted and selected based on the following general crite
 3.  Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve; and
 4.  Possess good academic potential to thrive in the Integrated Programme.
 
-as well as&nbsp;[criteria](https://www.nationaljc.moe.edu.sg/integrated-programme-selection-criteria/)&nbsp;specific to each talent area. [TEST](/integrated-programme-selection-criteria/)
+as well as&nbsp;[criteria](/integrated-programme-selection-criteria/)&nbsp;specific to each talent area. [TEST](/integrated-programme-selection-criteria/)
 
 All shortlisted candidates will be&nbsp;**notified via email by mid-July 2023**&nbsp;to attend an in-person audition / trial&nbsp;held in National Junior College. More details on the performance task will be provided in the email notification.
 
