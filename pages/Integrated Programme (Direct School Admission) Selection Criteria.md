@@ -22,8 +22,14 @@ variant: markdown
 
 <h4><u>Sports &amp; Games</u></h4>
 
+![](/images/IP%20DSA%20CRITERIA/IP_CRIT_1.png)
+
 <h4><u>Visual, Literary and Performing Arts</u></h4>
 
+![](/images/IP%20DSA%20CRITERIA/IP_CRIT_2.jpg)
+
 <h4><u>Science, Technology, Engineering and Mathematics (STEM)</u></h4>
+
+![](/images/IP%20DSA%20CRITERIA/IP_CRIT_3.png)
 
 <p>Click&nbsp;<a href="/admissions/ip-dsa" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to return to the IP DSA page</p>
