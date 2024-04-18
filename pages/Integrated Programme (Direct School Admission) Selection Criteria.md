@@ -18,7 +18,7 @@ variant: markdown
 
 <p>In addition, each talent area has specific criteria as shown below. Please note that meeting all the criteria does not guarantee that the applicant will be shortlisted or given an offer.</p>
 
-<p>The selection criteria below are subject to changes. Applicants are advised to refer to the webpage at the point of application.</p>
+<p><i>The selection criteria below are subject to changes. Applicants are advised to refer to the webpage at the point of application.</i></p>
 
 <h4><u>Sports &amp; Games</u></h4>
 
