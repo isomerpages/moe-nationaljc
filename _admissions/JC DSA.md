@@ -27,6 +27,8 @@ We invite students with special talents and/or achievements in the following are
 | 3. Science Research Excellence (refer to this <a target="_blank" href="/niche-programmes/research/">page</a> for details) | Science Training and Research Programme<br> **(must offer A-Level H3 Science Research)** |
 | 4. Language Elective Programmes | Malay Language Elective Programme<br> **(must offer A-Level H2 Malay Language &amp; Literature)**<br><br>Tamil Language Elective Programme<br> **(must offer A-Level H2 Tamil Language &amp; Literature)** |
 
+Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.
+
 #### Online Application
 
 Applications for the DSA-JC to National Junior College are free-of-charge and&nbsp;**must**&nbsp;be submitted online at <a target="_blank" href="https://go.gov.sg/njc-dsa-jc-2023">https://go.gov.sg/njc-dsa-jc-2023</a> <br>**4&nbsp;May 2023 (Thu)**,&nbsp;**12 pm&nbsp;and&nbsp;26 June 2023 (Mon)**,&nbsp;**5 pm**.
