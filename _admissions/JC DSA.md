@@ -43,8 +43,7 @@ Applicants will be shortlisted and selected based on the following general crite
 
 as well as&nbsp;[criteria](/junior-college-selection-criteria/)&nbsp;specific to each talent area.
 
-<b style="color:red;font-size:18px">Please read through the  MIMS Self Service Password Reset 
-[criteria](/junior-college-selection-criteria/) carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
+<b style="color:blue;font-size:18px">Please read through the [criteria](/junior-college-selection-criteria/) carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
 
 All shortlisted candidates will be&nbsp;**notified via email by mid-July 2023**&nbsp;to attend an in-person audition / trial&nbsp;held in National Junior College. More details on the performance task will be provided in the email notification.
 
