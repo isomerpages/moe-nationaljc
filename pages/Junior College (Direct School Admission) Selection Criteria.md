@@ -28,7 +28,7 @@ variant: markdown
 
 <h4><u>Clubs and Societies</u></h4>
 
-![](/images/JC%20DSA%20CRITERIA/JC_3.png)
+![](/images/JC%20DSA%20CRITERIA/JC_CRIT_3.png)![](/images/JC%20DSA%20CRITERIA/JC_3.png)
 
 <h4><u>Special Programmes</u></h4>
 
