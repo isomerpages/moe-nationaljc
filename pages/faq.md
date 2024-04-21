@@ -103,7 +103,7 @@ _We will take care of every child. Learning is personalised and differentiated t
 
 _There have been instances where a child and his/her parents feel that another education track is more appropriate. We have facilitated the necessary and continued to monitor the growth and progress of the child. These children have done very well for themselves._&nbsp;
 
-<u>**Learning Experiences**</u>
+<u><b>Learning Experiences</b></u>
 
 
 
