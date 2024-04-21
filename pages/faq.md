@@ -1,10 +1,11 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 ### FAQs about IP DSA (Sec)
 
-<u>**Admissions and Intake**</u>
+<u><b>Admissions and Intake</b></u>
 
 **How many students does NJC enrol in each Junior High cohort?**
 
