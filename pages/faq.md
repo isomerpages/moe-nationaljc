@@ -15,7 +15,7 @@ _There are around 200 students in each Junior High cohort._
 
 _No, NJC is not affiliated to any Primary or Secondary school._&nbsp;&nbsp;
 
-<u>**School Structure and Processes**</u>
+<u><b>School Structure and Processes</b></u>
 
 **How are incoming JH1 students allocated to classes?**&nbsp;&nbsp;
 
