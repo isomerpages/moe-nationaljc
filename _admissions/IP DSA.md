@@ -29,7 +29,7 @@ variant: markdown
 
 <p style="font-size:18px"><b>Selection Process</b></p>
 
-Applicants will be shortlisted and selected based on the following general criteria:
+<p style="font-size:18px">Applicants will be shortlisted and selected based on the following general criteria:</p>
 
 1.  Demonstrate passion for and commitment to the area of interest;
 2.  Exemplify positive character traits, including resilience, motivation and integrity;
