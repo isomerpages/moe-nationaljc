@@ -8,7 +8,7 @@ variant: markdown
 
 <img src="/images/ad1.png" style="width:99%">
 
-<p style="font-size:22px"><b>Direct School Admission into 2-year JC Programme for Academic Year 2025 – DSA-JC Exercise 2024</b></p>
+<h5><b>Direct School Admission into 2-year JC Programme for Academic Year 2025 – DSA-JC Exercise 2024</b></h5>
 
 <p style="font-size:18px">The Direct School Admission-JC (DSA-JC) is an annual exercise for students seeking admission directly to a Junior College. We invite all interested 2024 O-Level graduands to apply to National Junior College.</p>
 
