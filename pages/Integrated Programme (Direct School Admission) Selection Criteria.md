@@ -34,4 +34,4 @@ variant: markdown
 
 ![](/images/IP%20DSA%20CRITERIA/IP_CRIT_3.png)
 
-<b><p>Click&nbsp;<a href="/admissions/ip-dsa" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to return to the IP DSA page</p></b>
+<b>Click&nbsp;<a href="/admissions/ip-dsa" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to return to the IP DSA page</b>
