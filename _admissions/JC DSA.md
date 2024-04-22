@@ -33,7 +33,7 @@ variant: markdown
 2.  Exemplify positive character traits, including resilience, motivation and integrity; and
 3.  Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve.
 
-<p style="font-size:18px">as well as [criteria](/junior-college-selection-criteria/)specific to each talent area.</p>
+<p style="font-size:18px">as well as <a href="/junior-college-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> specific to each talent area.</p>
 
 <b style="color:blue;font-size:18px">Please read through the [criteria](/junior-college-selection-criteria/) carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
 
