@@ -38,7 +38,7 @@ variant: markdown
 
 <p style="font-size:18px">as well as <a href="/integrated-programme-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> specific to each talent area. </p>
 
-<b style="color:blue;font-size:22px">Please read through the [criteria](/integrated-programme-selection-criteria/) carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
+<b style="color:blue;font-size:22px">Please read through the <a href="/integrated-programme-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
 
 <p style="font-size:18px">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants</p>
 
