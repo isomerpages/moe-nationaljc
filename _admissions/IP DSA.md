@@ -8,7 +8,7 @@ variant: markdown
 
 <img src="/images/ad1.png" style="width:99%">
 		 
-<p style="font-size:18px"><b>Direct School Admission into 6-year IP Programme for Academic Year 2025 - DSA-Sec Exercise 2024</b></p>
+<p style="font-size:22px"><b>Direct School Admission into 6-year IP Programme for Academic Year 2025 - DSA-Sec Exercise 2024</b></p>
 
 <p style="font-size:18px">The Direct School Admission-Sec (DSA-Sec) Exercise is conducted annually. We invite all interested 2024 Primary 6 students to apply for National Junior College’s 6-year Integrated Programme via the DSA-Sec Exercise.</p>
 
@@ -16,7 +16,7 @@ variant: markdown
 
 <p style="font-size:18px">Students who are successfully admitted to National Junior College via DSA-Sec are expected to honour their commitment to the school for the duration of the six-year Integrated Programme, and participate in the activities related to the talent they are selected for throughout Junior High (i.e. Years 1 – 4).</p>
 
-<p style="font-size:18px"><b>Talent Areas</b></p>
+<p style="font-size:22px"><b>Talent Areas</b></p>
 
 <p style="font-size:18px">We invite students with special talents and/or achievements in the following areas to apply:</p>
 
@@ -27,7 +27,7 @@ variant: markdown
 | **Science, Technology, Engineering and Mathematics** | **Engineering Innovation and Solutions** <br>(*will be required to be engaged in and lead STEM-based activities for 4 years in Junior High)* |
 | **Visual Arts, Design and Media** | **MOE Art Elective Programme**<br>*(will be required to take Art as an academic subject for 4 years in Junior High)*|
 
-<p style="font-size:18px"><b>Selection Process</b></p>
+<p style="font-size:22px"><b>Selection Process</b></p>
 
 <p style="font-size:18px">Applicants will be shortlisted and selected based on the following general criteria:</p>
 
@@ -38,7 +38,7 @@ variant: markdown
 
 <p style="font-size:18px">as well as&nbsp;[criteria](/integrated-programme-selection-criteria/)&nbsp;specific to each talent area. </p>
 
-<b style="color:blue;font-size:20px">Please read through the [criteria](/integrated-programme-selection-criteria/) carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
+<b style="color:blue;font-size:22px">Please read through the [criteria](/integrated-programme-selection-criteria/) carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
 
 <p style="font-size:18px">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants</p>
 
