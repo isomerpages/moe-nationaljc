@@ -8,11 +8,11 @@ variant: markdown
 
 <img src="/images/ad1.png" style="width:99%">
 		 
-**Direct School Admission into 6-year IP Programme for Academic Year 2025 - DSA-Sec Exercise 2024**
+<p style="font-size:18px"><b>Direct School Admission into 6-year IP Programme for Academic Year 2025 - DSA-Sec Exercise 2024</b></p>
 
-The Direct School Admission-Sec (DSA-Sec) Exercise is conducted annually. We invite all interested 2024 Primary 6 students to apply for National Junior College’s 6-year Integrated Programme via the DSA-Sec Exercise.
+<p style="font-size:18px">The Direct School Admission-Sec (DSA-Sec) Exercise is conducted annually. We invite all interested 2024 Primary 6 students to apply for National Junior College’s 6-year Integrated Programme via the DSA-Sec Exercise.</p>
 
-Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+<p style="font-size:18px">Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.</p>
 
 <p style="font-size:18px">Students who are successfully admitted to National Junior College via DSA-Sec are expected to honour their commitment to the school for the duration of the six-year Integrated Programme, and participate in the activities related to the talent they are selected for throughout Junior High (i.e. Years 1 – 4).</p>
 
@@ -27,7 +27,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 | **Science, Technology, Engineering and Mathematics** | **Engineering Innovation and Solutions** <br>(*will be required to be engaged in and lead STEM-based activities for 4 years in Junior High)* |
 | **Visual Arts, Design and Media** | **MOE Art Elective Programme**<br>*(will be required to take Art as an academic subject for 4 years in Junior High)*|
 
-**Selection Process**
+<p style="font-size:18px"><b>Selection Process</b></p>
 
 Applicants will be shortlisted and selected based on the following general criteria:
 
