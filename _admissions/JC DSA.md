@@ -4,7 +4,7 @@ permalink: /admissions/jc-dsa/
 description: ""
 variant: markdown
 ---
-<h1>Junior College (Direct School Admission)</h1>
+<h2>Junior College (Direct School Admission)</h2>
 
 <img src="/images/ad1.png" style="width:99%">
 
@@ -14,7 +14,7 @@ variant: markdown
 
 <p style="font-size:18px">Students who are successful are guaranteed a place, provided that they meet the eligibility criteria for admission to a JC based on their GCE O-Level results. Students admitted under DSA-JC are expected to honour their commitment to the JC. They will <b>not</b> be allowed to take part in the Joint Admissions Exercise (JAE) in 2025. They will also <b>not</b> be allowed to transfer to another JC after the release of the GCE O-Level results.</p>
 
-<p style="font-size:22px"><b>Talent Areas</b></p>
+<h5><b>Talent Areas</b></h5>
 
 <p style="font-size:18px"> We invite students with special talents and/or achievements in the following areas to apply:</p>
 
@@ -25,7 +25,7 @@ variant: markdown
 | 3. Science Research Excellence (refer to this <a target="_blank" href="/niche-programmes/research/">page</a> for details) | Science Training and Research Programme<br> **(must offer A-Level H3 Science Research)** |
 | 4. Language Elective Programmes | Malay Language Elective Programme<br> **(must offer A-Level H2 Malay Language &amp; Literature)**<br><br>Tamil Language Elective Programme<br> **(must offer A-Level H2 Tamil Language &amp; Literature)** |
 
-<p style="font-size:22px"><b>Selection Process</b></p>
+<h5><b>Selection Process</b></h5>
 
 <p style="font-size:18px"> Applicants will be shortlisted and selected based on the following general criteria:</p>
 
