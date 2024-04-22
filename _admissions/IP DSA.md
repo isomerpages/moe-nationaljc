@@ -36,13 +36,13 @@ Applicants will be shortlisted and selected based on the following general crite
 3.  Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve; and
 4.  Possess good academic potential to thrive in the Integrated Programme.
 
-as well as&nbsp;[criteria](/integrated-programme-selection-criteria/)&nbsp;specific to each talent area.
+<p style="font-size:18px">as well as&nbsp;[criteria](/integrated-programme-selection-criteria/)&nbsp;specific to each talent area. </p>
 
-<b style="color:blue;font-size:18px">Please read through the [criteria](/integrated-programme-selection-criteria/) carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
+<b style="color:blue;font-size:20px">Please read through the [criteria](/integrated-programme-selection-criteria/) carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
 
-Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants
+<p style="font-size:18px">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants</p>
 
-The selection criteria and process for the talent areas will be updated from early May. For more information on the DSA-Sec
-exercise, please refer to the MOE website:&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).  
+<p style="font-size:18px"> The selection criteria and process for the talent areas will be updated from early May. For more information on the DSA-Sec
+exercise, please refer to the MOE website:&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).</p>
 
-We thank you for your interest in National Junior College.
+<p style="font-size:18px"> We thank you for your interest in National Junior College.</p>
