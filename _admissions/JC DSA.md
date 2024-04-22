@@ -8,11 +8,11 @@ variant: markdown
 
 <img src="/images/ad1.png" style="width:99%">
 
-**Direct School Admission into 2-year JC Programme for Academic Year 2025 – DSA-JC Exercise 2024**
+<p style="font-size:22px"><b>Direct School Admission into 2-year JC Programme for Academic Year 2025 – DSA-JC Exercise 2024</b></p>
 
-The Direct School Admission-JC (DSA-JC) is an annual exercise for students seeking admission directly to a Junior College. We invite all interested 2024 O-Level graduands to apply to National Junior College.
+<p style="font-size:18px">The Direct School Admission-JC (DSA-JC) is an annual exercise for students seeking admission directly to a Junior College. We invite all interested 2024 O-Level graduands to apply to National Junior College.</p>
 
-Students who are successful are guaranteed a place, provided that they meet the eligibility criteria for admission to a JC based on their GCE O-Level results. Students admitted under DSA-JC are expected to honour their commitment to the JC. They will&nbsp;**not**&nbsp;be allowed to take part in the Joint Admissions Exercise (JAE) in 2025. They will also&nbsp;**not**&nbsp;be allowed to transfer to another JC after the release of the GCE O-Level results.
+<p style="font-size:18px">Students who are successful are guaranteed a place, provided that they meet the eligibility criteria for admission to a JC based on their GCE O-Level results. Students admitted under DSA-JC are expected to honour their commitment to the JC. They will <b>not</b> be allowed to take part in the Joint Admissions Exercise (JAE) in 2025. They will also <b>not</b> be allowed to transfer to another JC after the release of the GCE O-Level results.</p>
 
 **Talent Areas**&nbsp;
 
