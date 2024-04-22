@@ -14,11 +14,11 @@ The Direct School Admission-Sec (DSA-Sec) Exercise is conducted annually. We inv
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-Students who are successfully admitted to National Junior College via DSA-Sec are expected to honour their commitment to the school for the duration of the six-year Integrated Programme, and participate in the activities related to the talent they are selected for throughout Junior High (i.e. Years 1 – 4).
+<p style="font-size:18px">Students who are successfully admitted to National Junior College via DSA-Sec are expected to honour their commitment to the school for the duration of the six-year Integrated Programme, and participate in the activities related to the talent they are selected for throughout Junior High (i.e. Years 1 – 4).</p>
 
-**Talent Areas**&nbsp;
+<p style="font-size:18px"><b>Talent Areas</b></p>
 
-We invite students with special talents and/or achievements in the following areas to apply:
+<p style="font-size:18px">We invite students with special talents and/or achievements in the following areas to apply:</p>
 
 |  |  |
 |---|---|
