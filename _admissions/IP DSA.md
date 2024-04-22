@@ -43,6 +43,6 @@ variant: markdown
 <p style="font-size:18px">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants</p>
 
 <p style="font-size:18px"> The selection criteria and process for the talent areas will be updated from early May. For more information on the DSA-Sec
-exercise, please refer to the MOE website:&nbsp;[www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).</p>
+exercise, please refer to the MOE website:&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> </p>
 
 <p style="font-size:18px"> We thank you for your interest in National Junior College.</p>
