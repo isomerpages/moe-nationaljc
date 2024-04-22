@@ -37,6 +37,9 @@ as well as&nbsp;[criteria](/junior-college-selection-criteria/)&nbsp;specific to
 
 <b style="color:blue;font-size:18px">Please read through the [criteria](/junior-college-selection-criteria/) carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
 
+Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which
+may include assessing the potential of the applicants.
+
 The selection criteria and process for the talent areas will be updated from early May. For more information on DSA-JC, please refer to the MOE website: <a target="_blank" href="https://www.moe.gov.sg/dsa-jc">www.moe.gov.sg/dsa-jc</a>  
   
 We thank you for your interest in our College.
