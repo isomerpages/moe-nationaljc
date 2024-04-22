@@ -14,9 +14,9 @@ variant: markdown
 
 <p style="font-size:18px">Students who are successful are guaranteed a place, provided that they meet the eligibility criteria for admission to a JC based on their GCE O-Level results. Students admitted under DSA-JC are expected to honour their commitment to the JC. They will <b>not</b> be allowed to take part in the Joint Admissions Exercise (JAE) in 2025. They will also <b>not</b> be allowed to transfer to another JC after the release of the GCE O-Level results.</p>
 
-**Talent Areas**&nbsp;
+<p style="font-size:22px"><b>Talent Areas</b></p>
 
-We invite students with special talents and/or achievements in the following areas to apply:
+<p style="font-size:18px"> We invite students with special talents and/or achievements in the following areas to apply:</p>
 
 |  |  |
 |---|---|
@@ -25,15 +25,15 @@ We invite students with special talents and/or achievements in the following are
 | 3. Science Research Excellence (refer to this <a target="_blank" href="/niche-programmes/research/">page</a> for details) | Science Training and Research Programme<br> **(must offer A-Level H3 Science Research)** |
 | 4. Language Elective Programmes | Malay Language Elective Programme<br> **(must offer A-Level H2 Malay Language &amp; Literature)**<br><br>Tamil Language Elective Programme<br> **(must offer A-Level H2 Tamil Language &amp; Literature)** |
 
-#### Selection Process
+<p style="font-size:22px"><b>Selection Process</b></p>
 
-Applicants will be shortlisted and selected based on the following general criteria:
+<p style="font-size:18px"> Applicants will be shortlisted and selected based on the following general criteria:</p>
 
 1.  Demonstrate passion for and commitment to the area of interest;
 2.  Exemplify positive character traits, including resilience, motivation and integrity; and
 3.  Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve.
 
-as well as&nbsp;[criteria](/junior-college-selection-criteria/)&nbsp;specific to each talent area.
+<p style="font-size:18px">as well as [criteria](/junior-college-selection-criteria/)specific to each talent area.</p>
 
 <b style="color:blue;font-size:18px">Please read through the [criteria](/junior-college-selection-criteria/) carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
 
