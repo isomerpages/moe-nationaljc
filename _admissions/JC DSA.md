@@ -4,7 +4,7 @@ permalink: /admissions/jc-dsa/
 description: ""
 variant: markdown
 ---
-### Junior College (Direct School Admission)
+<h1>Junior College (Direct School Admission)</h1>
 
 <img src="/images/ad1.png" style="width:99%">
 
