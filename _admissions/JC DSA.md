@@ -41,7 +41,9 @@ Applicants will be shortlisted and selected based on the following general crite
 2.  Exemplify positive character traits, including resilience, motivation and integrity; and
 3.  Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve.
 
-as well as <a target="_blank" href="/junior-college-selection-criteria/">criteria</a> specific to each talent area.
+as well as&nbsp;[criteria](/junior-college-selection-criteria/)&nbsp;specific to each talent area.
+
+<b style="color:blue;font-size:18px">Please read through the [criteria](/junior-college-selection-criteria/) carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
 
 All shortlisted candidates will be&nbsp;**notified via email by mid-July 2023**&nbsp;to attend an in-person audition / trial&nbsp;held in National Junior College. More details on the performance task will be provided in the email notification.
 

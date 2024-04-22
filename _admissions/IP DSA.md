@@ -46,6 +46,8 @@ Applicants will be shortlisted and selected based on the following general crite
 
 as well as&nbsp;[criteria](/integrated-programme-selection-criteria/)&nbsp;specific to each talent area.
 
+<b style="color:blue;font-size:18px">Please read through the [criteria](/integrated-programme-selection-criteria/) carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
+
 All shortlisted candidates will be&nbsp;**notified via email by mid-July 2023**&nbsp;to attend an in-person audition / trial&nbsp;held in National Junior College. More details on the performance task will be provided in the email notification.
 
 Thereafter, applicants who are further shortlisted will be&nbsp;**notified via email**&nbsp;to attend an in-person interview, also held in National Junior College. The interview panel will comprise School Leaders, HODs and/or the CCA teachers. All interviews will take place by 30 August 2023.

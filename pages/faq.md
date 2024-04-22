@@ -1,10 +1,11 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 ### FAQs about IP DSA (Sec)
 
-<u>**Admissions and Intake**</u>
+<u><b>Admissions and Intake</b></u>
 
 **How many students does NJC enrol in each Junior High cohort?**
 
@@ -14,7 +15,7 @@ _There are around 200 students in each Junior High cohort._
 
 _No, NJC is not affiliated to any Primary or Secondary school._&nbsp;&nbsp;
 
-<u>**School Structure and Processes**</u>
+<u><b>School Structure and Processes</b></u>
 
 **How are incoming JH1 students allocated to classes?**&nbsp;&nbsp;
 
@@ -102,7 +103,7 @@ _We will take care of every child. Learning is personalised and differentiated t
 
 _There have been instances where a child and his/her parents feel that another education track is more appropriate. We have facilitated the necessary and continued to monitor the growth and progress of the child. These children have done very well for themselves._&nbsp;
 
-<u>**Learning Experiences**</u>
+<u><b>Learning Experiences</b></u>
 
 
 
