@@ -8,7 +8,6 @@ variant: markdown
 
 <style>
         table {
-            font-family: Arial, sans-serif; /* Set font for the whole table */
             border-collapse: collapse; /* Optional: Collapses border spacing */
             width: 100%;
             font-size: 18px; /* Set font size for the whole table */
