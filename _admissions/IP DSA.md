@@ -35,6 +35,7 @@ variant: markdown
 <th>
 </th>
 </tr>
+
 <tr>
 <td>
 <b>Co-Curricular Activities</b><br>
