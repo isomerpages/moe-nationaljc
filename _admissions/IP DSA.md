@@ -86,7 +86,8 @@ String Ensemble
 <p>(will be required to take Art as an academic subject for 4 years in Junior High)</p>
 </td></tr>
 
-</tbody></table>
+</tbody>
+</table>
 <hr>
 <br><br><br><br>
 
