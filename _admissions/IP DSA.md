@@ -12,12 +12,10 @@ variant: markdown
             width: 100%;
             font-size: 18px; /* Set font size for the whole table */
         }
-        th, td {
-            border: 1px solid black;
+        th, td { border: 1px solid black;
             padding: 8px;
             text-align: left;
-            font-size: inherit; /* Inherit font size from parent (table) */
-        }
+            font-size: inherit; /* Inherit font size from parent (table) */}
 </style>
 
 <header>
@@ -52,7 +50,7 @@ variant: markdown
 <tr>
 <td>
 <b>Co-Curricular Activities</b><br>
-Please refer to this&nbsp;<a href="https://cms.isomer.gov.sg/co-curricular-activities/overview" rel="noopener noreferrer nofollow" target="_blank">link</a> for a description of CCAs offered in NJC
+Please refer to this&nbsp;<a href="https://cms.isomer.gov.sg/co-curricular-activities/overview" rel="noopener noreferrer nofollow" target="_blank">page</a> for a description of CCAs offered in NJC
 </td>
 <td>
 <b>Sports and Games</b><br>
