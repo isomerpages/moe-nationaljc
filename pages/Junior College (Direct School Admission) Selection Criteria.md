@@ -38,3 +38,141 @@ variant: markdown
 ![](/images/JC%20DSA%20CRITERIA/JC_4.png)
 
 <br>**Click&nbsp;[here](https://nationaljc.moe.edu.sg/admissions/jc-dsa/)&nbsp;to return to the JC DSA page.**
+
+<table>
+  <tbody><tr>
+    <th width="150">Talent Area</th>
+    <th>Criteria</th>
+    <th>Commitment</th>
+  </tr>
+  <tr>
+    <td width="150">1. Basketball</td>
+    <td>
+						<ol style="font-size:14px;">
+								<li>Ball sense, agility, coordination</li>
+								<li>Playmaking and teamwork</li>
+								<li>Assists, rebound (offensive and defensive) and fast break</li>
+								<li>Offensive skills such as ball handling, shooting, layup.</li>
+								<li>Defensive skills such as man to man defense and zone defense</li>
+								<li>Experiences at competitive games would be an advantage</li>
+								<li>Stamina for guards would be an advantage</li>
+								<li>Size and height for centers and small forward would be an advantage	2-year commitment to CCA</li>
+</ol></td>
+    <td>2-year commitment to CCA</td>
+  </tr>
+	<tr>
+		<td>Test 1</td>
+		<td>Test 2</td>
+		<td>Test 3</td>
+	</tr>
+	  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+    <td>Row 1, Cell 3</td>
+  </tr>
+	<tr>
+		<td>Test 1</td>
+		<td>Test 2</td>
+		<td>Test 3</td>
+	</tr>  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+    <td>Row 1, Cell 3</td>
+  </tr>
+	<tr>
+		<td>Test 1</td>
+		<td>Test 2</td>
+		<td>Test 3</td>
+	</tr>  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+    <td>Row 1, Cell 3</td>
+  </tr>
+	<tr>
+		<td>Test 1</td>
+		<td>Test 2</td>
+		<td>Test 3</td>
+	</tr>  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+    <td>Row 1, Cell 3</td>
+  </tr>
+	<tr>
+		<td>Test 1</td>
+		<td>Test 2</td>
+		<td>Test 3</td>
+	</tr>  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+    <td>Row 1, Cell 3</td>
+  </tr>
+	<tr>
+		<td>Test 1</td>
+		<td>Test 2</td>
+		<td>Test 3</td>
+	</tr>  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+    <td>Row 1, Cell 3</td>
+  </tr>
+	<tr>
+		<td>Test 1</td>
+		<td>Test 2</td>
+		<td>Test 3</td>
+	</tr>  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+    <td>Row 1, Cell 3</td>
+  </tr>
+	<tr>
+		<td>Test 1</td>
+		<td>Test 2</td>
+		<td>Test 3</td>
+	</tr>  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+    <td>Row 1, Cell 3</td>
+  </tr>
+	<tr>
+		<td>Test 1</td>
+		<td>Test 2</td>
+		<td>Test 3</td>
+	</tr>  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+    <td>Row 1, Cell 3</td>
+  </tr>
+	<tr>
+		<td>Test 1</td>
+		<td>Test 2</td>
+		<td>Test 3</td>
+	</tr>  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+    <td>Row 1, Cell 3</td>
+  </tr>
+	<tr>
+		<td>Test 1</td>
+		<td>Test 2</td>
+		<td>Test 3</td>
+	</tr>  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+    <td>Row 1, Cell 3</td>
+  </tr>
+	<tr>
+		<td>Test 1</td>
+		<td>Test 2</td>
+		<td>Test 3</td>
+	</tr>  <tr>
+    <td>Row 1, Cell 1</td>
+    <td>Row 1, Cell 2</td>
+    <td>Row 1, Cell 3</td>
+  </tr>
+	<tr>
+		<td>Test 1</td>
+		<td>Test 2</td>
+		<td>Test 3</td>
+	</tr>
+	
+</tbody></table>
