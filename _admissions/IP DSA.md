@@ -61,29 +61,33 @@ Modern Dance (Western Dance)<br>
 String Ensemble<br>
 </td>
 </tr>
-<tr>
-<td><b>Music<br></b></td>
-
-<td><b>Music Programme</b>
-
-<p>(will be required to take Music as an elective for 4 years in Junior High. Please note that the Music Programme is only offered to Junior High Students)</p>
-</td></tr>
 
 <tr>
-<td><b>Science, Technology, Engineering and Mathematics<br></b></td>
+<td>
+<b>Music<br></b>
+</td>
+<td>
+<p><b>Music Programme</b><br>(will be required to take Music as an elective for 4 years in Junior High. Please note that the Music Programme is only offered to Junior High Students)</p>
+</td>
+</tr>
 
-<td><b>Engineering Innovation and Solutions</b>
-
-<p>(will be required to be engaged in and lead STEM-based activities for 4 years in Junior High)</p>
-</td></tr>
+<tr>
+<td>
+<b>Science, Technology, Engineering and Mathematics<br></b>
+</td>
+<td>
+<p><b>Engineering Innovation and Solutions</b><br>(will be required to be engaged in and lead STEM-based activities for 4 years in Junior High)</p>
+</td>
+</tr>
 	
 <tr>
-<td><b>Visual Arts, Design and Media	<br></b></td>
-
-<td><b>MOE Art Elective Programme</b>
-
-<p>(will be required to take Art as an academic subject for 4 years in Junior High)</p>
-</td></tr>
+<td>
+<b>Visual Arts, Design and Media	<br></b>
+</td>
+<td>
+<p><b>MOE Art Elective Programme</b><br>(will be required to take Art as an academic subject for 4 years in Junior High)</p>
+</td>
+</tr>
 
 </tbody>
 </table>
