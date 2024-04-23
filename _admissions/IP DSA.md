@@ -4,11 +4,15 @@ permalink: /admissions/ip-dsa/
 description: ""
 variant: markdown
 ---
+<header>
 <h2>Integrated Programme (Direct School Admission)</h2>
+</header>
 
-<img src="/images/ad1.png" style="width:99%">
-		 
+<img style="width:99%" alt="banner" src="/images/ad1.png">
+
+<header>
 <h5><b>Direct School Admission into 6-year IP Programme for Academic Year 2025 - DSA-Sec Exercise 2024</b></h5>
+</header>
 
 <p style="font-size:18px">The Direct School Admission-Sec (DSA-Sec) Exercise is conducted annually. We invite all interested 2024 Primary 6 students to apply for National Junior College’s 6-year Integrated Programme via the DSA-Sec Exercise.</p>
 
@@ -16,9 +20,76 @@ variant: markdown
 
 <p style="font-size:18px">Students who are successfully admitted to National Junior College via DSA-Sec are expected to honour their commitment to the school for the duration of the six-year Integrated Programme, and participate in the activities related to the talent they are selected for throughout Junior High (i.e. Years 1 – 4).</p>
 
+<header>
 <h5><b>Talent Areas</b></h5>
+</header>
 
 <p style="font-size:18px">We invite students with special talents and/or achievements in the following areas to apply:</p>
+
+<table>
+<tbody>
+<tr><th>
+</th>
+<th>
+</th>
+
+</tr><tr>
+<td>
+<b>Co-Curricular Activities</b>
+
+Please refer to this&nbsp;<a href="https://cms.isomer.gov.sg/co-curricular-activities/overview" rel="noopener noreferrer nofollow" target="_blank">link</a> for a description of CCAs offered in NJC
+</td>
+<td>
+<b>Sports and Games</b>
+<pre>Basketball
+Canoeing
+Cross Country; Track and Field
+Shooting
+Softball
+Squash 
+</pre>
+<b>Performing Arts</b>
+<pre>Choir
+Chinese Dance
+Chinese Orchestra
+Concert Band
+Guitar Ensemble
+Guzheng Ensemble
+Indian Dance
+Malay Dance
+Modern Dance (Western Dance)
+String Ensemble
+</pre>
+</td>
+</tr>
+<tr>
+<td><b>Music<br></b></td>
+
+<td><b>Music Programme</b>
+
+<p>(will be required to take Music as an elective for 4 years in Junior High. Please note that the Music Programme is only offered to Junior High Students)</p>
+</td></tr>
+
+<tr>
+<td><b>Science, Technology, Engineering and Mathematics<br></b></td>
+
+<td><b>Engineering Innovation and Solutions</b>
+
+<p>(will be required to be engaged in and lead STEM-based activities for 4 years in Junior High)</p>
+</td></tr>
+	
+<tr>
+<td><b>Visual Arts, Design and Media	<br></b></td>
+
+<td><b>MOE Art Elective Programme</b>
+
+<p>(will be required to take Art as an academic subject for 4 years in Junior High)</p>
+</td></tr>
+
+</tbody></table>
+<hr>
+<br><br><br><br>
+
 
 |  |  |
 |---|---|
@@ -27,7 +98,9 @@ variant: markdown
 | **Science, Technology, Engineering and Mathematics** | **Engineering Innovation and Solutions** <br>(*will be required to be engaged in and lead STEM-based activities for 4 years in Junior High)* |
 | **Visual Arts, Design and Media** | **MOE Art Elective Programme**<br>*(will be required to take Art as an academic subject for 4 years in Junior High)*|
 
+<header>
 <h5><b>Selection Process</b></h5>
+</header>
 
 <p style="font-size:18px">Applicants will be shortlisted and selected based on the following general criteria:</p>
 
