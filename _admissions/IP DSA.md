@@ -4,7 +4,7 @@ permalink: /admissions/ip-dsa/
 description: ""
 variant: markdown
 ---
-<style> body { text-align: justify; /* Aligns all text in the body to the center */ } </style>
+<style> body { text-align: justify; } </style>
 
 <header>
 <h2>Integrated Programme (Direct School Admission)</h2>
@@ -30,7 +30,8 @@ variant: markdown
 
 <table>
 <tbody>
-<tr><th>
+<tr>
+<th>
 </th>
 <th>
 </th>
