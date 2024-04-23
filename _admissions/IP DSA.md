@@ -4,18 +4,12 @@ permalink: /admissions/ip-dsa/
 description: ""
 variant: markdown
 ---
-<style> body { text-align: justify; } </style>
-
 <style>
-        table {
-            border-collapse: collapse; /* Optional: Collapses border spacing */
-            width: 100%;
-            font-size: 18px; /* Set font size for the whole table */
-        }
-        th, td { border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-            font-size: inherit; /* Inherit font size from parent (table) */}
+body { text-align: justify; }
+
+table {border-collapse: collapse; /* Optional: Collapses border spacing */ width: 100%; font-size: 18px; /* Set font size for the whole table */}
+
+th, td { border: 1px solid black; padding: 8px; text-align: left; font-size: inherit; /* Inherit font size from parent (table) */}
 </style>
 
 <header>
@@ -103,17 +97,6 @@ String Ensemble<br>
 
 </tbody>
 </table>
-
-<hr>
-<br><br><br><br>
-
-
-|  |  |
-|---|---|
-| **Co-Curricular Activities**<br><br>Please refer to this [page](/co-curricular-activities/overview) for a description of CCAs offered in NJC | **Sports and Games**<br>Basketball<br>Canoeing<br>Cross Country; Track and Field<br>Shooting<br>Softball<br>Squash<br><br>**Performing Arts**<br>Choir <br>Chinese Dance<br>Chinese Orchestra<br>Concert Band<br>Guitar Ensemble<br>Guzheng Ensemble<br>Indian Dance <br>Malay Dance<br>Modern Dance (Western Dance)<br>String Ensemble |
-| **Music** | **Music Programme**  <br>*(will be required to take Music as an elective for 4 years in Junior High. Please note that the Music Programme is only offered to Junior High Students)* |
-| **Science, Technology, Engineering and Mathematics** | **Engineering Innovation and Solutions** <br>(*will be required to be engaged in and lead STEM-based activities for 4 years in Junior High)* |
-| **Visual Arts, Design and Media** | **MOE Art Elective Programme**<br>*(will be required to take Art as an academic subject for 4 years in Junior High)*|
 
 <header>
 <h5><b>Selection Process</b></h5>
