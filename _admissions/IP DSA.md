@@ -5,8 +5,6 @@ description: ""
 variant: markdown
 ---
 <style>
-body { text-align: justify; }
-
 table {border-collapse: collapse; /* Optional: Collapses border spacing */ width: 100%; font-size: 18px; /* Set font size for the whole table */}
 
 th, td { border: 1px solid black; padding: 8px; text-align: left; font-size: inherit; /* Inherit font size from parent (table) */}
