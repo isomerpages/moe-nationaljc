@@ -29,10 +29,10 @@ variant: markdown
 
 <p style="font-size:18px"> Applicants will be shortlisted and selected based on the following general criteria:</p>
 
-<ol style="font-size:6px">
-<li>Demonstrate passion for and commitment to the area of interest;
-</li><li>Exemplify positive character traits, including resilience, motivation and integrity; and
-</li><li>Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve.
+<ol>
+<li style="font-size:18px">Demonstrate passion for and commitment to the area of interest;
+</li><li style="font-size:18px">Exemplify positive character traits, including resilience, motivation and integrity; and
+</li><li style="font-size:18px">Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve.
 </li></ol>
 
 <p style="font-size:18px">as well as <a href="/junior-college-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> specific to each talent area.</p>
