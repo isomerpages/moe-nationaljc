@@ -26,7 +26,20 @@ variant: markdown
 <h5><b>Talent Areas</b></h5>
 </header>
 
-<p style="font-size:18px">We invite students with special talents and/or achievements in the following areas to apply:</p>
+<style>
+        table {
+            font-family: Arial, sans-serif; /* Set font for the whole table */
+            border-collapse: collapse; /* Optional: Collapses border spacing */
+            width: 100%;
+            font-size: 18px; /* Set font size for the whole table */
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+            font-size: inherit; /* Inherit font size from parent (table) */
+        }
+    </style>
 
 <table>
 <tbody>
