@@ -37,31 +37,28 @@ variant: markdown
 </tr>
 <tr>
 <td>
-<b>Co-Curricular Activities</b>
-
+<b>Co-Curricular Activities</b><br>
 Please refer to this&nbsp;<a href="https://cms.isomer.gov.sg/co-curricular-activities/overview" rel="noopener noreferrer nofollow" target="_blank">link</a> for a description of CCAs offered in NJC
 </td>
 <td>
-<b>Sports and Games</b>
-<pre>Basketball
-Canoeing
-Cross Country; Track and Field
-Shooting
-Softball
-Squash 
-</pre>
-<b>Performing Arts</b>
-<pre>Choir
-Chinese Dance
-Chinese Orchestra
-Concert Band
-Guitar Ensemble
-Guzheng Ensemble
-Indian Dance
-Malay Dance
-Modern Dance (Western Dance)
-String Ensemble
-</pre>
+<b>Sports and Games</b><br>
+Basketball<br>
+Canoeing<br>
+Cross Country; Track and Field<br>
+Shooting<br>
+Softball<br>
+Squash<br><br>
+<b>Performing Arts</b><br>
+Choir<br>
+Chinese Dance<br>
+Chinese Orchestra<br>
+Concert Band<br>
+Guitar Ensemble<br>
+Guzheng Ensemble<br>
+Indian Dance<br>
+Malay Dance<br>
+Modern Dance (Western Dance)<br>
+String Ensemble<br>
 </td>
 </tr>
 <tr>
