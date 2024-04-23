@@ -8,6 +8,18 @@ variant: markdown
 table {border-collapse: collapse; /* Optional: Collapses border spacing */ width: 100%; font-size: 18px; /* Set font size for the whole table */}
 
 th, td { border: 1px solid black; padding: 8px; text-align: left; font-size: inherit; /* Inherit font size from parent (table) */}
+	
+ul {
+            list-style-type: none; /* Remove default list item bullets */
+            padding: 0; /* Remove default padding */
+            font-family: Arial, sans-serif; /* Set font for the list */
+            font-size: 16px; /* Set font size for the list */
+        }
+        li {
+            padding-left: 20px; /* Add padding for indentation */
+            margin-bottom: 5px; /* Add margin between list items */
+            font-size: inherit; /* Inherit font size from parent (ul) */
+        }
 </style>
 
 <header>
