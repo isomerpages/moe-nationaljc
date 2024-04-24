@@ -53,30 +53,16 @@ variant: markdown
             </td>
             <td valign="top" width="302">
                 <p>
-                    (1) Ball sense, agility, coordination
-                </p>
-                <p>
-                    (2) Playmaking and teamwork
-                </p>
-                <p>
-                    (3) Assists and (offensive and defensive) rebound
-                </p>
-                <p>
-                    (4) Offensive skills such as ball handling, shooting, layup.
-                </p>
-                <p>
+                    (1) Ball sense, agility, coordination<br>
+                    (2) Playmaking and teamwork<br>
+                    (3) Assists and (offensive and defensive) rebound<br>
+                    (4) Offensive skills such as ball handling, shooting, layup.<br>
                     (5) Defensive skills such as man to man defense and zone
-                    defense
-                </p>
-                <p>
-                    (6) Experiences at competitive games would be an advantage
-                </p>
-                <p>
-                    (7) Stamina for guards would be an advantage
-                </p>
-                <p>
+                    defense<br>
+                    (6) Experiences at competitive games would be an advantage<br>
+                    (7) Stamina for guards would be an advantage<br>
                     (8) Size and height for centers and small forwards would be
-                    an    advantage
+                    an advantage
                 </p>
             </td>
             <td valign="top" width="227">
@@ -274,9 +260,7 @@ variant: markdown
                 <p>
                     (1) Flexibility and coordination <br>
                     (2) Clarity, flow and control of body movements <br>
-                    (3) Skills acquisition during choreography
-                </p>
-                <p>
+                    (3) Skills acquisition during choreography<br>
                     (4) Performance quality
                 </p>
             </td>
@@ -296,9 +280,7 @@ variant: markdown
                 <p>
                     (1) Movement and technique <br>
                     (2) Spatial awareness <br>
-                    (3) Dynamic awareness
-                </p>
-                <p>
+                    (3) Dynamic awareness<br>
                     (4)     Performance quality
                 </p>
             </td>
@@ -338,9 +320,7 @@ variant: markdown
             </td>
             <td valign="top" width="442">
                 <p>
-                    (1) Performance quality
-                </p>
-                <p>
+                    (1) Performance quality<br>
                     (2) Flexibility and coordination <br>
                     (3) Exhibit excellent footwork and impressive gestures <br>
                     (4) Skills acquisition during dance modeling
