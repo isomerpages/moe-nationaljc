@@ -381,9 +381,7 @@ variant: markdown
                     (1) Ability to play at least one of the following string
                     instruments:    Violin, Viola, Cello, Double Bass <br>
                     (2) Aural ability <br>
-                    (3) Musicianship
-                </p>
-                <p>
+                    (3) Musicianship<br>
                     (4) Performance quality
                 </p>
             </td>
@@ -422,70 +420,39 @@ variant: markdown
             </td>
             <td valign="top" width="442">
                 <p>
-                    (1) Innovative traits (curiosity, creative thinking)
-                </p>
-                <p>
-                    (2) Personal artistic voice
-                </p>
-                <p>
-                    (3) Visual thinking process
-                </p>
-                <p>
-                    (4) Artmaking skills <br>
+                    (1) Innovative traits (curiosity, creative thinking)<br>
+                    (2) Personal artistic voice<br>
+                    (3) Visual thinking process<br>
+                    (4) Artmaking skills<br>
                     <br>
                     As part of the shortlisting process, applicants will be
                     contacted by the    school admission team in mid-end June to
                     submit their portfolio.
-                </p>
-                <p>
-                    &nbsp;
-                </p>
-                <p>
+									</p><p>
                     Portfolio submission should be submitted as a single
                     document that    contains a minimum of 3 and maximum of 5
-                    artworks, in accordance with the    following: <br>
-                    <br>
+                    artworks, in accordance with the following:<br>
                 </p>
                 <p>
                     ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Page 1: Artist    statement and short self
-                    introduction (100- 150 words)
-                </p>
-                <p>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Page 2 to 10: 3-5    artworks
-                </p>
-                <p>
+                    introduction (100- 150 words)<br>
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Page 2 to 10: 3-5    artworks<br>
                     ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    All works must    have been completed in the last
-                    3 years.
-                </p>
-                <p>
+                    3 years.<br>
                     ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    All works must    be labeled (title, medium, date,
-                    short explanation).
-                </p>
-                <p>
+                    short explanation).<br>
                     ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Works may be in    any media (2D, 3D, digital or
-                    time-based).
-                </p>
-                <p>
+                    time-based).<br>
                     ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Mention if any    particular work was done as
-                    group work.
-                </p>
-                <p>
+                    group work.<br>
                     ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Each 2D work is    allowed a maximum of 2 images.
-                    Each 3D work is allowed a maximum of 4 images.
-                </p>
-                <p>
+                    Each 3D work is allowed a maximum of 4 images.<br>
                     ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Links for    time-based works should be included
-                    in the Portfolio document.
-                </p>
-                <p>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Portfolio file    format: PDF
-                </p>
-                <p>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    File size limit:    15MB
-                </p>
-                <p>
+                    in the Portfolio document.<br>
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Portfolio file    format: PDF<br>
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    File size limit:    15MB<br>
                     ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    File naming    convention: Primary School_Full
-                    Name of Student.pdf.
+                    Name of Student.pdf.<br>
                 </p>
                 <p>
                     &nbsp;
