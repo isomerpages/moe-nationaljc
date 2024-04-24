@@ -121,9 +121,6 @@ variant: markdown
                 <p>
                     5. Shooting
                 </p>
-                <p>
-                    &nbsp;
-                </p>
             </td>
             <td valign="top" width="302">
                 <p>
