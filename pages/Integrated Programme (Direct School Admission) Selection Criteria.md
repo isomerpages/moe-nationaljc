@@ -590,8 +590,8 @@ variant: markdown
                     and Entrepreneurship    Leader<br>
                     (6) Passion    for championing sustainability and community
                     initiatives using STEAM.<br>
-							</p>	
-							<p>
+								</p>	
+								<p>
                     Candidates will undergo a two-phase shortlisting process.
                 </p>
                 <p>
