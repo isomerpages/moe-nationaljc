@@ -455,22 +455,13 @@ variant: markdown
                     Name of Student.pdf.<br>
                 </p>
                 <p>
-                    &nbsp;
-                </p>
-                <p>
                     Shortlisted applicants will attend a face-to-face session to
                     complete    an artmaking task (with stimulus provided), an
                     art writing task&nbsp; and an Art conversation with the art
                     teachers.
                 </p>
                 <p>
-                    &nbsp;
-                </p>
-                <p>
                     All art materials will be provided.
-                </p>
-                <p>
-                    &nbsp;
                 </p>
                 <p>
                     Duration: approximately 90 mins.
