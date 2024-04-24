@@ -580,35 +580,19 @@ variant: markdown
             </td>
             <td valign="top" width="329">
                 <p>
-                    (1) Ability to understand issues from multiple perspectives
-                </p>
-                <p>
+                    (1) Ability to understand issues from multiple perspectives<br>
                     (2) Has a strong curiosity for the unknown and keenness for
-                    learning
-                </p>
-                <p>
+                    learning<br>
                     (3) Is innovative, adaptive and has an inclusive mindset
-                    which is    integrative and evaluative
-                </p>
-                <p>
-                    (4)    Effective team player
-                </p>
-                <p>
+                    which is    integrative and evaluative<br>
+                    (4)    Effective team player<br>
                     (5)    Potential and interest to develop as an Innovation
-                    and Entrepreneurship    Leader
-                </p>
-                <p>
+                    and Entrepreneurship    Leader<br>
                     (6) Passion    for championing sustainability and community
-                    initiatives using STEAM.
-                </p>
-                <p>
-                    &nbsp;
-                </p>
-                <p>
+                    initiatives using STEAM.<br>
+							</p>	
+							<p>
                     Candidates will undergo a two-phase shortlisting process.
-                </p>
-                <p>
-                    &nbsp;
                 </p>
                 <p>
                     During the initial phase, the school's admission team will
@@ -616,14 +600,8 @@ variant: markdown
                     their portfolios.
                 </p>
                 <p>
-                    &nbsp;
-                </p>
-                <p>
                     Portfolio Submission Guidelines (submit as 2 separate PDF
                     documents):
-                </p>
-                <p>
-                    &nbsp;
                 </p>
                 <p>
                     1.&nbsp;&nbsp;&nbsp; <b>Mandatory:</b> A one-page    portfolio outlining
@@ -633,9 +611,6 @@ variant: markdown
                 <p>
                     2.&nbsp;&nbsp;&nbsp; <i>Optional:</i> Candidates may    provide additional
                     supporting documents.
-                </p>
-                <p>
-                    &nbsp;
                 </p>
                 <p>
                     Phase 1 shortlisted applicants will then be invited to
