@@ -430,24 +430,24 @@ variant: markdown
                     artworks, in accordance with the following:<br>
                 </p>
                 <p>
-                    ●Page 1: Artist    statement and short self
+                    ● Page 1: Artist    statement and short self
                     introduction (100- 150 words)<br>
-                    ●Page 2 to 10: 3-5    artworks<br>
-                    ●All works must    have been completed in the last
+                    ● Page 2 to 10: 3-5    artworks<br>
+                    ● All works must    have been completed in the last
                     3 years.<br>
-                    ●All works must    be labeled (title, medium, date,
+                    ● All works must    be labeled (title, medium, date,
                     short explanation).<br>
-                    ●Works may be in    any media (2D, 3D, digital or
+                    ● Works may be in    any media (2D, 3D, digital or
                     time-based).<br>
-                    ●Mention if any    particular work was done as
+                    ● Mention if any    particular work was done as
                     group work.<br>
-                    ●Each 2D work is    allowed a maximum of 2 images.
+                    ● Each 2D work is    allowed a maximum of 2 images.
                     Each 3D work is allowed a maximum of 4 images.<br>
-                    ●Links for    time-based works should be included
+                    ● Links for    time-based works should be included
                     in the Portfolio document.<br>
-                    ●Portfolio file    format: PDF<br>
-                    ●File size limit:    15MB<br>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    File naming    convention: Primary School_Full
+                    ● Portfolio file    format: PDF<br>
+                    ● File size limit:    15MB<br>
+                    ● File naming    convention: Primary School_Full
                     Name of Student.pdf.<br>
                 </p>
                 <p>
