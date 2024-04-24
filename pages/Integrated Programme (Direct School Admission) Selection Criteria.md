@@ -434,23 +434,23 @@ variant: markdown
                     artworks, in accordance with the following:<br>
                 </p>
                 <p>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Page 1: Artist    statement and short self
+                    ●Page 1: Artist    statement and short self
                     introduction (100- 150 words)<br>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Page 2 to 10: 3-5    artworks<br>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    All works must    have been completed in the last
+                    ●Page 2 to 10: 3-5    artworks<br>
+                    ●All works must    have been completed in the last
                     3 years.<br>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    All works must    be labeled (title, medium, date,
+                    ●All works must    be labeled (title, medium, date,
                     short explanation).<br>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Works may be in    any media (2D, 3D, digital or
+                    ●Works may be in    any media (2D, 3D, digital or
                     time-based).<br>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Mention if any    particular work was done as
+                    ●Mention if any    particular work was done as
                     group work.<br>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Each 2D work is    allowed a maximum of 2 images.
+                    ●Each 2D work is    allowed a maximum of 2 images.
                     Each 3D work is allowed a maximum of 4 images.<br>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Links for    time-based works should be included
+                    ●Links for    time-based works should be included
                     in the Portfolio document.<br>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Portfolio file    format: PDF<br>
-                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    File size limit:    15MB<br>
+                    ●Portfolio file    format: PDF<br>
+                    ●File size limit:    15MB<br>
                     ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    File naming    convention: Primary School_Full
                     Name of Student.pdf.<br>
                 </p>
