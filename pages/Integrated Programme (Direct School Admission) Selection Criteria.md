@@ -528,8 +528,6 @@ variant: markdown
             </td>
             <td valign="top" width="217">
                 <p>
-                    <br>
-                    <br>
                     Join the Music Programme, taking Music as an academic
                     subject for 4 years in    Junior High. <br>
                     <br>
