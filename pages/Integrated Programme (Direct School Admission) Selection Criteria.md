@@ -130,9 +130,6 @@ variant: markdown
                     (1) Consistency of shots <br>
                     (2) NAPFA Silver Award or above
                 </p>
-                <p>
-                    &nbsp;
-                </p>
             </td>
             <td valign="top" width="227">
                 <p>
