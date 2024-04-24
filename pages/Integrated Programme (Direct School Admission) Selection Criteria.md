@@ -24,7 +24,7 @@ variant: markdown
 
 <h4><u>Sports &amp; Games</u></h4>
 
-<table width="832" cellpadding="0" cellspacing="0" border="1">
+<table width="832" cellpadding="1" cellspacing="1" border="1">
 	<thead>
         <tr>
             <td valign="top" width="151">
