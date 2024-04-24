@@ -17,7 +17,6 @@ ul {
         }
         li {
             padding-left: 20px; /* Add padding for indentation */
-            margin-bottom: 5px; /* Add margin between list items */
             font-size: inherit; /* Inherit font size from parent (ul) */
         }
 </style>
