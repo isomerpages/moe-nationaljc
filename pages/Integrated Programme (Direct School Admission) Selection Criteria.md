@@ -24,20 +24,20 @@ variant: markdown
 
 <h4><u>Sports &amp; Games</u></h4>
 
-<table width="1000" cellpadding="0" cellspacing="0" border="0">
+<table width="832" cellpadding="0" cellspacing="0" border="0">
     <thead>
         <tr>
-            <td valign="top" width="100">
+            <td valign="top" width="151">
                 <p>
                     <b>Talent Area</b>
                 </p>
             </td>
-            <td valign="top" width="360">
+            <td valign="top" width="302">
                 <p>
                     <b>Criteria</b>
                 </p>
             </td>
-            <td valign="top" width="318">
+            <td valign="top" width="227">
                 <p>
                     <b>Commitment</b>
                 </p>
@@ -46,12 +46,12 @@ variant: markdown
     </thead>
     <tbody>
         <tr>
-            <td valign="top" width="100">
+            <td valign="top" width="151">
                 <p>
                     1. Basketball
                 </p>
             </td>
-            <td valign="top" width="360">
+            <td valign="top" width="302">
                 <p>
                     (1) Ball sense, agility, coordination
                 </p>
@@ -79,40 +79,42 @@ variant: markdown
                     an    advantage
                 </p>
             </td>
-            <td valign="top" width="318">
+            <td valign="top" width="227">
                 <p>
                     4-year commitment to CCA
                 </p>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="100">
+            <td valign="top" width="151">
                 <p>
                     2. Canoeing
                 </p>
             </td>
-            <td valign="top" width="360">
+            <td valign="top" width="302">
                 <p>
                     (1) Psychomotor coordination <br>
                     (2) Balance
                 </p>
             </td>
-            <td valign="top" width="318">
-                <p>
-                        · 4-year commitment to CCA <br>
+            <td valign="top" width="227">
+                <ul>
+                    <li>
+                        4-year commitment to CCA <br>
                         · Committed to participate in Dragon boat as well.
-							</p>
+                    </li>
+                </ul>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="100">
+            <td valign="top" width="151">
                 <p>
                     3. Track &amp; Field <br>
                     <br>
                     4. Cross Country
                 </p>
             </td>
-            <td valign="top" width="360">
+            <td valign="top" width="302">
                 <p>
                     (1) Coordination <br>
                     (2) Speed <br>
@@ -121,66 +123,74 @@ variant: markdown
                     (5) Endurance
                 </p>
             </td>
-            <td valign="top" width="318">
-                <p>
-                         · 4-year commitment to CCA <br>
+            <td valign="top" width="227">
+                <ul>
+                    <li>
+                        4-year commitment to CCA <br>
                         · Track &amp; Field and Cross Country operate as one
                         CCA. Applicants to    Cross-Country are expected to
                         commit to Track &amp; Field, and vice versa.
-							</p>
+                    </li>
+                </ul>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="100">
+            <td valign="top" width="151">
                 <p>
                     5. Shooting
                 </p>
+                <p>
+                    &nbsp;
+                </p>
             </td>
-            <td valign="top" width="360">
+            <td valign="top" width="302">
                 <p>
                     (1) Consistency of shots <br>
                     (2) NAPFA Silver Award or above
                 </p>
+                <p>
+                    &nbsp;
+                </p>
             </td>
-            <td valign="top" width="318">
+            <td valign="top" width="227">
                 <p>
                     4-year commitment to CCA
                 </p>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="100">
+            <td valign="top" width="151">
                 <p>
                     6. Softball <br>
                     <br>
                 </p>
             </td>
-            <td valign="top" width="360">
+            <td valign="top" width="302">
                 <p>
                     (1) Reflexes and Hand-eye coordination <br>
                     (2) Interest in leading and guiding peers who are new to the
                     sport, and in    building positive team culture
                 </p>
             </td>
-            <td valign="top" width="318">
+            <td valign="top" width="227">
                 <p>
                     4-year commitment to CCA
                 </p>
             </td>
         </tr>
         <tr>
-            <td valign="top" width="100">
+            <td valign="top" width="151">
                 <p>
                     7. Squash
                 </p>
             </td>
-            <td valign="top" width="360">
+            <td valign="top" width="302">
                 <p>
                     (1) Ball sense <br>
                     (2) Hand-eye coordination
                 </p>
             </td>
-            <td valign="top" width="318">
+            <td valign="top" width="227">
                 <p>
                     4-year commitment to CCA
                 </p>
@@ -191,7 +201,7 @@ variant: markdown
 
 <h4><u>Visual, Literary and Performing Arts</u></h4>
 
-<table width="775" cellpadding="0" cellspacing="0" border="0">
+<table width="832" cellpadding="0" cellspacing="0" border="0">
     <thead>
         <tr>
             <td valign="top" width="115">
@@ -279,7 +289,7 @@ variant: markdown
         <tr>
             <td valign="top" width="115">
                 <p>
-                    4. Western  (Modern) Dance
+                    4. Western &nbsp;(Modern) Dance
                 </p>
             </td>
             <td valign="top" width="442">
@@ -448,60 +458,72 @@ variant: markdown
                     submit their portfolio.
                 </p>
                 <p>
+                    &nbsp;
+                </p>
+                <p>
                     Portfolio submission should be submitted as a single
                     document that    contains a minimum of 3 and maximum of 5
                     artworks, in accordance with the    following: <br>
                     <br>
                 </p>
                 <p>
-                    ●         Page 1: Artist    statement and short self
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Page 1: Artist    statement and short self
                     introduction (100- 150 words)
                 </p>
                 <p>
-                    ●         Page 2 to 10: 3-5    artworks
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Page 2 to 10: 3-5    artworks
                 </p>
                 <p>
-                    ●         All works must    have been completed in the last
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    All works must    have been completed in the last
                     3 years.
                 </p>
                 <p>
-                    ●         All works must    be labeled (title, medium, date,
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    All works must    be labeled (title, medium, date,
                     short explanation).
                 </p>
                 <p>
-                    ●         Works may be in    any media (2D, 3D, digital or
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Works may be in    any media (2D, 3D, digital or
                     time-based).
                 </p>
                 <p>
-                    ●         Mention if any    particular work was done as
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Mention if any    particular work was done as
                     group work.
                 </p>
                 <p>
-                    ●         Each 2D work is    allowed a maximum of 2 images.
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Each 2D work is    allowed a maximum of 2 images.
                     Each 3D work is allowed a maximum of 4 images.
                 </p>
                 <p>
-                    ●         Links for    time-based works should be included
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Links for    time-based works should be included
                     in the Portfolio document.
                 </p>
                 <p>
-                    ●         Portfolio file    format: PDF
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Portfolio file    format: PDF
                 </p>
                 <p>
-                    ●         File size limit:    15MB
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    File size limit:    15MB
                 </p>
                 <p>
-                    ●         File naming    convention: Primary School_Full
+                    ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    File naming    convention: Primary School_Full
                     Name of Student.pdf.
+                </p>
+                <p>
+                    &nbsp;
                 </p>
                 <p>
                     Shortlisted applicants will attend a face-to-face session to
                     complete    an artmaking task (with stimulus provided), an
-                    art writing task  and an Art conversation with the art
+                    art writing task&nbsp; and an Art conversation with the art
                     teachers.
                 </p>
                 <p>
+                    &nbsp;
+                </p>
+                <p>
                     All art materials will be provided.
+                </p>
+                <p>
+                    &nbsp;
                 </p>
                 <p>
                     Duration: approximately 90 mins.
@@ -557,11 +579,9 @@ variant: markdown
                 </p>
                 <p>
                     – Students also need to submit    an accompanying cover page
-                    (use template provided
-                    <a href="https://docs.google.com/document/d/1BKKnLK3iU1WMoTwfYjpTvYvdinOSky0v/edit?usp=sharing&amp;ouid=108259911809378653811&amp;rtpof=true&amp;sd=true">
-                        here
-                    </a>
-                    , stating their performing experience and the title of the 2
+                    (use template
+                    provided&nbsp;<a href="https://docs.google.com/document/d/1BKKnLK3iU1WMoTwfYjpTvYvdinOSky0v/edit?usp=sharing&amp;ouid=108259911809378653811&amp;rtpof=true&amp;sd=true">here</a>, 
+                    stating their performing experience and the title of the 2
                     pieces    played in the video. <br>
                     Shortlisted applicants will attend a face-to-face session to
                     complete a    Selection Test: <br>
