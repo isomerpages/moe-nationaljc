@@ -23,7 +23,305 @@ variant: markdown
 
 <h4><u>Sports &amp; Games</u></h4>
 
-![](/images/JC%20DSA%20CRITERIA/JC_CRIT_1.png)
+<table width="832" cellpadding="0" cellspacing="0" border="1">
+    <tbody>
+        <tr>
+            <td width="227">
+                <p>
+                    <b>Talent Area</b>
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    <b>Criteria</b>
+                </p>
+            </td>
+            <td width="302">
+                <p>
+                    <b>Commitment</b>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="227">
+                <p>
+                    1. Basketball
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Ball sense, agility,    coordination<br>
+                    (2) Playmaking and teamwork<br>
+                    (3) Assists, rebound (offensive and defensive) and fast
+                    break<br>
+                    (4) Offensive skills such as ball handling, shooting,
+                    layup.<br>
+                    (5) Defensive skills such as man to man defense and zone
+                    defense<br>
+                    (6) Experiences at competitive games would be an
+                    advantage<br>
+                    (7) Stamina for guards would be an advantage<br>
+                    (8) Size and height for centers and small forward would
+                    be an advantage<br>
+                </p>
+            </td>
+            <td width="302">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="227">
+                <p>
+                    2. Canoeing &amp; Dragon Boating
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Psychomotor coordination <br>
+                    (2) Balance <br>
+                    (3) Minimum ‘Silver’ Award for NAPFA
+                </p>
+            </td>
+            <td width="302">
+                <p>
+                    2-year commitment to CCA
+                </p>
+                <p>
+                    Committed to participating in    Dragon Boating as well.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="227">
+                <p>
+                    3. Shooting
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Balance and Stability<br>
+                    (2) Prior experience in the sport    (Represented school and
+                    competed in NSG and/or recognised Shooting    Competitions
+                    with Minimum raw score 550 for Air Rifle and 520 for Air
+                    Pistol)
+                </p>
+            </td>
+            <td width="302">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="227">
+                <p>
+                    4. Squash
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Ball sense <br>
+                    (2) Hand-eye coordination
+                </p>
+            </td>
+            <td width="302">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="227">
+                <p>
+                    5. Softball
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Hand-eye coordination and    reflexes <br>
+                    (2) Interest in leading and guide peers who are new to the
+                    sport, and in    building positive team culture <br>
+                    (3) Team player
+                </p>
+            </td>
+            <td width="302">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="227">
+                <p>
+                    6. Track &amp; Field / Cross Country
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Prior competitive experience    in sports (not limited
+                    to track &amp; field) <br>
+                    (2) Coordination &amp; Agility <br>
+                    (3) Stamina <br>
+                    (4) Speed
+                </p>
+            </td>
+            <td width="302">
+<p>
+                        · 2-year commitment to CCA <br>
+                        · Track &amp; Field and Cross Country operate as one
+                        CCA. Applicants to    Cross-Country are expected to
+                        commit to Track &amp; Field, and vice versa.
+							</p>
+            </td>
+        </tr>
+        <tr>
+            <td width="227">
+                <p>
+                   7. Badminton
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Represented school and competed in NSG and/or    any SBA
+                    recognised Open Competitions
+                </p>
+                <p>
+                    (2) Skill set required for Singles or Doubles play
+                </p>
+            </td>
+            <td width="302">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="227">
+                <p>
+                    8. Rock Wall Climbing
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Balance <br>
+                    (2) Coordination <br>
+                    (3) Core and upper-body strength
+                </p>
+            </td>
+            <td width="302">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="227">
+                <p>
+                   9. Floorball
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Interest and experience to    lead and guide peers who
+                    are new to the sport <br>
+                    (2) Team player <br>
+                    (3) Ball sense and game sense<br>
+                    (4) Competitive experience in    floorball
+                </p>
+            </td>
+            <td width="302">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="227">
+                <p>
+                    10. Football <b>(Boys Only)</b>
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Proficiency in ball control    and passing <br>
+                    (2) Interest to lead and guide peers who are new to the
+                    sport <br>
+                    (3) Team player
+                </p>
+            </td>
+            <td width="302">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="227">
+                <p>
+                    11. Netball <b>(Girls Only)</b>
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Proficiency in shooting (if    applicable) <br>
+                    (2) Proficiency in footwork and good ball sense <br>
+                    (3) Prior experience in the sport (Represented school and
+                    competed in NSG    and/or recognised Netball Competitions)
+                </p>
+            </td>
+            <td width="302">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="227">
+                <p>
+                    12. Table Tennis
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Team player with passion and    commitment to the sport
+                    <br>
+                    (2)  Prior experience in the sport    (Represented school
+                    and competed in NSG and/or recognised Table Tennis
+                    Competitions) <br>
+                    (3) Interest to lead and guide peers who are new to the
+                    sport
+                </p>
+            </td>
+            <td width="302">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="227">
+                <p>
+                    13. Touch Rugby <b>(Girls only)</b>
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Prior experience in the sport<br>
+                    (2) Interest to lead and guide    peers who are new to the
+                    sport <br>
+                    (3) Team player
+                </p>
+            </td>
+            <td width="302">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <h4><u>Performing Arts</u></h4>
 
