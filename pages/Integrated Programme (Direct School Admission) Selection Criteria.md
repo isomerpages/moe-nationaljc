@@ -482,12 +482,12 @@ variant: markdown
                     (1) Aural skills <br>
                     (2) Western theory understanding and application <br>
                     (3) Ability to perform fluently and musically on their
-                    chosen 1st instrument    in an art music style (e.g.
-                    classical Western or classical Indian) – not pop    music
-                    <br>
-                    As part of the shortlisting process, applicants will be
-                    contacted to submit    the following: <br>
-                    (a) Video Submission <br>
+                    chosen 1st instrument in an art music style (e.g.
+                    classical Western or classical Indian) – not pop music
+							</p>
+							<p>As part of the shortlisting process, applicants will be
+                    contacted to submit the following:<br><br>
+									(a) Video Submission<br>
                     – Play 2 stylistically contrasting pieces of choice on their
                     first    instrument. The 2 pieces combined should be between
                     the duration of 3-10    minutes. <br>
@@ -504,9 +504,9 @@ variant: markdown
                     than one    instrument, where applicable. An accompanist is
                     recommended, but not    compulsory. The student may choose
                     to use a backing track. <br>
-                    (b) Cover page
-                </p>
-                <p>
+							</p>
+							<p>  
+									(b) Cover page<br>
                     – Students also need to submit    an accompanying cover page
                     (use template
                     provided&nbsp;<a href="https://docs.google.com/document/d/1BKKnLK3iU1WMoTwfYjpTvYvdinOSky0v/edit?usp=sharing&amp;ouid=108259911809378653811&amp;rtpof=true&amp;sd=true">here</a>, 
