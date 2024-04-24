@@ -24,8 +24,8 @@ variant: markdown
 
 <h4><u>Sports &amp; Games</u></h4>
 
-<table width="832" cellpadding="0" cellspacing="0" border="0">
-    <thead>
+<table width="832" cellpadding="0" cellspacing="0" border="1">
+	<thead>
         <tr>
             <td valign="top" width="151">
                 <p>
@@ -177,8 +177,8 @@ variant: markdown
 
 <h4><u>Visual, Literary and Performing Arts</u></h4>
 
-<table width="832" cellpadding="0" cellspacing="0" border="0">
-    <thead>
+<table width="832" cellpadding="0" cellspacing="0" border="1">
+	<thead>
         <tr>
             <td valign="top" width="115">
                 <p>
@@ -531,7 +531,7 @@ variant: markdown
 
 <h4><u>Science, Technology, Engineering and Mathematics (STEM)</u></h4>
 
-<table width="832" cellpadding="0" cellspacing="0" border="0">
+<table width="832" cellpadding="0" cellspacing="0" border="1">
     <thead>
         <tr>
             <td valign="top" width="172">
