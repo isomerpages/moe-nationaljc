@@ -421,10 +421,11 @@ variant: markdown
                     (3) Visual thinking process<br>
                     (4) Artmaking skills<br>
 							</p>
+							<p>
                     As part of the shortlisting process, applicants will be
                     contacted by the    school admission team in mid-end June to
                     submit their portfolio.
-									<p></p><p>
+							</p><p>
                     Portfolio submission should be submitted as a single
                     document that    contains a minimum of 3 and maximum of 5
                     artworks, in accordance with the following:<br>
