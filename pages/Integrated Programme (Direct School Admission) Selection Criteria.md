@@ -604,6 +604,108 @@ variant: markdown
 
 <h4><u>Science, Technology, Engineering and Mathematics (STEM)</u></h4>
 
-![](/images/IP%20DSA%20CRITERIA/IP_CRIT_3.png)
+<table width="832" cellpadding="0" cellspacing="0" border="0">
+    <thead>
+        <tr>
+            <td valign="top" width="172">
+                <p>
+                    <b>Talent Area</b>
+                </p>
+            </td>
+            <td valign="top" width="329">
+                <p>
+                    <b>Criteria</b>
+                </p>
+            </td>
+            <td valign="top" width="277">
+                <p>
+                    <b>Commitment</b>
+                </p>
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top" width="172">
+                <p>
+                    1. Engineering Innovation and Solutions
+                </p>
+            </td>
+            <td valign="top" width="329">
+                <p>
+                    (1) Ability to understand issues from multiple perspectives
+                </p>
+                <p>
+                    (2) Has a strong curiosity for the unknown and keenness for
+                    learning
+                </p>
+                <p>
+                    (3) Is innovative, adaptive and has an inclusive mindset
+                    which is    integrative and evaluative
+                </p>
+                <p>
+                    (4)    Effective team player
+                </p>
+                <p>
+                    (5)    Potential and interest to develop as an Innovation
+                    and Entrepreneurship    Leader
+                </p>
+                <p>
+                    (6) Passion    for championing sustainability and community
+                    initiatives using STEAM.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Candidates will undergo a two-phase shortlisting process.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    During the initial phase, the school's admission team will
+                    reach out to    applicants in mid to late June to request
+                    their portfolios.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Portfolio Submission Guidelines (submit as 2 separate PDF
+                    documents):
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    1.&nbsp;&nbsp;&nbsp; <b>Mandatory:</b> A one-page    portfolio outlining
+                    reasons for selection and his/her involvement in
+                    STEM/research activities.
+                </p>
+                <p>
+                    2.&nbsp;&nbsp;&nbsp; <i>Optional:</i> Candidates may    provide additional
+                    supporting documents.
+                </p>
+                <p>
+                    &nbsp;
+                </p>
+                <p>
+                    Phase 1 shortlisted applicants will then be invited to
+                    participate in    an in-person situational task, for which
+                    all necessary materials will be    provided.
+                </p>
+            </td>
+            <td valign="top" width="277">
+                <p>
+                    To be engaged in and lead STEAM-based co-curricular
+                    activities (e.g.    coding workshops, design thinking
+                    workshops, research and innovation projects    etc.) for 4
+                    years in Junior High.
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <b>Click&nbsp;<a href="/admissions/ip-dsa" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to return to the IP DSA page</b>
