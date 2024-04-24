@@ -84,12 +84,10 @@ variant: markdown
                 </p>
             </td>
             <td valign="top" width="227">
-                <ul>
-                    <li>
-                        4-year commitment to CCA <br>
+							<p>
+                        · 4-year commitment to CCA <br>
                         · Committed to participate in Dragon boat as well.
-                    </li>
-                </ul>
+							</p>
             </td>
         </tr>
         <tr>
@@ -110,14 +108,12 @@ variant: markdown
                 </p>
             </td>
             <td valign="top" width="227">
-                <ul>
-                    <li>
-                        4-year commitment to CCA <br>
+							<p>
+                        · 4-year commitment to CCA <br>
                         · Track &amp; Field and Cross Country operate as one
                         CCA. Applicants to    Cross-Country are expected to
                         commit to Track &amp; Field, and vice versa.
-                    </li>
-                </ul>
+							</p>
             </td>
         </tr>
         <tr>
