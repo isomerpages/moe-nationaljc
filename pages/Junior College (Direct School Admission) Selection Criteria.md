@@ -592,36 +592,24 @@ variant: markdown
                     <b><i>To be submitted together with application: <br>
                     </i></b> Portfolio submission should be submitted as    a
                     single document in PDF format in accordance with the
-                    following criteria: <br>
+                    following criteria:<br><br>
                     Portfolio submission should contain a    minimum of 10
                     photographic work and/or maximum of 3 video work with
-                    write-ups, in accordance with the following:
-                </p>
-                <p>
+                    write-ups, in accordance with the following:<br>
                     ●      Page 1: Short write-up on    interested social issues
-                    and the reasons behind interest (150- 200 words)
-                </p>
-                <p>
+                    and the reasons behind interest (150- 200 words)<br>
                     ●      Page 2 to 10: Minimum of Ten    Photos and/or url
-                    link to maximum of three video works.
-                </p>
-                <p>
+                    link to maximum of three video works.<br>
                     ●      All works should be completed    within the last 2
-                    years.
-                </p>
-                <p>
+                    years.<br>
                     ●      All photographic/videographic    works must include
                     label with (title, date, write-up explanation - opinion
-                    pieces on social issues preferred).
-                </p>
-                <p>
+                    pieces on social issues preferred).<br>
                     ●      Mention if any particular work was    done as group
-                    work.
-                </p>
-                <p>
+                    work.<br>
                     ●      File naming convention: Secondary    School_Full Name
                     of Student.pdf
-                </p>
+                </p><br>
             </td>
             <td width="227">
                 <p>
