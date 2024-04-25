@@ -23,7 +23,7 @@ variant: markdown
 
 <h4><u>Sports &amp; Games</u></h4>
 
-<table width="832" cellpadding="0" cellspacing="0" border="1">
+<table width="832">
     <tbody>
         <tr>
             <td width="227">
@@ -50,7 +50,7 @@ variant: markdown
             </td>
             <td width="378">
                 <p>
-                    (1) Ball sense, agility,    coordination<br>
+                    (1) Ball sense, agility, coordination<br>
                     (2) Playmaking and teamwork<br>
                     (3) Assists, rebound (offensive and defensive) and fast
                     break<br>
