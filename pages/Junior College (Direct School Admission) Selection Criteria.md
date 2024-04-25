@@ -325,7 +325,7 @@ variant: markdown
 
 <h4><u>Performing Arts</u></h4>
 
-<table width="832" cellpadding="0" cellspacing="0" border="1">
+<table width="832">
     <tbody>
         <tr>
             <td width="151">
@@ -554,7 +554,7 @@ variant: markdown
 
 <h4><u>Clubs and Societies</u></h4>
 
-<table width="832" cellpadding="0" cellspacing="0" border="1">
+<table width="832">
     <tbody>
         <tr>
             <td width="151">
