@@ -185,9 +185,7 @@ variant: markdown
             <td width="378">
                 <p>
                     (1) Represented school and competed in NSG and/or    any SBA
-                    recognised Open Competitions
-                </p>
-                <p>
+                    recognised Open Competitions<br>
                     (2) Skill set required for Singles or Doubles play
                 </p>
             </td>
