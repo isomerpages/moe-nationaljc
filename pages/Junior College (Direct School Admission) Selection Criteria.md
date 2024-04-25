@@ -759,7 +759,7 @@ variant: markdown
                     (4) Leadership qualities
                 </p>
                 <p>
-                    To be submitted with application:<br>
+                    To be submitted with application:<br><br>
                     1. <b>Mandatory:</b> A portfolio outlining evidence of
                     candidate’s involvement in green initiatives and leadership
                     qualities at    school level and beyond school.<br>
