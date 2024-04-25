@@ -531,7 +531,7 @@ variant: markdown
 
 <h4><u>Science, Technology, Engineering and Mathematics (STEM)</u></h4>
 
-<table width="832" cellpadding="0" cellspacing="0" border="1">
+<table width="832">
     <thead>
         <tr>
             <td valign="top" width="172">
