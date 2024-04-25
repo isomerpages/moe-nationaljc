@@ -952,9 +952,7 @@ variant: markdown
                     or 4 school assessment) <br>
                     (2) Clear reasons and goals in joining MLEP <br>
                     (3) Aspirations on how your skills acquired from MLEP could
-                    help the wider    community in future
-                </p>
-                <p>
+                    help the wider    community in future<br>
                     (4) Effectively bilingual in both    Malay and English
                     languages
                 </p>
