@@ -794,7 +794,7 @@ variant: markdown
 									(5) Passion for championing    sustainability initiatives
                 </p>
                 <p>
-                    To be submitted with application:<br>
+                    To be submitted with application:<br><br>
                     1. <b>Mandatory:</b> A 2-page portfolio outlining (a)
                     reasons for selection and his/her involvement in
                     Engineering/Makers’    activities, (b) an area candidate
