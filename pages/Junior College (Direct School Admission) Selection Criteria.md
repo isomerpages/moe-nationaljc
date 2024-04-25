@@ -325,11 +325,507 @@ variant: markdown
 
 <h4><u>Performing Arts</u></h4>
 
-![](/images/JC%20DSA%20CRITERIA/JC_CRIT_2.png)
+<table width="832" cellpadding="0" cellspacing="0" border="1">
+    <tbody>
+        <tr>
+            <td width="151">
+                <p>
+                    <b>Talent Area</b>
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    <b>Criteria</b>
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    <b>Commitment</b>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    1. Concert Band
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Ability to play proficiently    one of the following
+                    band instruments: euphonium, tuba, trumpet, trombone,
+                    horn, cornet, flute, oboe, clarinet, bassoon, double bass,
+                    harp, saxophone OR    a range of percussion instruments
+                    <br>
+                    (2) Aural and sight-reading ability <br>
+                    (3) Musicianship
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    2. Choir
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Ability to reproduce a series    of notes accurately and
+                    with ease <br>
+                    (2) Musical sensitivity <br>
+                    (3) Ability to sing with expression
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    3. Chinese Dance
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Fundamental skills of flexibility    and coordination
+                    <br>
+                    (2) Clarity, flow and control of body movements <br>
+                    (3) Skills acquisition during choreography<br>
+                    (4) Performance quality
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    4. Western (Modern) Dance
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Movement and technique <br>
+                    (2) Spatial awareness <br>
+                    (3) Dynamic awareness<br>
+                    (4) Performance quality
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    5. Indian Dance
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Demonstrate dance technique    such as posture,
+                    araimandi and overall presentation style <br>
+                    (2) Exhibit excellent footwork and impressive gestures <br>
+                    (3) Being versatile in different genre (Classical, Bollywood
+                    and Folk)
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    6. Malay Dance
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Performance quality<br>
+                    (2) Flexibility and coordination <br>
+                    (3) Exhibit excellent footwork and impressive gestures <br>
+                    (4) Skills acquisition during dance modeling
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    7. Guitar Ensemble
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Basic guitar playing    techniques <br>
+                    (2) Aural ability <br>
+                    (3) Musicianship
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    8. Guzheng Ensemble
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Ability to play the guzheng <br>
+                    (2) Aural ability <br>
+                    (3) Musicianship
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    9. String Ensemble
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Ability to play at least one    of the following string
+                    instruments: Violin, Viola, Cello, Double Bass <br>
+                    (2) Aural ability <br>
+                    (3) Musicianship<br>
+                    (4) Performance quality<br>
+                    (5) Performance experience
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    10. Chinese Orchestra
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Ability to play at least one    instrument associated
+                    with Chinese Orchestra <br>
+                    (2) Aural ability <br>
+                    (3) Musicianship
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <h4><u>Clubs and Societies</u></h4>
 
-![](/images/JC%20DSA%20CRITERIA/JC_CRIT_3.png)
+<table width="832" cellpadding="0" cellspacing="0" border="1">
+    <tbody>
+        <tr>
+            <td width="151">
+                <p>
+                    <b>Clubs    and Societies</b>
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    <b>Criteria</b>
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    <b>Commitment</b>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    1. Production Society
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    <b>Creative Content Creation <br>
+                    </b>(1) Good knowledge and technical    proficiency in media
+                    production in the area of photography and/or video and
+                    writing. <br>
+                    (2) Creative and artistic disposition    with keen
+                    engagement with social issues. <br>
+                    (3) Passionate about creative visual    storytelling and
+                    able to communicate well with strong writing skill. <br>
+                    (4) Leadership qualities &amp;    effective team player.
+                </p>
+                <p>
+                    <b><i>To be submitted together with application: <br>
+                    </i></b> Portfolio submission should be submitted as    a
+                    single document in PDF format in accordance with the
+                    following criteria: <br>
+                    Portfolio submission should contain a    minimum of 10
+                    photographic work and/or maximum of 3 video work with
+                    write-ups, in accordance with the following:
+                </p>
+                <p>
+                    ●      Page 1: Short write-up on    interested social issues
+                    and the reasons behind interest (150- 200 words)
+                </p>
+                <p>
+                    ●      Page 2 to 10: Minimum of Ten    Photos and/or url
+                    link to maximum of three video works.
+                </p>
+                <p>
+                    ●      All works should be completed    within the last 2
+                    years.
+                </p>
+                <p>
+                    ●      All photographic/videographic    works must include
+                    label with (title, date, write-up explanation - opinion
+                    pieces on social issues preferred).
+                </p>
+                <p>
+                    ●      Mention if any particular work was    done as group
+                    work.
+                </p>
+                <p>
+                    ●      File naming convention: Secondary    School_Full Name
+                    of Student.pdf
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    2. Chinese Language, Drama and    Debating (CLDDS)
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Interested and prior    competition experience in
+                    Chinese cultural-related activities (drama, debate,
+                    calligraphy or literature) <br>
+                    (2) Communication and thinking skills <br>
+                    (3) Effective team player<br>
+                    (4) Fundamental skills in Chinese    drama acting,debate OR
+                    proficiency in Chinese calligraphy.
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    3. Interact Club (Community Youth    Leadership)
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    The portfolio must contain the    following evidence:<br>
+                    (1) Showcase the projects you have    led in community
+                    service. <br>
+                    (2) Leadership    positions which require you to lead a team
+                    in strategic thinking to mitigate    community issues. <br>
+                    (3) Have relevant experiences to engage with the diverse
+                    groups in the    community.
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    4. Malay Language, Drama and    Debating (MLDDS)
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Communication, debating and    thinking skills <br>
+                    (2) Passion for Malay cultural activities and is able to
+                    lead or be part of a    student-initiated project in school.
+                    <br>
+                    (3) Effectively bilingual in Malay and English with a grasp
+                    of translation    skills. <br>
+                    (4) Leadership qualities
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    5. Indian Language, Drama and    Debating (ILDDS)
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Communication and thinking    skills <br>
+                    (2) Passion for Indian cultural activities <br>
+                    (3) Effective team player <br>
+                    (4) Leadership qualities
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    6. English Language, Drama and    Debating (ELDDES)
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    <b>Debate</b> <br>
+                    (1) Ability to communicate eloquently in a clear and logical
+                    manner <br>
+                    (2) Effective team player<br>
+                    (3) Interest in local and global    issues<br>
+                    (4) Prior experience and ranking    in Debate competitions
+                    preferred
+                </p>
+                <p>
+                    <b></b>
+                </p>
+                <p>
+                    <b>Drama</b> <br>
+                    (1) Ability to express oneself in an eloquent / engaging
+                    manner
+                    (2) Effective team player
+                    (3) Recent school-based    performance/ production
+                    experience (e.g SYF Arts Presentation/ School    production)
+                    (4) Portfolio showcasing a maximum    of 2 links to video
+                    clips (maximum 4-5mins long each) of applicant in action
+                    (e.g rehearsal clips, or performed monologues)
+                    (5) (Optional) External theatrical    experience/
+                    certification
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    7. Greenlink Club (Environmental    Science)
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Passion for championing green    initiatives <br>
+                    (2) Communication and thinking skills <br>
+                    (3) Effective team player <br>
+                    (4) Leadership qualities
+                </p>
+                <p>
+                    To be submitted with application:<br>
+                    1. <b>Mandatory:</b> A portfolio outlining evidence of
+                    candidate’s involvement in green initiatives and leadership
+                    qualities at    school level and beyond school.<br>
+                    2. <i>Optional:</i> Candidates may provide additional
+                    supporting documents
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    8. Makers’ Society
+                </p>
+                <p>
+                    (Innovation)
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Creative and Systematic    thinking <br>
+                    (2) Proficiency in technical skills required for designing
+                    and creating novel    engineering products (e.g.
+                    programming, use of design software, design    concepts,
+                    additive manufacturing tools, woodworking) <br>
+                    (3) Effective team player<br>
+                    (4) Leadership qualities<br>
+									(5) Passion for championing    sustainability initiatives
+                </p>
+                <p>
+                    To be submitted with application:<br>
+                    1. <b>Mandatory:</b> A 2-page portfolio outlining (a)
+                    reasons for selection and his/her involvement in
+                    Engineering/Makers’    activities, (b) an area candidate
+                    would like to advocate for using    engineering and design.<br>
+                    2. <i>Optional:</i> Candidates may provide additional
+                    supporting documents.
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    2-year commitment to CCA
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <h4><u>Special Programmes</u></h4>
 
