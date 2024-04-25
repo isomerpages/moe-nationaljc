@@ -4,7 +4,7 @@ permalink: /integrated-programme-selection-criteria/
 description: ""
 variant: markdown
 ---
-<h4>Integrated Programme (Direct School Admission) Selection Criteria</h4>
+<h3>Integrated Programme (Direct School Admission) Selection Criteria</h3>
 
 <h4>DSA-Sec Selection Criteria</h4>
 
