@@ -829,6 +829,223 @@ variant: markdown
 
 <h4><u>Special Programmes</u></h4>
 
-![](/images/JC%20DSA%20CRITERIA/JC_4.png)
+<table width="832">
+    <tbody>
+        <tr>
+            <td width="151">
+                <p>
+                    <b>Special    Programmes</b>
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    <b>Criteria</b>
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    <b>Commitment</b>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    1. <b>Art Elective Programme</b>
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Innovative traits (curiosity, creative thinking,
+                    problem solving ability)<br>
+                    (2) Personal artistic voice / artistic agency<br>
+                    (3) Visual thinking process and    critical investigation<br>
+                    (4) Artmaking skills<br><br>
+                    <b>To be Submitted Together with Application:</b><br>
+                    A    portfolio, to be submitted as a single document, that
+                    contains a minimum of 5    and maximum of 8 artworks, in
+                    accordance with the following :<br>
+                    ●           Page 1: Artist statement and short self
+                    introduction (100- 150    words)
+                </p>
+                <p>
+                    ●           Page 2 -3 : Personal statement (300 words) on
+                    the topic “
+                    <i>
+                        How do you think art would play a role in    your future
+                        after JC?”
+                    </i>
+                </p>
+                <p>
+                    ●           Page 4 onwards (max 20 slides): 3-5 artworks
+                </p>
+                <p>
+                    ●           All    works must have been completed in the
+                    last 2 years.
+                </p>
+                <p>
+                    ●           All    works must be labeled (title, medium,
+                    date, short explanation).
+                </p>
+                <p>
+                    ●           Works    may be in any media (2D, 3D, digital or
+                    time-based).
+                </p>
+                <p>
+                    ●           Mention    if any particular work was done as
+                    group work.
+                </p>
+                <p>
+                    ●           Each    2D work is allowed a maximum of 2
+                    images. Each 3D work is allowed a maximum    of 4 images.
+                </p>
+                <p>
+                    ●           Links    for time-based works should be included
+                    in the Portfolio document.
+                </p>
+                <p>
+                    ●           Portfolio    file format: PDF
+                </p>
+                <p>
+                    ●           File    size limit: 15MB
+                </p>
+                <p>
+                    ●           File    naming convention: Sec School_Full Name
+                    of Student.pdf.
+                </p>
+                <p>
+                    Email    to: njc_aep@moe.edu.sg
+                </p>
+                <p>
+                    Shortlisted applicants will attend    a face-to-face session
+                    to complete an artmaking task (with stimulus    provided),
+                    an art writing task  and an    Art conversation with the art
+                    teachers.
+                </p>
+                <p>
+                    All art materials will be    provided.
+                </p>
+                <p>
+                    Duration: approximately 120 mins.
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    Students admitted through Art    Elective Programme must
+                    offer H2 Art. This is an examinable A-Level subject.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    2. Malay Language Elective    Programme (MLEP)
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) At least a ‘B3’ in HML/ ‘A2’    in ML/ ‘B4’ in HML
+                    <u>
+                        AND
+                    </u>
+                    ‘B3’ in Malay Literature [full/elective] (based    on Sec 3
+                    or 4 school assessment) <br>
+                    (2) Clear reasons and goals in joining MLEP <br>
+                    (3) Aspirations on how your skills acquired from MLEP could
+                    help the wider    community in future
+                </p>
+                <p>
+                    (4) Effectively bilingual in both    Malay and English
+                    languages
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    Students admitted through MLEP    must offer H2 Malay
+                    Language &amp; Literature. This is an examinable A-Level
+                    subject.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    3. Tamil Language Elective    Programme (TLEP)
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) At least a ‘B3’ in HTL/ ‘A2’    in TL (based on Sec 3 or
+                    4 school assessment) <br>
+                    (2) Clear reasons and goals in joining TLEP <br>
+                    (3) Aspirations on how your skills acquired from TLEP could
+                    help the wider    community in future<br>
+                    (4) Keen to pursue further    studies/professions where
+                    modules learnt in TLEP can be applied.
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    Students admitted through TLEP    must offer H2 Tamil
+                    Language &amp; Literature. This is an examinable A-Level
+                    subject.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="151">
+                <p>
+                    4. Science Training and Research    Programme
+                </p>
+            </td>
+            <td width="378">
+                <p>
+                    (1) Demonstration of knowledge,    clear motivation,
+                    interest and passion in STEM Research and Innovation <br>
+                    (2) Strong communication and systematic thinking skills<br>
+                    (3) Effective team player and    leadership qualities<br>
+                    (4) Potential and interest to    pursue STEM-related career
+<br>
+                    (5) Passion for championing sustainability    and community
+                    initiatives using STEM.
+                </p>
+                <p>
+                    Candidates will undergo a    two-phase shortlisting process.
+                </p>
+                <p>
+                    In the initial phase, the school's    admission team will
+                    reach out to applicants in mid to late June to request
+                    their portfolios.
+                </p>
+                <p>
+                    Portfolio Submission Guidelines    (submit as 2 separate PDF
+                    documents):
+                </p>
+                <ol type="1" start="1">
+                    <li>
+                        <b>Mandatory:</b> A one-page portfolio outlining reasons
+                        for selection         and your involvement in
+                        STEM/research activities.
+                    </li>
+                    <li>
+                        <i>Optional:</i> Candidates may provide additional
+                        supporting         documents.
+                    </li>
+                </ol>
+                <p>
+                    Phase 1 shortlisted applicants    will then be invited to
+                    participate in an interview.
+                </p>
+            </td>
+            <td width="227">
+                <p>
+                    Students admitted through DSA    Research must undertake
+                    research project(s) in NJC and apply for H3 Science
+                    Research. This is an examinable A-Level subject.
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <br>**Click&nbsp;[here](https://nationaljc.moe.edu.sg/admissions/jc-dsa/)&nbsp;to return to the JC DSA page.**
