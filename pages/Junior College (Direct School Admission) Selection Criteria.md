@@ -4,9 +4,8 @@ permalink: /junior-college-selection-criteria/
 description: ""
 variant: markdown
 ---
-#### DSA-JC Selection Criteria
-
-**DSA-JC Selection Criteria**
+<header>
+<h3>DSA-JC Selection Criteria</h3></header>
 
 <p>Applicants will be shortlisted and selected based on the following general criteria:</p>
 <ol>
