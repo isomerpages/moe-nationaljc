@@ -849,52 +849,30 @@ variant: markdown
                     <b>To be Submitted Together with Application:</b><br>
                     A    portfolio, to be submitted as a single document, that
                     contains a minimum of 5    and maximum of 8 artworks, in
-                    accordance with the following :<br>
+                    accordance with the following :<br><br>
                     ●           Page 1: Artist statement and short self
-                    introduction (100- 150    words)
-                </p>
-                <p>
+                    introduction (100- 150    words)<br>
                     ●           Page 2 -3 : Personal statement (300 words) on
                     the topic “
                     <i>
                         How do you think art would play a role in    your future
                         after JC?”
-                    </i>
-                </p>
-                <p>
-                    ●           Page 4 onwards (max 20 slides): 3-5 artworks
-                </p>
-                <p>
+                    </i><br>
+                    ●           Page 4 onwards (max 20 slides): 3-5 artworks<br>
                     ●           All    works must have been completed in the
-                    last 2 years.
-                </p>
-                <p>
+                    last 2 years.<br>
                     ●           All    works must be labeled (title, medium,
-                    date, short explanation).
-                </p>
-                <p>
+                    date, short explanation).<br>
                     ●           Works    may be in any media (2D, 3D, digital or
-                    time-based).
-                </p>
-                <p>
+                    time-based).<br>
                     ●           Mention    if any particular work was done as
-                    group work.
-                </p>
-                <p>
+                    group work.<br>
                     ●           Each    2D work is allowed a maximum of 2
-                    images. Each 3D work is allowed a maximum    of 4 images.
-                </p>
-                <p>
+                    images. Each 3D work is allowed a maximum    of 4 images.<br>
                     ●           Links    for time-based works should be included
-                    in the Portfolio document.
-                </p>
-                <p>
-                    ●           Portfolio    file format: PDF
-                </p>
-                <p>
-                    ●           File    size limit: 15MB
-                </p>
-                <p>
+                    in the Portfolio document.<br>
+                    ●           Portfolio    file format: PDF<br>
+                    ●           File    size limit: 15MB<br>
                     ●           File    naming convention: Sec School_Full Name
                     of Student.pdf.
                 </p>
