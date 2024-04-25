@@ -743,15 +743,15 @@ variant: markdown
                 <p>
                     <b>Drama</b> <br>
                     (1) Ability to express oneself in an eloquent / engaging
-                    manner
-                    (2) Effective team player
+                    manner<br>
+                    (2) Effective team player<br>
                     (3) Recent school-based    performance/ production
-                    experience (e.g SYF Arts Presentation/ School    production)
-                    (4) Portfolio showcasing a maximum    of 2 links to video
+                    experience (e.g SYF Arts Presentation/ School    production)<br>
+                    (4) Portfolio showcasing a maximum of 2 links to video
                     clips (maximum 4-5mins long each) of applicant in action
-                    (e.g rehearsal clips, or performed monologues)
+                    (e.g rehearsal clips, or performed monologues)<br>
                     (5) (Optional) External theatrical    experience/
-                    certification
+                    certification<br>
                 </p>
             </td>
             <td width="227">
