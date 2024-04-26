@@ -14,13 +14,7 @@ At the end of SH1, H2 Art students are also offered the opportunity to take H3 A
 
 **Non-AEP students who would like to opt for Art may also apply for the subject at H2 level. They will be required to sit for a qualifying test, submit a portfolio and undergo an interview as part of the selection process. Interested students may approach any of the art tutors to find out more.**
 
-_
 
-**Visit our SH2 AEP Graduation show!**  
-[Class of 2019](https://njartgradshow2020.wordpress.com/)  
-[Class of 2020](https://sh2aep2020.wixsite.com/my-site)  
-[Class of 2022](https://njcgradshow2022.wixsite.com/eexhibition)  
-[Class of 2023](https://aep2024.wixsite.com/exhibit)
 
 
 **For more information on AEP@NJC contact us at&nbsp;[njc\_aep@moe.edu.sg](mailto:njc_aep@moe.edu.sg).**
