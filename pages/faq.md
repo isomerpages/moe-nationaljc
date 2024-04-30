@@ -177,7 +177,7 @@ _Primary 6 students can apply through the Secondary One Posting Exercise conduct
 
 **What does Music Programme or AEP mean?**
 
-_Music Programme or AEP is offered as an academic programme where students who are admitted to either of these programmes are required to read Music or Art as part of their academic curriculum. It is mandatory for students who are in the Music Programme or AEP to attend the curriculum lessons which take place on weekday afternoons._
+_Music Programme or AEP is offered as an academic programme where students who are admitted to either of these programmes are required to read Music or Art as part of their academic curriculum. It is mandatory for students who are in the Music Programme or AEP to attend the curriculum lessons which take place on weekday afternoons. Please note that the Music Programme is only offered to Junior High students._
 
 **If my child is admitted to Music Programme or AEP DSA, can he/she not have a CCA?**
 
