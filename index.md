@@ -77,4 +77,12 @@ sections:
       url: /voices
       image: /images/reflection1.png
       alt: Reflection
+  - infopic:
+      title: 55th College Day
+      id: infopic
+      description: Growing People, Cultivating the Future
+      button: READ MORE HERE
+      url: /national-junior-college-55th-college-day/
+      image: /images/55th College Day/NJC55CD.jpg
+      alt: Image alt text
 ---
