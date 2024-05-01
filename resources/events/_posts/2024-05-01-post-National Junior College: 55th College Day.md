@@ -7,11 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-
-
-
-
-
+<img style="width:50%" alt="BANNER" src="/images/55th%20College%20Day/NJC55CD.jpg">
 
 <p>We commemorate our 55th College Day on <time datetime="2024-05-11">11th May 2024</time> by gathering NJC-ians past and present, family, and friends together to celebrate the achievements of our community.</p>
 
