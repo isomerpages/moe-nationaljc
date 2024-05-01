@@ -45,9 +45,9 @@ _Junior High students generally learn in subject class groups, with occasional m
 
 _There could be more homework than what your children experienced in Primary school because Secondary level students have more subjects. There is also work (like projects) that spans a longer period of time._&nbsp; &nbsp;
 
-**Are electives like Man &amp; Ideas, Advanced Science, Advanced Inquiry in Mathematics (AIM), Python Electives, Advanced Language Arts, Advanced Humanities, etc. compulsory?**&nbsp;&nbsp;
+**Are electives like Man &amp; Ideas, Advanced Science, Advanced Inquiry in Mathematics (AIM), Advanced Language Arts, Advanced Humanities, etc. compulsory?**&nbsp;&nbsp;
 
-_These are electives offered at JH3 (except for AIM which is offered in JH1). The IP curriculum, in and of itself, extends beyond base requirements of a core secondary or high school curriculum. Enrichment and deeper learning are therefore an integral part of the IP curriculum._&nbsp;&nbsp;
+_These are electives offered at JH3 (except for AIM which is offered in JH2 Sem 2). The IP curriculum, in and of itself, extends beyond base requirements of a core secondary or high school curriculum. Enrichment and deeper learning are therefore an integral part of the IP curriculum._&nbsp;&nbsp;
 
 _Students who show the interest and capacity will have the opportunity to enjoy these extensions in their areas of strength, to deepen their inquiry and interest in specific knowledge &amp; skills domains._&nbsp;&nbsp;
 
