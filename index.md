@@ -25,7 +25,7 @@ sections:
       description: Growing People, Cultivating the Future
       button: READ MORE HERE
       url: /national-junior-college-55th-college-day/
-      image: /images/55th College Day/NJC55CD.jpg
+      image: /images/55th College Day/NJC55DC.jpg
       alt: Image alt text
   - infopic:
       title: "Funtasia: 11 May 2024"
