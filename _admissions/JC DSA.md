@@ -59,7 +59,7 @@ variant: markdown
 
 <h5><b>Enquiries</b></h5>
 
-<p style="font-size:18px">For further enquiries on DSA-JC, you may call our General Office at <b>6466 1144 during office hours (9 am to 5 pm)</b> or drop us an email at <b><a href="njc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a> with the subject “DSA-JC”</b>.</p>
+<p style="font-size:18px">For further enquiries on DSA-JC, you may call our General Office at <b>6466 1144 during office hours (9 am to 5 pm)</b> or drop us an email at <a href="njc@moe.edu.sg">njc@moe.edu.sg</a> <b> with the subject “DSA-JC”</b>.</p>
 
 <p style="font-size:18px">For more information on DSA-JC, please refer to the MOE website: <a target="_blank" href="https://www.moe.gov.sg/dsa-jc">www.moe.gov.sg/dsa-jc</a>.</p>
 
