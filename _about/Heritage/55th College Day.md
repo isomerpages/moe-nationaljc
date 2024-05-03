@@ -270,7 +270,3 @@ changes into the lives of those around us.</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<h4></h4>
-<p></p>
