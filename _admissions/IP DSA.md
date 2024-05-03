@@ -39,7 +39,7 @@ th, td { border: 1px solid black; padding: 8px; text-align: left; font-size: inh
 
 <tr>
 <td><b>Co-Curricular Activities</b><br>
-Please refer to this&nbsp;<a href="https://cms.isomer.gov.sg/co-curricular-activities/overview" rel="noopener noreferrer nofollow" target="_blank">page</a> for a description of CCAs offered in NJC</td>
+Please refer to this&nbsp;<a href="/co-curricular-activities/overview/" rel="noopener noreferrer nofollow" target="_blank">page</a> for a description of CCAs offered in NJC</td>
 <td><b>Sports and Games</b><br>Basketball<br>Canoeing<br>
 Cross Country; Track and Field<br>Shooting<br>Softball<br>
 Squash<br><br>
