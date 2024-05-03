@@ -106,7 +106,7 @@ Squash<br><br>
 	<h5><b>Enquiries</b></h5>
 </header>
 
-<p style="font-size:18px">If you have any enquiries on DSA-Sec, you may call our General Office at 6466 1144 during office hours (9 am to 5 pm) or drop us an email at njc@moe.edu.sg with the subject “DSA-Sec”.</p>
+<p style="font-size:18px">If you have any enquiries on DSA-Sec, you may call our General Office at <b>6466 1144 during office hours (9 am to 5 pm)</b> or drop us an <b>email at njc@moe.edu.sg with the subject “DSA-Sec”</b>.</p>
 
 <p style="font-size:18px">For more information on the DSA-Sec exercise, please refer to the MOE website: <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 
