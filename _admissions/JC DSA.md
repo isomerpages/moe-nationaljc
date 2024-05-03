@@ -53,7 +53,6 @@ variant: markdown
 
 <p style="font-size:18px">Thereafter, applicants who are further shortlisted will <b>be notified via email</b> to attend an in-person interview, also held in National Junior College. </p>
 
-<p style="font-size:18px">The selection criteria and process for the talent areas will be updated from early May. For more information on DSA-JC, please refer to the MOE website: <a target="_blank" href="https://www.moe.gov.sg/dsa-jc">www.moe.gov.sg/dsa-jc</a></p>
 <h5><b>  Offer of Places</b></h5>
 
 <p style="font-size:18px">Applicants who are shortlisted for interviews will be notified via email of the results of the DSA-JC application by <b>7 August 2024</b>. Successful applicants will be offered a place in National Junior College for the academic year 2025.</p>
