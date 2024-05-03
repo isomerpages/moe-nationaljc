@@ -1,4 +1,5 @@
 collections:
   draft-pages:
     output: true
-    order: []
+    order:
+      - 55th College Day.md
