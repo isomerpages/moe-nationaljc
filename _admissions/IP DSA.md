@@ -100,7 +100,7 @@ Squash<br><br>
 	<h5><b>Offer of Places</b></h5>
 </header>
 
-<p style="font-size:18px">Thereafter, applicants who are further shortlisted will be notified via email to attend an in-person interview, also held in National Junior College. All interviews will take place by 28 August 2024.</p>
+<p style="font-size:18px">Applicants who are shortlisted for interviews will be notified via email of the results of the DSA-Sec application by <b>9 September 2024</b>. Successful applicants will be offered a place in National Junior College’s 6-year Integrated Programme for the academic year 2025.</p>
 
 <header>
 	<h5><b>Enquiries</b></h5>
