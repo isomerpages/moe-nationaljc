@@ -71,7 +71,7 @@ Squash<br><br>
 
 <p style="font-size:18px">Please refer to the MOE website: <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> for more details.</p>
 
-<p style="font-size:18px"><i>Applicants not studying in MOE mainstream primary schools need to apply for a registration number to access the DSA-Sec Portal. More information on this can be found at http://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school.</i></p>
+<p style="font-size:18px"><i>Applicants not studying in MOE mainstream primary schools need to apply for a registration number to access the DSA-Sec Portal. More information on this can be found at <a href="http://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school" rel="noopener noreferrer nofollow" target="_blank">here</a>.</i></p>
 
 <header>
 <h5><b>Selection Process</b></h5>
