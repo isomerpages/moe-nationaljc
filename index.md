@@ -20,7 +20,7 @@ sections:
       background: /images/Images for Banner/HomeBanner2.gif
       url: njc@moe.edu.sg
   - infopic:
-      title: 55th College Day
+      title: "55th College Day: 11 May 2024"
       id: infopic
       description: Growing People, Cultivating the Future
       button: READ MORE HERE
