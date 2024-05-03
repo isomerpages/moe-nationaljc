@@ -110,6 +110,6 @@ Squash<br><br>
 
 <p style="font-size:18px">For more information on the DSA-Sec exercise, please refer to the MOE website: <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 
-<p style="font-size:18px">Please also see our <a href="/integrated-programme-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a></p>
+<p style="font-size:18px">Please also see our <a href="/faq/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a></p>
 
 <p style="font-size:18px">We thank you for your interest in National Junior College.</p>
