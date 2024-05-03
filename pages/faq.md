@@ -161,9 +161,9 @@ _Students who are successfully admitted via the DSA are expected to honour their
 
 **When will the results of the DSA application be announced?**&nbsp;
 
-_All successful applicants will be informed of the outcome — Confirmed Offer, Waiting List, or Unsuccessful — by 11 Sep 2023._
+_All successful applicants will be informed of the outcome — Confirmed Offer, Waiting List, or Unsuccessful — by 9 Sep 2024._
 
-_Students given a Confirmed Offer are guaranteed a place in the school, provided that they accept the offer via the DSA-Sec Portal between 23 Oct – 27 Oct 2023, and qualify for Posting Group 3 based on their PSLE results._
+_Students given a Confirmed Offer are guaranteed a place in the school, provided that they accept the offer via the DSA-Sec Portal between 21 Oct – 25 Oct 2024, and qualify for Posting Group 3 based on their PSLE results._
 
 **If I am unsuccessful under the DSA, how else can I gain admission to NJC?**&nbsp;
 
@@ -173,7 +173,7 @@ _Primary 6 students can apply through the Secondary One Posting Exercise conduct
 
 **What does Music Programme or AEP mean?**
 
-_Music Programme or AEP is offered as an academic programme where students who are admitted to either of these programmes are required to read Music or Art as part of their academic curriculum. It is mandatory for students who are in the Music Programme or AEP to attend the curriculum lessons which take place on weekday afternoons._
+_Music Programme or AEP is offered as an academic programme where students who are admitted to either of these programmes are required to read Music or Art as part of their academic curriculum. It is mandatory for students who are in the Music Programme or AEP to attend the curriculum lessons which take place on weekday afternoons. Please note that the Music Programmke is only offered to Junior High students._
 
 **If my child is admitted to Music Programme or AEP DSA, can he/she not have a CCA?**
 
