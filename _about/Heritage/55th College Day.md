@@ -252,6 +252,205 @@ they can support themselves. Most importantly, I believe that "serving
 with honour" is something that is innate in us all. Cheering your friends
 up, greeting someone with a smile - we all have the power to bring positive
 changes into the lives of those around us.</p>
+<p></p>
+<p><strong><u>The NJC Subject Excellence Awards</u></strong>
+</p>
+<p><em>The NJC Subject Excellence Awards recognise NJC graduates based on excellence in each discipline/subject.</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subjects:</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees:</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H1 Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Huang Ya Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H1 General Paper</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shum Hui Ping, Janine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H1 Tamil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jayakumar Vijaya Shruti</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H1 Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Megan Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H1 Economics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kow Wen Hao Bryan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chelsea Megan Hamdani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Literature in English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heng Yutong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Julian Liaw Kai Xing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Knowledge &amp; Inquiry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joy Foo Yong Le</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Park Saeeun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xie Yu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Malay Language &amp; Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pearl Insyirah Binte Mohamed Nur Mubbin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Economics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elyssa Shayna Lee Ying En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 English Language &amp; Linguistics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Laura Tan Wen Xi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Tamil Language &amp; Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hirean Murli Mangudi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Felix Yew Cheng En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Further Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Felix Yew Cheng En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 History</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lai Shian Rong, Rachelle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xie Yu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Computing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Jing Jie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Music</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Matthew Chua Wei Shi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Chinese Language &amp; Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lai Rou Yin</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
