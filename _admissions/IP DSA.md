@@ -24,6 +24,8 @@ th, td { border: 1px solid black; padding: 8px; text-align: left; font-size: inh
 
 <h5><b>Talent Areas</b></h5>
 
+<p style="font-size:18px">We invite students with special talents and/or achievements in the following areas to apply:</p>
+
 <table>
 <tbody>
 <tr>
