@@ -16,7 +16,7 @@ description: ""
 <p><strong>Mr Loh Ngai Seng</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="676" width="624" src="https://lh7-us.googleusercontent.com/OQgAX1ktk5r1ii1I4vthclSooVb7pyd1Irv7hROngNsTWUlj9jgky7FJVBLTiQe61sCfJ1yIlXNu2nrVx_GPDXI693FYfiPTSR6zEHFjX4cqV2x4awEBzxQpbIWp8fgmn9p-2PMrtYwa8QOqSoAojmI">
+<img style="width: 75%;" height="676" width="624" src="https://lh7-us.googleusercontent.com/OQgAX1ktk5r1ii1I4vthclSooVb7pyd1Irv7hROngNsTWUlj9jgky7FJVBLTiQe61sCfJ1yIlXNu2nrVx_GPDXI693FYfiPTSR6zEHFjX4cqV2x4awEBzxQpbIWp8fgmn9p-2PMrtYwa8QOqSoAojmI">
 </div>
 <p>Mr Loh Ngai Seng is an alumnus of National Junior College from the class
 of 88-89. He is currently the Permanent Secretary at the Ministry of Transport.
