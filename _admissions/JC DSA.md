@@ -22,16 +22,16 @@ variant: markdown
 
 |  |  |
 |---|---|
-| **1. CCA Excellence**<br><br>Please refer to this <a target="_blank" href="/co-curricular-activities/overview/" style="color:red;font-size:18px">page</a> for a description of CCAs offered in NJC. | **Sports and Games**<br>Badminton<br>Basketball<br>Canoeing &amp; Dragon Boating<br>Floorball<br>Football  <b>(Boys Only)</b><br>Netball <b>(Girls Only)</b><br>Rock Wall Climbing<br>Shooting<br>Softball<br>Squash<br>Table Tennis<br>Touch Rugby <b>(Girls Only)</b><br>Track and Field / Cross Country<br><br>**Performing Arts**<br>Chinese Dance<br>Chinese Orchestra<br>Choir<br>Concert Band<br>Guitar Ensemble<br>Guzheng Ensemble<br>Indian Dance<br>Malay Dance<br>Modern Dance (Western Dance)<br>String Ensemble<br><br>**Clubs &amp; Societies**<br> Chinese Language, Drama and Debating (CLDDS)<br>English Language, Drama and Debating (ELDDES)<br>Greenlink Club (Environmental Science)<br>Indian Language, Drama and Debating (ILDDS)<br>Interact Club (Community Youth Leadership)<br>Makers' Society (Innovation)<br>Malay Language, Drama and Debating (MLDDS)<br>Production Society (Film &amp; Photography)<br> |
+| **1. CCA Excellence**<br><br>Please refer to this <a target="_blank" href="/co-curricular-activities/overview/">page</a> for a description of CCAs offered in NJC. | **Sports and Games**<br>Badminton<br>Basketball<br>Canoeing &amp; Dragon Boating<br>Floorball<br>Football  <b>(Boys Only)</b><br>Netball <b>(Girls Only)</b><br>Rock Wall Climbing<br>Shooting<br>Softball<br>Squash<br>Table Tennis<br>Touch Rugby <b>(Girls Only)</b><br>Track and Field / Cross Country<br><br>**Performing Arts**<br>Chinese Dance<br>Chinese Orchestra<br>Choir<br>Concert Band<br>Guitar Ensemble<br>Guzheng Ensemble<br>Indian Dance<br>Malay Dance<br>Modern Dance (Western Dance)<br>String Ensemble<br><br>**Clubs &amp; Societies**<br> Chinese Language, Drama and Debating (CLDDS)<br>English Language, Drama and Debating (ELDDES)<br>Greenlink Club (Environmental Science)<br>Indian Language, Drama and Debating (ILDDS)<br>Interact Club (Community Youth Leadership)<br>Makers' Society (Innovation)<br>Malay Language, Drama and Debating (MLDDS)<br>Production Society (Film &amp; Photography)<br> |
 | 2. Art Excellence  | MOE Art Elective Programme (AEP) <br>**(must offer A-Level H2 Art**) |
-| 3. Science Research Excellence (refer to this <a target="_blank" href="/niche-programmes/research/" style="color:red;font-size:18px">page</a> for details) | Science Training and Research Programme<br> **(must offer A-Level H3 Science Research)** |
+| 3. Science Research Excellence (refer to this <a target="_blank" href="/niche-programmes/research/">page</a> for details) | Science Training and Research Programme<br> **(must offer A-Level H3 Science Research)** |
 | 4. Language Elective Programmes | Malay Language Elective Programme<br> **(must offer A-Level H2 Malay Language &amp; Literature)**<br><br>Tamil Language Elective Programme<br> **(must offer A-Level H2 Tamil Language &amp; Literature)** |
 
 <h5><b>Online Application</b></h5>
 
 <p style="font-size:18px">Applications for the DSA-JC to National Junior College are free-of-charge and must be submitted online at <a href="https://go.gov.sg/njc-dsa-jc-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> between <b>7 May 2024 (Tue), 12 pm and 24 June 2024 (Mon), 5 pm</b>.</p>
 
-<p style="font-size:18px">In the event that you are unable to upload your documents through the online application, you may email your documents to <b style="color:red;font-size:18px"><u>njc@moe.edu.sg</u></b> with the subject “DSA-JC Supporting Documents”.</p>
+<p style="font-size:18px">In the event that you are unable to upload your documents through the online application, you may email your documents to <b style="color:blue;font-size:18px"><u>njc@moe.edu.sg</u></b> with the subject “DSA-JC Supporting Documents”.</p>
 
 <h5><b>Selection Process</b></h5>
 
@@ -61,6 +61,6 @@ variant: markdown
 
 <p style="font-size:18px">For further enquiries on DSA-JC, you may call our General Office at <b>6466 1144 during office hours (9 am to 5 pm)</b> or drop us an email at <b>njc@moe.edu.sg with the subject “DSA-JC”</b>.</p>
 
-<p style="font-size:18px">For more information on DSA-JC, please refer to the MOE website: <a target="_blank" href="https://www.moe.gov.sg/dsa-jc" style="color:red;font-size:18px">www.moe.gov.sg/dsa-jc</a>.</p>
+<p style="font-size:18px">For more information on DSA-JC, please refer to the MOE website: <a target="_blank" href="https://www.moe.gov.sg/dsa-jc">www.moe.gov.sg/dsa-jc</a>.</p>
 
 <p style="font-size:18px">We thank you for your interest in our College.</p>
