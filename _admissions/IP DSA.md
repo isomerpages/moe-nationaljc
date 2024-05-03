@@ -69,7 +69,7 @@ Squash<br><br>
 </header>
 <p style="font-size:18px">Applications for the DSA-Sec <b>are free-of-charge and must be submitted through the online DSA-Sec Portal.</b> Applications <b>open on 7 May 2024 (Tue), 11 am and close on 3 Jun 2024 (Mon), 3 pm.</b></p>
 
-<p style="font-size:18px">Please refer to the MOE website: www.moe.gov.sg/dsa-sec for more details.</p>
+<p style="font-size:18px">Please refer to the MOE website: <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a> for more details.</p>
 
 <p style="font-size:18px"><i>Applicants not studying in MOE mainstream primary schools need to apply for a registration number to access the DSA-Sec Portal. More information on this can be found at http://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school.</i></p>
 
