@@ -65,6 +65,15 @@ Squash<br><br>
 </table>
 
 <header>
+<h5><b>Application</b></h5>
+</header>
+<p style="font-size:18px">Applications for the DSA-Sec <b>are free-of-charge and must be submitted through the online DSA-Sec Portal.</b> Applications <b>open on 7 May 2024 (Tue), 11 am and close on 3 Jun 2024 (Mon), 3 pm.</b></p>
+
+<p style="font-size:18px">Please refer to the MOE website: www.moe.gov.sg/dsa-sec for more details.</p>
+
+<p style="font-size:18px"><i>Applicants not studying in MOE mainstream primary schools need to apply for a registration number to access the DSA-Sec Portal. More information on this can be found at http://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school.</i></p>
+
+<header>
 <h5><b>Selection Process</b></h5>
 </header>
 
@@ -82,6 +91,8 @@ Squash<br><br>
 <b style="color:blue;font-size:18px">Please read through the <a href="/integrated-programme-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
 
 <p style="font-size:18px">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants</p>
+
+
 
 <p style="font-size:18px"> The selection criteria and process for the talent areas will be updated from early May. For more information on the DSA-Sec exercise, please refer to the MOE website:&nbsp;<a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></p>
 
