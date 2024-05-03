@@ -56,11 +56,11 @@ variant: markdown
 <p style="font-size:18px">The selection criteria and process for the talent areas will be updated from early May. For more information on DSA-JC, please refer to the MOE website: <a target="_blank" href="https://www.moe.gov.sg/dsa-jc">www.moe.gov.sg/dsa-jc</a></p>
 <h5><b>  Offer of Places</b></h5>
 
-<p style="font-size:18px">Applicants who are shortlisted for interviews will be notified via email of the results of the DSA-JC application by 7 August 2024. Successful applicants will be offered a place in National Junior College for the academic year 2025.</p>
+<p style="font-size:18px">Applicants who are shortlisted for interviews will be notified via email of the results of the DSA-JC application by <b>7 August 2024</b>. Successful applicants will be offered a place in National Junior College for the academic year 2025.</p>
 
 <h5><b>Enquiries</b></h5>
 
-<p style="font-size:18px">For further enquiries on DSA-JC, you may call our General Office at 6466 1144 during office hours (9 am to 5 pm) or drop us an email at njc@moe.edu.sg with the subject “DSA-JC”.</p>
+<p style="font-size:18px">For further enquiries on DSA-JC, you may call our General Office at <b>6466 1144 during office hours (9 am to 5 pm)</b> or drop us an email at <b>njc@moe.edu.sg with the subject “DSA-JC”</b>.</p>
 
 <p style="font-size:18px">For more information on DSA-JC, please refer to the MOE website: www.moe.gov.sg/dsa-jc.</p>
 
