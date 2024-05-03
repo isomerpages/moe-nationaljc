@@ -47,9 +47,21 @@ variant: markdown
 
 <b style="color:blue;font-size:18px">Please read through the <a href="/junior-college-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
 
-<p style="font-size:18px">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which
-may include assessing the potential of the applicants.</p>
+<p style="font-size:18px">Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</p>
+
+<p style="font-size:18px">All shortlisted candidates will be <b>notified via email by mid-July 2024</b> to attend an in-person audition / trial held in National Junior College. More details on the performance task will be provided in the email notification. </p>
+
+<p style="font-size:18px">Thereafter, applicants who are further shortlisted will <b>be notified via email</b> to attend an in-person interview, also held in National Junior College. </p>
 
 <p style="font-size:18px">The selection criteria and process for the talent areas will be updated from early May. For more information on DSA-JC, please refer to the MOE website: <a target="_blank" href="https://www.moe.gov.sg/dsa-jc">www.moe.gov.sg/dsa-jc</a></p>
-  
+<h5><b>  Offer of Places</b></h5>
+
+<p style="font-size:18px">Applicants who are shortlisted for interviews will be notified via email of the results of the DSA-JC application by 7 August 2024. Successful applicants will be offered a place in National Junior College for the academic year 2025.</p>
+
+<h5><b>Enquiries</b></h5>
+
+<p style="font-size:18px">For further enquiries on DSA-JC, you may call our General Office at 6466 1144 during office hours (9 am to 5 pm) or drop us an email at njc@moe.edu.sg with the subject “DSA-JC”.</p>
+
+<p style="font-size:18px">For more information on DSA-JC, please refer to the MOE website: www.moe.gov.sg/dsa-jc.</p>
+
 <p style="font-size:18px">We thank you for your interest in our College.</p>
