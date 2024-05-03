@@ -1,8 +1,9 @@
 ---
 title: 54th College Day
-permalink: /about/heritage/permalink/
+permalink: /about/heritage/54th-college-day/
 description: ""
 third_nav_title: Heritage
+variant: tiptap
 ---
 <h1>54th College Day</h1>
 <img src="https://file.for.edu.sg/college54logo.jpg">

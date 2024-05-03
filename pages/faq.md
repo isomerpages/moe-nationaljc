@@ -95,7 +95,7 @@ _At NJC, we view assessment as a means to find out how much the child has learnt
 
 **What must my child achieve in order to be promoted or to progress to the next level?**&nbsp;&nbsp;
 
-_As a baseline, we expect JH1 &amp; JH2 students to either pass Language Arts (the equivalent of English Language and Literature in English) and 6 other subjects,&nbsp;**or**&nbsp;8 subjects._&nbsp;&nbsp;&nbsp;
+<i>As a baseline, we expect JH1 &amp; JH2 students to either pass Language Arts (the equivalent of English Language and Literature in English) and 6 other subjects, or 8 subjects.</i>
 
 **There is no O-Level cohort at NJC. What would happen to my child if he/she is not able to cope with the IP?**&nbsp;&nbsp;
 
@@ -103,17 +103,12 @@ _We will take care of every child. Learning is personalised and differentiated t
 
 _There have been instances where a child and his/her parents feel that another education track is more appropriate. We have facilitated the necessary and continued to monitor the growth and progress of the child. These children have done very well for themselves._&nbsp;
 
-<u><b>Learning Experiences</b></u>
+**Learning Experiences**  
 
+**_How does the Boarding Programme benefit my child?_**
 
-
-**How does the Boarding Programme benefit my child?**&nbsp;&nbsp;
-
-_Boarding is an integral part of the NJC IP experience. Boarding helps our students to develop independence, and knowledge, skills and values that are fundamental to living in a community. The closer relationships that are forged during Boarding and the memorable experiences would last a lifetime and, even more crucially, contribute towards character and resilience building._&nbsp;&nbsp;
-
-_Boarding is something every child and parent looks forward to. In the event that there are extenuating circumstances that prohibit a child from boarding, a request to defer boarding may be made to Principal of NJC for consideration._
-
-
+_Boarding is an integral part of the NJC IP experience. Boarding helps our students to develop independence, and knowledge, skills and values that are fundamental to living in a community. The closer relationships that are forged during Boarding and the memorable experiences would last a lifetime and, even more crucially, contribute towards character and resilience building.  
+Boarding is something every child and parent looks forward to. In the event that there are extenuating circumstances that prohibit a child from boarding, a request to defer boarding may be made to Principal of NJC for consideration._
 
 **<u>CCAs&nbsp;</u>**
 

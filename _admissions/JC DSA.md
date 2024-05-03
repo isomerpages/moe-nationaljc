@@ -13,7 +13,7 @@ variant: markdown
 <p style="font-size:18px">The Direct School Admission-JC (DSA-JC) is an annual exercise for students seeking admission directly to a Junior College. We invite all interested 2024 O-Level graduands to apply to National Junior College.</p>
 
 <p style="font-size:18px">Students who are successful are guaranteed a place, provided that they meet the eligibility criteria for admission to a JC based on their GCE O-Level results. Students admitted under DSA-JC are expected to honour their commitment to the JC. They will <b>not</b> be allowed to take part in the Joint Admissions Exercise (JAE) in 2025. They will also <b>not</b> be allowed to transfer to another JC after the release of the GCE O-Level results.</p>
-
+	
 <h5><b>Talent Areas</b></h5>
 
 <p style="font-size:18px"> We invite students with special talents and/or achievements in the following areas to apply:</p>

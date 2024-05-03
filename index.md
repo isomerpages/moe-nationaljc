@@ -20,6 +20,14 @@ sections:
       background: /images/Images for Banner/HomeBanner2.gif
       url: njc@moe.edu.sg
   - infopic:
+      title: 55th College Day
+      id: infopic
+      description: Growing People, Cultivating the Future
+      button: READ MORE HERE
+      url: /national-junior-college-55th-college-day/
+      image: /images/55th College Day/NJC55DC.jpg
+      alt: Image alt text
+  - infopic:
       title: "Funtasia: 11 May 2024"
       id: infopic
       description: Funtasia is back! Join us for a fun-filled day with our NJC and
