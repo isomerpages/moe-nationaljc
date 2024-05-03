@@ -210,15 +210,18 @@ this legacy in the future.</p>
 was just another cliché school motto. Little did I anticipate that six
 years later, this phrase would hold so much meaning, shaping the way I
 interact with others.</p>
+<p></p>
 <p>Whether it was the genuine support of fellow students before examinations&nbsp;
 or the unwavering dedication of teachers who extended their guidance beyond
 our academic pursuit, I learned firsthand how a simple act of kindness
 can illuminate someone's day and even alter the course of their life.</p>
+<p></p>
 <p>Inspired by these acts of kindness, I wanted to serve others beyond our
 school community. I am immensely grateful for the diverse volunteering
 opportunities at NJC, which broadened my perspective and instilled in me
 the belief that no change is too big or too small. It motivated me to make
 a difference in our society with whatever capacity I possess.</p>
+<p></p>
 <p>I am deeply honoured to be receiving the Lim Kim Woon Award, and I am
 very grateful to all those who have shown me what it truly means to Serve
 with Honour. I am certain that NJC will continue to nurture student leaders
