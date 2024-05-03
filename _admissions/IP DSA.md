@@ -96,20 +96,16 @@ Squash<br><br>
 
 <p style="font-size:18px">Thereafter, applicants who are further shortlisted will be notified via email to attend an in-person interview, also held in National Junior College. All interviews will take place by 28 August 2024.</p>
 
-<header>
-	<h5><b>Offer of Places</b></h5>
-</header>
+<h5><b>Offer of Places</b></h5>
 
 <p style="font-size:18px">Applicants who are shortlisted for interviews will be notified via email of the results of the DSA-Sec application by <b>9 September 2024</b>. Successful applicants will be offered a place in National Junior College’s 6-year Integrated Programme for the academic year 2025.</p>
 
-<header>
-	<h5><b>Enquiries</b></h5>
-</header>
+
+<h5><b>Enquiries</b></h5>
 
 <p style="font-size:18px">If you have any enquiries on DSA-Sec, you may call our General Office at <b>6466 1144 during office hours (9 am to 5 pm)</b> or drop us an <b>email at njc@moe.edu.sg with the subject “DSA-Sec”</b>.</p>
 
 <p style="font-size:18px">For more information on the DSA-Sec exercise, please refer to the MOE website: <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
-
 <p style="font-size:18px">Please also see our <a href="/faq/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a></p>
 
 <p style="font-size:18px">We thank you for your interest in National Junior College.</p>
