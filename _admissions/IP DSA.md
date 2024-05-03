@@ -108,8 +108,8 @@ Squash<br><br>
 
 <p style="font-size:18px">If you have any enquiries on DSA-Sec, you may call our General Office at 6466 1144 during office hours (9 am to 5 pm) or drop us an email at njc@moe.edu.sg with the subject “DSA-Sec”.</p>
 
-<p style="font-size:18px">For more information on the DSA-Sec exercise, please refer to the MOE website: www.moe.gov.sg/dsa-sec.</p>
+<p style="font-size:18px">For more information on the DSA-Sec exercise, please refer to the MOE website: <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 
-<p style="font-size:18px">Please also see our Frequently Asked Questions.</p>
+<p style="font-size:18px">Please also see our <a href="/integrated-programme-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions.</a></p>
 
 <p style="font-size:18px">We thank you for your interest in National Junior College.</p>
