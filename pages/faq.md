@@ -95,7 +95,7 @@ _At NJC, we view assessment as a means to find out how much the child has learnt
 
 **What must my child achieve in order to be promoted or to progress to the next level?**&nbsp;&nbsp;
 
-<i>As a baseline, we expect JH1 &amp; JH2 students to either pass Language Arts (the equivalent of English Language and Literature in English) and 6 other subjects, or 8 subjects.</i>
+<i>For promotion to the next level, JH1 and 2 students should attain an overall score of 50% and pass the following 5 subjects: Language Arts, Mathematics, Science, History/Geography and 1 more subject.</i>
 
 **There is no O-Level cohort at NJC. What would happen to my child if he/she is not able to cope with the IP?**&nbsp;&nbsp;
 
@@ -103,20 +103,15 @@ _We will take care of every child. Learning is personalised and differentiated t
 
 _There have been instances where a child and his/her parents feel that another education track is more appropriate. We have facilitated the necessary and continued to monitor the growth and progress of the child. These children have done very well for themselves._&nbsp;
 
-**Learning Experiences**  
-
-**_How does the Boarding Programme benefit my child?_**
-
-_Boarding is an integral part of the NJC IP experience. Boarding helps our students to develop independence, and knowledge, skills and values that are fundamental to living in a community. The closer relationships that are forged during Boarding and the memorable experiences would last a lifetime and, even more crucially, contribute towards character and resilience building.  
-Boarding is something every child and parent looks forward to. In the event that there are extenuating circumstances that prohibit a child from boarding, a request to defer boarding may be made to Principal of NJC for consideration._
-
 **<u>CCAs&nbsp;</u>**
 
 **What CCAs can a JH1 student join?**&nbsp;
 
-_All JH1 students experience the unique Co-curricular Activities for Exposure (CAFÉ) programme in their first year, where they will undergo the experiences of both Sports &amp; Games and Performing Arts CCAs. This will help them make an informed decision in their choice of CCA for their remaining JH years. Please note that there are no Uniformed Groups at NJC._&nbsp;&nbsp;&nbsp;
+_JH1 students will experience the six Junior High Sports &amp; Games and nine Performing Arts CCAs during their Orientation week. This will help them make an informed decision in their choice of CCA for their remaining JH years._
 
-_Students who are admitted via the DSA-Sec exercise must commit to their CCA of choice for four years. They may join another CCA in Senior High if they choose to._
+_Only the 15 Junior High CCAs are opened to Junior High students and you can check them out at this link. There are no Uniformed Groups at NJC._
+
+_Students who are admitted via the DSA-Sec exercise through a CCA must commit to their CCA for four years. They may join another CCA in Senior High if they choose to._
 
 **How many CCAs can students take up?**&nbsp;
 
