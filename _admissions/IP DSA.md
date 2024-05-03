@@ -10,15 +10,11 @@ table {border-collapse: collapse; /* Optional: Collapses border spacing */ width
 th, td { border: 1px solid black; padding: 8px; text-align: left; font-size: inherit; /* Inherit font size from parent (table) */}
 </style>
 
-<header>
 <h2>Integrated Programme (Direct School Admission)</h2>
-</header>
 
 <img style="width:99%" alt="banner" src="/images/ad1.png">
 
-<header>
 <h5><b>Direct School Admission into 6-year IP Programme for Academic Year 2025 - DSA-Sec Exercise 2024</b></h5>
-</header>
 
 <p style="font-size:18px">The Direct School Admission-Sec (DSA-Sec) Exercise is conducted annually. We invite all interested 2024 Primary 6 students to apply for National Junior College’s 6-year Integrated Programme via the DSA-Sec Exercise.</p>
 
@@ -26,9 +22,7 @@ th, td { border: 1px solid black; padding: 8px; text-align: left; font-size: inh
 
 <p style="font-size:18px">Students who are successfully admitted to National Junior College via DSA-Sec are expected to honour their commitment to the school for the duration of the six-year Integrated Programme, and participate in the activities related to the talent they are selected for throughout Junior High (i.e. Years 1 – 4).</p>
 
-<header>
 <h5><b>Talent Areas</b></h5>
-</header>
 
 <table>
 <tbody>
@@ -64,18 +58,15 @@ Squash<br><br>
 </tbody>
 </table>
 
-<header>
 <h5><b>Application</b></h5>
-</header>
+
 <p style="font-size:18px">Applications for the DSA-Sec <b>are free-of-charge and must be submitted through the online DSA-Sec Portal.</b> Applications <b>open on 7 May 2024 (Tue), 11 am and close on 3 Jun 2024 (Mon), 3 pm.</b></p>
 
 <p style="font-size:18px">Please refer to the MOE website: <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a> for more details.</p>
 
 <p style="font-size:18px"><i>Applicants not studying in MOE mainstream primary schools need to apply for a registration number to access the DSA-Sec Portal. More information on this can be found at <a href="http://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school" rel="noopener noreferrer nofollow" target="_blank">here</a>.</i></p>
 
-<header>
 <h5><b>Selection Process</b></h5>
-</header>
 
 <p style="font-size:18px">Applicants will be shortlisted and selected based on the following general criteria:</p>
 
