@@ -27,6 +27,12 @@ variant: markdown
 | 3. Science Research Excellence (refer to this <a target="_blank" href="/niche-programmes/research/">page</a> for details) | Science Training and Research Programme<br> **(must offer A-Level H3 Science Research)** |
 | 4. Language Elective Programmes | Malay Language Elective Programme<br> **(must offer A-Level H2 Malay Language &amp; Literature)**<br><br>Tamil Language Elective Programme<br> **(must offer A-Level H2 Tamil Language &amp; Literature)** |
 
+<h5><b>Online Application</b></h5>
+
+<p style="font-size:18px">Applications for the DSA-JC to National Junior College are free-of-charge and must be submitted online at <a href="https://go.gov.sg/njc-dsa-jc-2024" rel="noopener noreferrer nofollow" target="_blank">here</a> between <b>7 May 2024 (Tue), 12 pm and 24 June 2024 (Mon), 5 pm</b>.</p>
+
+<p style="font-size:18px">In the event that you are unable to upload your documents through the online application, you may email your documents to <b style="color:red;font-size:18px"><u>njc@moe.edu.sg</u></b> with the subject “DSA-JC Supporting Documents”.</p>
+
 <h5><b>Selection Process</b></h5>
 
 <p style="font-size:18px"> Applicants will be shortlisted and selected based on the following general criteria:</p>
