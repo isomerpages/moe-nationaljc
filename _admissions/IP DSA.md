@@ -4,6 +4,9 @@ permalink: /admissions/ip-dsa/
 description: ""
 variant: markdown
 ---
+<style>
+p { style="font-size: 30px;" }
+</style>
 <h2>Integrated Programme (Direct School Admission)</h2>
 
 <img style="width:99%" alt="banner" src="/images/ad1.png">
@@ -45,7 +48,7 @@ Squash<br><br>
 <td><b>Science, Technology, Engineering and Mathematics<br></b></td>
 <td><p><b>Engineering Innovation and Solutions</b><br>(will be required to be engaged in and lead STEM-based activities for 4 years in Junior High)</p></td>
 </tr>
-	
+
 <tr>
 <td><b>Visual Arts, Design and Media	<br></b></td>
 <td><p><b>MOE Art Elective Programme</b><br>(will be required to take Art as an academic subject for 4 years in Junior High)</p></td>
