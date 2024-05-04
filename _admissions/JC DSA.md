@@ -12,7 +12,7 @@ variant: markdown
 
 <p style="font-size:18px">The Direct School Admission-JC (DSA-JC) is an annual exercise for students seeking admission directly to a Junior College. We invite all interested 2024 O-Level graduands to apply to National Junior College.</p>
 
-<p style="font-size:18px">Students who are successful are guaranteed a place, provided that they meet the eligibility criteria for admission to a JC based on their GCE O-Level results. Students admitted under DSA-JC are expected to honour their commitment to the JC. They will <b>not</b> be allowed to take part in the Joint Admissions Exercise (JAE) in 2025. They will also <b>not</b> be allowed to transfer to another JC after the release of the GCE O-Level results.</p>
+<p style="font-size:18px">Students who are successful are guaranteed a place, provided that they meet the eligibility criteria for admission to a JC based on their GCE O-Level results. Students admitted under DSA-JC are expected to honour their commitment to the JC. They will <b>not</b> be allowed to take part in the Joint Admissions Exercise (JAE) in 2025. They will also <b>not</b> be allowed to transfer to another JC after the release of the GCE O-Level results. They are expected to honour their commitment to the JC and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.</p>
 
 <p style="font-size:18px">For 2024, the DSA-JC Exercise will take place from May to September. </p>
 
@@ -37,11 +37,9 @@ variant: markdown
 
 <p style="font-size:18px"> Applicants will be shortlisted and selected based on the following general criteria:</p>
 
-<ol>
-<li>Demonstrate passion for and commitment to the area of interest;
-</li><li>Exemplify positive character traits, including resilience, motivation and integrity; and
-</li><li>Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve.
-</li></ol>
+1. Demonstrate passion for and commitment to the area of interest;
+2. Exemplify positive character traits, including resilience, motivation and integrity; and
+3. Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve.
 
 <p style="font-size:18px">as well as <a href="/junior-college-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> specific to each talent area.</p>
 
