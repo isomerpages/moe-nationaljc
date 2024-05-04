@@ -8,10 +8,8 @@ variant: markdown
 table {border-collapse: collapse; /* Optional: Collapses border spacing */ width: 100%; font-size: 18px; /* Set font size for the whole table */}
 
 th, td {border: 1px solid black; padding: 8px; text-align: left; font-size: inherit; /* Inherit font size from parent (table) */}
-
-ol {font-size: 10px; /* Adjust the font size as needed */}
 	
-p {font-size: 20px; /* Adjust the font size as needed */}
+p {font-size: 30px; /* Adjust the font size as needed */}
 </style>
 
 <h2>Integrated Programme (Direct School Admission)</h2>
