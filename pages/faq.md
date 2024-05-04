@@ -109,7 +109,7 @@ _There have been instances where a child and his/her parents feel that another e
 
 _JH1 students will experience the six Junior High Sports &amp; Games and nine Performing Arts CCAs during their Orientation week. This will help them make an informed decision in their choice of CCA for their remaining JH years._
 
-_Only the 15 Junior High CCAs are opened to Junior High students and you can check them out at this link. There are no Uniformed Groups at NJC._
+_Only the 15 Junior High CCAs are opened to Junior High students and you can check them out at this [link](/co-curricular-activities/overview/). There are no Uniformed Groups at NJC._
 
 _Students who are admitted via the DSA-Sec exercise through a CCA must commit to their CCA for four years. They may join another CCA in Senior High if they choose to._
 
