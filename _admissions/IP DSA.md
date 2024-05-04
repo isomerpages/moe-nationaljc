@@ -30,31 +30,26 @@ p { style="font-size: 30px;" }
 <th></th>
 <th></th>
 </tr>
-
 <tr>
 <td><b>Co-Curricular Activities</b><br>
 Please refer to this&nbsp;<a href="/co-curricular-activities/overview/" rel="noopener noreferrer nofollow" target="_blank">page</a> for a description of CCAs offered in NJC</td>
-<td><b>Sports and Games</b><br>Basketball<br>Canoeing<br>
+<td><p><b>Sports and Games</b><br>Basketball<br>Canoeing<br>
 Cross Country; Track and Field<br>Shooting<br>Softball<br>
-Squash<br><br>
+Squash</p><br><br>
 <b>Performing Arts</b><br>Choir<br>Chinese Dance<br>Chinese Orchestra<br>Concert Band<br>Guitar Ensemble<br>Guzheng Ensemble<br>Indian Dance<br>Malay Dance<br>Modern Dance (Western Dance)<br>String Ensemble<br></td>
 </tr>
-
 <tr>
 <td><b>Music<br></b></td>
 <td><p><b>Music Programme</b><br>(will be required to take Music as an elective for 4 years in Junior High. Please note that the Music Programme is only offered to Junior High Students)</p></td>
 </tr>
-
 <tr>
 <td><b>Science, Technology, Engineering and Mathematics<br></b></td>
 <td><p><b>Engineering Innovation and Solutions</b><br>(will be required to be engaged in and lead STEM-based activities for 4 years in Junior High)</p></td>
 </tr>
-
 <tr>
 <td><b>Visual Arts, Design and Media	<br></b></td>
 <td><p><b>MOE Art Elective Programme</b><br>(will be required to take Art as an academic subject for 4 years in Junior High)</p></td>
 </tr>
-
 </tbody>
 </table>
 
