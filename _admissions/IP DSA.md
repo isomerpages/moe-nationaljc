@@ -4,11 +4,6 @@ permalink: /admissions/ip-dsa/
 description: ""
 variant: markdown
 ---
-<style>
-table {border-collapse: collapse; /* Optional: Collapses border spacing */ width: 100%; font-size: 18px; /* Set font size for the whole table */}
-th, td {border: 1px solid black; padding: 8px; text-align: left; font-size: inherit; /* Inherit font size from parent (table) */}
-</style>
-
 <h2>Integrated Programme (Direct School Admission)</h2>
 
 <img style="width:99%" alt="banner" src="/images/ad1.png">
