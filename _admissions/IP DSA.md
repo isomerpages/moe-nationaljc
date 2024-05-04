@@ -7,6 +7,7 @@ variant: markdown
 <style>
 p { style="font-size: 30px;" }
 </style>
+
 <h2>Integrated Programme (Direct School Admission)</h2>
 
 <img style="width:99%" alt="banner" src="/images/ad1.png">
