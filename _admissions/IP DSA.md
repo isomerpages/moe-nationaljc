@@ -71,12 +71,10 @@ Squash<br><br>
 
 <p style="font-size:18px">Applicants will be shortlisted and selected based on the following general criteria:</p>
 
-
 1. Demonstrate passion for and commitment to the area of interest;  
 2. Exemplify positive character traits, including resilience, motivation and integrity;  
 3. Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve; and  
 4. Possess good academic potential to thrive in the Integrated Programme.
-
 
 <p style="font-size:18px">as well as <a href="/integrated-programme-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> specific to each talent area. </p>
 
