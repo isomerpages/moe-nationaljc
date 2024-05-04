@@ -35,8 +35,8 @@ p { style="font-size: 30px;" }
 Please refer to this&nbsp;<a href="/co-curricular-activities/overview/" rel="noopener noreferrer nofollow" target="_blank">page</a> for a description of CCAs offered in NJC</td>
 <td><p><b>Sports and Games</b><br>Basketball<br>Canoeing<br>
 Cross Country; Track and Field<br>Shooting<br>Softball<br>
-Squash</p><br><br>
-<b>Performing Arts</b><br>Choir<br>Chinese Dance<br>Chinese Orchestra<br>Concert Band<br>Guitar Ensemble<br>Guzheng Ensemble<br>Indian Dance<br>Malay Dance<br>Modern Dance (Western Dance)<br>String Ensemble<br></td>
+Squash</p>
+<p><b>Performing Arts</b><br>Choir<br>Chinese Dance<br>Chinese Orchestra<br>Concert Band<br>Guitar Ensemble<br>Guzheng Ensemble<br>Indian Dance<br>Malay Dance<br>Modern Dance (Western Dance)<br>String Ensemble<br></p></td>
 </tr>
 <tr>
 <td><b>Music<br></b></td>
