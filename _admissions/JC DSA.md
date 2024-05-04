@@ -36,11 +36,11 @@ variant: markdown
 <h5><b>Selection Process</b></h5>
 
 <p style="font-size:18px"> Applicants will be shortlisted and selected based on the following general criteria:</p>
-
+<p style="font-size:18px">
 1. Demonstrate passion for and commitment to the area of interest;
 2. Exemplify positive character traits, including resilience, motivation and integrity; and
 3. Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve.
-
+</p>
 <p style="font-size:18px">as well as <a href="/junior-college-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> specific to each talent area.</p>
 
 <b style="color:blue;font-size:18px">Please read through the <a href="/junior-college-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> carefully for each talent area. It also shows the portfolio requirements for the talent areas that requires portfolio submission.</b>
