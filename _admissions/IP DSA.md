@@ -9,7 +9,9 @@ table {border-collapse: collapse; /* Optional: Collapses border spacing */ width
 
 th, td {border: 1px solid black; padding: 8px; text-align: left; font-size: inherit; /* Inherit font size from parent (table) */}
 
-ol {font-size: 16px; /* Adjust the font size as needed */}
+ol {font-size: 10px; /* Adjust the font size as needed */}
+	
+p {font-size: 20px; /* Adjust the font size as needed */}
 </style>
 
 <h2>Integrated Programme (Direct School Admission)</h2>
@@ -74,7 +76,7 @@ Squash<br><br>
 
 <p style="font-size:18px">Applicants will be shortlisted and selected based on the following general criteria:</p>
 
-<ol style="font-size: 16px;">
+<ol>
 <li>Demonstrate passion for and commitment to the area of interest;</li>
 <li>Exemplify positive character traits, including resilience, motivation and integrity;</li>
 <li>Display a commitment to contribute to the school, through the area of interest as well as other opportunities to serve; and</li>
