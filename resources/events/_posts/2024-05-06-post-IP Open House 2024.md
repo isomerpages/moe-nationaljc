@@ -17,4 +17,8 @@ Hello everyone!
 	
 We would encourage you to listen to our Principal's Address, interact with our students and teachers at our CCA and Subject Booths and go on a student-led tour around our campus for the full #whynj experience.</p>
 
+![](/images/Funtasia2024/1.png)
+![](/images/Funtasia2024/2.png)
+![](/images/Funtasia2024/3.png)
+
 See you at our Open House soon! 🤩
