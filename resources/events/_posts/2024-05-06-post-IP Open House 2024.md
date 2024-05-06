@@ -9,9 +9,9 @@ variant: markdown
 ---
 <center><h4>Invitation to 2024 NJC IP Open House</h4></center>
 
-Hello everyone!
+<center><h5>Hello everyone!</h5></center>
 
-<p>We would like to invite P6 students and their parents to visit NJC on 18 May (Saturday), from 9am-2pm for our NJC IP Open House.
+<p style="text-align:justify;">We would like to invite P6 students and their parents to visit NJC on 18 May (Saturday), from 9am-2pm for our NJC IP Open House.
 	
 We would encourage you to listen to our Principal's Address, interact with our students and teachers at our CCA and Subject Booths and go on a student-led tour around our campus for the full #whynj experience.</p>
 <img style="width:70%" alt="2024 NJC IP OPEN HOUSE BANNER" src="/images/Funtasia2024/1_1__with_Socials_.png">
