@@ -7,9 +7,9 @@ description: ""
 image: ""
 variant: markdown
 ---
-<center><b><h2>Invitation to 2024 NJC IP Open House</h2></b></center>
+<center><b><h1>Invitation to 2024 NJC IP Open House</h1></b></center>
 
-<center><h3>Hello everyone!</h3></center>
+<center><h4>Hello everyone!</h4></center>
 
 <p style="text-align:justify;">We would like to invite P6 students and their parents to visit NJC on <b>18 May (Saturday), from 9am-2pm</b> for our NJC IP Open House.<br><br>
 
