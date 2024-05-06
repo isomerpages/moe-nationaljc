@@ -532,8 +532,7 @@ speeches to the walls of every lecture theatre. With a college that has
 a motto centred around service, it is inevitable that the college places
 great emphasis on growing their students into good leaders. As an awardee
 of the Outstanding Leadership Award, I am indeed proud to be a product
-of this wonderful school’s system.</p>
-<p>
+of this wonderful school’s system.
 <br>
 </p>
 <p>At the end of my six years, these are my takeaways about leadership: the
@@ -542,9 +541,7 @@ working towards a common goal. A good leader need not be perfect, neither
 does a good leader need to be better than the rest. All a good leader needs
 to have is the willingness to step into discomfort as well as the conviction
 to learn from past mistakes.</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>Some time in the near future, we might have robots that can solve mathematical
 problems far beyond the capabilities of mankind. Our academic knowledge
 might be rendered obsolete by then. However, I firmly believe that the
@@ -937,10 +934,10 @@ We wish them all a very bright, promising and fulfilling future ahead!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JH1 Academic Excellence Awards [Alignment: Left]</p>
+<p>JH1 Academic Excellence Awards</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Sarah Katie Koo [Numbered, Alignment: Left]</p>
+<p>1. Sarah Katie Koo</p>
 <p>2. Kwek Yee Shian Victoria</p>
 <p>3. Soh Chia Hee</p>
 </td>
@@ -1049,7 +1046,7 @@ We wish them all a very bright, promising and fulfilling future ahead!</p>
 <p>Student Council</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Lim Jiaqi [Numbered, Alignment: Left]</p>
+<p>1. Lim Jiaqi</p>
 <p>2. Emma Lee Wen Qi</p>
 <p>3. Henry Cha Yu Hang</p>
 <p>4. Cao Yuxuan</p>
@@ -1094,7 +1091,7 @@ We wish them all a very bright, promising and fulfilling future ahead!</p>
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Yang Xi Yi [Numbered, Alignment: Left]</p>
+<p>1. Yang Xi Yi</p>
 <p>2. Sangati Eswar Sujan</p>
 <p>3. Samson Samuel Aaron</p>
 <p>4. Tan Peng Rui Lauren</p>
@@ -1178,7 +1175,7 @@ We wish them all a very bright, promising and fulfilling future ahead!</p>
 <p>Chinese Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Sophia Sea [Numbered, Alignment: Left]</p>
+<p>1. Sophia Sea</p>
 </td>
 </tr>
 <tr>
@@ -1289,7 +1286,7 @@ We wish them all a very bright, promising and fulfilling future ahead!</p>
 <p>AVA &amp; PA Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Lucas Liew Yu Yuan [Numbered, Alignment: Left]</p>
+<p>1. Lucas Liew Yu Yuan</p>
 </td>
 </tr>
 <tr>
@@ -1377,7 +1374,7 @@ We wish them all a very bright, promising and fulfilling future ahead!</p>
 <p>Team: Second</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Luo Chang [Numbered, Alignment: Left]</p>
+<p>1. Luo Chang</p>
 <p></p>
 </td>
 </tr>
@@ -2095,9 +2092,9 @@ We wish them all a very bright, promising and fulfilling future ahead!</p>
 <p>Bronze Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Nadine Alya Ramdhan]</p>
+<p>1. Nadine Alya Ramdhan</p>
 <p>2. Nur Sabrina Binte Shahmudin&nbsp;</p>
-<p>3. Joan Phillipe Lo&nbsp;</p>
+<p>3. Joan Phillipe Lo</p>
 </td>
 </tr>
 <tr>
@@ -2108,17 +2105,9 @@ We wish them all a very bright, promising and fulfilling future ahead!</p>
 <p>Top 3 Teams</p>
 </td>
 <td rowspan="1" colspan="1">
-<ol>
-<li>
-<p>Lee Xin Ying, Megan</p>
-</li>
-<li>
-<p>Rachael Ho Xin Yun</p>
-</li>
-<li>
-<p>Ong Zhi Ning</p>
-</li>
-</ol>
+<p>1. Lee Xin Ying, Megan</p>
+<p>2. Rachael Ho Xin Yun</p>
+<p>3. Ong Zhi Ning</p>
 </td>
 </tr>
 <tr>
@@ -2949,7 +2938,7 @@ Ensemble (Guzheng) (Secondary School)</p>
 <p>Fourth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1. Chia Yong Xu Dayton [Numbered, Alignment: Left]</p>
+<p>1. Chia Yong Xu Dayton</p>
 <p>2. Chui Jun Ling Elroy</p>
 <p>3. Har Chee Joon</p>
 <p>4. Julien Siow Mein Yu</p>
