@@ -176,7 +176,7 @@ kindness and respect.</p>
 <p></p>
 <p><strong><u>The Lim Kim Woon Award</u></strong>
 </p>
-<p><em>The Lim Kim Woon Award, initiated and structured by a former NJCian in honour of our first Principal, recognises students who exemplify the hallmark characteristics and traits of our motto, Service with Honour. [Italicised, Alignment: Justify]</em>
+<p><em>The Lim Kim Woon Award, initiated and structured by a former NJCian in honour of our first Principal, recognises students who exemplify the hallmark characteristics and traits of our motto, Service with Honour.</em>
 </p>
 <p></p>
 <p><strong>Chia En Qi, Christi</strong>
@@ -450,7 +450,7 @@ that hinder me. With the immense support from my teachers and fellow teammates,
 I continued to persevere till the end of my season and I am truly thankful
 for them.</p>
 <p></p>
-<p><strong><u>The PAACT Aesthetics Excellence Award</u></strong>
+<p><strong><u>The PAACT Aesthetics Excellence Award</u></strong> 
 <br><em>The PAACT Aesthetics Excellence Award recognises excellence in the aesthetics.</em>
 </p>
 <p></p>
