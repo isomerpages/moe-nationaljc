@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<h4>Invitation to 2024 NJC IP Open House</h4>
+<center><h4>Invitation to 2024 NJC IP Open House</h4></center>
 
 Hello everyone!
 
