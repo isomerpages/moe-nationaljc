@@ -30,6 +30,7 @@ sections:
       image: /images/Funtasia2024/1_1__with_Socials_.png
       button: read more here
       url: /ip-open-house-2024/
+      alt: IP OPEN HOUSE 2024 BANNER
   - infopic:
       title: "55th College Day: 11 May 2024"
       id: infopic
