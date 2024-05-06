@@ -21,4 +21,4 @@ We would encourage you to listen to our Principal's Address, interact with our s
 
 
 
-See you at our Open House soon! 🤩
+<center>See you at our Open House soon! 🤩</center>
