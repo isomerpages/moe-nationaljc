@@ -22,7 +22,7 @@ sections:
   - infopic:
       title: Invitation to 2024 NJC IP Open House
       id: infopic
-      description: >
+      description: >-
         Hello everyone!
 
         We would like to invite P6 students and their parents to visit NJC on 18
