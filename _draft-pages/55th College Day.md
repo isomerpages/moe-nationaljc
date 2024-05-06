@@ -2481,68 +2481,28 @@ Ensemble (Guzheng)</p>
 Ensemble (Guzheng) (Secondary School)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction&nbsp;</p>
+<p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
-<ol>
-<li>
-<p>Pan Yuehan</p>
-</li>
-<li>
-<p>Zong Sitong</p>
-</li>
-<li>
-<p>Owen Chua En Ze</p>
-</li>
-<li>
-<p>Ang Xan Joy</p>
-</li>
-<li>
-<p>Lee Jun Qi Raegan</p>
-</li>
-<li>
-<p>Ng Gigi</p>
-</li>
-<li>
-<p>Rachel Lee Jia Qi</p>
-</li>
-<li>
-<p>Guan Yunxin</p>
-</li>
-<li>
-<p>Joanne Toh Tingfang</p>
-</li>
-<li>
-<p>Woon Yu Xuan, Ashley</p>
-</li>
-<li>
-<p>Tan Yan Ning, Trinice</p>
-</li>
-<li>
-<p>Yang Xinrui</p>
-</li>
-<li>
-<p>Jiang Jiayi</p>
-</li>
-<li>
-<p>Ng Yan Ting Jolin</p>
-</li>
-<li>
-<p>Fa Jiaqi</p>
-</li>
-<li>
-<p>Peng Siqi</p>
-</li>
-<li>
-<p>Hew Kai Yi</p>
-</li>
-<li>
-<p>Sun Jiayi</p>
-</li>
-<li>
-<p>Kan Yuhui</p>
-</li>
-</ol>
+<p>1. Pan Yuehan</p>
+<p>2. Zong Sitong</p>
+<p>3. Owen Chua En Ze</p>
+<p>4. Ang Xan Joy</p>
+<p>5. Lee Jun Qi Raegan</p>
+<p>6. Ng Gigi</p>
+<p>7. Rachel Lee Jia Qi</p>
+<p>8. Guan Yunxin</p>
+<p>9. Joanne Toh Tingfang</p>
+<p>10. Woon Yu Xuan, Ashley</p>
+<p>11. Tan Yan Ning, Trinice</p>
+<p>12. Yang Xinrui</p>
+<p>13. Jiang Jiayi</p>
+<p>14. Ng Yan Ting Jolin</p>
+<p>15. Fa Jiaqi</p>
+<p>16. Peng Siqi</p>
+<p>17. Hew Kai Yi</p>
+<p>18. Sun Jiayi</p>
+<p>19. Kan Yuhui</p>
 </td>
 </tr>
 <tr>
