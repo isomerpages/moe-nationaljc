@@ -2514,131 +2514,47 @@ Ensemble (Guzheng) (Secondary School)</p>
 <p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
-<ol>
-<li>
-<p>Fa Jialin</p>
-</li>
-<li>
-<p>Mu Xinyi</p>
-</li>
-<li>
-<p>Liu Nicole</p>
-</li>
-<li>
-<p>Jacqueline Maria Watkins</p>
-</li>
-<li>
-<p>Elly Chua&nbsp;</p>
-</li>
-<li>
-<p>Yap Hui Xi</p>
-</li>
-<li>
-<p>Lin Weizhe</p>
-</li>
-<li>
-<p>Zhang Yaojia</p>
-</li>
-<li>
-<p>Kennice Tan Sitong</p>
-</li>
-<li>
-<p>Clarence Lee Ming Zhe</p>
-</li>
-<li>
-<p>Nicole Tan Ee Teng&nbsp;</p>
-</li>
-<li>
-<p>Chan Wan Xin, Serafine</p>
-</li>
-<li>
-<p>Tan Xin Yan&nbsp;</p>
-</li>
-<li>
-<p>Reshmika Ramesh</p>
-</li>
-<li>
-<p>Zhang Huiwen</p>
-</li>
-<li>
-<p>Yuan Yi-Le</p>
-</li>
-<li>
-<p>Cheyenne Pang Si Ru</p>
-</li>
-<li>
-<p>Hirann Jay Kannan</p>
-</li>
-<li>
-<p>Fong Si Xuan Charlyn</p>
-</li>
-<li>
-<p>Nadine Alya Ramdhan</p>
-</li>
-<li>
-<p>Cheng Wenjing</p>
-</li>
-<li>
-<p>Koh Zhuo Xuan Genevieve</p>
-</li>
-<li>
-<p>Huang Yulan</p>
-</li>
-<li>
-<p>Joan Phillipe Lo</p>
-</li>
-<li>
-<p>Aris Loh Jenteng</p>
-</li>
-<li>
-<p>Seah Ern Ting&nbsp;</p>
-</li>
-<li>
-<p>Neo Su En, Charmaine</p>
-</li>
-<li>
-<p>Hu Yingdan</p>
-</li>
-<li>
-<p>Lim Kai Ning Jennifer</p>
-</li>
-<li>
-<p>Qiu Xinhui</p>
-</li>
-<li>
-<p>Huang Jingya</p>
-</li>
-<li>
-<p>Tan Yu</p>
-</li>
-<li>
-<p>Yap Yuan Yuan</p>
-</li>
-<li>
-<p>Lim Qi En, Charis</p>
-</li>
-<li>
-<p>Goh Yong Xuan</p>
-</li>
-<li>
-<p>Chua Lok Yi</p>
-</li>
-<li>
-<p>Lim Jiaqi</p>
-</li>
-<li>
-<p>Sun Jiayi</p>
-</li>
-<li>
-<p>Li Junxiang</p>
-</li>
-<li>
-<p>Tan Ying Shan</p>
-</li>
-<li>
-<p>Calix Chua Zheng Xuan</p>
-</li>
-</ol>
+<p>1. Fa Jialin</p>
+<p>2. Mu Xinyi</p>
+<p>3. Liu Nicole</p>
+<p>4. Jacqueline Maria Watkins</p>
+<p>5. Elly Chua</p>
+<p>6. Yap Hui Xi</p>
+<p>7. Lin Weizhe</p>
+<p>8. Zhang Yaojia</p>
+<p>9. Kennice Tan Sitong</p>
+<p>10. Clarence Lee Ming Zhe</p>
+<p>11. Nicole Tan Ee Teng</p>
+<p>12. Chan Wan Xin, Serafine</p>
+<p>13. Tan Xin Yan</p>
+<p>14. Reshmika Ramesh</p>
+<p>15. Zhang Huiwen</p>
+<p>16. Yuan Yi-Le</p>
+<p>17. Cheyenne Pang Si Ru</p>
+<p>18. Hirann Jay Kannan</p>
+<p>19. Fong Si Xuan Charlyn</p>
+<p>20. Nadine Alya Ramdhan</p>
+<p>21. Cheng Wenjing</p>
+<p>22. Koh Zhuo Xuan Genevieve</p>
+<p>23. Huang Yulan</p>
+<p>24. Joan Phillipe Lo</p>
+<p>25. Aris Loh Jenteng</p>
+<p>26. Seah Ern Ting</p>
+<p>27. Neo Su En, Charmaine</p>
+<p>28. Hu Yingdan</p>
+<p>29. Lim Kai Ning Jennifer</p>
+<p>30. Qiu Xinhui</p>
+<p>31. Huang Jingya</p>
+<p>32. Tan Yu</p>
+<p>33. Yap Yuan Yuan</p>
+<p>34. Lim Qi En, Charis</p>
+<p>35. Goh Yong Xuan</p>
+<p>36. Chua Lok Yi</p>
+<p>37. Lim Jiaqi</p>
+<p>38. Sun Jiayi</p>
+<p>39. Li Junxiang</p>
+<p>40. Tan Ying Shan</p>
+<p>41. Calix Chua Zheng Xuan</p>
 </td>
 </tr>
 <tr>
@@ -2650,80 +2566,30 @@ Ensemble (Guzheng) (Secondary School)</p>
 <p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
-<ol>
-<li>
-<p>Toh Li Xuan</p>
-</li>
-<li>
-<p>C.Abirami</p>
-</li>
-<li>
-<p>Chin Yi Xian</p>
-</li>
-<li>
-<p>Erica Julianne Roberts</p>
-</li>
-<li>
-<p>Kristen Che</p>
-</li>
-<li>
-<p>Ng Zi Shuen</p>
-</li>
-<li>
-<p>Liau Tsian Hsuan</p>
-</li>
-<li>
-<p>Li Yousa</p>
-</li>
-<li>
-<p>Chong Ruolin</p>
-</li>
-<li>
-<p>Brenda Woo Yan Shan</p>
-</li>
-<li>
-<p>Lim Song Lin</p>
-</li>
-<li>
-<p>Tham Yu Xin</p>
-</li>
-<li>
-<p>Ng You Xiang</p>
-</li>
-<li>
-<p>Tan Zheng Rui</p>
-</li>
-<li>
-<p>Luo Chang</p>
-</li>
-<li>
-<p>Zhang Zhenqi</p>
-</li>
-<li>
-<p>Tan Wee Hin</p>
-</li>
-<li>
-<p>Xu Shengya</p>
-</li>
-<li>
-<p>Ng Jing Ru, Megan</p>
-</li>
-<li>
-<p>Sharon Poh Shihui</p>
-</li>
-<li>
-<p>Jolin Xu Kai Qian</p>
-</li>
-<li>
-<p>Chen Pingxin</p>
-</li>
-<li>
-<p>Ernestine Wong</p>
-</li>
-<li>
-<p>Chai Wan Hao</p>
-</li>
-</ol>
+<p>1. Toh Li Xuan</p>
+<p>2. C.Abirami</p>
+<p>3. Chin Yi Xian</p>
+<p>4. Erica Julianne Roberts</p>
+<p>5. Kristen Che</p>
+<p>6. Ng Zi Shuen</p>
+<p>7. Liau Tsian Hsuan</p>
+<p>8. Li Yousa</p>
+<p>9. Chong Ruolin</p>
+<p>10. Brenda Woo Yan Shan</p>
+<p>11. Lim Song Lin</p>
+<p>12. Tham Yu Xin</p>
+<p>13. Ng You Xiang</p>
+<p>14. Tan Zheng Rui</p>
+<p>15. Luo Chang</p>
+<p>16. Zhang Zhenqi</p>
+<p>17. Tan Wee Hin</p>
+<p>18. Xu Shengya</p>
+<p>19. Ng Jing Ru, Megan</p>
+<p>20. Sharon Poh Shihui</p>
+<p>21. Jolin Xu Kai Qian</p>
+<p>22. Chen Pingxin</p>
+<p>23. Ernestine Wong</p>
+<p>24. Chai Wan Hao</p>
 </td>
 </tr>
 <tr>
