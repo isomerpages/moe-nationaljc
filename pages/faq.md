@@ -45,9 +45,9 @@ _Junior High students generally learn in subject class groups, with occasional m
 
 _There could be more homework than what your children experienced in Primary school because Secondary level students have more subjects. There is also work (like projects) that spans a longer period of time._&nbsp; &nbsp;
 
-**Are electives like Man &amp; Ideas, Advanced Science, Advanced Inquiry in Mathematics (AIM), Advanced Language Arts, Advanced Humanities, etc. compulsory?**&nbsp;&nbsp;
+**Are electives like Man &amp; Ideas, Advanced Science, Advanced Inquiry in Mathematics (AIM), Python Electives, Advanced Language Arts, Advanced Humanities, etc. compulsory?**&nbsp;&nbsp;
 
-_These are electives offered at JH3 (except for AIM which is offered in JH2 Sem 2). The IP curriculum, in and of itself, extends beyond base requirements of a core secondary or high school curriculum. Enrichment and deeper learning are therefore an integral part of the IP curriculum._&nbsp;&nbsp;
+_These are electives offered at JH3 (except for AIM which is offered from JH1). The IP curriculum, in and of itself, extends beyond base requirements of a core secondary or high school curriculum. Enrichment and deeper learning are therefore an integral part of the IP curriculum._&nbsp;&nbsp;
 
 _Students who show the interest and capacity will have the opportunity to enjoy these extensions in their areas of strength, to deepen their inquiry and interest in specific knowledge &amp; skills domains._&nbsp;&nbsp;
 
@@ -95,7 +95,7 @@ _At NJC, we view assessment as a means to find out how much the child has learnt
 
 **What must my child achieve in order to be promoted or to progress to the next level?**&nbsp;&nbsp;
 
-<i>As a baseline, we expect JH1 &amp; JH2 students to either pass Language Arts (the equivalent of English Language and Literature in English) and 6 other subjects, or 8 subjects.</i>
+<i>For promotion to the next level, JH1 and 2 students should attain an overall score of 50% and pass the following 5 subjects: Language Arts, Mathematics, Science, History/Geography and 1 more subject.</i>
 
 **There is no O-Level cohort at NJC. What would happen to my child if he/she is not able to cope with the IP?**&nbsp;&nbsp;
 
@@ -103,20 +103,15 @@ _We will take care of every child. Learning is personalised and differentiated t
 
 _There have been instances where a child and his/her parents feel that another education track is more appropriate. We have facilitated the necessary and continued to monitor the growth and progress of the child. These children have done very well for themselves._&nbsp;
 
-**Learning Experiences**  
-
-**_How does the Boarding Programme benefit my child?_**
-
-_Boarding is an integral part of the NJC IP experience. Boarding helps our students to develop independence, and knowledge, skills and values that are fundamental to living in a community. The closer relationships that are forged during Boarding and the memorable experiences would last a lifetime and, even more crucially, contribute towards character and resilience building.  
-Boarding is something every child and parent looks forward to. In the event that there are extenuating circumstances that prohibit a child from boarding, a request to defer boarding may be made to Principal of NJC for consideration._
-
 **<u>CCAs&nbsp;</u>**
 
 **What CCAs can a JH1 student join?**&nbsp;
 
-_All JH1 students experience the unique Co-curricular Activities for Exposure (CAFÉ) programme in their first year, where they will undergo the experiences of both Sports &amp; Games and Performing Arts CCAs. This will help them make an informed decision in their choice of CCA for their remaining JH years. Please note that there are no Uniformed Groups at NJC._&nbsp;&nbsp;&nbsp;
+_JH1 students will experience the six Junior High Sports &amp; Games and nine Performing Arts CCAs during their Orientation week. This will help them make an informed decision in their choice of CCA for their remaining JH years._
 
-_Students who are admitted via the DSA-Sec exercise must commit to their CCA of choice for four years. They may join another CCA in Senior High if they choose to._
+_Only the 15 Junior High CCAs are opened to Junior High students and you can check them out at this [link](/co-curricular-activities/overview/). There are no Uniformed Groups at NJC._
+
+_Students who are admitted via the DSA-Sec exercise through a CCA must commit to their CCA for four years. They may join another CCA in Senior High if they choose to._
 
 **How many CCAs can students take up?**&nbsp;
 
@@ -166,9 +161,9 @@ _Students who are successfully admitted via the DSA are expected to honour their
 
 **When will the results of the DSA application be announced?**&nbsp;
 
-_All successful applicants will be informed of the outcome — Confirmed Offer, Waiting List, or Unsuccessful — by 11 Sep 2023._
+_All successful applicants will be informed of the outcome — Confirmed Offer, Waiting List, or Unsuccessful — by 9 Sep 2024._
 
-_Students given a Confirmed Offer are guaranteed a place in the school, provided that they accept the offer via the DSA-Sec Portal between 23 Oct – 27 Oct 2023, and qualify for Posting Group 3 based on their PSLE results._
+_Students given a Confirmed Offer are guaranteed a place in the school, provided that they accept the offer via the DSA-Sec Portal between 21 Oct – 25 Oct 2024, and qualify for Posting Group 3 based on their PSLE results._
 
 **If I am unsuccessful under the DSA, how else can I gain admission to NJC?**&nbsp;
 
@@ -178,7 +173,7 @@ _Primary 6 students can apply through the Secondary One Posting Exercise conduct
 
 **What does Music Programme or AEP mean?**
 
-_Music Programme or AEP is offered as an academic programme where students who are admitted to either of these programmes are required to read Music or Art as part of their academic curriculum. It is mandatory for students who are in the Music Programme or AEP to attend the curriculum lessons which take place on weekday afternoons._
+_Music Programme or AEP is offered as an academic programme where students who are admitted to either of these programmes are required to read Music or Art as part of their academic curriculum. It is mandatory for students who are in the Music Programme or AEP to attend the curriculum lessons which take place on weekday afternoons. Please note that the Music Programme is only offered to Junior High students._
 
 **If my child is admitted to Music Programme or AEP DSA, can he/she not have a CCA?**
 
