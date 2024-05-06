@@ -9,6 +9,8 @@ variant: markdown
 ---
 <h5>Invitation to 2024 NJC IP Open House</h5>
 
+<img style="width:70%" alt="2024 NJC IP OPEN HOUSE BANNER" src="/images/Funtasia2024/1_1__with_Socials_.png">
+
 Hello everyone!
 
 <p>We would like to invite P6 students and their parents to visit NJC on 18 May (Saturday), from 9am-2pm for our NJC IP Open House.
