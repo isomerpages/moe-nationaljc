@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_ip_open_house_cover_image.png">
 </div>
-<p><strong><u>Invitation to 2024 NJC IP Open House</u></strong>
+<p><strong><u>Invitation to 2024 NJC IP Open House</u></strong> 
 <br>Hello everyone!
 <br>
 <br>We would like to invite P6 students and their parents to visit NJC on
