@@ -20,6 +20,18 @@ sections:
       background: /images/Images for Banner/HomeBanner2.gif
       url: njc@moe.edu.sg
   - infopic:
+      title: Invitation to 2024 NJC IP Open House
+      id: infopic
+      description: >-
+        Hello everyone!
+
+        We would like to invite P6 students and their parents to visit NJC on 18
+        May (Saturday), from 9am-2pm for our NJC IP Open House!
+      image: /images/Funtasia2024/1_1__with_Socials_.png
+      button: read more here
+      url: /ip-open-house-2024/
+      alt: IP OPEN HOUSE 2024 BANNER
+  - infopic:
       title: "55th College Day: 11 May 2024"
       id: infopic
       description: Growing People, Cultivating the Future
