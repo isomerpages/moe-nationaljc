@@ -12,7 +12,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_ip_open_house_cover_image.png">
 </div>
 <p><strong><u>Invitation to 2024 NJC IP Open House</u></strong> 
-<br>Hello everyone!
+<br>
+</p>
+<p>Hello everyone!
 <br>
 <br>We would like to invite P6 students and their parents to visit NJC on
 18 May (Saturday), from 9am-2pm for our NJC IP Open House!
@@ -25,7 +27,6 @@ a student-led tour around our campus for the full #whynj experience.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024 NJC IP Open House Highlights" src="/images/2024_ip_open_house_1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024 NJC IP Open House campus map" src="/images/2024_ip_open_house_2.png">
 </div>
