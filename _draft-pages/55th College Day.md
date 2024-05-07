@@ -272,7 +272,7 @@ challenging but meaningful at the same time.&nbsp;</p>
 <p></p>
 <p>Looking back, I’m grateful for the diverse perspectives I’ve gained through
 the study of the humanities. Whether it be the macro understanding of global
-political and economic realities acquired from History and Economic lessons
+political and economic realities acquired from History and Economics lessons
 or the insights into the human condition gleaned from studying Literature,
 I am confident that the analytical lenses honed by the humanities will
 serve me well even as I embark on the next chapter of my studies.&nbsp;</p>
