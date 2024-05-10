@@ -3,6 +3,7 @@ title: 55th College Day
 permalink: /about/heritage/55th-college-day/
 variant: tiptap
 description: ""
+third_nav_title: Heritage
 ---
 <h1>55th College Day</h1>
 <div class="isomer-image-wrapper">
@@ -16,7 +17,7 @@ description: ""
 <p><strong>Mr Loh Ngai Seng</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="676" width="624" src="https://lh7-us.googleusercontent.com/OQgAX1ktk5r1ii1I4vthclSooVb7pyd1Irv7hROngNsTWUlj9jgky7FJVBLTiQe61sCfJ1yIlXNu2nrVx_GPDXI693FYfiPTSR6zEHFjX4cqV2x4awEBzxQpbIWp8fgmn9p-2PMrtYwa8QOqSoAojmI">
+<img style="width: 50%;" height="676" width="624" src="https://lh7-us.googleusercontent.com/OQgAX1ktk5r1ii1I4vthclSooVb7pyd1Irv7hROngNsTWUlj9jgky7FJVBLTiQe61sCfJ1yIlXNu2nrVx_GPDXI693FYfiPTSR6zEHFjX4cqV2x4awEBzxQpbIWp8fgmn9p-2PMrtYwa8QOqSoAojmI">
 </div>
 <p>Mr Loh Ngai Seng is an alumnus of National Junior College from the class
 of 88-89. He is currently the Permanent Secretary at the Ministry of Transport.
@@ -4203,7 +4204,7 @@ spirit of service towards others.</p>
 <p><strong>Chng Chwee Ying</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="402" width="281" src="https://lh7-us.googleusercontent.com/A2ssR2D09GZQ6D9aXn62rUgsV2GmPAi-9FR1UgTt8LatdTFW9IFoPJ2aDgVjVEjjOVguqy-navp4p6c_n9h0dNSUHfvPGImxY1eCXO5w20gqRvgN0jOvDA2Dk65MLQA6nTMfqh_2KJfKiUezhxGNNIY">
+<img style="width: 50%;" height="402" width="281" src="https://lh7-us.googleusercontent.com/A2ssR2D09GZQ6D9aXn62rUgsV2GmPAi-9FR1UgTt8LatdTFW9IFoPJ2aDgVjVEjjOVguqy-navp4p6c_n9h0dNSUHfvPGImxY1eCXO5w20gqRvgN0jOvDA2Dk65MLQA6nTMfqh_2KJfKiUezhxGNNIY">
 </div>
 <p>Serving in NJC for many years has been filled with numerous rewarding
 experiences and meaningful connections. It is always gratifying to witness
@@ -4220,7 +4221,7 @@ contributions to society.</p>
 <br><strong>Ling Hwee Cheng</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="530" width="361" src="https://lh7-us.googleusercontent.com/L4736mXdPxTqIiwkVH2Gi6FXAH8FbSO20IesV_SWjo2cTnr9O7N6ku1RAZZ9ZH4wM0fzqlmmFVhum4koGduVVc0GytfpPBm50oabIG49NW-WGzpL9Wt8XyVvBbY585P9DpVfKxfCWLm8Pz_dt3cIsmo">
+<img style="width: 50%;" height="530" width="361" src="https://lh7-us.googleusercontent.com/L4736mXdPxTqIiwkVH2Gi6FXAH8FbSO20IesV_SWjo2cTnr9O7N6ku1RAZZ9ZH4wM0fzqlmmFVhum4koGduVVc0GytfpPBm50oabIG49NW-WGzpL9Wt8XyVvBbY585P9DpVfKxfCWLm8Pz_dt3cIsmo">
 </div>
 <p>Experiencing the transition from a two-year JC to both a four-year and
 then six-year IP program has provided me with a wealth of unforgettable
@@ -4241,7 +4242,7 @@ positively to their communities and society as a whole.</p>
 <br><strong>Teo Tze Wei</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="473" width="315" src="https://lh7-us.googleusercontent.com/3ZC9aFpnDUMzUb6QtCn238_INUjMtLzYeSQuf4P4KsDhh4SOuTVNiBOKh0rk_kp86c-Y3PSc6P4a_DJ6haeQZFdmXpxTba1qS0mC9F7GUeyo_0HZBoeHFYHBbTNcgLnE6WWb1gW8VynOXuwN1cKW3hk">
+<img style="width: 50%;" height="473" width="315" src="https://lh7-us.googleusercontent.com/3ZC9aFpnDUMzUb6QtCn238_INUjMtLzYeSQuf4P4KsDhh4SOuTVNiBOKh0rk_kp86c-Y3PSc6P4a_DJ6haeQZFdmXpxTba1qS0mC9F7GUeyo_0HZBoeHFYHBbTNcgLnE6WWb1gW8VynOXuwN1cKW3hk">
 </div>
 <p>Years ago, I told former Principal Mrs Virginia Cheng that serving in
 NJC is like working in a mini MOE. NJC is a place where educators are given
@@ -4264,7 +4265,7 @@ positively to society.</p>
 <p><strong>Lee Shan Shan</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="531" width="332" src="https://lh7-us.googleusercontent.com/-s08lTS90-eKAlkraSHqouLcXz7vqc-gqBUMz7WvG6Ze0ETRr2Ow66cN-Hz0vusz_aJqKTvVZfh-mlhh-5hDh1x8t2Gq8ZsZ8PSDMy21X40x4ht7sUal9THxaVyrW_vXS4oV5LWjvDuxTYAtg9nWJfg">
+<img style="width: 50%;" height="531" width="332" src="https://lh7-us.googleusercontent.com/-s08lTS90-eKAlkraSHqouLcXz7vqc-gqBUMz7WvG6Ze0ETRr2Ow66cN-Hz0vusz_aJqKTvVZfh-mlhh-5hDh1x8t2Gq8ZsZ8PSDMy21X40x4ht7sUal9THxaVyrW_vXS4oV5LWjvDuxTYAtg9nWJfg">
 </div>
 <p>Life at NJC is very busy, with many opportunities for both students and
 staff. It seemed only not so long ago that my students and I spent a crazy
@@ -4275,7 +4276,7 @@ there is always something to try, to make learning better for students.&nbsp;</p
 <br><strong>M V Rajakumari</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="567" width="458" src="https://lh7-us.googleusercontent.com/kItKKRlPnd887dLeWl8UoPxt75GJsrwGfSl_wsQl9tV5b0RrgpGBSIzNkCg6C8dWK8NGZPwn9yVUe8RuL872Of8MwiDSH40-8UGXqSwN7CGZkq5zkisCaLCATP5SxuwM82irI7jYFJIFk0HMuYpSMj4">
+<img style="width: 50%;" height="567" width="458" src="https://lh7-us.googleusercontent.com/kItKKRlPnd887dLeWl8UoPxt75GJsrwGfSl_wsQl9tV5b0RrgpGBSIzNkCg6C8dWK8NGZPwn9yVUe8RuL872Of8MwiDSH40-8UGXqSwN7CGZkq5zkisCaLCATP5SxuwM82irI7jYFJIFk0HMuYpSMj4">
 </div>
 <p>Working at NJC for 15 years has been incredibly rewarding. It's been a
 fulfilling journey serving in the chemistry lab for so long. Throughout
@@ -4296,7 +4297,7 @@ them.</p>
 <br><strong>Nang Oun</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="427" width="290" src="https://lh7-us.googleusercontent.com/qPjlWCY-4wfVdLwdkrc6hZxfYvgvCRizUKjQhtWp-9K-I8tP60PxtPGwzLWYSMe0M3WTSAs7FhE0hTArSwq-1p5RmoBAJFBDWl_KfUPjRmCOBMkcvbUex5QY9PthCrZRTWFGUatB5FHJrZzkMe6Ecr0">
+<img style="width: 50%;" height="427" width="290" src="https://lh7-us.googleusercontent.com/qPjlWCY-4wfVdLwdkrc6hZxfYvgvCRizUKjQhtWp-9K-I8tP60PxtPGwzLWYSMe0M3WTSAs7FhE0hTArSwq-1p5RmoBAJFBDWl_KfUPjRmCOBMkcvbUex5QY9PthCrZRTWFGUatB5FHJrZzkMe6Ecr0">
 </div>
 <p>Firstly, I am truly honoured that the college has given me the opportunity
 to receive this award for my years of service. Words simply can not express
@@ -4314,7 +4315,7 @@ and give it your best shot in everything that you do.&nbsp;</p>
 <br><strong>Neo Ko Hui</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="605" width="444" src="https://lh7-us.googleusercontent.com/X2vAUGw2no0iQEuO8i9vvVPfGjzyJJ1QaZe9iCTLUlPA1OOKjLJHwJvi5-fzIB4RVYHp6wlLMPQ3_Kda7LQi029sGYfh-syIKFlvVWwFvDiX3t2kXLG3cwk7pbjt0E5Ike8JWn3lsGIsOr50mWUWjnM">
+<img style="width: 50%;" height="605" width="444" src="https://lh7-us.googleusercontent.com/X2vAUGw2no0iQEuO8i9vvVPfGjzyJJ1QaZe9iCTLUlPA1OOKjLJHwJvi5-fzIB4RVYHp6wlLMPQ3_Kda7LQi029sGYfh-syIKFlvVWwFvDiX3t2kXLG3cwk7pbjt0E5Ike8JWn3lsGIsOr50mWUWjnM">
 </div>
 <p>I’ve learned a number of things serving in NJC and am always thankful
 for experiencing various areas of teacher life. Watching the students develop
@@ -4326,7 +4327,7 @@ back to communities and to enrich the lives of those they encounter.</p>
 <p><strong>Ng Kian Tiong</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="636" width="412" src="https://lh7-us.googleusercontent.com/f4D2Tag4JwnEMhcv3WDkZ44geyPW3LrNAqpu_nDKM4KMov8fCdsBpNQA_9iwA-waog1fhjdGI8UlGqHxQOCzFVMacf1zOSyRGv5rh1hwGcBFCvS3WdRi6v1shIGeyOI710VGJAKkYYRAuhB6CAVHWDE">
+<img style="width: 50%;" height="636" width="412" src="https://lh7-us.googleusercontent.com/f4D2Tag4JwnEMhcv3WDkZ44geyPW3LrNAqpu_nDKM4KMov8fCdsBpNQA_9iwA-waog1fhjdGI8UlGqHxQOCzFVMacf1zOSyRGv5rh1hwGcBFCvS3WdRi6v1shIGeyOI710VGJAKkYYRAuhB6CAVHWDE">
 </div>
 <p>I had hoped to enroll at NJC when I was 16, but unfortunately, I didn't
 get in. Therefore, being posted here for contract teaching and subsequently
@@ -4347,7 +4348,7 @@ of its power, but because of its persistence.”
 <p><strong>Senthamil Selvi d/o Jaganathan</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="389" width="341" src="https://lh7-us.googleusercontent.com/VbR97C0xQVM_qxGwgmXCYkiUsDqbM0nGKEbktVbrP1eEqBfx56pTqNWK8eTxIjRfXWa4bujZKIepCacnkREAKArHQu2W4SAl6TGoZ0Nr5ytapK7krJm-CV31k82oL_L8Y1U5d3aYZ7Alp-6RQOA8fUs">
+<img style="width: 50%;" height="389" width="341" src="https://lh7-us.googleusercontent.com/VbR97C0xQVM_qxGwgmXCYkiUsDqbM0nGKEbktVbrP1eEqBfx56pTqNWK8eTxIjRfXWa4bujZKIepCacnkREAKArHQu2W4SAl6TGoZ0Nr5ytapK7krJm-CV31k82oL_L8Y1U5d3aYZ7Alp-6RQOA8fUs">
 </div>
 <p>Over the past 15 years, I've acquired extensive knowledge and cherished
 many fond memories working in the labs. I've also attended numerous courses
@@ -4358,7 +4359,7 @@ to enhance my skills and work more efficiently.</p>
 <br><strong>Yew Shinn How Daniel</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="637" width="459" src="https://lh7-us.googleusercontent.com/60JSGeGDLUh3FRblWhOwbLo9kxT7atFFWRBl9NcQE00XMJDFmaxZyvu2QSjhb4nsN7l5dUkWzppw1iBwbX0Rdo-v9674_XM9k5hFWPt1qbkDukkjo2_P_XqA3m8Mi9O6_DGyTZ4O8DfiAmd2zk8nqxY">
+<img style="width: 50%;" height="637" width="459" src="https://lh7-us.googleusercontent.com/60JSGeGDLUh3FRblWhOwbLo9kxT7atFFWRBl9NcQE00XMJDFmaxZyvu2QSjhb4nsN7l5dUkWzppw1iBwbX0Rdo-v9674_XM9k5hFWPt1qbkDukkjo2_P_XqA3m8Mi9O6_DGyTZ4O8DfiAmd2zk8nqxY">
 </div>
 <p>It has been a privilege and an honour to serve in NJC over the past 15
 years, which seem to have flown by ever so quickly! The fast pace and high-performing
@@ -4378,7 +4379,7 @@ the College with good memories as well as creditable academic credentials.
 <p><strong>Zhang Jianli</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="525" width="356" src="https://lh7-us.googleusercontent.com/RWe80X2yG_cEPPsE1eWRG-JzvjRefUy1l0eG-xcO535qQiUbIY0PwIl9yNhAOjpjh5pIDzs2w3kfsRYUftgX0cR2fHDq42iQtcBaBoCPhgNVTHaGnBO5qtkRuEWnL9TbDzip4bon4dUN-jyPF9eZbSU">
+<img style="width: 50%;" height="525" width="356" src="https://lh7-us.googleusercontent.com/RWe80X2yG_cEPPsE1eWRG-JzvjRefUy1l0eG-xcO535qQiUbIY0PwIl9yNhAOjpjh5pIDzs2w3kfsRYUftgX0cR2fHDq42iQtcBaBoCPhgNVTHaGnBO5qtkRuEWnL9TbDzip4bon4dUN-jyPF9eZbSU">
 </div>
 <p>Fifteen years ago, upon completing my teacher training at NIE, I joined
 NJC and was instantly charmed by the school’s lively students, supportive
@@ -4398,7 +4399,7 @@ hearts as they forge ahead to live up to their potential.</p>
 <p><strong>Er Yinghui Junice</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="378" width="313" src="https://lh7-us.googleusercontent.com/0hCvic3C9CAi5uPbRZExpoOWqxc6pii7fT6mJZj46AMQCj3e94j5yzvNEFimQgQFUJF_5gKiiGMnRSCrntAafnkBwc7qz-d73gYp8MCWZb87i2XQw1MVvpfHXAJZDaf9XWwHQ2_s44u91Ai5yMFdEvM">
+<img style="width: 50%;" height="378" width="313" src="https://lh7-us.googleusercontent.com/0hCvic3C9CAi5uPbRZExpoOWqxc6pii7fT6mJZj46AMQCj3e94j5yzvNEFimQgQFUJF_5gKiiGMnRSCrntAafnkBwc7qz-d73gYp8MCWZb87i2XQw1MVvpfHXAJZDaf9XWwHQ2_s44u91Ai5yMFdEvM">
 </div>
 <p>As cliché as it sounds, it is truly in a blink of an eye that 10 years
 have gone by! What I love about teaching is that there are no two days
@@ -4415,7 +4416,7 @@ with honour!&nbsp;&nbsp;&nbsp;&nbsp;
 <p><strong>Hue Hoe Ping</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="514" width="342" src="https://lh7-us.googleusercontent.com/lXVoUGEKmiTiYHv-3Vk4MPFlOx-Gjz8xDI785OwDkegQ5wDfwRAvDTwGhlzywFdnZoB4rDjQ8WjX8lbWADr8NGUBOJrTHQOfnLP9j7aeEFBJPvJ-Ue_jdZXX_moJREe3_m5z_gKyO6xE4jcPfG0vR6E">
+<img style="width: 50%;" height="514" width="342" src="https://lh7-us.googleusercontent.com/lXVoUGEKmiTiYHv-3Vk4MPFlOx-Gjz8xDI785OwDkegQ5wDfwRAvDTwGhlzywFdnZoB4rDjQ8WjX8lbWADr8NGUBOJrTHQOfnLP9j7aeEFBJPvJ-Ue_jdZXX_moJREe3_m5z_gKyO6xE4jcPfG0vR6E">
 </div>
 <p>Spending 10 years with the same organisation may seem like a long time,
 but I value the stability of being in an environment that supports growth.
@@ -4435,7 +4436,7 @@ uphold.</p>
 <p><strong>Oh Wei Ting</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="644" width="412" src="https://lh7-us.googleusercontent.com/hLrgHQ4LO99kYj5JbmBkIwjlZwxlHBpeoJasX7LkGuMAviQDR4vZILr3w03aiJLtQlxuq-VBLlFT6YhTr6qma8_RB8_jl3FgHgs_e_i-1i6OkaY0YemYVrSqT5vRjeTuUWSv-6MN3jLafKYXWyhG6G0">
+<img style="width: 50%;" height="644" width="412" src="https://lh7-us.googleusercontent.com/hLrgHQ4LO99kYj5JbmBkIwjlZwxlHBpeoJasX7LkGuMAviQDR4vZILr3w03aiJLtQlxuq-VBLlFT6YhTr6qma8_RB8_jl3FgHgs_e_i-1i6OkaY0YemYVrSqT5vRjeTuUWSv-6MN3jLafKYXWyhG6G0">
 </div>
 <p>Serving in NJC for so many years has been a profound blessing, fostering
 growth amidst a supportive environment with nurturing colleagues. It's
@@ -4453,7 +4454,7 @@ and compassion.</p>
 <p><strong>Yap Teck Sheng Terence</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="margin-left:0px;margin-top:0px;" height="500" width="359" src="https://lh7-us.googleusercontent.com/js9aW5Ep8iZego03Fed-1_LuRjwpKguU5Jz_gIV67BNYfxAuZ23GUkAUsq0hQXgEA6hLQUJQ7EUZU_2ytkl2o7izhI9DKjyCBZ752cbz2R9vrAXZ-rPo1lcPjey6NAeTwVUdxCnwCMeW_Rs57_Fcl4Y">
+<img style="width: 50%;" height="500" width="359" src="https://lh7-us.googleusercontent.com/js9aW5Ep8iZego03Fed-1_LuRjwpKguU5Jz_gIV67BNYfxAuZ23GUkAUsq0hQXgEA6hLQUJQ7EUZU_2ytkl2o7izhI9DKjyCBZ752cbz2R9vrAXZ-rPo1lcPjey6NAeTwVUdxCnwCMeW_Rs57_Fcl4Y">
 </div>
 <p>I am grateful for the opportunity to serve in NJC. Teaching on the SH
 side has allowed me to work with many students who are young adults, and
