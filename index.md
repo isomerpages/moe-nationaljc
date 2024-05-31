@@ -42,9 +42,8 @@ sections:
   - infopic:
       title: "Funtasia: 11 May 2024"
       id: infopic
-      description: Funtasia is back! Join us for a fun-filled day with our NJC and
-        Eden family! All proceeds will go to the Eden Centre for Adults. Let’s
-        do good while having fun!
+      description: Our College celebrated its 55th anniversary on 11 May with the
+        College Day Awards Ceremony and NJCxEden Funtasia.
       alt: Image alt text
       url: /resources/events/funtasia/
       image: /images/Funtasia2024/NJ_Website_new.png
