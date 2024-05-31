@@ -115,7 +115,7 @@ variant: tiptap
 <p>Ms Nurul Farhana binte Abdul Rauff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TA</p>
+<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
@@ -123,7 +123,7 @@ variant: tiptap
 <p>Mr Yong Jih Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TA</p>
+<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,7 @@ variant: tiptap
 <p>Mr Muhammad Shah Rezal Bin Jamaludin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT</p>
+<p>ICT Associate</p>
 </td>
 </tr>
 <tr>
