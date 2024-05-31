@@ -9,7 +9,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos 2024/EAS_Large_.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -42,11 +46,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Choong Cher Siong, <strong>OM/College</strong>
+<p>Mr K Rathakrushnan, <strong>OM/College</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choong_cher_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choong_cher_siong@moe.edu.sg</a>
+<p><a href="mailto:choong_cher_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">k_rathakrushnan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -111,7 +115,7 @@ variant: tiptap
 <p>Ms Nurul Farhana binte Abdul Rauff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TA</p>
+<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +123,7 @@ variant: tiptap
 <p>Mr Yong Jih Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TA</p>
+<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
@@ -127,7 +131,7 @@ variant: tiptap
 <p>Mr Muhammad Shah Rezal Bin Jamaludin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT</p>
+<p>ICT Associate</p>
 </td>
 </tr>
 <tr>
@@ -236,14 +240,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Senthamil Selvi d/o Jaganathan&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Noorma Juweta Binte Abdul Murad&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -269,22 +265,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Kah Sing&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Seh Khoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chia Chye Tee&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
