@@ -8,12 +8,18 @@ variant: markdown
 
 <b style="color:blue;font-size:30px"> MIMS Self Service Password Reset </b>
 
+<div align="center"><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">MIMS Self Service Password Reset</a></div>
+
+
+<img alt="sspr1" src="/images/Useful%20Links/For%20Students/mimssspr1.png">
+<img src="/images/Useful%20Links/For%20Students/mimssspr2.png">
+
+
 <p><a href="/files/MIMS_Self_Service_Password_Reset_Service.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal Self-Service Password Reset Guide</a></p>
 
-1.  **MIMS Self Service Password Reset**:  
-    (You&nbsp;**MUST**&nbsp;have setup 3 Security Questions before, follow these steps to do so:  
-    **Sign In MIMS Portal &gt; MIMS SSPR &gt; Setup Security Questions**)
-
+<b>MIMS Self Service Password Reset:</b>  
+    (You&nbsp;**must**&nbsp;have set up 3 Security Questions)
+	
 *   Click&nbsp;**Forgot your Password**.
 *   Key in your MIMS Login ID.&nbsp;Click&nbsp;**Search**.
 *   You will be prompted to answer the&nbsp;challenge questions you set during registration.
