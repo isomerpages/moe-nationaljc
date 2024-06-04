@@ -8,8 +8,7 @@ variant: markdown
 
 <b style="color:blue;font-size:30px"> MIMS Self Service Password Reset </b>
 
-<div align="center"><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">MIMS Self Service Password Reset</a></div>
-
+<div align="center"><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">MIMS Self Service Password Reset</a></div><br>
 
 <img alt="sspr1" src="/images/Useful%20Links/For%20Students/mimssspr1.png">
 <img src="/images/Useful%20Links/For%20Students/mimssspr2.png">
