@@ -6,9 +6,7 @@ variant: markdown
 ---
 <b style="font-size:50px"> For Students </b>
 
-<b style="color:blue;font-size:30px"> MIMS Self Service Password Reset </b>
-
-<div align="center"><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">MIMS Self Service Password Reset</a></div>
+<div style="color:blue;font-size:30px" align="center"><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">MIMS Self Service Password Reset</a></div>
 
 <img alt="sspr1" src="/images/Useful%20Links/For%20Students/mimssspr1.png"><br>
 <img src="/images/Useful%20Links/For%20Students/mimssspr2.png">
