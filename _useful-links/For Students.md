@@ -37,11 +37,11 @@ variant: markdown
 
 <b style="color:blue;font-size:30px"> PLD iPad Troubleshooting </b>
 
-**Missing Apps:**  
+<b>Missing Apps:</b><br>
 In Mobile Guardian App &gt; press profile icon on the top left &gt; press "My Catalogue" &gt; press install button on the required Apps.
 
-**Stuck in Mobile Guardian App:**  
+<b>Stuck in Mobile Guardian App:</b><br>
 Head to Bytz. 15-20 mins estimated waiting time to resolve this issue.
 
-**Stuck in Sleep Hours Profile:**     
+<b>Stuck in Sleep Hours Profile:</b><br>
 In Mobile Guardian App &gt; press the profile icon on the top left &gt; click the sync button &gt; wait and give it some time for it to sync with the servers.
