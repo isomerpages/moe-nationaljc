@@ -4,8 +4,6 @@ permalink: /useful-links/for-students/
 description: ""
 variant: markdown
 ---
-<b style="font-size:50px"> For Students </b>
-
 <div style="color:blue;font-size:30px"><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">MIMS Self Service Password Reset</a></div>
 
 <img alt="sspr1" src="/images/Useful%20Links/For%20Students/mimssspr1.png"><br>
