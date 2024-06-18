@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall | 29 March 2024 | Rice or noodle stalls are acceptable.|
+| Malay Food Stall | 30 September 2024 | Rice or noodle stalls are acceptable.|
 
 **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.

@@ -4,21 +4,10 @@ permalink: /useful-links/for-students/
 description: ""
 variant: markdown
 ---
-<b style="font-size:50px"> For Students </b>
+<div style="color:blue;font-size:30px" align="center"><a href="https://mims.moe.gov.sg/sspr" rel="noopener noreferrer nofollow" target="_blank">MIMS Self Service Password Reset</a></div>
 
-<b style="color:blue;font-size:30px"> MIMS Self Service Password Reset </b>
-
-<p><a href="/files/MIMS_Self_Service_Password_Reset_Service.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal Self-Service Password Reset Guide</a></p>
-
-1.  **MIMS Self Service Password Reset**:  
-    (You&nbsp;**MUST**&nbsp;have setup 3 Security Questions before, follow these steps to do so:  
-    **Sign In MIMS Portal &gt; MIMS SSPR &gt; Setup Security Questions**)
-
-*   Click&nbsp;**Forgot your Password**.
-*   Key in your MIMS Login ID.&nbsp;Click&nbsp;**Search**.
-*   You will be prompted to answer the&nbsp;challenge questions you set during registration.
-*   Enter new password twice.&nbsp;Click&nbsp;**Submit**.
-*   Your password has been reset.
+<img alt="sspr1" src="/images/Useful%20Links/For%20Students/mimssspr1.png"><br>
+<img src="/images/Useful%20Links/For%20Students/mimssspr2.png">
 
 <b style="color:blue;font-size:30px"> Links </b>
 
@@ -32,11 +21,11 @@ variant: markdown
 
 <b style="color:blue;font-size:30px"> PLD iPad Troubleshooting </b>
 
-**Missing Apps:**  
+<b>Missing Apps:</b><br>
 In Mobile Guardian App &gt; press profile icon on the top left &gt; press "My Catalogue" &gt; press install button on the required Apps.
 
-**Stuck in Mobile Guardian App:**  
+<b>Stuck in Mobile Guardian App:</b><br>
 Head to Bytz. 15-20 mins estimated waiting time to resolve this issue.
 
-**Stuck in Sleep Hours Profile:**     
+<b>Stuck in Sleep Hours Profile:</b><br>
 In Mobile Guardian App &gt; press the profile icon on the top left &gt; click the sync button &gt; wait and give it some time for it to sync with the servers.
