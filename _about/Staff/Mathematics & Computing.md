@@ -10,7 +10,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos 2024/Maths__Large_.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -79,6 +83,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chung_yeong_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chung_yeong_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Liew Yew Tze, <strong>SH/Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liew_yew_tze@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_yew_tze@moe.edu.sg</a>
 </p>
 </td>
 </tr>
