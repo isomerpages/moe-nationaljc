@@ -10,7 +10,7 @@ variant: markdown
 
 **What is the JAE?**
 
-The Joint Admissions Exercise (JAE) is an annual exercise conducted by the Ministry of Education (MOE). It allows holders of the Singapore-Cambridge GCE ‘O’ Level results to apply for admission to courses offered in the Junior Colleges (JC), Centralised Institute (CI), Polytechnics (Poly) and Institute of Technical Education (ITE). The JAE usually takes place in January, after students receive their GCE ‘O’ level examinations results. JAE application is done through the Internet. Students admitted to our College under this exercise will secure a place in our JC1 cohort.
+The Joint Admissions Exercise (JAE) is an annual exercise conducted by the Ministry of Education (MOE). It allows holders of the Singapore-Cambridge GCE ‘O’ Level results to apply for admission to courses offered in the Junior Colleges (JC), Millennia Institute (MI), Polytechnics (Poly) and Institute of Technical Education (ITE). The JAE usually takes place in January, after students receive their GCE ‘O’ level examinations results. JAE application is done through the Internet. Students admitted to our College under this exercise will secure a place in our JC1 cohort.
 
 For more information on JAE, please refer to the [MOE JAE Website](https://www.moe.gov.sg/post-secondary/admissions/jae).
 
