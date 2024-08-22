@@ -20,13 +20,20 @@ sections:
       background: /images/Images for Banner/HomeBanner2.gif
       url: njc@moe.edu.sg
   - infopic:
+      title: Moot Parliament Programme 2024
+      id: infopic
+      description: Two teams from National Junior College were selected to participate
+        in the Moot Parliament Programme 2024.
+      button: read more here
+      url: /moot-parliament-programme-2024/
+      image: /images/Moot 2024/2024_MPP_Photo.jpg
+      alt: MOOT 2024
+  - infopic:
       title: Invitation to 2024 NJC IP Open House
       id: infopic
-      description: >-
-        Hello everyone!
-
-        We would like to invite P6 students and their parents to visit NJC on 18
-        May (Saturday), from 9am-2pm for our NJC IP Open House!
+      description: Hello everyone! We would like to invite P6 students and their
+        parents to visit NJC on 18 May (Saturday), from 9am-2pm for our NJC IP
+        Open House!
       image: /images/Funtasia2024/1_1__with_Socials_.png
       button: read more here
       url: /ip-open-house-2024/
