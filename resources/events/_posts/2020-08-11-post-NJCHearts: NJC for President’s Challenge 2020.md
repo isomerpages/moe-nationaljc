@@ -4,6 +4,7 @@ permalink: /resources/events/NJCHearts-NJC-for-Presidents-challenge-2020/
 date: 2020-08-11
 layout: post
 description: ""
+variant: markdown
 ---
 #### NJCHearts: NJC for President’s Challenge 2020
 
@@ -23,6 +24,6 @@ Facebook: [https://www.facebook.com/events/2745473695729553](https://www.facebo
 
 Instagram: [https://www.instagram.com/nationaljc/?hl=en](https://www.instagram.com/nationaljc/?hl=en)
 
-Please go to this webpage to donate: [https://www.giving.sg/campaigns/njchearts\_pc\_2020](https://www.giving.sg/campaigns/njchearts_pc_2020)
+The website for donation has closed. We thank you for your generous support for this event.
 
 #servicewithhonour #passionwithpurpose #njcheartspresidentschallenge
