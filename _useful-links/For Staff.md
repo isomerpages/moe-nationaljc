@@ -8,11 +8,7 @@ variant: markdown
 
 <b style="color:blue;font-size:30px"> Links </b>
 
-[MOE Intranet](https://intranet.moe.gov.sg/)
-
 [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/app/login)
-
-[Outlook Website Application ( OWA )](https://schools.gov.sg/)
 
 [School Cockpit](https://schoolcockpit.moe.gov.sg/)
 
