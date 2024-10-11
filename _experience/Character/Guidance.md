@@ -3,6 +3,7 @@ title: Guidance
 permalink: /experience/Character/guidance/
 description: ""
 third_nav_title: Character
+variant: markdown
 ---
 ### Guidance
 
@@ -16,7 +17,7 @@ The NJC Partnerships and Education and Career Guidance (ECG) Team provides our s
 
 Some resources and avenues of support NJCians can consider include:
 
-\-The MySkillsFuture portal [https://www.myskillsfuture.sg/content/student/en/secondary/about/myskillsfuture-for-students.html](https://www.myskillsfuture.sg/content/student/en/secondary/about/myskillsfuture-for-students.html)
+\-The MySkillsFuture portal
 
 \-ECG Counsellor
 
