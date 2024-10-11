@@ -4,6 +4,7 @@ permalink: /resources/news/njc-class-of-2019-a-level-results-collection/
 date: 2020-02-13
 layout: post
 description: ""
+variant: markdown
 ---
 #### NJC Class of 2019 – A-Level Results Collection
 
@@ -26,13 +27,13 @@ The release of the 2019 GCE A-Level examination results will take place on 21 Fe
 
 **Digital Certificate for Application to Local Autonomous Universities**
 
-9.  Starting from this year, all A-Level candidates, who are Singapore Citizens and Singapore Permanent Residents, will receive digital certificates in OpenCerts format. These certificates will be available on MySkillsFuture’s Skills Passport at [https://www.myskillsfuture.sg/content/portal/en/individual/skills-passport.html](https://www.myskillsfuture.sg/content/portal/en/individual/skills-passport.html) from 24 February 2020. If you have SingPass, you can access and submit your digital certificates electronically to the Universities that you are applying to.
+9.  Starting from this year, all A-Level candidates, who are Singapore Citizens and Singapore Permanent Residents, will receive digital certificates in OpenCerts format.
 10.  For international students, you may send your request for a digital certificate via email to [seab\_gce\_admin@seab.gov.sg](mailto:seab_gce_admin@seab.gov.sg).
 11.  Applications for admissions and/or scholarships to the local Autonomous Universities (AUs) can be done online. All school candidates who apply to the local AUs online do not need to submit a copy of their A-Level certificates. Due to the Covid-2019 situation, the local AUs will also make alternative arrangements for any assessment for admissions if applicants cannot be physically present.
 
 **Education and Career Guidance (ECG)**
 
-12.  Students who need guidance on their education options can approach their teachers or the ECG Counsellor. You may wish to schedule an appointment with our ECG Counsellor, Ms Looi Yuin Yi, via [http://rebrand.ly/ECGchat](http://rebrand.ly/ECGchat) or contact her at [looi\_yuin\_yi@schools.gov.sg](mailto:looi_yuin_yi@schools.gov.sg).
+12.  Students who need guidance on their education options can approach their teachers or the ECG Counsellor. You may wish to schedule an appointment with our ECG Counsellor, Ms Looi Yuin Yi, by emailing her at [looi\_yuin\_yi@schools.gov.sg](mailto:looi_yuin_yi@schools.gov.sg).
 13.  Students can also refer to the interactive [MySkillsFuture](https://www.myskillsfuture.sg/content/student/en/secondary.html) portal at [https://go.gov.sg/mysfpreu](https://go.gov.sg/mysfpreu) to find out more about the education options, career pathways and courses that are suited to their strengths, interests and abilities.
 14.  Alternatively, students can contact the MOE ECG Centre @ Grange Road from 14 to 28 February 2020 for ECG counselling via email: [MOE\_ECG@moe.gov.sg](mailto:MOE_ECG@moe.gov.sg) or phone: 6831 1420.
 
@@ -62,7 +63,7 @@ University application and admission matters
 
 Please contact the university directly.
 
-16.  If you have any further questions, please contact us at [alevelresults@njcgclassroom.com](mailto:alevelresults@njcgclassroom.com) or 6466 1144.
+16.  If you have any further questions, please contact at 6466 1144.
 17.  We wish you all the best in your future endeavours.
 
 [\[1\]](https://nationaljc.moe.edu.sg/news-listing/page/3/#_ftnref1) Candidates can visit the SingPass website at [www.singpass.gov.sg](http://www.singpass.gov.sg/) to find out if they are eligible for SingPass and to activate their SingPass Two-Factor Authentication if they have not done so.
