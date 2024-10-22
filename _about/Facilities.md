@@ -158,36 +158,29 @@ lounge is equipped with a pool table and a foosball table.</p>
 <p><strong>Field</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:280px;height:180px;margin-right:15px;" height="auto" width="100%" src="/images/fac17.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Field_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Field_2.jpg">
 </div>
 <p>The NJC synthetic field is available to all students and staff for recreational
 or CCA activities such as soccer, frisbee, softball, or touch rugby.
 <br>
-<br>
-</p>
-<p><strong>Weights Room</strong>
+<br><strong>Weights Room</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:280px;height:180px;margin-right:15px;" height="auto" width="100%" src="/images/fac18.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Weights_Room.jpg">
 </div>
 <p>A fully air conditioned gym with weights training machines, treadmills
 and sound system.
 <br>
-<br>
-<br>
-<br>
-<br>
-</p>
-<p><strong>Tennis Courts</strong>
+<br><strong>Tennis Courts</strong>
 </p>
 <p>We have 3 tennis courts available for booking for recreational or CCA
 purposes.
 <br>
-<br>
-<br>
-<br>
-</p>
-<p><strong>Indoor Sports Hall</strong>
+<br><strong>Indoor Sports Hall</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:180px;height:250px;margin-right:15px;" height="auto" width="100%" src="/images/fac20.png">
