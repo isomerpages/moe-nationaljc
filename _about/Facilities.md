@@ -112,16 +112,7 @@ Townhall sessions are conducted at this very place too!</p>
 that proudly features a fountain and a pond teeming with fishes. Stone
 tables and chairs offer an ideal location for students to unwind and relax.
 <br>
-<br><strong>Canteen</strong>
-</p>
-<p>Located above the Sports Complex, the college canteen boasts of twelve
-stalls offering a wide variety of food like chicken rice, curry mixed vegetable
-rice, roti prata, laksa, shrimp dumpling noodles, yong tau fu, spaghetti,
-fish and chips, sandwiches, ice kachang, to name a few. A small stage area
-with a piano offers an avenue for students to showcase their musical talent
-to the lunch time crowd.</p>
-<p></p>
-<p><strong>Library</strong>
+<br><strong>Library</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Library.jpg">
@@ -208,3 +199,12 @@ scoreboard.</p>
 </p>
 <p>A fully air conditioned multi-purpose venue which can be used for any
 type of function or event such as table tennis and examinations.</p>
+<p></p>
+<p><strong>Canteen</strong>
+</p>
+<p>Located above the Sports Complex, the college canteen boasts of twelve
+stalls offering a wide variety of food like chicken rice, curry mixed vegetable
+rice, roti prata, laksa, shrimp dumpling noodles, yong tau fu, spaghetti,
+fish and chips, sandwiches, ice kachang, to name a few. A small stage area
+with a piano offers an avenue for students to showcase their musical talent
+to the lunch time crowd.</p>
