@@ -183,23 +183,28 @@ purposes.
 <br><strong>Indoor Sports Hall</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:180px;height:250px;margin-right:15px;" height="auto" width="100%" src="/images/fac20.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Indoor_Sports_Hall.jpg">
+</div>
+<p><strong>Basketball Court</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Basket_Ball_Court.jpg">
 </div>
 <p>The Indoor Sports Hall (ISH) was progressively phased in as part National
 Junior College’s vision to provide a holistic, well-rounded education to
 all students in 2012. With greater flexibility to schedule Physical Education
-(PE) lessons without having to worry about the weather, and give more students
-the opportunity to participate in sports and games, the ISH can accommodate
+(PE) lessons wThe Indoor Sports Hall (ISH) was progressively phased in
+as part National Junior College’s vision to provide a holistic, well-rounded
+education to all students in 2012. With greater flexibility give more students
+the opportunity to participate in sports and games, the ISH accommodates
 a basketball court superimposed with four badminton courts, a volleyball
 court and a netball court. In addition, it has an extension of about 30%
 increase in court space as compared to a standardized sports hall which
-allows for cohort based briefing and activities as an alternative to the
+allows for cohort-based briefing and activities as an alternative to the
 existing Hall and lecture facilities in the college. Our distinguished
-alumnus donated a 3 by 2 meter state of the art mounted electronic scoreboard.</p>
+alumni have also donated a 3 by 2-meter state of the art mounted electronic
+scoreboard.</p>
 <p><strong>Indoor Gymnasium</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:280px;height:180px;margin-right:15px;" height="auto" width="100%" src="/images/fac21.png">
-</div>
 <p>A fully air conditioned multi-purpose venue which can be used for any
 type of function or event such as table tennis and examinations.</p>
