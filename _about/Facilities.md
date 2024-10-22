@@ -10,7 +10,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Aesthetics_Block.jpg">
 </div>
-<p><strong>Dance Studio </strong>
+<p><strong>Dance Studio</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Dance_Studio.jpg">
@@ -82,9 +82,6 @@ LT3 and LT4). All lecture theatres are fully equipped.</p>
 <p></p>
 <p><strong>College Hall</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:280px;height:180px;margin-right:15px;" height="auto" width="100%" src="/images/fac7.png">
-</div>
 <p>The fully air-conditioned multi-purpose hall can be used for any type
 of function or event. The size of four badminton courts, the hall is fr</p>
 <p></p>
@@ -115,10 +112,7 @@ Townhall sessions are conducted at this very place too!</p>
 that proudly features a fountain and a pond teeming with fishes. Stone
 tables and chairs offer an ideal location for students to unwind and relax.
 <br>
-<br>
-<br>
-</p>
-<p><strong>Canteen</strong>
+<br><strong>Canteen</strong>
 </p>
 <p>Located above the Sports Complex, the college canteen boasts of twelve
 stalls offering a wide variety of food like chicken rice, curry mixed vegetable
@@ -126,10 +120,11 @@ rice, roti prata, laksa, shrimp dumpling noodles, yong tau fu, spaghetti,
 fish and chips, sandwiches, ice kachang, to name a few. A small stage area
 with a piano offers an avenue for students to showcase their musical talent
 to the lunch time crowd.</p>
+<p></p>
 <p><strong>Library</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:280px;height:180px;margin-right:15px;" height="auto" width="100%" src="/images/fac12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Library.jpg">
 </div>
 <p>The library has a seating capacity of about three hundred students. It
 has a wide range of books and titles that are updated regularly. Within
@@ -143,40 +138,23 @@ be borrowed from the library counter.</p>
 </p>
 <p><strong>BYTZ</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:280px;height:180px;margin-right:15px;" height="auto" width="100%" src="/images/fac13.png">
-</div>
 <p>This is a state-of-the-art IT Resource Room with more than 30 Pentium
 IV workstations for students to carry out IT research projects. In one
 corner of the Bytes, there is a rest area for students to relax after a
 day of lectures and tutorials.</p>
 <p><strong>I&amp;E Hub</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:280px;height:180px;margin-right:15px;" height="auto" width="100%" src="/images/fac14.png">
-</div>
 <p>Setup in collaboration with EDB, this room offers resources on Innovation
 and Enterprise including games, books and magazines. The room is ideal
 for projects and team discussions. Ideas Generation workshops are available
 on request. Find out more about our I&amp;E programme.</p>
 <p><strong>Student Lounge</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:280px;height:180px;margin-right:15px;" height="auto" width="100%" src="/images/fac15.png">
-</div>
 <p>Accessible to all students during college hours, this fully air-conditioned
 students’ lounge is the place for students to unwind and recharge. Board
 games may be borrowed from Student Councillors on duty. In addition, the
 lounge is equipped with a pool table and a foosball table.</p>
-<p><strong>PE/CCA Block</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:280px;height:180px;margin-right:15px;" height="auto" width="100%" src="/images/fac16.png">
-</div>
-<p>Students can borrow sports items from the PE teachers who are all stationed
-at the PE block. Most of the fitness equipment and the nearby weight rooms
-are available to all students and staff. Sports CCAs take personal care
-of their own store in this vicinity.</p>
+<p></p>
 <p><strong>Field</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -200,11 +178,8 @@ and sound system.
 <br>
 <br>
 </p>
-<p><strong>Tennis Court</strong>
+<p><strong>Tennis Courts</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:280px;height:180px;margin-right:15px;" height="auto" width="100%" src="/images/fac19.png">
-</div>
 <p>We have 3 tennis courts available for booking for recreational or CCA
 purposes.
 <br>
