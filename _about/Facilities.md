@@ -5,26 +5,87 @@ description: ""
 variant: tiptap
 ---
 <h3>Facilities</h3>
+<p><strong>Atrium</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Atrium.jpg">
+</div>
+<p>A dome shaped space welcomes our students, staff, parents and the public
+to the college with our Exuberance sculpture designed by our Alumni. Our
+four paired values are prominently displayed in the atrium, constantly
+reminding us the importance of these NJCian values.</p>
+<p><strong>Plaza</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Plaza.jpg">
+</div>
+<p>Located in the heart of the NJC campus is a beautiful landscaped garden
+that proudly features a fountain and a pond teeming with fishes. Stone
+tables and chairs offer an ideal location for students to unwind and relax.</p>
+<p><strong>Lecture Theatres</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/LT_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/LT_2.jpg">
+</div>
+<p>We have two large 500-seater lecture theatres (LT1 and LT5) with stage
+facilities. In addition, there are three smaller lecture theatres (LT2,
+LT3 and LT4). All lecture theatres are fully equipped.</p>
+<p><strong>College Hall</strong>
+</p>
+<p>The fully air-conditioned multi-purpose hall can be used for any type
+of function or event. The size of four badminton courts, the hall is fr</p>
+<p><strong>Sanctuary</strong>
+</p>
+<p>This is an air-conditioned discussion area, equipped with cafe-styled
+tables and chairs that is suitable for staff meetings, discussions and
+training.
+<br>
+<br><strong>Library</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Library.jpg">
+</div>
+<p>The library has a seating capacity of about three hundred students. It
+has a wide range of books and titles that are updated regularly. Within
+the library, there are three special discussion rooms for students to have
+group meetings and discussions. In another corner is the instructions room
+for conducting learning workshops. Laptops and digital video cameras may
+be borrowed from the library counter.</p>
+<p><a href="https://schoolibrary.moe.edu.sg/nationaljc/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">Online Public Access Catalogue</a>
+</p>
+<p><a href="https://schoolibrary.moe.edu.sg/eresourcesjc/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School eResource Repository (SERR)</a>
+</p>
+<p><strong>BYTZ</strong>
+</p>
+<p>This is a state-of-the-art IT Resource Room with more than 30 Pentium
+IV workstations for students to carry out IT research projects. In one
+corner of the Bytes, there is a rest area for students to relax after a
+day of lectures and tutorials.</p>
+<p><strong>Student Lounge</strong>
+</p>
+<p>Accessible to all students during college hours, this fully air-conditioned
+students’ lounge is the place for students to unwind and recharge. Board
+games may be borrowed from Student Councillors on duty. In addition, the
+lounge is equipped with a pool table and a foosball table.</p>
+<p></p>
 <p><strong>Aesthetics Block</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Aesthetics_Block.jpg">
 </div>
-<p><strong>Dance Studio</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Dance_Studio.jpg">
 </div>
-<p>With 12 performing arts CCAs, the need to find dedicated spaces for students
-to express themselves freely becomes more pressing as each performing arts
-groups expanded into the junior high wing. The new aesthetics block adds
-on to the current number of rooms specialised for the arts, with an additional
-3 full mirror-walled dance studios, 3 classrooms for classroom teaching,
-4 sound proof music rooms, proper storerooms for the instrumental groups
-and the 4 different dance groups, a foyer that welcomes visitors or opens
-to be a convenient space to practice dance moves or even instrumental parts
-and a large open roof top that is easily available for students to use
-for any purpose. NJC is also one of the few schools in Singapore that has
+<p>The aesthetics block boasts 3 full mirror-walled dance studios, 3 classrooms
+for classroom teaching, 4 sound proof music rooms, storerooms for the instrumental
+groups and NJC's 4 dance groups, and a large open roof top space for students
+to use for any purpose, providing spaces for students in our performing
+arts CCAs and the music programme the few schools in Singapore that has
 its own black box theatre.</p>
 <p>
 <br><strong>Art Block</strong>
@@ -67,84 +128,6 @@ centre is the platform for collaboration with Institutes of Higher Learning
 and Research Institutes &amp; Centres. In addition, it is ideal for sharing
 among teachers and peer mentoring among students.</p>
 <p></p>
-<p><strong>Lecture Theatres</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/LT_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/LT_2.jpg">
-</div>
-<p>We have two large 500-seater lecture theatres (LT1 and LT5) with stage
-facilities. In addition, there are three smaller lecture theatres (LT2,
-LT3 and LT4). All lecture theatres are fully equipped.</p>
-<p></p>
-<p><strong>College Hall</strong>
-</p>
-<p>The fully air-conditioned multi-purpose hall can be used for any type
-of function or event. The size of four badminton courts, the hall is fr</p>
-<p></p>
-<p><strong>Sanctuary</strong>
-</p>
-<p>This is an air-conditioned discussion area, equipped with cafe-styled
-tables and chairs that is suitable for staff meetings, discussions and
-training.
-<br>
-<br><strong>Atrium</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Atrium.jpg">
-</div>
-<p>A dome shaped space welcomes our students, staff, parents and the public
-to the college with our Exuberance sculpture designed by our Alumni. Our
-four paired values are prominently displayed in the atrium, constantly
-reminding us the importance of these NJCian values. In this space, it houses
-the large TV panel where student videos and announcements are displayed.
-Townhall sessions are conducted at this very place too!</p>
-<p></p>
-<p><strong>Plaza</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Plaza.jpg">
-</div>
-<p>Located in the heart of the NJC campus is a beautiful landscaped garden
-that proudly features a fountain and a pond teeming with fishes. Stone
-tables and chairs offer an ideal location for students to unwind and relax.
-<br>
-<br><strong>Library</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Facilities/Library.jpg">
-</div>
-<p>The library has a seating capacity of about three hundred students. It
-has a wide range of books and titles that are updated regularly. Within
-the library, there are three special discussion rooms for students to have
-group meetings and discussions. In another corner is the instructions room
-for conducting learning workshops. Laptops and digital video cameras may
-be borrowed from the library counter.</p>
-<p><a href="https://schoolibrary.moe.edu.sg/nationaljc/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">Online Public Access Catalogue</a>
-</p>
-<p><a href="https://schoolibrary.moe.edu.sg/eresourcesjc/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">School eResource Repository (SERR)</a>
-</p>
-<p><strong>BYTZ</strong>
-</p>
-<p>This is a state-of-the-art IT Resource Room with more than 30 Pentium
-IV workstations for students to carry out IT research projects. In one
-corner of the Bytes, there is a rest area for students to relax after a
-day of lectures and tutorials.</p>
-<p><strong>I&amp;E Hub</strong>
-</p>
-<p>Setup in collaboration with EDB, this room offers resources on Innovation
-and Enterprise including games, books and magazines. The room is ideal
-for projects and team discussions. Ideas Generation workshops are available
-on request. Find out more about our I&amp;E programme.</p>
-<p><strong>Student Lounge</strong>
-</p>
-<p>Accessible to all students during college hours, this fully air-conditioned
-students’ lounge is the place for students to unwind and recharge. Board
-games may be borrowed from Student Councillors on duty. In addition, the
-lounge is equipped with a pool table and a foosball table.</p>
 <p></p>
 <p><strong>Field</strong>
 </p>
