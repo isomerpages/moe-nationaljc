@@ -14,6 +14,6 @@ Programme:
 
 12 March 2021, Friday    1500 to 1600   Opening Ceremony
 
-15 March 2021, Friday    0830 to 1200   Educator Symposium (Close for registration)
+15 March 2021, Friday    0830 to 1200   Educator Symposium (Closed for registration)
 
 15 March 2021, Friday    1600 to 1730   Closing Ceremony
