@@ -62,10 +62,8 @@ variant: markdown
 &nbsp;&nbsp;&nbsp;&nbsp;</a><div><a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><p><a> <img src="/images/pir4.png" style="width:30%"> <br>   </a><a href="http://asd.sutd.edu.sg/">Arhitecture and Sustainable Design</a>| <a href="https://epd.sutd.edu.sg/">Engineering Product Development</a>| <a href="https://istd.sutd.edu.sg/">Information Systems Technology and Design</a>| <a href="https://hass.sutd.edu.sg/">Humanities, Arts and Social Sciences</a>| <a href="https://smt.sutd.edu.sg/">Science and Mathematics</a>
-			
-			</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></div>  
   
   
   
