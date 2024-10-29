@@ -48,7 +48,7 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img src="/images/pir3.png" style="width:30%"> <br>
 				
-| <a>
+<a>
 		</a></p></div></li><a>
 			
 &nbsp;&nbsp;<input type="checkbox" id="accordion4">
