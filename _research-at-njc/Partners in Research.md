@@ -52,7 +52,7 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img src="/images/pir3.png" style="width:30%"> <br>
 				
-<a href="http://www.scbe.ntu.edu.sg/Pages/Home.aspx">School of Chemical and Biomedial Engineering</a>| <a>
+| <a>
 		</a></p></div></li><a>
 			
 &nbsp;&nbsp;<input type="checkbox" id="accordion4">
