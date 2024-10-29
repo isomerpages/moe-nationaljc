@@ -20,7 +20,7 @@ variant: markdown
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>  <img src="/images/pir1.png" style="width:30%"> <br>  <a href="https://www.a-star.edu.sg/bti/">Bioprocressing Technology Institute</a>&nbsp;|<a href="https://www.a-star.edu.sg/gis">Genome Institute of Singapore</a>&nbsp;&nbsp;|  
 <a href="http://www.a-star.edu.sg/sbic/">Institute of Medical Biology</a>&nbsp;|  
-<a href="http://www.imcb.a-star.edu.sg/php/main.php">Institute of Molecular and Cell Biology</a>&nbsp;|&nbsp;<a href="http://www.a-star.edu.sg/sbic/">Singapore Bioimaging Consortium</a>&nbsp;|  
+<a href="http://www.a-star.edu.sg/sbic/">Singapore Bioimaging Consortium</a>&nbsp;|  
 <a href="https://www.a-star.edu.sg/sics/">Singapore Institute of Clinical Sciences</a>&nbsp;|&nbsp;<a href="https://www.a-star.edu.sg/dsi/Home.aspx">Data Storage Institute</a>&nbsp;|  
 <a href="https://www.a-star.edu.sg/ices/">Institute of Chemical and Engineering Sciences</a>&nbsp;|&nbsp;<a href="https://www.a-star.edu.sg/ihpc/">Institute of High Performance Computing</a>&nbsp;|<a href="https://www.a-star.edu.sg/imre/">Institute of Materials Research and Engineering</a>&nbsp;|  
 <a href="http://www.simtech.a-star.edu.sg/">Singapore Institute of Manufacturing Technology</a> </p>
@@ -52,7 +52,7 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img src="/images/pir3.png" style="width:30%"> <br>
 				
-<a href="http://www.mse.ntu.edu.sg/Pages/Home.aspx">School of Materials Engineering</a>| <a href="http://www.mae.ntu.edu.sg/Pages/Home.aspx">School of Mechanical and Aerospace Engineering</a>| <a href="http://www.spms.ntu.edu.sg/">School of Physical and Mathematical Sciences</a>| <a href="http://www.scbe.ntu.edu.sg/Pages/Home.aspx">School of Chemical and Biomedial Engineering</a>| <a>
+<a href="http://www.mse.ntu.edu.sg/Pages/Home.aspx">School of Materials Engineering</a>| <a href="http://www.spms.ntu.edu.sg/">School of Physical and Mathematical Sciences</a>| <a href="http://www.scbe.ntu.edu.sg/Pages/Home.aspx">School of Chemical and Biomedial Engineering</a>| <a>
 		</a></p></div></li><a>
 	
 	</a><li><a>
