@@ -87,7 +87,7 @@ NRP offers a variety of research topics from NTU’s four Colleges – College o
   
 SH1 Students can choose to enrol in either the H3 NTU NRP (examinable) or the enrichment version (non-examinable).  <br><br>
   
-<a href="http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/NRP-Application.aspx">Applications</a>&nbsp;must be endorsed by teachers.&nbsp;<br><br> <i> Application opens in late Jan/early Feb. </i>  <br><br>
+must be endorsed by teachers.&nbsp;<br><br> <i> Application opens in late Jan/early Feb. </i>  <br><br>
   
 <b> <a href="http://www.science.nus.edu.sg/education/h3-students/h3-science-research-programmes">Science Research Programme (SRP)</a></b> <br><br>  
   
