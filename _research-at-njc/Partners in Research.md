@@ -40,10 +40,6 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
-	
-	<li>
-
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Nanyang Technological University</label>
