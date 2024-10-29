@@ -54,9 +54,7 @@ variant: markdown
 				
 <a href="http://www.spms.ntu.edu.sg/">School of Physical and Mathematical Sciences</a>| <a href="http://www.scbe.ntu.edu.sg/Pages/Home.aspx">School of Chemical and Biomedial Engineering</a>| <a>
 		</a></p></div></li><a>
-	
-	</a><li><a>
-		
+			
 &nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4"> Singapore University of Technology and Design </label>
@@ -69,6 +67,6 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>  
   
-</li>  
+  
   
 </ul>
