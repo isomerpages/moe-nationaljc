@@ -20,6 +20,15 @@ sections:
       background: /images/Images for Banner/HomeBanner2.gif
       url: njc@moe.edu.sg
   - infopic:
+      title: 2024 Understanding NJC IP Q&A Session
+      id: infopic
+      description: We will be holding a short Q&A session on 16 November 2024
+        (Saturday), between 9-11am, at NJC.
+      button: Read More Here
+      url: /2024-understanding-njc-ip-q-a-session/
+      image: /images/njc.jpg
+      alt: Image alt text
+  - infopic:
       title: Moot Parliament Programme 2024
       id: infopic
       description: Two teams from National Junior College were selected to participate
