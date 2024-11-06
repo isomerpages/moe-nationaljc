@@ -14,4 +14,4 @@ variant: markdown
 	
 Dear P6 Students and Parents,&nbsp;<br><br>
 
-We will be holding a short Q&amp;A session on <b>16 November 2024 (Saturday)</b>, between <b>9-11am, at NJC</b>. <br>If you would like to speak to our Principal and HODs regarding our NJC Integrated Curriculum, you may visit our College either from <b>9-10am or 10-11am</b>. <br><br>See you!</p>
+We will be holding a short Q&amp;A session on <b>16 November 2024 (Saturday)</b>, between <b>9-11am, at NJC</b>. If you would like to speak to our Principal and HODs regarding our NJC Integrated Curriculum, you may visit our College either from <b>9-10am or 10-11am</b>. <br><br>See you!</p>
