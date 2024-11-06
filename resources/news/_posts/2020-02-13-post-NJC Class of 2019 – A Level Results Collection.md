@@ -39,4 +39,3 @@ The release of the 2019 GCE A-Level examination results will take place on 21 Fe
 
 15.  If you have any further questions, please contact at 6466 1144.
 16.  We wish you all the best in your future endeavours.
-
