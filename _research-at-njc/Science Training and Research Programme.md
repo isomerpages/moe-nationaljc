@@ -30,7 +30,7 @@ Details on these programmes can be found below.
   
 &nbsp;&nbsp;&nbsp;&nbsp;<div>  
   
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/nF0JO4KG\_4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <br> The pinnacle of research programmes, H3 Science Training and Research (H3-STaR) students demonstrate the keen traits of a scientist and have strong intent in heightening their mastery of skills and cognition. H3-STaR students work independently on a research project together with A*STAR scientists over a period of 7 months, and will write and defend their thesis at a viva in their graduating year. </p>  
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><br> The pinnacle of research programmes, H3 Science Training and Research (H3-STaR) students demonstrate the keen traits of a scientist and have strong intent in heightening their mastery of skills and cognition. H3-STaR students work independently on a research project together with A*STAR scientists over a period of 7 months, and will write and defend their thesis at a viva in their graduating year. </p>  
   
 &nbsp;&nbsp;&nbsp;&nbsp;</div>  
   
@@ -63,8 +63,8 @@ Details on these programmes can be found below.
   
 Eligible SH1 students can apply for the following overseas attachment programmes: <br><br>
   
-1. <a href="https://www.cee.org/programs/research-science-institute">Centre of Excellence in Education Summer Programme</a> , USA (late Jun to 1st&nbsp;week of Aug)  <br>
-2. &nbsp;<a href="http://www.perimeterinstitute.ca/outreach/students/programs/international-summer-school-young-physicists">International Summer School for Young Physicists</a>, Canada (last 2 weeks of July)  <br><br>
+1. Centre of Excellence in Education Summer Programme , USA (late Jun to 1st&nbsp;week of Aug)  <br>
+2. &nbsp;International Summer School for Young Physicists, Canada (last 2 weeks of July)  <br><br>
   
 <i>Application opens in late Jan.</i>&nbsp;  <br><br>
   
@@ -89,7 +89,7 @@ SH1 Students can choose to enrol in either the H3 NTU NRP (examinable) or the en
   
 must be endorsed by teachers.&nbsp;<br><br> <i> Application opens in late Jan/early Feb. </i>  <br><br>
   
-<b> <a href="http://www.science.nus.edu.sg/education/h3-students/h3-science-research-programmes">Science Research Programme (SRP)</a></b> <br><br>  
+<b> Science Research Programme (SRP)</b> <br><br>  
   
 SRP is a NUS outreach programmes for SH1 students.&nbsp;Students get to work on research projects in Life/Medical Sciences, Chemical/Physical Sciences, and Engineering under the guidance of mentors from NUS and established research centres.&nbsp;Similarly, students undertake&nbsp;at least 8 months of research activities. &nbsp;This programme will culminate in the submission of a Research Paper and a Poster Presentation carried out during the SRP Congress, held in&nbsp;April annually.  <br><br>
   
@@ -97,7 +97,7 @@ SH1 Students can choose to enrol in either the H3 NUS SRP (examinable) or the en
   
 <i>Application opens in late Jan/early Feb.</i> <br><br>
   
-<b> <a href="https://www.sutd.edu.sg/Admissions/Undergraduate/Outreach">SUTD&nbsp;Research Mentorship Programme (RMP)</a>   </b> <br><br>
+<b> SUTD&nbsp;Research Mentorship Programme (RMP)   </b> <br><br>
   
 SUTD&nbsp;offers research project opportunities and provides mentorship to SH1 every year under RMP.  <br><br>
   
@@ -112,7 +112,7 @@ The timeline for RMP 2019 is as follows: <br><br>
   
 Applicants will have to undergo a selection process by the project PIs, which may include interviews.  <br><br>
   
-<a href="https://www.dsta.gov.sg/join-us/student/young-defence-scientists-programme/our-programmes">Young Defence Scientists Programme (YDSP)</a> <br><br>  
+Young Defence Scientists Programme (YDSP) <br><br>  
   
 YDSP is an initiative co-managed by the Defence Science and Technology Agency (DSTA) and DSO National Laboratories (DSO). YDSP offers various programmes including  <br><br>
   
@@ -180,7 +180,7 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p><b> GSHS - NJC IREP </b> <br> Overseas Institute: Gyeonggi Science High School for the Gifted (GSHS) <br><br> <iframe width="560" height="315" src="https://www.youtube.com/embed/8rWUf3fA2Z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <br> Students participating in this exchange programme can look forward to interesting microbiology based projects. They will be exposed to techniques such as culturing bacteria and optical density measurements and perform biotechnology experiments, such as isolating the gene of interest from organisms and selecting for the cells with the gene of interest. They will also get the opportunity to immerse themselves in the rich culture of Korea, viz. food (kimchi), language (Hangeul) and homestays. <br> <br> <b> Area of Research </b> <br> Biology, Chemistry <br><br> <b> KSA - NJC IREP </b> <br> Overseas Institute: Korea Science Academy of Kaist (KSA) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/yVnA8GDbGks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <br><br> In this research exchange programme, students will engage in a range of exciting and cutting-edge projects under the mentorship of prominent scientists affiliated to KAIST – one of the leading universities in South Korea. They will hone their knowledge of chemistry and physics by analyzing reaction mechanisms to understand advanced oxidation processes (ultrasonication-enhanced ozonation). They will also get the opportunity to immerse themselves in the rich culture of Korea, viz. food (kimchi), language (Hangeul) and homestays. <br><br> <b> Area of Research </b> <br> Biology, Chemistry
+<p><b> GSHS - NJC IREP </b> <br> Overseas Institute: Gyeonggi Science High School for the Gifted (GSHS) <br><br> <iframe width="560" height="315" src="https://www.youtube.com/embed/8rWUf3fA2Z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <br> Students participating in this exchange programme can look forward to interesting microbiology based projects. They will be exposed to techniques such as culturing baQcteria and optical density measurements and perform biotechnology experiments, such as isolating the gene of interest from organisms and selecting for the cells with the gene of interest. They will also get the opportunity to immerse themselves in the rich culture of Korea, viz. food (kimchi), language (Hangeul) and homestays. <br> <br> <b> Area of Research </b> <br> Biology, Chemistry <br><br> <b> KSA - NJC IREP </b> <br> Overseas Institute: Korea Science Academy of Kaist (KSA) <br> <iframe width="560" height="315" src="https://www.youtube.com/embed/yVnA8GDbGks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <br><br> In this research exchange programme, students will engage in a range of exciting and cutting-edge projects under the mentorship of prominent scientists affiliated to KAIST – one of the leading universities in South Korea. They will hone their knowledge of chemistry and physics by analyzing reaction mechanisms to understand advanced oxidation processes (ultrasonication-enhanced ozonation). They will also get the opportunity to immerse themselves in the rich culture of Korea, viz. food (kimchi), language (Hangeul) and homestays. <br><br> <b> Area of Research </b> <br> Biology, Chemistry
 			</p>
 
 &nbsp;&nbsp;</div>
