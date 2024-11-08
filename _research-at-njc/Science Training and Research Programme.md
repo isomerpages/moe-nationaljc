@@ -63,8 +63,8 @@ Details on these programmes can be found below.
   
 Eligible SH1 students can apply for the following overseas attachment programmes: <br><br>
   
-1. <a href="https://www.cee.org/programs/research-science-institute">Centre of Excellence in Education Summer Programme</a> , USA (late Jun to 1st&nbsp;week of Aug)  <br>
-2. &nbsp;<a href="http://www.perimeterinstitute.ca/outreach/students/programs/international-summer-school-young-physicists">International Summer School for Young Physicists</a>, Canada (last 2 weeks of July)  <br><br>
+1. Centre of Excellence in Education Summer Programme , USA (late Jun to 1st&nbsp;week of Aug)  <br>
+2. &nbsp;International Summer School for Young Physicists, Canada (last 2 weeks of July)  <br><br>
   
 <i>Application opens in late Jan.</i>&nbsp;  <br><br>
   
