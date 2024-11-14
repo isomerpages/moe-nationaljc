@@ -28,16 +28,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Tan Phuay Boon Gwen, <strong>Vice-Principal</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:njc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>Ms Aileen Sim, <strong>Vice-Principal</strong>
 </p>
 </td>
@@ -49,16 +39,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p>Mr Haresh Sivaram, <strong>Vice-Principal</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:njc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mr Alfred Tan, <strong>Vice-Principal (Admin)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
