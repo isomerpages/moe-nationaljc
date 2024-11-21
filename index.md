@@ -19,6 +19,10 @@ sections:
           url: /useful-links/for-staff/
       background: /images/Images for Banner/HomeBanner2.gif
       url: njc@moe.edu.sg
+  - resources:
+      title: News & Highlights
+      subtitle: Latest
+      id: resources
   - infopic:
       title: 2024 Understanding NJC IP Q&A Session
       id: infopic
@@ -112,8 +116,4 @@ sections:
       url: /voices
       image: /images/reflection1.png
       alt: Reflection
-  - resources:
-      title: News & Highlights
-      subtitle: Latest
-      id: resources
 ---
