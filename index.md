@@ -18,7 +18,7 @@ sections:
           description: ""
           url: /useful-links/for-staff/
       background: /images/Images for Banner/HomeBanner2.gif
-      url: njc@moe.edu.sg
+      variant: center
   - resources:
       title: News & Highlights
       subtitle: Latest
