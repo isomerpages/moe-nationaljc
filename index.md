@@ -112,4 +112,8 @@ sections:
       url: /voices
       image: /images/reflection1.png
       alt: Reflection
+  - resources:
+      title: News & Highlights
+      subtitle: Latest
+      id: resources
 ---
