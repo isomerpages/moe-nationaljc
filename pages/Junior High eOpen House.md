@@ -2,8 +2,9 @@
 title: Junior High eOpen House
 permalink: /junior-high-e-open-house/
 description: ""
+variant: markdown
 ---
-### Junior High eOpen House
+### 2020 Junior High eOpen House
 
 *insert missing image here*
 
@@ -13,13 +14,13 @@ As is the case at all our Open Houses, we prefer to let our students take centre
 
 **Featured Video**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DmM1gd0OAB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DmM1gd0OAB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Live Sessions - 30 May**
 
-10am – **Principal’s Talk**
+10am –&nbsp;**Principal’s Talk**
 
-11am  – **Q&A Session (Vice-Principal, Senior HOD IP, Year Head)**
+11am&nbsp; –&nbsp;**Q&amp;A Session (Vice-Principal, Senior HOD IP, Year Head)**
 
 To participate:
 
@@ -29,26 +30,26 @@ To participate:
 
 **CCA Life in NJC**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PkxLGE29nFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PkxLGE29nFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Academic Life in NJC**
 
 **Integrated Science, Mathematics**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/toH4SIW8cL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/toH4SIW8cL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Humanities, Art, Music**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MNy2gN4RI-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MNy2gN4RI-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Thinking, Language Arts, Drama, Governance and Society**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/so1Beap-Qgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/so1Beap-Qgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **A day in the life of an NJCian**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TYEwyhdQHMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TYEwyhdQHMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Our History**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DSub2lutbBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DSub2lutbBg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
