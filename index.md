@@ -7,18 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: Events
-          description: ""
-          url: resources/events/
-        - title: News
-          description: ""
-          url: resources/news/
-        - title: Useful Links
-          description: ""
-          url: /useful-links/for-staff/
       background: /images/Images for Banner/HomeBanner2.gif
-      url: njc@moe.edu.sg
+      variant: center
+  - resources:
+      title: News & Highlights
+      subtitle: Latest
+      id: resources
   - infopic:
       title: 2024 Understanding NJC IP Q&A Session
       id: infopic
