@@ -85,7 +85,7 @@ displayed in text.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH Subject Combination/JAE_Arts_word_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH Subject Combination/JAE_Science_word_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH Subject Combination/JAE_Science_Word_caa_2025.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH Subject Combination/JAE_Science_word_2_1.png">
