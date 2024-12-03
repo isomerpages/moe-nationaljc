@@ -14,7 +14,7 @@ variant: tiptap
 <details class="isomer-details">
 <summary>Principal's Foreword</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>Mr. Ang Pow Chew </strong>
+<p><strong>Mr. Ang Pow Chew</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/ecol2.png">
@@ -71,31 +71,10 @@ Ultrasonography at St Vincent’s Hospital, Sydney, Australia (2002), and
 Carotid Stenting at Taiwan National University Hospital (2008).</p>
 </div>
 </details>
-</div>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p>
-<br>
-</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;An Expression of Our Gratitude</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p>
-<br><strong>Associate Professor Ho Hwee Long</strong>
-<br>
+<details class="isomer-details">
+<summary>An Expression of Our Gratitude</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Associate Professor Ho Hwee Long</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:300px;height:220px;margin-left:15px;" height="auto" width="100%" src="/images/ecol4.png">
@@ -105,24 +84,18 @@ passion, enthusiasm and determination in deeply inspiring many batches
 of our NJC Symphonic Band members for the past 51 years. Associate Professor
 Ho Hwee Long has led the evolution of the wind band in Singapore since
 1969. He was formerly with the Nanyang Technological University’s National
-Institute of Education, and a Cultural Medallion Winner in Singapore.
-<br>
-</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;A Journey in Education and Service</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
+Institute of Education, and a Cultural Medallion Winner in Singapore.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>A Journey in Education and Service</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>We would like to take this opportunity to sincerely congratulate our teachers,
-who have dedicated 25, 15 and 10 years to the education service respectively.&nbsp;
-<br>
-<br>
-</p>
+who have dedicated 25, 15 and 10 years to the education service respectively.&nbsp;</p>
 <p>Click on the name of the teacher awardee&nbsp;to read his/her heartfelt
 thoughts.
 <br>
 <br><strong>Long Service Award: 25 Years</strong> 
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -137,10 +110,6 @@ but also values and morals&nbsp;from their journey in NJC.”
 <br><a href="/images/aa1.png" rel="noopener noreferrer nofollow" target="_blank">Mr Dassiah Victor John</a> 
 <br>
 <br><strong>Long Service Award: 15 Years</strong> 
-<br>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol6.png">
@@ -150,12 +119,6 @@ my teachers and even if it comes from my own students … that’s where I
 believe true wisdom is attained. Appreciate it and it will naturally be
 retained and glow in us.”
 <br><a href="/images/aa2.png" rel="noopener noreferrer nofollow" target="_blank">Mdm Artina Binte Selamat</a>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol7.png">
@@ -163,10 +126,7 @@ retained and glow in us.”
 <p>“I just want my students to achieve ABC in life – A for Accolade, B for
 Betterment, C for Compassion. Always strive to be your best, better than
 yesterday, and be good to all beings in this world.”
-<br>
-<br>
 <br><a href="/images/aa3.png" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Manping</a>
-<br>
 <br>
 <br>
 <br>
@@ -177,14 +137,7 @@ yesterday, and be good to all beings in this world.”
 <p>“I want students to enjoy learning and take pride in their work. I want
 students to be a positive force and recognise that everyone of us has different
 strengths to contribute to the place we live in.”
-<br>
-<br>
 <br><a href="/images/aa4.png" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Lee Huang Winnie</a>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -196,9 +149,6 @@ become doctors or scientists, but at the end of the day I hope that they
 are competent and able to analyse issues and think critically, such that
 their opinions about certain issues related to Science emerge.”
 <br><a href="/images/aa5.png" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Wee Liang</a>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol10.png">
@@ -206,12 +156,6 @@ their opinions about certain issues related to Science emerge.”
 <p>“To my students I’d like to say, always do your best, because you deserve
 nothing better than the best.”
 <br>Mr Adrian Loh Sin Loy
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -224,10 +168,6 @@ and leaders with sound values. I believe that these traits are important
 to guide them through the volatile, uncertain, complex and ambiguous world
 in this 21st&nbsp;century.”
 <br><a href="/images/aa6.png" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Joon Hong</a>
-<br>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol12.png">
@@ -239,9 +179,6 @@ each other. There is a difference between pleasure (playing video games,
 handphone usage etc) and joy (finding pursuits where you add value to others’
 lives). Over time, I hope that you will reduce activities that give you
 pleasure.“ <a href="/files/Shanmugadas.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Shanmugadas S/O Kumaresadas</a>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol13.png">
@@ -252,8 +189,6 @@ student’s life. What looks small to me would have made all the difference
 in the student’s life and the feeling is just awesome. No amount of money
 can give you the satisfaction that I get watching my students grow.”
 <br><a href="/images/aa7.png" rel="noopener noreferrer nofollow" target="_blank">Mr Wee Keng Han</a>
-<br>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -272,19 +207,13 @@ person.”
 <br>
 <br>
 <br>
-<br>Long Service Award: 10 Years
-<br>
-<br>
+<br><strong>Long Service Award: 10 Years </strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol15.png">
 </div>
 <p>“每年我都会问学生“为什么你们要学华文？”这个问题，很多学生的回答是“因为我是华人，我要了解自己的文化，否则别人会看不起我的。“这些回答让我感动，同时也让我明白，作为华文老师除了让学生学华文，更应该让他们明白这个语言的优美、丰富，让他们有机会掌握丰富的文化，让他们的未来因为我懂华文而自豪和骄傲.“
 <br><a href="/images/aa9.png" rel="noopener noreferrer nofollow" target="_blank">Mdm Guo Lanhua</a>
-<br>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol16.png">
@@ -295,9 +224,6 @@ that they grow up to become people with the right character values, who
 will use what they have learnt to help improve society and those who can
 benefit from their contributions.”
 <br><a href="/images/aa10.png" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Jian Hao Jason</a> 
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol17.png">
@@ -309,9 +235,6 @@ they should also commit to putting in the hard work necessary for producing
 the results that they want to achieve. Above all, they should commit to
 being good people who care for others and help to build each other up.”
 <a href="/images/aa11.png" rel="noopener noreferrer nofollow" target="_blank">Mdm Lim Hui Mei, Jan</a>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol18.png">
@@ -319,13 +242,6 @@ being good people who care for others and help to build each other up.”
 <p>“What I want most for my students is that they learn to appreciate, especially
 to appreciate what they have.”
 <br><a href="/images/aa12.png" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Zong Liang</a>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol19.png">
@@ -336,10 +252,6 @@ where they make decisions by considering not only themselves but also others;
 are unafraid to stand up for what is right; contribute to the community
 and shape the future of our nation.”
 <br><a href="/images/aa13.png" rel="noopener noreferrer nofollow" target="_blank">Mdm Mun Lynn</a>
-<br>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol20.png">
@@ -349,11 +261,6 @@ they have encountered, within and outside class. Sure, it’s Physics. They
 may feel frustrated and challenged sometimes, but that’s all good. Why?
 Because they are learning.”
 <br>Mdm Ning Hwee Tiang
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -365,11 +272,6 @@ to think critically, be socially aware, and be able to find their sense
 of purpose in life and society.”
 <br><a href="/images/aa14.png" rel="noopener noreferrer nofollow" target="_blank">Ms Oh Jia Lin, Karen</a>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol22.png">
@@ -380,20 +282,12 @@ they would see how that tenacity has built their character and optimism
 for life.”
 <br><a href="/images/aa15.png" rel="noopener noreferrer nofollow" target="_blank">Mdm Ong Ming Ann</a>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol23.png">
 </div>
 <p>“更能触动心弦的是一考完试后，学生就立刻发过来的短讯—其中的内容，表达了对老师的感激，甚至觉得自己表现不理想，达不到老师的要求，对不起老师，深感内疚。学生毕业回校探望老师，来到面前告诉你：“老师，我喜欢你的华文课！谢谢你教我华文。”这话会让我睡得很香很甜!&nbsp;能教出懂得感恩的学生还有什么遗憾呢?”
 <br><a href="/images/aa16.png" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Chwee Hock</a> 
-<br>
-<br>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -405,14 +299,11 @@ College’s Values in whatever they choose to undertake. Be daring to make
 a difference!”
 <br><a href="/images/aa17.png" rel="noopener noreferrer nofollow" target="_blank">Ms Wang Shiliang</a>
 <br>
-<br>
 <br>We also want to express our gratitude to our Technical Support and Operations
 Support Officers, and our Allied Educator, for dedicating 10 years of valuable
 service to NJC.
 <br>
-<br>
-<br>Long Service Award: 10 Years
-<br>
+<br><strong>Long Service Award: 10 Years </strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -430,116 +321,104 @@ service to NJC.
 <div class="isomer-image-wrapper">
 <img style="width:99%" height="auto" width="100%" src="/images/allied1.png">
 </div>
-<p></p>
-<p></p>
-<p>&nbsp;&nbsp;</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp; A Celebration of Excellence</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>A Celebration of Excellence</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/njca1.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/njca2.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/njca3.png">
 </div>
 <p>
-<br>Insert video here
-<br>
-</p>
+<br>Insert video here</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/njca4.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/njca5.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/njca6.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/njca7.png">
 </div>
 <p>
-<br>Insert video here
-<br>
-</p>
+<br>Insert video here</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/njca8.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/njca9.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/njca10.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/njca11.png">
 </div>
 <p>
-<br>Insert video here
-<br>
-</p>
+<br>Insert video here</p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/njca12.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:60%" height="auto" width="100%" src="/images/njca13.png">
 </div>
 <p>
 <br>Insert video here</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;A Celebration of the Human Spirit</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>A Celebration of the Human Spirit</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>CCA Awards </strong>
 <br>
 <br>The NJC CCA Awards recognise students who have achieved success in their
 respective CCAs, and have contributed in leading their CCAs to greater
 heights.
 <br>
-<br><strong> For Clubs and Societies </strong>
+<br><strong>For Clubs and Societies </strong>
 <br>Insert video here
 <br>
-<br><strong> For Leadership </strong>
+<br><strong>For Leadership </strong>
 <br>Insert video here
 <br>
-<br><strong> For the Performing Arts </strong>
+<br><strong>For the Performing Arts </strong>
 <br>Insert video here
 <br>
-<br><strong> For Sports and Games </strong>
+<br><strong>For Sports and Games </strong>
+</p>
+<p>Insert video here</p>
+</div>
+</details>
+</div>
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
 <br>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
