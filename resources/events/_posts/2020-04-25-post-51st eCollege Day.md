@@ -109,7 +109,7 @@ more. I want them to be able to not&nbsp;only take away subject knowledge
 but also values and morals&nbsp;from their journey in NJC.”
 <br><a href="/images/aa1.png" rel="noopener noreferrer nofollow" target="_blank">Mr Dassiah Victor John</a> 
 <br>
-<br><strong>Long Service Award: 15 Years</strong> 
+<br><strong>Long Service Award: 15 Years</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol6.png">
@@ -207,7 +207,7 @@ person.”
 <br>
 <br>
 <br>
-<br><strong>Long Service Award: 10 Years </strong>
+<br><strong>Long Service Award: 10 Years</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol15.png">
@@ -223,7 +223,7 @@ is no one fixed common goal that I want all of them to achieve, other than
 that they grow up to become people with the right character values, who
 will use what they have learnt to help improve society and those who can
 benefit from their contributions.”
-<br><a href="/images/aa10.png" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Jian Hao Jason</a> 
+<br><a href="/images/aa10.png" rel="noopener noreferrer nofollow" target="_blank">Mr Lee Jian Hao Jason</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:240px;margin-right:15px;" height="auto" width="100%" src="/images/ecol17.png">
@@ -404,7 +404,7 @@ heights.
 <br><strong>For the Performing Arts </strong>
 <br>Insert video here
 <br>
-<br><strong>For Sports and Games </strong>
+<br><strong>For Sports and Games</strong>
 </p>
 <p>Insert video here</p>
 </div>
