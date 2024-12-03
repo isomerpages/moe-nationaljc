@@ -2,4 +2,5 @@ collections:
   archived:
     output: true
     order:
+      - 51st eCollege Day.md
       - Hockey (Boys Only).md
