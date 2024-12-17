@@ -55,7 +55,6 @@ appeals will not be entertained.</p>
 with the school that they are posted to by the Ministry of Education on
 Thu, 19 Dec 2024, pending the outcome of their appeal application to National
 Junior College.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Successful appellants will be informed of the appeal outcome by </a><strong><a rel="noopener noreferrer nofollow" target="_blank">6 Jan 2025 (Mon)</a></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">.</a>
+<p>Successful appellants will be informed of the appeal outcome by <strong>6 Jan 2025 (Mon).</strong>
 </p>
 <p>Thank you.</p>
