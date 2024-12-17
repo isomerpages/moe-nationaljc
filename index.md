@@ -9,6 +9,14 @@ sections:
   - hero:
       background: /images/Images for Banner/HomeBanner2.gif
       variant: center
+  - infopic:
+      title: S1 Registration
+      id: infopic
+      description: Congratulations on the posting of your child to National Junior College!
+      button: Learn more here
+      url: /admissions/IP-Sec1-posting/
+      image: /images/s1_registration.jpeg
+      alt: S1 Reg
   - resources:
       title: News & Highlights
       subtitle: Latest
