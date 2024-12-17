@@ -14,7 +14,7 @@ variant: tiptap
 of the S1 Posting Results Release date (i.e. Wed, 18 Dec 2024). Please
 check your PG mobile application for important information and instructions,
 including</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an&nbsp;<strong><a href="https://go.gov.sg/njc2023s1regform" rel="noopener noreferrer nofollow" target="_blank">online Student Registration Form</a></strong>&nbsp;that
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an&nbsp;<strong><a href="https://go.gov.sg/njc2024s1regform" rel="noopener noreferrer nofollow" target="_blank">online Student Registration Form</a></strong>&nbsp;that
 should be submitted as soon as possible or by <strong>11 am, 19 Dec 2024 (Thu)</strong>,</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; information on our&nbsp;<strong>Welcome and Briefing session conducted <u>online</u> at 11 am, 19 Dec 2024 (Thu)</strong>.</p>
 <p>Please note that there is no need to visit the school in person for the
