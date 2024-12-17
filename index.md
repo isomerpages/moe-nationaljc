@@ -15,7 +15,7 @@ sections:
       description: Congratulations on the posting of your child to National Junior
         College! Please check your PG mobile application for important
         information and instructions
-      button: Learn more here
+      button: Read more here
       url: s1-registration-2025/
       image: /images/s1_registration.jpeg
       alt: S1 Reg
