@@ -12,7 +12,9 @@ sections:
   - infopic:
       title: S1 Registration
       id: infopic
-      description: Congratulations on the posting of your child to National Junior College!
+      description: Congratulations on the posting of your child to National Junior
+        College! Please check your PG mobile application for important
+        information and instructions
       button: Learn more here
       url: /admissions/IP-Sec1-posting/
       image: /images/s1_registration.jpeg
