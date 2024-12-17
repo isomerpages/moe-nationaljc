@@ -16,7 +16,7 @@ sections:
         College! Please check your PG mobile application for important
         information and instructions
       button: Learn more here
-      url: /admissions/IP-Sec1-posting/
+      url: s1-registration-2025/
       image: /images/s1_registration.jpeg
       alt: S1 Reg
   - resources:
