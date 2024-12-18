@@ -24,10 +24,10 @@ on 26 and 27 Dec 2024 (Thu and Fri); details will be provided in the PG
 notification as well.</p>
 <p>Please note that the <strong>school term begins on</strong>&nbsp;<strong>13 Jan 2025 (Mon)</strong>&nbsp;for
 National Junior College.</p>
-<p>If you are not already familiar with PG, you may visit&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg</a>&nbsp;for more
-information. Links to download the PG mobile application are also found
-on the PG website.</p>
+<p>If you are not already familiar with PG, you may visit&nbsp;<a href="https://pg.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg</a>&nbsp;for
+more information. Links to download the PG mobile application are also
+found on the PG website.</p>
 <p>Should you have any queries, or if you are unable to access PG, please
-contact the College at 6466 1144 or email us at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>.</p>
+contact the College at 6466 1144 or email us at <strong>njc@moe.edu.sg</strong>.</p>
 <p>If you would like to appeal to join NJC, please click&nbsp;<a href="https://www.nationaljc.moe.edu.sg/admissions/IP-Sec1-posting/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 information and instructions.</p>
