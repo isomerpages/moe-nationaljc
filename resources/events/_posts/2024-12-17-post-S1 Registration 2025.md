@@ -27,6 +27,6 @@ more information. Links to download the PG mobile application are also
 found in the PG website.</p>
 <p>Should you have any queries, or if you are unable to access PG, please
 contact the College at 6466 1144 or email us at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>.</p>
-<p>If you would like to appeal to join NJC, please click&nbsp;<a href="https://nationaljc.moe.edu.sg/admissions/ip-sec-1-posting/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>If you would like to appeal to join NJC, please click&nbsp;<a href="https://nationaljc.moe.edu.sg/admissions/IP-Sec1-posting/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 information and instructions.</p>
 <p>Thank you.</p>
