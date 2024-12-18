@@ -15,18 +15,19 @@ of the S1 Posting Results Release date (i.e. Wed, 18 Dec 2024). Please
 check your PG mobile application for important information and instructions,
 including</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; an&nbsp;<strong><a href="https://go.gov.sg/njc2024s1regform" rel="noopener noreferrer nofollow" target="_blank">online Student Registration Form</a></strong>&nbsp;that
-should be submitted as soon as possible or by <strong>11 am, 19 Dec 2024 (Thu)</strong>,</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; information on our&nbsp;<strong>Welcome and Briefing session conducted <u>online</u> at 11 am, 19 Dec 2024 (Thu)</strong>.</p>
-<p>Please note that there is no need to visit the school in person for the
-S1 Registration.</p>
+should be submitted as soon as possible or <strong>by 11 am on 19 Dec 2024 (Thu)</strong>;
+and</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; information on our&nbsp;<strong>Welcome and Briefing session conducted <u>online</u> at 11 am on 19 Dec 2024 (Thu)</strong>.</p>
+<p>Please note that there is <strong>no need to visit the school in person for the S1 Registration</strong>.</p>
 <p>The purchase of school uniform and books can be done online, or at NJC
-on 26 and 27 Dec 2024 (Thu and Fri); details will be found in the PG notification
-as well.</p>
-<p>If you are not already familiar with PG, you may visit&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">http://pg.moe.edu.sg/#home</a>&nbsp;for
+on 26 and 27 Dec 2024 (Thu and Fri); details will be provided in the PG
+notification as well.</p>
+<p>Please note that the <strong>school term begins on</strong>&nbsp;<strong>13 Jan 2025 (Mon)</strong>&nbsp;for
+National Junior College.</p>
+<p>If you are not already familiar with PG, you may visit&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg</a>&nbsp;for
 more information. Links to download the PG mobile application are also
-found in the PG website.</p>
+found on the PG website.</p>
 <p>Should you have any queries, or if you are unable to access PG, please
 contact the College at 6466 1144 or email us at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>.</p>
-<p>If you would like to appeal to join NJC, please click&nbsp;<a href="https://nationaljc.moe.edu.sg/admissions/IP-Sec1-posting/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
+<p>If you would like to appeal to join NJC, please click&nbsp;<a href="https://www.nationaljc.moe.edu.sg/admissions/IP-Sec1-posting/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 information and instructions.</p>
-<p>Thank you.</p>
