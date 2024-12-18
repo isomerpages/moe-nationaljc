@@ -41,7 +41,7 @@ contact the College at 6466 1144 or email us at&nbsp;<a rel="noopener noreferrer
 <p><strong><u>Appeals for admission to NJC IP Junior High 1 2025</u></strong>
 </p>
 <p>Appeals for admission to NJC IP Junior High 1 for 2025 will start from&nbsp;<strong>9 am on</strong>&nbsp;<strong>18 Dec 2024 (Wed) </strong>and<strong>&nbsp;will close at 10 am on 23 Dec 2024 (Mon)</strong>.
-Applications are to be submitted online at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/njc2024s1appeal</a>.</p>
+Applications are to be submitted online at&nbsp;<a href="https://go.gov.sg/njc2024s1appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/njc2024s1appeal</a>.</p>
 <p>Your child’s PSLE Score <strong>must</strong> meet the school’s cut-off
 point (COP) of <strong>7</strong>. Only official online appeals within the
 appeal period, complete with supporting documents, will be considered.&nbsp;Late
