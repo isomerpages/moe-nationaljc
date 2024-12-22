@@ -40,19 +40,12 @@ found on the PG website.</p>
 contact the College at 6466 1144 or email us at <strong>njc@moe.edu.sg</strong>.</p>
 <p><strong><u>Appeals for admission to NJC IP Junior High 1 2025</u></strong>
 </p>
-<p>Appeals for admission to NJC IP Junior High 1 for 2025 will start from&nbsp;<strong>9 am on</strong>&nbsp;<strong>18 Dec 2024 (Wed) </strong>and<strong>&nbsp;will close at 10 am on 23 Dec 2024 (Mon)</strong>.
-Applications are to be submitted online at&nbsp;<a href="https://go.gov.sg/njc2024s1appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/njc2024s1appeal</a>.</p>
-<p>Your child’s PSLE Score <strong>must</strong> meet the school’s cut-off
-point (COP) of <strong>7</strong>. Only official online appeals within the
-appeal period, complete with supporting documents, will be considered.&nbsp;Late
-appeals will not be entertained.</p>
+<p>Appeals for admission to NJC IP Junior High 1 for 2025 have <strong>closed as of 10 am on 23 Dec 2024 (Mon)</strong>.</p>
+<p>Only official online appeals within the appeal period, complete with supporting
+documents, will be considered.&nbsp;Late appeals will not be entertained.</p>
 <p>Successful appellants will be informed of the appeal outcome <strong>by 6 Jan 2025 (Mon)</strong>.
 If you do not hear from the school by this date, the appeal is deemed to
 be unsuccessful.</p>
-<p>Please note the following:</p>
-<p><em>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </em><strong><em>Do not</em></strong><em> submit an appeal if you already have a place in another school under the Direct School Admission (DSA), as the appeal application will not be considered; and</em>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All appeal applicants are still
-required to register with the school that they are posted to by the Ministry
-of Education, pending the outcome of their appeal application to National
-Junior College.</p>
+<p>All appeal applicants are still required to register with the school that
+they are posted to by the Ministry of Education, pending the outcome of
+their appeal application to National Junior College.</p>
