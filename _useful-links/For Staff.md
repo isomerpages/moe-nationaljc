@@ -14,7 +14,6 @@ variant: markdown
 
 [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
 
-
 [Student Learning Space ( SLS )](https://www.learning.moe.edu.sg/)
 
 [MOE Resource Booking System ( RBS )](https://rbs.avero-tech.com/)
