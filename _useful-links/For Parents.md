@@ -18,10 +18,6 @@ and monitoring for each DMA option after school hours<em>.</em>
 <div class="isomer-image-wrapper">
 <img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_12_23_140352.png">
 </div>
-<p>The after-school hours are as follows:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Useful Links/For Parents/Screenshot_2024_04_01_231318.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_12_23_141928.png">
