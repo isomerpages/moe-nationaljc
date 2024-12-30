@@ -17,4 +17,11 @@ Discover a sea of opportunities when you visit our&nbsp;subject and CCA
 booths, listen to our Principal's address and interact with NJC students
 and teachers.</p>
 <p></p>
-<p>Wat-er you waiting for! See you at NJSea!&nbsp;</p>
+<p>Wat-er you waiting for! See you at NJSea!</p>
+<p></p>
+<p>Instagram: <a href="https://www.instagram.com/nationaljc/?hl=en" rel="noopener nofollow" target="_blank">@nationaljc</a>
+</p>
+<p>TikTok: <a href="https://www.tiktok.com/@nationaljc?lang=en" rel="noopener nofollow" target="_blank">@nationaljc</a>
+</p>
+<p>Facebook: <a href="https://www.facebook.com/nationaljc/" rel="noopener nofollow" target="_blank">National Junior College Singapore</a>
+</p>
