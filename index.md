@@ -7,8 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Images for Banner/HomeBanner2.gif
+      background: /images/Images for Banner/ezgif_7_fd39be19b3.gif
       variant: center
+      title: College of the Nation
+      subtitle: Home of Scholars and Leaders who Serve with Honour
   - infopic:
       title: 2025 NJC Open House
       id: infopic
