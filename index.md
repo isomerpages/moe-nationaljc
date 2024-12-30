@@ -7,8 +7,20 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Images for Banner/HomeBanner2.gif
+      background: /images/Images for Banner/ezgif_7_fd39be19b3.gif
       variant: center
+      title: College of the Nation
+      subtitle: Home of Scholars and Leaders who Serve with Honour
+  - infopic:
+      title: 2025 NJC Open House
+      id: infopic
+      description: NJC welcomes all prospective JC1 students to visit us on 11 January
+        2025 (Saturday), any time between 10am to 2pm, for a splashing good
+        time!
+      button: Read more here
+      url: /2025-njc-open-house/
+      image: /images/NJC__1_.jpg
+      alt: read more here
   - infopic:
       title: S1 Registration
       id: infopic

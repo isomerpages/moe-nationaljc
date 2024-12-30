@@ -14,7 +14,6 @@ variant: markdown
 
 [OPAL 2.0](https://idm.opal2.moe.edu.sg/)
 
-
 [Student Learning Space ( SLS )](https://www.learning.moe.edu.sg/)
 
 [MOE Resource Booking System ( RBS )](https://rbs.avero-tech.com/)
@@ -50,5 +49,5 @@ Email: help@schools.gov.sg <br>
 
 <b style="color:blue;font-size:30px"> Laptop Issues Guides: </b>
 
-1. <b>VPN Pin Reset</b>:<br>Contact SSOE2 Helpdesk 1800 7663 663
-2. <b>Laptop Blacked Out Screen But Still Turned On</b>:<br>Press and hold the power for 10 seconds, wait 10 seconds, then press the power button again to turn on.
+1. <b>VPN pin reset</b>:<br>Contact SSOE2 Helpdesk 1800 7663 663
+2. <b>Laptop backed out screen but still on</b>:<br>Press and hold the power for 10 seconds, wait 10 seconds, then press the power button again to turn on.

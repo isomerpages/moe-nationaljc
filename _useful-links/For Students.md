@@ -19,13 +19,3 @@ variant: markdown
 
 <p><a href="https://www.njgradnet.com/" rel="noopener noreferrer nofollow" target="_blank">NJ Gradnet</a></p><p></p>
 
-<b style="color:blue;font-size:30px"> PLD iPad Troubleshooting </b>
-
-<b>Missing Apps:</b><br>
-In Mobile Guardian App &gt; press profile icon on the top left &gt; press "My Catalogue" &gt; press install button on the required Apps.
-
-<b>Stuck in Mobile Guardian App:</b><br>
-Head to Bytz. 15-20 mins estimated waiting time to resolve this issue.
-
-<b>Stuck in Sleep Hours Profile:</b><br>
-In Mobile Guardian App &gt; press the profile icon on the top left &gt; click the sync button &gt; wait and give it some time for it to sync with the servers.
