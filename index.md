@@ -12,7 +12,9 @@ sections:
   - infopic:
       title: 2025 NJC Open House
       id: infopic
-      description: Infopic description
+      description: NJC welcomes all prospective JC1 students to visit us on 11 January
+        2025 (Saturday), any time between 10am to 2pm, for a splashing good
+        time!
       button: Read more here
       url: /2025-njc-open-house/
       image: /images/NJC__1_.jpg
