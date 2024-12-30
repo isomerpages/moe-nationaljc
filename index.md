@@ -10,6 +10,14 @@ sections:
       background: /images/Images for Banner/HomeBanner2.gif
       variant: center
   - infopic:
+      title: 2025 NJC Open House
+      id: infopic
+      description: Infopic description
+      button: Read more here
+      url: /2025-njc-open-house/
+      image: /images/NJC__1_.jpg
+      alt: read more here
+  - infopic:
       title: S1 Registration
       id: infopic
       description: Congratulations on the posting of your child to National Junior
