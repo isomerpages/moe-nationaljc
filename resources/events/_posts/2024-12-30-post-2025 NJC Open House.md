@@ -19,6 +19,7 @@ and teachers.</p>
 <p></p>
 <p>Wat-er you waiting for! See you at NJSea!</p>
 <p></p>
+<p>Check us out at our socials!</p>
 <p>Instagram: <a href="https://www.instagram.com/nationaljc/?hl=en" rel="noopener nofollow" target="_blank">@nationaljc</a>
 </p>
 <p>TikTok: <a href="https://www.tiktok.com/@nationaljc?lang=en" rel="noopener nofollow" target="_blank">@nationaljc</a>
