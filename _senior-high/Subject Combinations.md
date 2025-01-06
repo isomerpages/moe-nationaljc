@@ -90,6 +90,6 @@ displayed in text.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SH Subject Combination/JAE_Science_word_2_1.png">
 </div>
-<p>For AY 2024,&nbsp;<strong>all qualifying tests</strong>&nbsp;will be administered
-on&nbsp;<strong>05 February</strong>. Please note that there will be&nbsp;<strong>NO</strong>&nbsp;make
-up qualifying test/re-test after 05 February.</p>
+<p>For AY 2025,&nbsp;<strong>all qualifying tests</strong>&nbsp;will be administered
+on&nbsp;<strong>06 February</strong>. Please note that there will be&nbsp;<strong>NO</strong>&nbsp;make
+up qualifying test/re-test after 06 February.</p>
