@@ -48,6 +48,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>Mr Alvin Chong, <strong>Vice-Principal (Administration)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:njc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Mr Leong Chun Keong, <strong>HOD/Economics</strong>
 </p>
 </td>
@@ -168,11 +178,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Yong Xin Ying, <strong>Year Head/Senior High</strong>
+<p>Ms Yong Xin Ying, <strong>Year Head 1/Senior High</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yong_xin_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_xin_ying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mr Goh Miao Guang, <strong>Year Head 2/Senior High</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_miao_guang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_miao_guang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -208,11 +228,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Lim Wei Li, <strong>HOD/Research</strong>
+<p>Mr Heng Swee Kiang, <strong>HOD/Aesthetics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_wei_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_weili@moe.edu.sg</a>
+<p><a href="mailto:heng_swee_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_swee_kiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
