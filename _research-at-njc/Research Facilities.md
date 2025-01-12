@@ -61,8 +61,4 @@ Critical to synthetic chemistry is the capacity to characterise compounds. Furth
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
-	
-	
-
-	
 </ul>
