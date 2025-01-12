@@ -129,20 +129,8 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 </div>
 
 </li>
+
 <li>
-
-<input type="checkbox" id="accordion5">
-
-<label for="accordion5">Russia </label>
-&nbsp;<div>
-
-<p> <b> MCL - NJC IREP </b> <br> Overseas Institute: Moscow Chemical Lyceum (MCL) <br><br> <iframe width="560" height="315" src="https://www.youtube.com/embed/TX0XCXVB8EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <br><br> Students will explore organic and organometallic synthesis. Specifically, students will carry out advanced experiments in organic and organometallic synthesis for application in the pharmaceutical industry. Also, students will learn advanced analytical methods: infrared and nuclear magnetic spectroscopies are amongst a host of analytical tools used to support the various projects in this programme. Advanced methods in retrosynthesis and mechanisms form the theoretical basis of the work that is done. Students will, while engaged heavily in research, have an opportunity to immerse themselves in the rich culture of Russia, from ballets to plays to enjoying Russian family life via homestays. <br><br> <b> Area of Research </b> <br> Chemisty </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-	<li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion6">
 
@@ -170,36 +158,8 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 &nbsp;&nbsp;</div>
 
 </li>
-	
-<li>
 
-<input type="checkbox" id="accordion8">
 
-<label for="accordion8"> United Kingdom</label>
-
-<div>
-
-<p> <b> CSIA -NJC IREP </b> <br> Overseas Institute:&nbsp;Camborne Science and International Academy (CSIA) <br><iframe width="560" height="315" src="https://www.youtube.com/embed/yoY-M1_RSv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <br> One of our newest partners, Camborne Science and International Academy is a well-acclaimed academic institution in Cornwall, England. In this research exchange programme, students will focus on application and authentic problem solving based research projects. They will study the applications of nanoparticles in different fields of science, e.g. chemiluminescence and biosensing.&nbsp; Students will also get the opportunity to immerse themselves in the rich English culture via visits to farms, attending classes and homestays. <br><br> <b> Area of Research </b> <br> Biology, Physics, Mathematics </p>
-
-</div>
-
-</li>
-	
-<li>
-
-<input type="checkbox" id="accordion9">
-
-<label for="accordion9">Australia</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p><b> SCHS -NJC IREP </b> <br> Overseas Institute: Suzanne Cory High School (SCHS) <br><br>  Insert image here <br><br> In this research exchange programme, students will be able to collaborate with teachers and students from SCHS to investigate topics in the Arts and the Humanities. &nbsp;They will also get the opportunity to broaden their intellectual and cultural exposure by interacting with the SCHS students. <br><br>The students will communicate their research by co-presenting at the International Humanities Symposium. </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-	
 
 	
 </ul>
