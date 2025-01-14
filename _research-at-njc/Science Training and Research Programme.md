@@ -18,7 +18,7 @@ Senior High 1 students who are keen to explore a career as a researcher can take
 
 Details on these programmes can be found below.
 
-**Local Research Programmes**
+#### Local Research Programmes
 
 <ul class="jekyllcodex_accordion">  
   
@@ -64,15 +64,13 @@ Details on these programmes can be found below.
 Eligible SH1 students can apply for the following overseas attachment programmes: <br><br>
   
 1. Centre of Excellence in Education Summer Programme , USA (late Jun to 1st&nbsp;week of Aug)  <br>
-2. &nbsp;International Summer School for Young Physicists, Canada (last 2 weeks of July)  <br><br>
   
 <i>Application opens in late Jan.</i>&nbsp;  <br><br>
   
 <b> Local Student Attachment Programme (LSAP) by MOE </b> <br><br>
   
 Eligible SH1 students can apply for the Student Attachment Programmes at Local Research Institutes:  <br> <br>
-  
-- REsearch Attachment Programme (REAP) at Temasek Life Sciences Laboratory (TLL) (last week of Nov to first week of Jan, 6 weeks) <br> 
+
 - A*STAR-MOE Research Attachment Programme (RAP) at various Research Institutes (RIs) (3rd week of Nov to 3rd week of Dec, 5 weeks)  <br><br>
   
 Students will have the opportunity to be involved in research projects under the mentorship of practicing scientists in state-of-the-art laboratories in established local RIs. Students must commit fully for the duration of the programme that they are applying for.  <br><br>
@@ -96,23 +94,9 @@ SRP is a NUS outreach programmes for SH1 students.&nbsp;Students get to work on 
 SH1 Students can choose to enrol in either the H3 NUS SRP (examinable) or the enrichment version (non-examinable).  <br><br>
   
 <i>Application opens in late Jan/early Feb.</i> <br><br>
-  
-<b> SUTD&nbsp;Research Mentorship Programme (RMP)   </b> <br><br>
-  
-SUTD&nbsp;offers research project opportunities and provides mentorship to SH1 every year under RMP.  <br><br>
-  
-RMP participants will be given special consideration for admissions and scholarships, should they apply to SUTD subsequently.  <br><br>
-  
-The timeline for RMP 2019 is as follows: <br><br>  
-  
-- Deadline for application submission by schools:&nbsp;<br><b> 15 Feb</b> <br>
-				- Selection/interviews by PIs: Anytime between&nbsp;<b>15 Feb – 1 Mar</b>  <br>
-				- Allocation of projects to successful students:&nbsp;<b>By 8 Mar</b> <br>  
-				- RMP duration:&nbsp;<b> Mar onwards (depending on the project duration determined by faculty)</b> <br><br>  
-  
-Applicants will have to undergo a selection process by the project PIs, which may include interviews.  <br><br>
-  
-Young Defence Scientists Programme (YDSP) <br><br>  
+ 	
+<b>Young Defence Scientists Programme (YDSP)</b> 
+<br>  
   
 YDSP is an initiative co-managed by the Defence Science and Technology Agency (DSTA) and DSO National Laboratories (DSO). YDSP offers various programmes including  <br><br>
   
@@ -145,20 +129,8 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 </div>
 
 </li>
+
 <li>
-
-<input type="checkbox" id="accordion5">
-
-<label for="accordion5">Russia </label>
-&nbsp;<div>
-
-<p> <b> MCL - NJC IREP </b> <br> Overseas Institute: Moscow Chemical Lyceum (MCL) <br><br> <iframe width="560" height="315" src="https://www.youtube.com/embed/TX0XCXVB8EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <br><br> Students will explore organic and organometallic synthesis. Specifically, students will carry out advanced experiments in organic and organometallic synthesis for application in the pharmaceutical industry. Also, students will learn advanced analytical methods: infrared and nuclear magnetic spectroscopies are amongst a host of analytical tools used to support the various projects in this programme. Advanced methods in retrosynthesis and mechanisms form the theoretical basis of the work that is done. Students will, while engaged heavily in research, have an opportunity to immerse themselves in the rich culture of Russia, from ballets to plays to enjoying Russian family life via homestays. <br><br> <b> Area of Research </b> <br> Chemisty </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-	<li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion6">
 
@@ -186,36 +158,8 @@ NJC has eight established IREPs across six different countries. Every IREP offer
 &nbsp;&nbsp;</div>
 
 </li>
-	
-<li>
 
-<input type="checkbox" id="accordion8">
 
-<label for="accordion8"> United Kingdom</label>
-
-<div>
-
-<p> <b> CSIA -NJC IREP </b> <br> Overseas Institute:&nbsp;Camborne Science and International Academy (CSIA) <br><iframe width="560" height="315" src="https://www.youtube.com/embed/yoY-M1_RSv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> <br> One of our newest partners, Camborne Science and International Academy is a well-acclaimed academic institution in Cornwall, England. In this research exchange programme, students will focus on application and authentic problem solving based research projects. They will study the applications of nanoparticles in different fields of science, e.g. chemiluminescence and biosensing.&nbsp; Students will also get the opportunity to immerse themselves in the rich English culture via visits to farms, attending classes and homestays. <br><br> <b> Area of Research </b> <br> Biology, Physics, Mathematics </p>
-
-</div>
-
-</li>
-	
-<li>
-
-<input type="checkbox" id="accordion9">
-
-<label for="accordion9">Australia</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p><b> SCHS -NJC IREP </b> <br> Overseas Institute: Suzanne Cory High School (SCHS) <br><br>  Insert image here <br><br> In this research exchange programme, students will be able to collaborate with teachers and students from SCHS to investigate topics in the Arts and the Humanities. &nbsp;They will also get the opportunity to broaden their intellectual and cultural exposure by interacting with the SCHS students. <br><br>The students will communicate their research by co-presenting at the International Humanities Symposium. </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-	
 
 	
 </ul>
