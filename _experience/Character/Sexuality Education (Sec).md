@@ -61,6 +61,7 @@ for more information on the scope of Sexuality Education in the school
 curriculum.</p>
 </li>
 </ol>
+<p></p>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
@@ -68,6 +69,7 @@ curriculum.</p>
 </ol>
 <p>a. Science</p>
 <p>b. Character and Citizenship Education (CCE)</p>
+<p></p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <ol start="6" data-tight="true" class="tight">
 <li>
@@ -87,7 +89,7 @@ a strong sense of self-worth, personal conviction and an understanding
 of the possible consequences of sexual behaviour.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p></p>
 <ol start="7" data-tight="true" class="tight">
 <li>
 <p>Through the Sexuality Education lessons, secondary students will have
