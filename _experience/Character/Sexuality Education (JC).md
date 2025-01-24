@@ -6,7 +6,7 @@ third_nav_title: Character
 variant: tiptap
 ---
 <h3>Sexuality Education (JC)</h3>
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -22,6 +22,7 @@ beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
 </li>
 </ol>
+<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>The <strong>Goals</strong> of Sexuality Education are to:</p>
@@ -35,7 +36,7 @@ on sexuality matters.</p>
 <p>(c)&nbsp;Help students develop a moral compass and respect for themselves
 and others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<p>&nbsp;</p>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
@@ -49,12 +50,12 @@ and</p>
 <p>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
 <p><strong>Overview of National Junior College’s Sexuality Education Programme for 2025</strong>
 </p>
+<p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
