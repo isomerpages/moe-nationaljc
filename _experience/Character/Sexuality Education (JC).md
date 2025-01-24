@@ -150,9 +150,8 @@ by 11 April 2025.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at 6466 1144 or via email at <a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p>Parents can contact the school at 6466 1144 or via email at <a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a> for discussion or
+to seek clarification about the school’s Sexuality Education programme.</p>
 </li>
 </ol>
 <hr>
