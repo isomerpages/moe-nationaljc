@@ -81,10 +81,45 @@ the main focus on relationships.</p>
 <p></p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
-<p><strong>&nbsp;</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_163930.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_164712.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_164315.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_164128.png">
+</div>
+<p></p>
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
+collaboration with the Ministry of Education, to provide JC/MI Year 1 students
+with accurate information on STIs/HIV and protection from a health perspective.
+The desired outcome of the eTeens programme is that students are empowered
+to make wise, informed and sensible decisions.</p>
+</li>
+</ol>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p>Students learn the health, social and financial implications of STIs/HIV
+on an individual and the family, and the importance of responsible decision-making
+and seeking help. Abstinence and upholding family values are the key messages.</p>
+</li>
+</ol>
+<p><strong>At National Junior College, the <em>eTeens</em> programme will be implemented as follows in 2025</strong>
 </p>
-<p><strong>Pre-U Year 1 / IP Year 5</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_164218.png">
+</div>
 <hr>
 <p><strong>MOE Sexuality Education in Schools</strong>
 </p>
