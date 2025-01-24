@@ -182,7 +182,7 @@ form is to be submitted by 11 April 2025.</p>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of Term 2 and is also downloadable <u>here</u>. &nbsp;The completed
+at the start of Term 2 and is also downloadable <u>here</u>. The completed
 form is to be submitted by 11 April 2025.</p>
 </li>
 <li>
