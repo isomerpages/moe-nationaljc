@@ -47,3 +47,54 @@ pregnancies. Casual sex can harm and hurt you and your loved ones.</p>
 <p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
+<p></p>
+<p><strong>Overview of National Junior College’s Sexuality Education Programme for 2025</strong>
+</p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Sexuality Education is delivered in a holistic manner through the school
+curriculum. The content for Sexuality Education is grouped into five main
+themes: Human Development, Interpersonal Relationships, Sexual Health,
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> (please
+insert hyperlink: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>)
+for more information on the scope of Sexuality Education in the school
+curriculum.</p>
+</li>
+</ol>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>The subjects that incorporate topics on sexuality include:</p>
+</li>
+</ol>
+<p>a. Science</p>
+<p>b. Character and Citizenship Education (CCE)</p>
+<p><strong><u>Sexuality Education Lessons</u></strong>:</p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>The values and attitudes of our youth towards sexuality are increasingly
+shaped by their peers, exposure to the media, popular culture and the internet.
+Adolescence is a complex stage in life as the adolescent attempts to find
+his or her own identity and often struggles with new social relationships.
+The period of middle adolescence (generally from 15 – 17 years old) can
+be a turbulent period for adolescents. The gap between physical and emotional/cognitive
+maturity may result in a tendency to act on impulse, experiment with various
+activities (including sexual activities), sometimes without understanding
+the unpleasant consequences that may arise from such experimentation. The
+need for peer acceptance can be overwhelmingly strong and hinder one’s
+ability to act responsibly.&nbsp; Given the pressures faced by the middle
+adolescent from within themselves and from peers, it is important to build
+a strong sense of self-worth, personal conviction and an understanding
+of the possible consequences of sexual behaviour.</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p>Through the Sexuality Education lessons, secondary students will have
+the opportunity to develop a positive self-esteem, develop their character,
+and expand their understanding and repertoire of skills to deal with various
+issues related to sexuality, which are of prime concern at this age.</p>
+</li>
+</ol>
+<p><strong>&nbsp;</strong>
+</p>
