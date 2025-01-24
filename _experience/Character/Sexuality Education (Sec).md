@@ -55,10 +55,8 @@ more information on MOE Sexuality Education.</p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> (please
-insert hyperlink: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>)
-for more information on the scope of Sexuality Education in the school
-curriculum.</p>
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information on the scope of Sexuality Education in the school curriculum.</p>
 </li>
 </ol>
 <p></p>
@@ -178,18 +176,14 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start Term 2 and is also downloadable <u>here</u> (please upload parents
-opt-out form found in Annex <strong>A</strong> and insert a hyperlink for
-parents to download the form). The completed form is to be submitted by
-11 April 2025.</p>
+at the start Term 2 and is also downloadable <u>here</u>. The completed
+form is to be submitted by 11 April 2025.</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of Term 2 and is also downloadable <u>here</u> (please upload
-parents opt-out form found in Annex <strong>B</strong> and insert a hyperlink
-for parents to download the form). &nbsp;The completed form is to be submitted
-by 11 April 2025.</p>
+at the start of Term 2 and is also downloadable <u>here</u>. &nbsp;The completed
+form is to be submitted by 11 April 2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at 6466 1144 or via email at <a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a> for discussion or
