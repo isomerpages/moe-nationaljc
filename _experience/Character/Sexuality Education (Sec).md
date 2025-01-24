@@ -98,5 +98,94 @@ and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 </li>
 </ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality EDU Sec/Screenshot_2025_01_24_171014.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality EDU Sec/Screenshot_2025_01_24_171024.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality EDU Sec/Screenshot_2025_01_24_171031.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality EDU Sec/Screenshot_2025_01_24_171040.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality EDU Sec/Screenshot_2025_01_24_171046.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality EDU Sec/Screenshot_2025_01_24_171059.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality EDU Sec/Screenshot_2025_01_24_171107.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality EDU Sec/Screenshot_2025_01_24_171114.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality EDU Sec/Screenshot_2025_01_24_171120.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality EDU Sec/Screenshot_2025_01_24_171125.png">
+</div>
+<p></p>
+<p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
+by Health Promotion Board, in collaboration with the Ministry of Education,
+to provide Secondary 3 students with accurate information on STIs, HIV
+and protection from a health perspective. <em>eTeens</em> is conducted in
+two segments – a mass talk segment and a classroom-based programme. The
+desired outcome of the <em>eTeens</em> programme is that students are empowered
+to make wise, informed and sensible decisions.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught skills such
+as decision-making, assertiveness and negotiation to say “no” to sex and
+negative peer pressure. They also learn that the impact of STIs/HIV extends
+beyond themselves and involves their family, and the importance of responsible
+decision-making and seeking help. Abstinence and upholding family values
+are the key messages.</p>
+<p><strong>At National Junior College, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sexuality EDU Sec/Screenshot_2025_01_24_171132.png">
+</div>
+<p></p>
+<p><strong>Information for Parents</strong>
+</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of
+the Sexuality Education lessons, <em>eTeens</em> and/or supplementary sexuality
+education programmes by MOE-approved external providers.</p>
+<p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong>Sexuality Education lessons</strong> need to complete
+an opt-out form. This form will be communicated to parents at the start
+Term 2 and is also downloadable <u>here</u> (please upload parents opt-out
+form found in Annex <strong>A</strong> and insert a hyperlink for parents
+to download the form). The completed form is to be submitted by 11 April
+2025.</p>
+<p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
+out of the <strong><em>eTeens</em> programme</strong> need to complete an
+opt-out form. This form will be communicated to parents at the start of
+Term 2 and is also downloadable <u>here</u> (please upload parents opt-out
+form found in Annex <strong>B</strong> and insert a hyperlink for parents
+to download the form). &nbsp;The completed form is to be submitted by 11
+April 2025.</p>
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 6466
+1144 or via email at <a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
+<p>
+<br>
+</p>
+<p></p>
 <p><strong>&nbsp;</strong>
 </p>
