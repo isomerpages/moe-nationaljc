@@ -8,7 +8,6 @@ variant: tiptap
 <h3>Sexuality Education (Sec)</h3>
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
-<p>&nbsp;</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
 aims to enable students to understand the physiological, social and emotional
 changes they experience as they mature, develop healthy and rewarding relationships
