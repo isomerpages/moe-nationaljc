@@ -81,22 +81,22 @@ the main focus on relationships.</p>
 <p></p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_163930.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexualityEDU JC/Screenshot_2025_01_24_163930.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_164712.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexualityEDU JC/Screenshot_2025_01_24_164712.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_164315.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexualityEDU JC/Screenshot_2025_01_24_164315.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_164128.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexualityEDU JC/Screenshot_2025_01_24_164128.png">
 </div>
-<p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <ol start="6" data-tight="true" class="tight">
 <li>
@@ -118,9 +118,8 @@ and seeking help. Abstinence and upholding family values are the key messages.</
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_164218.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SexualityEDU JC/Screenshot_2025_01_24_164218.png">
 </div>
-<p></p>
 <p><strong>Information for Parents</strong>
 </p>
 <ol start="8" data-tight="true" class="tight">
