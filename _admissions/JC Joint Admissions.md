@@ -13,12 +13,12 @@ variant: tiptap
 <p>The Joint Admissions Exercise (JAE) is an annual exercise conducted by
 the Ministry of Education (MOE). It allows holders of the Singapore-Cambridge
 GCE ‘O’ Level results to apply for admission to courses offered in the
-Junior Colleges (JC), Millennia Institute (MI), Polytechnics (Poly) and
+Junior Colleges (JC), Centralised Institute (CI), Polytechnics (Poly) and
 Institute of Technical Education (ITE). The JAE usually takes place in
 January, after students receive their GCE ‘O’ level examinations results.
 JAE application is done through the Internet. Students admitted to our
 College under this exercise will secure a place in our JC1 cohort.</p>
-<p>For more information on JAE, please refer to the <a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">MOE JAE Website</a>.</p>
+<p>For more information on JAE, please refer to the&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">MOE JAE Website</a>.</p>
 <p><strong>Students who are Posted to NJC: 2025 JAE</strong>
 </p>
 <p>Welcome to the NJC Family!</p>
@@ -36,13 +36,13 @@ note that we do not accept hard-copy application forms.</p>
 <p>You may be called up for auditions, trials or interviews by the respective
 teachers-in-charge.</p>
 <p>For information about subject combinations and pre-requisites, you may
-refer to this&nbsp;<a href="https://moe-nationaljc-staging.netlify.app/senior-high/subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">webpage</a>.
+refer to this&nbsp;<a href="https://www.nationaljc.moe.edu.sg/senior-high/subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">webpage</a>.
 If you have plans to read a subject that requires a qualifying test, please
 note that all qualifying tests will be administered on&nbsp;<strong>6 February (Thurs), 3 pm to 6 pm</strong>.
 Applicants who put in the appeal by 5 February (Wed) 5.00 pm&nbsp;and&nbsp;are
 shortlisted will be notified if you are to come for the qualifying test.
 There will be no make-up qualifying test/re-test after 6 February (Thurs).</p>
-<p><strong>Successful applicants will be notified of the outcome of your appeal application by phone call, latest by 7 February 2025 (Fri), 12 pm.</strong>&nbsp;You
+<p><strong>Successful applicants will be notified of the outcome of your appeal application by phone call, latest by 10 February 2025 (Mon), 12 pm.</strong>&nbsp;You
 will be required to bring along your GCE ‘O’ Level results slip (original
 hard copy) and Form A (soft copy, or printed).</p>
 <p><strong>Important notes:</strong>
