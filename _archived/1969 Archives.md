@@ -2,12 +2,10 @@
 title: 1969 Archives
 permalink: /about/Heritage/1969-archives/
 description: ""
-third_nav_title: Heritage
 ---
 ### 1969 Archives
 
-<img src="/images/heritage1.png" 
-     style="width:50%">
+<img src="/images/heritage1.png" style="width:50%">
 
 The 1969 Archives was officially opened on 5 August 2004. The Archives was set up
 
