@@ -18,7 +18,7 @@ sections:
         Orientation programme organised for you by your seniors from 5 Feb – 11
         Feb 2025.
       button: Read more here
-      image: /images/JAE.jpg
+      image: /images/JAE_2025.png
       alt: JAE
       url: /admissions/jc-joint-admissions/
   - resources:
