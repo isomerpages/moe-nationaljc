@@ -56,6 +56,7 @@ school under the Direct School Admission (DSA), as it will not be accepted.</p>
 <p>3. Please be aware that school admissions are based on objective and transparent
 measures of academic merit, i.e. L1R5 aggregate score. Applications are
 considered only if the applicant meets the net aggregate score of the lowest-ranked
-applicant for the course that he/she is appealing for.&nbsp;</p>
+applicant for the course that he/she is appealing for.&nbsp;<strong>For 2025, the cut-off net aggregate score is 7 for the Science stream and 8 for the Arts stream.</strong>
+</p>
 <p>Appeals that take place after the JAE will be aligned to these principles,
 in order to be fair to all applicants.</p>
