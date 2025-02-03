@@ -30,9 +30,12 @@ contacting you, and helping you to adjust to NJC and make new friends.</p>
 </p>
 <p>The JAE appeal period is strictly from&nbsp;<strong>4 February 2025 (Tue), 9 am</strong>&nbsp;to&nbsp;<strong>10 February 2025 (Mon), 12 pm.</strong>
 </p>
-<p>To appeal for admission to National Junior College, please fill out the
-online application form which will be made available later.&nbsp;Please
-note that we do not accept hard-copy application forms.</p>
+<p><strong>To appeal for admission to National Junior College, please fill out the online application form</strong>&nbsp;<strong><a href="https://go.gov.sg/2025sh1appeal" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>&nbsp;<strong>Please note that we do not accept hard-copy application forms.</strong>
+</p>
+<p>If you are unable to upload your GCE ‘O’ Level results slip and other
+supporting documents using the online form, you should submit the softcopy
+documents to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>&nbsp;by
+10 February 2025 (Mon),&nbsp;12 pm</p>
 <p>You may be called up for auditions, trials or interviews by the respective
 teachers-in-charge.</p>
 <p>For information about subject combinations and pre-requisites, you may
