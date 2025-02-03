@@ -11,6 +11,14 @@ sections:
       variant: center
       title: College of the Nation
       subtitle: Home of Scholars and Leaders who Serve with Honour
+  - infopic:
+      title: "Students who are Posted to NJC : 2025 JAE"
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/JAE.jpg
+      alt: Image alt text
   - resources:
       title: News & Highlights
       subtitle: Latest
