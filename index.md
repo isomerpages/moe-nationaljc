@@ -15,7 +15,9 @@ sections:
       title: "Students who are Posted to NJC : 2025 JAE"
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
+      description: Please join us on 5 February 2025 at 7.20am at the NJC School Hall.
+        Orientation programme organised for you by your seniors from 5 Feb – 11
+        Feb 2025.
       button: Button Text
       image: /images/JAE.jpg
       alt: Image alt text
