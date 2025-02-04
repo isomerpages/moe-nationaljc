@@ -34,8 +34,8 @@ contacting you, and helping you to adjust to NJC and make new friends.</p>
 </p>
 <p>If you are unable to upload your GCE ‘O’ Level results slip and other
 supporting documents using the online form, you should submit the softcopy
-documents to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>&nbsp;by
-10 February 2025 (Mon),&nbsp;12 pm</p>
+documents to&nbsp;<a href="mailto:njc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>&nbsp;by 10 February 2025
+(Mon),&nbsp;12 pm</p>
 <p>You may be called up for auditions, trials or interviews by the respective
 teachers-in-charge.</p>
 <p>For information about subject combinations and pre-requisites, you may
