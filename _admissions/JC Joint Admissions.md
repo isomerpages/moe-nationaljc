@@ -30,9 +30,12 @@ contacting you, and helping you to adjust to NJC and make new friends.</p>
 </p>
 <p>The JAE appeal period is strictly from&nbsp;<strong>4 February 2025 (Tue), 9 am</strong>&nbsp;to&nbsp;<strong>10 February 2025 (Mon), 12 pm.</strong>
 </p>
-<p>To appeal for admission to National Junior College, please fill out the
-online application form which will be made available later.&nbsp;Please
-note that we do not accept hard-copy application forms.</p>
+<p><strong>To appeal for admission to National Junior College, please fill out the online application form</strong>&nbsp;<strong><a href="https://go.gov.sg/2025sh1appeal" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>&nbsp;<strong>Please note that we do not accept hard-copy application forms.</strong>
+</p>
+<p>If you are unable to upload your GCE ‘O’ Level results slip and other
+supporting documents using the online form, you should submit the softcopy
+documents to&nbsp;<a href="mailto:njc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>&nbsp;by 10 February 2025
+(Mon),&nbsp;12 pm</p>
 <p>You may be called up for auditions, trials or interviews by the respective
 teachers-in-charge.</p>
 <p>For information about subject combinations and pre-requisites, you may
@@ -56,6 +59,7 @@ school under the Direct School Admission (DSA), as it will not be accepted.</p>
 <p>3. Please be aware that school admissions are based on objective and transparent
 measures of academic merit, i.e. L1R5 aggregate score. Applications are
 considered only if the applicant meets the net aggregate score of the lowest-ranked
-applicant for the course that he/she is appealing for.&nbsp;</p>
+applicant for the course that he/she is appealing for.&nbsp;<strong>For 2025, the cut-off net aggregate score is 7 for the Science stream and 8 for the Arts stream.</strong>
+</p>
 <p>Appeals that take place after the JAE will be aligned to these principles,
 in order to be fair to all applicants.</p>
