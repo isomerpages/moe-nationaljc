@@ -11,16 +11,19 @@ sections:
       variant: center
       title: College of the Nation
       subtitle: Home of Scholars and Leaders who Serve with Honour
-  - infopic:
+  - announcements:
       title: "Students who are Posted to NJC : 2025 JAE"
-      id: infopic
-      description: Please join us on 5 February 2025 at 7.20am at the NJC School Hall.
-        Orientation programme organised for you by your seniors from 5 Feb – 11
-        Feb 2025.
-      button: Read more here
-      image: /images/JAE_2025.png
-      alt: JAE
-      url: /admissions/jc-joint-admissions/
+      id: announcements
+      announcement_items:
+        - title: ""
+          date: 04 February 2025
+          announcement: Welcome to the NJC Family! Please join us on 5 February 2025 at
+            7.20am at the NJC School Hall. There is an orientation programme
+            organised for you by your seniors from 5 Feb – 11 Feb 2025. Your
+            Orientation Group Leaders will be helping you to adjust to NJC and
+            to make new friends.
+          link_text: Read more here
+          link_url: /admissions/jc-joint-admissions/
   - resources:
       title: News & Highlights
       subtitle: Latest
