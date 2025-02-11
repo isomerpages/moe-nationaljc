@@ -37,20 +37,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Keng Ghee Kenneth, <strong>AM/Boarding</strong>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_keng_ghee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_keng_ghee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr K Rathakrushnan, <strong>OM/College</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:choong_cher_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">k_rathakrushnan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lawrence Ong, <strong>OM/College</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lawrence_ong_boon_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lawrence_ong_boon_hwee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -88,23 +89,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Thanalatchimi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Toh Lee Lee&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Roslinah Binte Jamil</p>
+<p>Ms Lee Kwee Eng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CSO</p>
@@ -168,6 +153,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Sabirah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Librarian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Rajasvarai d/o Radhakrishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AEP</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ahmad Fuad Bin Wahid</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,10 +209,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp; Koh Wei Yong</p>
+<p>Ms Kwan Hsueh Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp;Koh Wei Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Tick Beng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gardener</p>
 </td>
 </tr>
 <tr>
@@ -265,6 +282,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Kah Sing&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Chye Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
