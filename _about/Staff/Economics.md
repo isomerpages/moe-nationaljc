@@ -9,7 +9,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos 2024/Econs__Large_.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -23,21 +27,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jessica Gao, <strong>LH/Economics</strong>
+<p>Mr Goh Miao Guang, <strong>Year Head (Senior High)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gao_peirong_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_peirong_jessica@moe.edu.sg</a>
+<p><a href="mailto:goh_miao_guang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_miao_guang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Miao Guang, <strong>SH/International Matters</strong>
+<p>Ms Jessica Gao, <strong>LH/Economics</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_miao_guang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_miao_guang@moe.edu.sg</a>
+<p><a href="mailto:gao_peirong_jessica@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_peirong_jessica@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -95,6 +99,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ue_ying_en_pearly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ue_ying_en_pearly@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Loh Jiahui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loh_jia_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_jia_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
