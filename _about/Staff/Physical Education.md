@@ -10,7 +10,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos 2024/PE__Large_.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -24,27 +28,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Xing Tai Shaun, <strong>SH/PE and Sports</strong>
+<p>Ms Yong Man Yun, <strong>Assistant Year Head</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_xing_tai_shaun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_xing_tai_shaun@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Michelle Eng, <strong>SH/Sports &amp; Clubs</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="michelle_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_eng@moe.edu.sg</a>
+<p><a href="mailto:yong_man_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_man_yun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Then Aik Bei, <strong>AYH/Senior High</strong>
+<p>Mr Then Aik Bei, <strong>Assistant Year Head</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,11 +48,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yong Man Yun, <strong>AYH/Senior High</strong>
+<p>Mr Ang Xing Tai Shaun, <strong>SH/PE &amp; Sports</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yong_man_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yong_man_yun@moe.edu.sg</a>
+<p><a href="mailto:ang_xing_tai_shaun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_xing_tai_shaun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle Eng, <strong>SH/CCA(Sports &amp; Clubs)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="michelle_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michelle_eng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Guan Zhong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_guan_zhong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_guan_zhong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -82,10 +95,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Deon Chen</p>
+<p>Mr Jaime Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chen_guan_zhong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_guan_zhong@moe.edu.sg</a>
+<p>(will join NJC in June 2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kenneth Sim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="sim_yikai_kenneth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yikai_kenneth@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -104,24 +125,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_shengqiang_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_shengqiang_jeremy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kenneth Sim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="sim_yikai_kenneth@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_yikai_kenneth@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Zhiye</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:teo_zhiye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_zhiye@moe.edu.sg</a>
 </p>
 </td>
 </tr>
