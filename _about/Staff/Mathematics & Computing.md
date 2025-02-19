@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wang Muran, <strong>HOD/Higher Mathematics &amp; Computing (Acting)</strong>
+<p>Mr Wang Muran, <strong>HOD/Higher Mathematics &amp; Computing </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
