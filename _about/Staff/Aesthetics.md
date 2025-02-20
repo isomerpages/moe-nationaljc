@@ -9,8 +9,22 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos 2024/Aesthetics__Large_.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Heng Swee Kiang, <strong>HOD/Aesthetics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:heng_swee_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_swee_kiang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Theng Choo, <strong>ST/Art</strong>
@@ -18,15 +32,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_theng_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_theng_choo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Gayle Sim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:gayle_sim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gayle_sim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -41,33 +46,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lin_qinrong_michelle@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_qinrong_michelle@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Aaron Lum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lum_zhi_yong_aaron@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_zhi_yong_aaron@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lynette&nbsp; Yeo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lynette_yeo_yan_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lynette_yeo_yan_teng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Wun Cheng Yi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,10 +55,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ernest Yeo</p>
+<p>Ms Jamie Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ernest_yeo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ernest_yeo@moe.edu.sg</a>
+<p><a href="mailto:jamie_toh_su_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jamie_toh_su_lin@moe.edu.sg</a>
 </p>
 </td>
 </tr>

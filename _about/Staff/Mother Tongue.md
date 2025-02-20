@@ -9,7 +9,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff Photos 2024/Motehr_Tongue__Large_.jpg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -63,7 +67,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Artina&nbsp;</p>
+<p>Mdm Artina&nbsp;Binte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:artina_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">artina_selamat@moe.edu.sg</a>
@@ -90,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Iryianna&nbsp;</p>
+<p>Ms Iryianna&nbsp;Binte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:iryianna_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iryianna_ahmad@moe.edu.sg</a>
@@ -135,7 +139,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zuliana&nbsp;</p>
+<p>Mdm Zuliana&nbsp;Bte Mohd Suhod</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zuliana_mohd_suhod@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zuliana_mohd_suhod@moe.edu.sg</a>
