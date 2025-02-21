@@ -14,3 +14,8 @@ to years of dedication and perseverance.</p>
 unwavering commitment to Service with Honour, their active participation
 in CCAs, and their contributions to both the College and the wider community.
 We wish them all a bright, promising and fulfilling future ahead!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHOTO_2025_02_21_14_58_53.jpg">
+</div>
+<p></p>
