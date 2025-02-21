@@ -11,17 +11,6 @@ sections:
       variant: center
       title: College of the Nation
       subtitle: Home of Scholars and Leaders who Serve with Honour
-  - announcements:
-      title: JC Joint Admissions
-      id: announcements
-      announcement_items:
-        - title: Release of 2024 'A' Level Results
-          date: 21 February 2025
-          announcement: We congratulate our 480 NJCians who sat for the 2024 GCE A-Level
-            Examinations for their excellent performance. Their results are a
-            testament to their dedication and perseverance.
-          link_text: ""
-          link_url: ""
   - resources:
       title: News & Highlights
       subtitle: Latest
