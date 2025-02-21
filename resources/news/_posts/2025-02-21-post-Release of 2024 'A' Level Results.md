@@ -7,3 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>We congratulate our 480 NJCians from the class of 2024 for their excellent
+performance at the 2024 GCE A-Level Examinations. Their results are a testament
+to years of dedication and perseverance.</p>
+<p>Apart from their academic successes, we are also very proud of our student’s
+unwavering commitment to Service with Honour, their active participation
+in CCAs, and their contributions to both the College and the wider community.
+We wish them all a bright, promising and fulfilling future ahead!</p>
