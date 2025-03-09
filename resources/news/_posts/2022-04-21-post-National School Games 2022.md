@@ -4,6 +4,7 @@ permalink: /resources/news/national-school-games-2022/
 date: 2022-04-21
 layout: post
 description: ""
+variant: markdown
 ---
 #### National School Games 2022
 
@@ -11,7 +12,7 @@ description: ""
 
 Softball National A Div Boys Semi-Finals 2022 – 3rd Runner up
 
-[Basketball National A Div Boys Championships 2022](https://www.redsports.sg/2022/05/26/national-a-div-basketball-final-boys-njc-hci/?fbclid=IwAR3WIcnx-dHAFpUJ1TjX60vWFwr6vndkXVFTQOhisaKCHnqX0UE3MZjPsb0&fs=e&s=cl) – Champion
+Basketball National A Div Boys Championships 2022– Champion
 
 Basketball National A Div Girls Championships 2022 – 1st Runner up
 
