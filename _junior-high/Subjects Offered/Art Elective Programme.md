@@ -30,9 +30,6 @@ Graduates of our Programme excel in:
 • Innovating with new materials and processes  
 • Risk-taking to chart new milestones
 
-**DEVELOPMENTAL LEVELS OF STUDY**
-
-![](/images/niche2.png)
 
 **1) Studio Practice**  
 •Elegant task-based challenges, self-directed idea generation with guided autonomy, principle-based exercises.  
