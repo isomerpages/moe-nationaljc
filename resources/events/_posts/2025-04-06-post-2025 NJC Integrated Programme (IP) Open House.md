@@ -10,7 +10,7 @@ variant: tiptap
 <h4><strong>2025 NJC Integrated Programme (IP) Open House</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_07_at_07_57_30_bc9c6d04.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_07_at_07_57_30_bc9c6d04.jpg">
 </div>
 <p>NJC would like to invite all P6 students and parents to visit our upcoming
 Integrated Programme (IP) Open House on 10 May 2025 (Saturday), any time
