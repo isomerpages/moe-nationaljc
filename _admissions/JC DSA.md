@@ -44,15 +44,16 @@ areas to apply:</p>
 <p><strong><u>Sports and Games</u></strong>
 </p>
 <p>Badminton</p>
-<p>Basketball
-<br>Canoeing &amp; Dragon Boating
-<br>Floorball
-<br>Netball&nbsp;<strong>(Girls Only)</strong>
-<br>Rockwall Climbing
-<br>Shooting</p>
+<p>Basketball</p>
+<p>Canoeing &amp; Dragon Boating</p>
+<p>Floorball</p>
+<p>Netball&nbsp;<strong>(Girls Only)</strong>
+</p>
+<p>Rockwall Climbing</p>
+<p>Shooting</p>
 <p>Softball</p>
-<p>Squash
-<br>Touch Rugby&nbsp;<strong>(Girls Only)</strong>
+<p>Squash</p>
+<p>Touch Rugby&nbsp;<strong>(Girls Only)</strong>
 </p>
 <p>Track &amp; Field and Cross Country</p>
 </td>
