@@ -31,74 +31,79 @@ areas to apply:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>Co-Curricular Activities</strong>
-<br>Please refer to this&nbsp;<a href="/co-curricular-activities/overview/" rel="noopener noreferrer nofollow" target="_blank">page</a> for a description of
-CCAs offered in NJC</p>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Please refer to this&nbsp;<a href="https://www.nationaljc.moe.edu.sg/co-curricular-activities/overview/" rel="noopener noreferrer nofollow" target="_blank">page&nbsp;</a>for a description of CCAs offered in NJC.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sports and Games</strong>
-<br>Basketball
+<p><strong><u>Sports and Games</u></strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Basketball
 <br>Canoeing
 <br>Cross Country; Track and Field
 <br>Shooting
-<br>Softball
-<br>Squash
-<br>
-<br><strong>Performing Arts</strong>
-<br>Choir
+<br>Softball&nbsp;
+<br>Squash</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Performing Arts</u></strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Choir
 <br>Chinese Dance
 <br>Chinese Orchestra
 <br>Concert Band
 <br>Guitar Ensemble
-<br>Guzheng Ensemble
 <br>Indian Dance
 <br>Malay Dance
 <br>Modern Dance (Western Dance)
-<br>String Ensemble
-<br>
+<br>String Ensemble</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Science, Technology, Engineering and Mathematics</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Engineering Innovation and Solutions</p>
+<p><strong>(will be required to be engaged in and lead STEM-based activities for 4 years in Junior High)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Music<br></strong>
+<p><strong>Visual Arts, Design and Media</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Music Programme</strong>
-<br>(will be required to take Music as an elective for 4 years in Junior High.
-Please note that the Music Programme is only offered to Junior High Students)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Science, Technology, Engineering and Mathematics<br></strong>
+<p>MOE Art Elective Programme<strong>&nbsp;</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Engineering Innovation and Solutions</strong>
-<br>(will be required to be engaged in and lead STEM-based activities for
-4 years in Junior High)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Visual Arts, Design and Media <br></strong>
+<p><strong>(will be required to take Art as an academic subject for 4 years in Junior High)</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>MOE Art Elective Programme</strong>
-<br>(will be required to take Art as an academic subject for 4 years in Junior
-High)</p>
 </td>
 </tr>
 </tbody>
