@@ -43,19 +43,43 @@ areas to apply:</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Sports and Games</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Badminton</p>
+</li>
+<li>
 <p>Basketball</p>
+</li>
+<li>
 <p>Canoeing &amp; Dragon Boating</p>
+</li>
+<li>
 <p>Floorball</p>
+</li>
+<li>
 <p>Netball&nbsp;<strong>(Girls Only)</strong>
 </p>
+</li>
+<li>
 <p>Rockwall Climbing</p>
+</li>
+<li>
 <p>Shooting</p>
+</li>
+<li>
 <p>Softball</p>
+</li>
+<li>
 <p>Squash</p>
+</li>
+<li>
 <p>Touch Rugby&nbsp;<strong>(Girls Only)</strong>
 </p>
+</li>
+<li>
 <p>Track &amp; Field and Cross Country</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
