@@ -89,7 +89,7 @@ areas to apply:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Art Elective Programme (AEP)&nbsp;</p>
+<p>MOE Art Elective Programme (AEP)</p>
 <p><strong>(must offer A-Level H2 Art)</strong>
 </p>
 </td>
@@ -100,7 +100,7 @@ areas to apply:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science Research Programme&nbsp;</p>
+<p>Science Research Programme</p>
 <p><strong>(must offer A-Level H3 Science Research)</strong>
 </p>
 </td>
@@ -111,14 +111,14 @@ areas to apply:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Malay Language Elective Programme&nbsp;</p>
+<p>Malay Language Elective Programme</p>
 <p><strong>(must offer A-Level H2 Malay Language &amp; Literature)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tamil Language Elective Programme&nbsp;</p>
+<p>Tamil Language Elective Programme</p>
 <p><strong>(must offer A-Level H2 Tamil Language &amp; Literature)</strong>
 </p>
 </td>
