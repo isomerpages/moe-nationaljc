@@ -82,15 +82,35 @@ areas to apply:</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Performing Arts</u></strong>
 </p>
-<p>Choir
-<br>Chinese Dance
-<br>Chinese Orchestra
-<br>Concert Band
-<br>Guitar Ensemble
-<br>Indian Dance
-<br>Malay Dance
-<br>Modern Dance (Western Dance)
-<br>String Ensemble</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Choir</p>
+</li>
+<li>
+<p>Chinese Dance</p>
+</li>
+<li>
+<p>Chinese Orchestra</p>
+</li>
+<li>
+<p>Concert Band</p>
+</li>
+<li>
+<p>Guitar Ensemble</p>
+</li>
+<li>
+<p>Indian Dance</p>
+</li>
+<li>
+<p>Malay Dance</p>
+</li>
+<li>
+<p>Modern Dance (Western Dance)</p>
+</li>
+<li>
+<p>String Ensemble</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
