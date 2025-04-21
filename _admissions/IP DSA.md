@@ -56,8 +56,6 @@ areas to apply:</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Sports and Games</u></strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p>Basketball
 <br>Canoeing
 <br>Cross Country; Track and Field
@@ -69,8 +67,6 @@ areas to apply:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Performing Arts</u></strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <p>Choir
 <br>Chinese Dance
