@@ -131,14 +131,11 @@ criteria:</p>
 </li>
 <li>
 <p>Exemplify and role model positive character traits, including resilience,
-motivation and integrity;</p>
+motivation and integrity; and</p>
 </li>
 <li>
 <p>Display a commitment to contribute to NJC, through the area of interest
-as well as other opportunities to serve; and</p>
-</li>
-<li>
-<p>Possess good academic potential to thrive in the Integrated Programme.</p>
+as well as other opportunities to serve.</p>
 </li>
 </ol>
 <p>as well as criteria specific to each talent area.</p>
