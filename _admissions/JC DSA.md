@@ -33,90 +33,90 @@ areas to apply:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="3" colspan="1">
+<p><strong>1. CCA Excellence</strong>
+</p>
+<p>&nbsp;</p>
+<p><strong><em>Please refer to this&nbsp;<a href="https://www.nationaljc.moe.edu.sg/co-curricular-activities/overview/" rel="noopener noreferrer nofollow" target="_blank">page</a>&nbsp;for a description of CCAs offered in NJC.</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><u>Sports and Games</u></strong>
+<br>Badminton</p>
+<p>Basketball
+<br>Canoeing &amp; Dragon Boating
+<br>Floorball
+<br>Netball&nbsp;<strong>(Girls Only)</strong>
+<br>Rockwall Climbing
+<br>Shooting
+<br>Softball</p>
+<p>Squash
+<br>Touch Rugby&nbsp;<strong>(Girls Only)</strong>
+</p>
+<p>Track &amp; Field and Cross Country</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1. CCA Excellence</strong>
-<br>
-<br>Please refer to this <a href="/co-curricular-activities/overview/" rel="noopener noreferrer nofollow" target="_blank">page</a> for a description of
-CCAs offered in NJC.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sports and Games</strong>
-<br>Badminton
-<br>Basketball
-<br>Canoeing &amp; Dragon Boating
-<br>Floorball
-<br>Football <strong>(Boys Only)</strong>
-<br>Netball <strong>(Girls Only)</strong>
-<br>Rock Wall Climbing
-<br>Shooting
-<br>Softball
-<br>Squash
-<br>Table Tennis
-<br>Touch Rugby <strong>(Girls Only)</strong>
-<br>Track and Field / Cross Country
-<br>
-<br><strong>Performing Arts</strong>
-<br>Chinese Dance
-<br>Chinese Orchestra
-<br>Choir
-<br>Concert Band
-<br>Guitar Ensemble
-<br>Guzheng Ensemble
+<p><strong><u>Performing Arts</u></strong>
+<br>Chinese Dance</p>
+<p>Chinese Orchestra
+<br>Choir</p>
+<p>Concert Band</p>
+<p>Guitar Ensemble
 <br>Indian Dance
 <br>Malay Dance
 <br>Modern Dance (Western Dance)
-<br>String Ensemble
-<br>
-<br><strong>Clubs &amp; Societies</strong>
-<br>Chinese Language, Drama and Debating (CLDDS)
+<br>String Ensemble</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>Clubs &amp; Societies</u></strong>
 <br>English Language, Drama and Debating (ELDDES)
-<br>Greenlink Club (Environmental Science)
-<br>Indian Language, Drama and Debating (ILDDS)
 <br>Interact Club (Community Youth Leadership)
-<br>Makers' Society (Innovation)
-<br>Malay Language, Drama and Debating (MLDDS)
-<br>Production Society (Film &amp; Photography)
+<br>
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2. Art Excellence</p>
+<p><strong>2. Art Excellence&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Art Elective Programme (AEP)
-<br><strong>(must offer A-Level H2 Art</strong>)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3. Science Research Excellence (refer to this <a href="/niche-programmes/research/" rel="noopener noreferrer nofollow" target="_blank">page</a> for details)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science Training and Research Programme
-<br><strong>(must offer A-Level H3 Science Research)</strong>
+<p>MOE Art Elective Programme (AEP)&nbsp;</p>
+<p><strong>(must offer A-Level H2 Art)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4. Language Elective Programmes</p>
+<p><strong>3. Science Research Excellence (refer to this&nbsp;<a href="https://www.nationaljc.moe.edu.sg/niche-programmes/research/" rel="noopener noreferrer nofollow" target="_blank">page</a>&nbsp;for details)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Malay Language Elective Programme
-<br><strong>(must offer A-Level H2 Malay Language &amp; Literature)</strong>
-<br>
-<br>Tamil Language Elective Programme
-<br><strong>(must offer A-Level H2 Tamil Language &amp; Literature)</strong>
+<p>Science Research Programme&nbsp;</p>
+<p><strong>(must offer A-Level H3 Science Research)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>4. Language Elective Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language Elective Programme&nbsp;</p>
+<p><strong>(must offer A-Level H2 Malay Language &amp; Literature)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tamil Language Elective Programme&nbsp;</p>
+<p><strong>(must offer A-Level H2 Tamil Language &amp; Literature)</strong>
 </p>
 </td>
 </tr>
