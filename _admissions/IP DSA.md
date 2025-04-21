@@ -162,6 +162,6 @@ as well as other opportunities to serve; and</p>
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
 <p>The selection criteria and process for the talent areas will be updated
-from early May. For more information on DSA-JC, please refer to the MOE
-website:&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-jc</a>.</p>
+from early May. For more information on DSA-Sec, please refer to the MOE
+website: <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p>We thank you for your interest in National Junior College.</p>
