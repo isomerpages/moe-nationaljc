@@ -61,15 +61,16 @@ areas to apply:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Performing Arts</u></strong>
-<br>Chinese Dance</p>
-<p>Chinese Orchestra
-<br>Choir</p>
+</p>
+<p>Chinese Dance</p>
+<p>Chinese Orchestra</p>
+<p>Choir</p>
 <p>Concert Band</p>
-<p>Guitar Ensemble
-<br>Indian Dance
-<br>Malay Dance
-<br>Modern Dance (Western Dance)
-<br>String Ensemble</p>
+<p>Guitar Ensemble</p>
+<p>Indian Dance</p>
+<p>Malay Dance</p>
+<p>Modern Dance (Western Dance)</p>
+<p>String Ensemble</p>
 </td>
 </tr>
 <tr>
