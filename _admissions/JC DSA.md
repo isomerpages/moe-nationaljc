@@ -120,11 +120,18 @@ areas to apply:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Clubs &amp; Societies</u></strong>
-<br>English Language, Drama and Debating (ELDDES)</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>English Language, Drama and Debating (ELDDES)</p>
+</li>
+<li>
 <p>Interact Club (Community Youth Leadership)
 <br>
 <br>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
