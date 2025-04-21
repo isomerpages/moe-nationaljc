@@ -76,8 +76,8 @@ areas to apply:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><u>Clubs &amp; Societies</u></strong>
-<br>English Language, Drama and Debating (ELDDES)
-<br>Interact Club (Community Youth Leadership)
+<br>English Language, Drama and Debating (ELDDES)</p>
+<p>Interact Club (Community Youth Leadership)
 <br>
 <br>
 </p>
