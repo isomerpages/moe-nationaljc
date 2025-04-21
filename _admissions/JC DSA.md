@@ -42,14 +42,15 @@ areas to apply:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Sports and Games</u></strong>
-<br>Badminton</p>
+</p>
+<p>Badminton</p>
 <p>Basketball
 <br>Canoeing &amp; Dragon Boating
 <br>Floorball
 <br>Netball&nbsp;<strong>(Girls Only)</strong>
 <br>Rockwall Climbing
-<br>Shooting
-<br>Softball</p>
+<br>Shooting</p>
+<p>Softball</p>
 <p>Squash
 <br>Touch Rugby&nbsp;<strong>(Girls Only)</strong>
 </p>
