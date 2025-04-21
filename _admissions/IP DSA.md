@@ -56,12 +56,26 @@ areas to apply:</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Sports and Games</u></strong>
 </p>
-<p>Basketball
-<br>Canoeing
-<br>Cross Country; Track and Field
-<br>Shooting
-<br>Softball&nbsp;
-<br>Squash</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Basketball</p>
+</li>
+<li>
+<p>Canoeing</p>
+</li>
+<li>
+<p>Cross Country; Track and Field</p>
+</li>
+<li>
+<p>Shooting</p>
+</li>
+<li>
+<p>Softball</p>
+</li>
+<li>
+<p>Squash</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
