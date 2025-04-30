@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>Integrated Programme (Direct School Admission) Selection Criteria</h3>
-<h4>Integrated Programme (Direct School Admission) Selection Criteria</h4>
-<p>DSA-Sec Selection Criteria</p>
+<h4><strong>DSA-Sec Selection Criteria</strong></h4>
 <p>Applicants will be shortlisted and selected based on the following overarching
 criteria:</p>
 <ol data-tight="true" class="tight">
