@@ -171,7 +171,7 @@ to each talent area.</p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
-<p>All shortlisted candidates will be&nbsp;<strong>notified via email in early August 2025</strong>&nbsp;to
+<p>All shortlisted candidates will be&nbsp;<strong>notified via email by early August 2025</strong>&nbsp;to
 attend an in-person audition / trial&nbsp;held in National Junior College.
 More details on the performance task will be provided in the email notification.</p>
 <p>Thereafter, applicants who are further shortlisted will be&nbsp;<strong>notified via email</strong>&nbsp;to
