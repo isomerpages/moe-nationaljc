@@ -29,8 +29,7 @@ note that meeting all the criteria does not guarantee that the applicant
 will be shortlisted or given an offer.</p>
 <p><em>The selection criteria below are subject to changes. Applicants are advised to refer to the webpage at the point of application.</em>
 </p>
-<p><strong><u>Sports &amp; Games</u></strong>
-</p>
+<h4><strong><u>Sports &amp; Games</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
