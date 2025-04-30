@@ -149,8 +149,7 @@ and events</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Visual, Literary and Performing Arts</u></strong>
-</p>
+<h4><strong><u>Visual, Literary and Performing Arts</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -330,8 +329,7 @@ years by subject tutors.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Science, Technology, Engineering and Mathematics (STEM)&nbsp;</u></strong>
-</p>
+<h4><strong><u>Science, Technology, Engineering and Mathematics (STEM)&nbsp;</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -393,17 +391,6 @@ provided.</p>
 <p>To be engaged in and lead STEAM-based co-curricular activities (e.g. coding
 workshops, design thinking workshops, research and innovation projects
 etc.) for 4 years in Junior High.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
