@@ -26,9 +26,9 @@ description: ""
 <p><em>The gate adjacent to the bus stop along Dunearn Road allows students to enter the College via the Sports Complex. This gate is opened from 6:00 am to 7:40 am (and 8:40 am on Thursdays) each morning, and from 12:00 pm to 10:00 pm in the afternoons/evenings. The gate is accessible from 6:00 am to 6:00 pm on Saturdays. Access via this gate is done electronically using registered EZ-Link cards.&nbsp;(These timings may be adjusted according to the college calendar.)</em>
 </p>
 <p><strong>How much do I have to pay for my child’s school fees?</strong>&nbsp;&nbsp;</p>
-<p><em>The fees payable is dependent on your child’s nationality/citizenship. Please check&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a>&nbsp;for the latest information on school fees.</em>
+<p><em>The fees payable is dependent on your child’s nationality/citizenship. Please check&nbsp;<a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees</a>&nbsp;for the latest information on school fees.</em>
 </p>
-<p><em>Please also note that there are financial aid schemes for Singapore Citizens. You may refer to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>&nbsp;to find out more.</em>
+<p><em>Please also note that there are financial aid schemes for Singapore Citizens. You may refer to&nbsp;<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>&nbsp;to find out more.</em>
 </p>
 <p><strong>What are NJC students’ learning experiences like? Is there a lot of homework?</strong>&nbsp;</p>
 <p><em>Junior High students generally learn in subject class groups, with occasional mass lectures at the Upper JH levels. They are exposed to a variety of learning tools and resources, and are trained to use print and non-print media for information or knowledge processing. They also make presentations of their ideas to their classmates and embark on projects, both written and oral. There is room for them to grow their thinking skills, subject-specific content and skills, oral skills, people skills, time management skills, self-management and leadership competencies.</em>&nbsp;&nbsp;</p>
@@ -74,7 +74,7 @@ description: ""
 </p>
 <p><em><s>&nbsp;</s></em>
 </p>
-<p><em>JH1 students will experience Sports &amp; Games and Performing Arts CCAs during their Orientation week. This will help them make an informed decision in their choice of CCA for their remaining JH years.<br><br>Only the 15 Junior High CCAs are opened to Junior High students and you can check them out at this <a href="https://www.nationaljc.moe.edu.sg/co-curricular-activities/overview/" rel="noopener noreferrer nofollow" target="_blank">link</a>. There are no Uniformed Groups at NJC.</em>
+<p><em>JH1 students will experience Sports &amp; Games and Performing Arts CCAs during their Orientation week. This will help them make an informed decision in their choice of CCA for their remaining JH years.<br><br>Only the 15 Junior High CCAs are opened to Junior High students and you can check them out at this <a href="/co-curricular-activities/overview/" rel="noopener noreferrer nofollow" target="_blank">link</a>. There are no Uniformed Groups at NJC.</em>
 </p>
 <p><em>Students who are admitted via the DSA-Sec exercise through a CCA must commit to their CCA for four years. They may join another CCA in Senior High if they choose to.</em>
 </p>
@@ -95,7 +95,7 @@ description: ""
 <p><em>All applications must be submitted through the online DSA-Sec Portal. Applications are free-of-charge.&nbsp;Applicants only need to fill in one online form to apply to multiple schools.</em>
 </p>
 <p><em>Applicants may indicate up to 3 choices and 3 talent areas. You may indicate up to 2 talent areas for the same school. If you want to apply for 2 talent areas at the same school, you must indicate both as separate choices.</em>&nbsp;</p>
-<p><em>Please refer to the MOE website:</em>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;<em>for more details.</em>&nbsp;</p>
+<p><em>Please refer to the MOE website:</em>&nbsp;<a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;<em>for more details.</em>&nbsp;</p>
 <p><strong>How many students has NJC admitted via DSA over the last few years?</strong>&nbsp;&nbsp;</p>
 <p><em>NJC has admitted about 25-30% of the cohort via DSA over the last 5 years.</em>
 </p>
