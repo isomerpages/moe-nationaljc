@@ -4,7 +4,7 @@ permalink: /admissions/ip-dsa-faq/
 variant: tiptap
 description: ""
 ---
-<h3>FAQs about IP DSA (Sec)</h3>
+<h3><strong>FAQs about IP DSA (Sec)</strong></h3>
 <h4><strong><u>Admissions and Intake</u></strong></h4>
 <p><strong>How many students does NJC enrol in each Junior High cohort?</strong>
 </p>
