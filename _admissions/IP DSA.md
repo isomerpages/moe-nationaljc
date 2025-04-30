@@ -164,7 +164,7 @@ as well as other opportunities to serve; and</p>
 <p>Possess good academic potential to thrive in the Integrated Programme.</p>
 </li>
 </ol>
-<p>as well as&nbsp;<a href="https://moe-nationaljc-staging.netlify.app/integrated-programme-selection-criteria" rel="noopener noreferrer nofollow" target="_blank">criteria</a>&nbsp;specific
+<p>as well as&nbsp;<a href="/integrated-programme-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a>&nbsp;specific
 to each talent area.</p>
 <p><strong>Please read through the criteria carefully for each talent area. It also shows the portfolio requirements for the talent areas that require portfolio submission.</strong>
 </p>
