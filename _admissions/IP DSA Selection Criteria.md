@@ -462,7 +462,7 @@ growth and contribution opportunities available within NJC, NJC AEP and
 beyond.</p>
 <p></p>
 <p><strong>For more details, including portfolio requirements, please click </strong>
-<a href="/files/NJC_DSA__AEP__GUIDE__PDF_.pdf" rel="noopener nofollow" target="_blank">file</a><strong>.</strong>
+<a href="/files/NJC_DSA__AEP__GUIDE__PDF_.pdf" rel="noopener nofollow" target="_blank">fifilele</a><strong>.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
