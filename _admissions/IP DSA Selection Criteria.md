@@ -237,9 +237,9 @@ and events</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>(1) Ability to play proficiently one of the following band instruments:
-euphonium, tuba, trumpet, trombone, horn, cornet, flute, oboe, clarinet,
-bassoon, double bass, harp, saxophone OR a range of percussion instruments</p>
+<p>Ability to play proficiently one of the following band instruments: euphonium,
+tuba, trumpet, trombone, horn, cornet, flute, oboe, clarinet, bassoon,
+double bass, harp, saxophone OR a range of percussion instruments</p>
 </li>
 <li>
 <p>Aural and sight-reading ability</p>
