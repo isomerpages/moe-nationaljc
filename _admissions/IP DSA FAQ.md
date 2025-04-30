@@ -5,16 +5,14 @@ variant: tiptap
 description: ""
 ---
 <h3>FAQs about IP DSA (Sec)</h3>
-<p><strong><u>Admissions and Intake</u></strong>
-</p>
+<h4><strong><u>Admissions and Intake</u></strong></h4>
 <p><strong>How many students does NJC enrol in each Junior High cohort?</strong>
 </p>
 <p><em>There are around 200 students in each Junior High cohort.</em>
 </p>
 <p><strong>Is NJC affiliated with any Primary school for better chances of entry?</strong>&nbsp;</p>
 <p><em>No, NJC is not affiliated to any Primary or Secondary school.</em>&nbsp;&nbsp;</p>
-<p><strong><u>School Structure and Processes</u></strong>
-</p>
+<h4><strong><u>School Structure and Processes</u></strong></h4>
 <p><strong>How are incoming JH1 students allocated to classes?</strong>&nbsp;&nbsp;</p>
 <p><em>There is a good mix of students with different gifts/talents, interests, races, and backgrounds in each class. It is important that NJCians value diversity and learn to harness the synergy this offers. These are fundamental to a rich learning experience. There are usually between 26 – 29 students in a JH class. There are 7 JH1 classes.</em>&nbsp;&nbsp;</p>
 <p><strong>What time does school start and end for Junior High students?</strong>&nbsp;&nbsp;</p>
@@ -69,11 +67,10 @@ description: ""
 </p>
 <p><strong>There is no O-Level cohort at NJC. What would happen to my child if he/she is not able to cope with the IP?</strong>&nbsp;&nbsp;</p>
 <p><em>We will take care of every child. Learning is personalised and differentiated to ensure that all learners are able to optimise the learning experience. In a similar vein, every learner is supported to ensure that learning gaps are addressed in a timely manner and that the learner rebuilds confidence.</em>&nbsp;&nbsp;</p>
-<p><em>There have been instances where a child and his/her parents feel that another education track is more appropriate. We have facilitated the necessary and continued to monitor the growth and progress of the child. These children have done very well for themselves.</em>&nbsp;</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank"><u>CCAs&nbsp;</u></a></strong>
+<p><em>There have been instances where a child and his/her parents feel that another education track is more appropriate. We have facilitated the necessary and continued to monitor the growth and progress of the child. These children have done very well for themselves.</em>
 </p>
-<p><em><s>&nbsp;</s></em>
-</p>
+<p></p>
+<h4><strong><u>CCAs</u></strong></h4>
 <p><em>JH1 students will experience Sports &amp; Games and Performing Arts CCAs during their Orientation week. This will help them make an informed decision in their choice of CCA for their remaining JH years.<br><br>Only the 15 Junior High CCAs are opened to Junior High students and you can check them out at this <a href="/co-curricular-activities/overview/" rel="noopener noreferrer nofollow" target="_blank">link</a>. There are no Uniformed Groups at NJC.</em>
 </p>
 <p><em>Students who are admitted via the DSA-Sec exercise through a CCA must commit to their CCA for four years. They may join another CCA in Senior High if they choose to.</em>
@@ -81,16 +78,14 @@ description: ""
 <p>&nbsp;</p>
 <p><strong>How many CCAs can students take up?</strong>&nbsp;</p>
 <p><em>Most students from JH will follow MOE guidelines to take up one core CCA activity, often a sport or one of the performing arts. There are some students, with the consent of their parents and teachers, who also join a second CCA, often a club or society where they pursue other non-sports or performing arts interests. On top of their CCAs, JH students with a passion to lead also serve the student community as members of the Student Council or as Peer Support Leaders.</em>&nbsp;&nbsp;</p>
-<p><strong><u>Research@NJC</u></strong>
-</p>
+<h4><strong><u>Research@NJC</u></strong></h4>
 <p><strong>What research opportunities does NJC provide?</strong>
 </p>
 <p><em>All JH students will read the Special Programme in Inquiry and REsearch (SPIRE). SPIRE starts in the second half of JH2. Your child will be introduced to the basics of research, specifically to learn how to read academic papers, understand the knowledge creation process, develop capacity in asking and framing research questions and write a research proposal. Your child is free to explore any academic field (Sciences, Mathematics, Sport Science, Humanities or Language Arts) and will be mentored by a teacher who has expertise in that field. In JH3, your child will continue with what he/she had previously proposed, e.g. conduct experiments, develop models and simulations, administer investigative surveys, etc. The SPIRE experience culminates with a Symposium at the end of JH3.</em>&nbsp;&nbsp;</p>
 <p><em>Your child could also choose to further his/her research experience by participating in the College’s Science Training &amp; Research (STaR) Programme. This programme affords your child the opportunity to work with research scientists at various academic (e.g. NUS, NTU, SUTD), research institutes (e.g. A*STAR) institutes and industry partners under the guidance of professional academics or principal investigators. Further to this, your child would also have the opportunity to participate in research exchange programmes with various high schools from Singapore and around the world (e.g. Australia, Japan, Russia, South Korea, Thailand, Vietnam, United Kingdom) in various fields (Sciences, Mathematics, Sport Science, Humanities or Language Arts).</em>&nbsp;&nbsp;</p>
 <p><em>All research students have the opportunity to present their work at various platforms, ranging from local &amp; international fairs to academic conferences. Research exchange programmes are available for JH3-SH1 students. Finally, students may choose to read research as a Higher 3 (H3) subject when in Senior High.</em>
 </p>
-<p><strong><u>DSA (Sec)-Specific Questions</u></strong>
-</p>
+<h4><strong><u>DSA (Sec)-Specific Questions</u></strong></h4>
 <p><strong>How do I apply for DSA? How many choices can I make? Is there an application fee?</strong>&nbsp;</p>
 <p><em>All applications must be submitted through the online DSA-Sec Portal. Applications are free-of-charge.&nbsp;Applicants only need to fill in one online form to apply to multiple schools.</em>
 </p>
@@ -117,8 +112,7 @@ description: ""
 <p><strong>If I am unsuccessful under the DSA, how else can I gain admission to NJC?</strong>&nbsp;</p>
 <p><em>Primary 6 students can apply through the Secondary One Posting Exercise conducted by MOE after the release of the PSLE results, provided that they have not already accepted a DSA offer from another secondary school.</em>
 </p>
-<p><strong><u>Art Elective Programme (AEP)</u></strong>
-</p>
+<h4><strong><u>Art Elective Programme (AEP)</u></strong></h4>
 <p><strong>What does AEP mean for me?</strong>
 </p>
 <p><em>AEP is offered as an academic programme where students who are admitted are required to read Art as part of their academic curriculum. It is mandatory for students who are in the AEP to attend the curriculum lessons which take place on weekday afternoons.</em>
