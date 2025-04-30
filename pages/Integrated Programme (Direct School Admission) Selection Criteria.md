@@ -4,7 +4,7 @@ permalink: /integrated-programme-selection-criteria/
 description: ""
 variant: tiptap
 ---
-<h3>Integrated Programme (Direct School Admission) Selection Criteria</h3>
+<h3><strong>Integrated Programme (Direct School Admission) Selection Criteria</strong></h3>
 <h4><strong>DSA-Sec Selection Criteria</strong></h4>
 <p>Applicants will be shortlisted and selected based on the following overarching
 criteria:</p>
