@@ -53,11 +53,7 @@ will be shortlisted or given an offer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol data-tight="true" class="tight">
-<li>
 <p>Basketball</p>
-</li>
-</ol>
 </td>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
