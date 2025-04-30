@@ -395,5 +395,5 @@ etc.) for 4 years in Junior High.</p>
 </tr>
 </tbody>
 </table>
-<p>Click&nbsp;<a href="https://moe-nationaljc-staging.netlify.app/admissions/ip-dsa" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Click&nbsp;<a href="https://www.nationaljc.moe.edu.sg/admissions/ip-dsa/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 return to the IP DSA page</p>
