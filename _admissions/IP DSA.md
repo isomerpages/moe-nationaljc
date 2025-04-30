@@ -164,9 +164,9 @@ as well as other opportunities to serve; and</p>
 <p>Possess good academic potential to thrive in the Integrated Programme.</p>
 </li>
 </ol>
-<p>as well as&nbsp;<a href="/integrated-programme-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a>&nbsp;specific
+<p>as well as&nbsp;<a href="/admissions/integrated-programme-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a>&nbsp;specific
 to each talent area.</p>
-<p><strong>Please read through the </strong><a href="/integrated-programme-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a>&nbsp;<strong>carefully for each talent area. It also shows the portfolio requirements for the talent areas that require portfolio submission.</strong>
+<p><strong>Please read through the </strong><a href="/admissions/integrated-programme-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a>&nbsp;<strong>carefully for each talent area. It also shows the portfolio requirements for the talent areas that require portfolio submission.</strong>
 </p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
@@ -188,7 +188,7 @@ at 6466 1144 during office hours (9 am to 5 pm) or drop us an email at
 <a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>with the subject “DSA-Sec”.</p>
 <p>For more information on the DSA-Sec exercise, please refer to the MOE
 website:&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
-<p>Please also see our&nbsp;<a href="https://moe-nationaljc-staging.netlify.app/faq/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>.</p>
+<p>Please also see our&nbsp;<a href="/admissions/ip-dsa-faq/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>.</p>
 <p>We thank you for your interest in National Junior College<s>.</s>
 </p>
 <p>&nbsp;</p>
