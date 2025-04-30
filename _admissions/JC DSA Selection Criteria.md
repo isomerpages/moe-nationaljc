@@ -1,5 +1,5 @@
 ---
-title: Junior College (Direct School Admission) Selection Criteria
+title: JC DSA Selection Criteria
 permalink: /junior-college-selection-criteria/
 description: ""
 variant: markdown

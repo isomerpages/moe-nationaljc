@@ -1,6 +1,6 @@
 ---
 title: IP DSA Exercise 2025
-date: 2025-04-20
+date: 2025-04-30
 layout: link
 description: ""
 image: ""
