@@ -418,18 +418,27 @@ Violin, Viola, Cello, Double Bass
 <br>(AEP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1)&nbsp;&nbsp; <strong>Talent </strong>– applicant has unique and interesting
-ideas and messages about what/how to make art.</p>
-<p>(2)&nbsp;&nbsp; <strong>Passion</strong> – applicant frequently takes the
-initiative to seek out art and new ways of making art.</p>
-<p>(3)&nbsp;&nbsp; <strong>Fortitude</strong> – applicant is excited by artistic
-challenges and committed to overcome them in order to create great/exciting
-artworks. He/she looks forward to AEP lessons and is committed to the 4
-years at Junior High.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Talent </strong>– applicant has unique and interesting ideas and
+messages about what/how to make art.</p>
+</li>
+<li>
+<p><strong>Passion</strong> – applicant frequently takes the initiative to
+seek out art and new ways of making art.</p>
+</li>
+<li>
+<p><strong>Fortitude</strong> – applicant is excited by artistic challenges
+and committed to overcome them in order to create great/exciting artworks.
+He/she looks forward to AEP lessons and is committed to the 4 years at
+Junior High.</p>
+</li>
+</ol>
+<p></p>
 <p>Shortlisting is through evaluation of potential for exploiting educational,
 growth and contribution opportunities available within NJC, NJC AEP and
 beyond.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>For more details, including portfolio requirements, please click <a href="https://docs.google.com/document/d/1zOs0WF5tzJHpGvmrwyCkm9Vy-ZeWETs62b8SeeoTqwI/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
 </td>
@@ -526,5 +535,5 @@ etc.) for 4 years in Junior High.</p>
 </tr>
 </tbody>
 </table>
-<p>Click&nbsp;<a href="https://www.nationaljc.moe.edu.sg/admissions/ip-dsa/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Click&nbsp;<a href="/admissions/ip-dsa/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 return to the IP DSA page</p>
