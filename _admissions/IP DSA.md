@@ -21,7 +21,7 @@ DSA-Sec are expected to honour their commitment to the school for the duration
 of the six-year Integrated Programme, and participate in the activities
 related to the talent they are selected for throughout Junior High (i.e.
 Years 1 – 4).</p>
-<h4><strong>Talent Areas </strong></h4>
+<h4><strong>Talent Areas</strong></h4>
 <p>We invite students with special talents and/or achievements in the following
 areas to apply:</p>
 <table style="minWidth: 50px">
@@ -187,7 +187,7 @@ Integrated Programme for the academic year 2026.</p>
 at 6466 1144 during office hours (9 am to 5 pm) or drop us an email at
 <a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>with the subject “DSA-Sec”.</p>
 <p>For more information on the DSA-Sec exercise, please refer to the MOE
-website:&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+website:&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p>Please also see our&nbsp;<a href="https://moe-nationaljc-staging.netlify.app/faq/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>.</p>
 <p>We thank you for your interest in National Junior College<s>.</s>
 </p>
