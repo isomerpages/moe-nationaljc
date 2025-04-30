@@ -461,7 +461,8 @@ Junior High.</p>
 growth and contribution opportunities available within NJC, NJC AEP and
 beyond.</p>
 <p></p>
-<p><strong>For more details, including portfolio requirements, please click <a href="https://docs.google.com/document/d/1zOs0WF5tzJHpGvmrwyCkm9Vy-ZeWETs62b8SeeoTqwI/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+<p><strong>For more details, including portfolio requirements, please click </strong>
+<a href="/files/NJC_DSA__AEP__GUIDE__PDF_.pdf" rel="noopener nofollow" target="_blank">file</a><strong>.</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
