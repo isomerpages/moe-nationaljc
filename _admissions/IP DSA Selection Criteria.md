@@ -404,9 +404,17 @@ Violin, Viola, Cello, Double Bass
 <p>9. Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Ability to play at least one instrument associated with Chinese Orchestra
-<br>(2) Aural ability
-<br>(3) Musicianship</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ability to play at least one instrument associated with Chinese Orchestra</p>
+</li>
+<li>
+<p>Aural ability</p>
+</li>
+<li>
+<p>Musicianship</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
