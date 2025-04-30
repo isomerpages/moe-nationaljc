@@ -281,7 +281,7 @@ double bass, harp, saxophone OR a range of percussion instruments</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>(1) Flexibility and coordination</p>
+<p>Flexibility and coordination</p>
 </li>
 <li>
 <p>Clarity, flow and control of body movements</p>
