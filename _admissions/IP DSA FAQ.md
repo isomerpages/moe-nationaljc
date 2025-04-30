@@ -75,7 +75,6 @@ description: ""
 </p>
 <p><em>Students who are admitted via the DSA-Sec exercise through a CCA must commit to their CCA for four years. They may join another CCA in Senior High if they choose to.</em>
 </p>
-<p>&nbsp;</p>
 <p><strong>How many CCAs can students take up?</strong>&nbsp;</p>
 <p><em>Most students from JH will follow MOE guidelines to take up one core CCA activity, often a sport or one of the performing arts. There are some students, with the consent of their parents and teachers, who also join a second CCA, often a club or society where they pursue other non-sports or performing arts interests. On top of their CCAs, JH students with a passion to lead also serve the student community as members of the Student Council or as Peer Support Leaders.</em>&nbsp;&nbsp;</p>
 <h4><strong><u>Research@NJC</u></strong></h4>
