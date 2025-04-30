@@ -21,7 +21,7 @@ DSA-Sec are expected to honour their commitment to the school for the duration
 of the six-year Integrated Programme, and participate in the activities
 related to the talent they are selected for throughout Junior High (i.e.
 Years 1 – 4).</p>
-<h4><strong>Talent Areas</strong>&nbsp;</h4>
+<h4><strong>Talent Areas </strong></h4>
 <p>We invite students with special talents and/or achievements in the following
 areas to apply:</p>
 <table style="minWidth: 50px">
@@ -138,6 +138,13 @@ areas to apply:</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Application</strong></h4>
+<p>Applications for the DSA-Sec&nbsp;<strong>are free-of-charge and must be submitted through the online DSA-Sec Portal</strong>.
+Applications&nbsp;<strong>open&nbsp;on 7 May 2025 (Wed), 11 am and close on 3 Jun 2025 (Tue), 3 pm</strong>.</p>
+<p>Please refer to the MOE website:&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>&nbsp;for
+more details.</p>
+<p><em>Applicants not studying in MOE mainstream primary schools need to apply for a registration number to access the DSA-Sec Portal. More information on this can be found at</em>&nbsp;<em><a href="https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school" rel="noopener noreferrer nofollow" target="_blank">here</a></em>
+</p>
 <h4><strong>Selection Process</strong></h4>
 <p>Applicants will be shortlisted and selected based on the following overarching
 criteria:</p>
@@ -157,11 +164,31 @@ as well as other opportunities to serve; and</p>
 <p>Possess good academic potential to thrive in the Integrated Programme.</p>
 </li>
 </ol>
-<p>as well as criteria specific to each talent area.</p>
+<p>as well as&nbsp;<a href="https://moe-nationaljc-staging.netlify.app/integrated-programme-selection-criteria" rel="noopener noreferrer nofollow" target="_blank">criteria</a>&nbsp;specific
+to each talent area.</p>
+<p><strong>Please read through the criteria carefully for each talent area. It also shows the portfolio requirements for the talent areas that require portfolio submission.</strong>
+</p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
-<p>The selection criteria and process for the talent areas will be updated
-from early May. For more information on DSA-Sec, please refer to the MOE
-website: <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
-<p>We thank you for your interest in National Junior College.</p>
+<p>All shortlisted candidates will be&nbsp;<strong>notified via email in early August 2025</strong>&nbsp;to
+attend an in-person audition / trial&nbsp;held in National Junior College.
+More details on the performance task will be provided in the email notification.</p>
+<p>Thereafter, applicants who are further shortlisted will be&nbsp;<strong>notified via email</strong>&nbsp;to
+attend an in-person interview by 29 August 2025, held in National Junior
+College.</p>
+<h4><strong>Offer of Places</strong></h4>
+<p>Successful applicants will be notified via email of the results of their
+DSA-Sec application&nbsp;by&nbsp;<strong>4 September 2025</strong>. Successful
+applicants will be offered a place in National Junior College’s 6-year
+Integrated Programme for the academic year 2026.</p>
+<h4><strong>Enquiries</strong>&nbsp;</h4>
+<p>If you have any enquiries on DSA-Sec, you may call our General Office
+at 6466 1144 during office hours (9 am to 5 pm) or drop us an email at
+<a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>with the subject “DSA-Sec”.</p>
+<p>For more information on the DSA-Sec exercise, please refer to the MOE
+website:&nbsp;<a href="https://www.moe.gov.sg/secondary/dsa/application?pt=Non-mainstream%20school" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
+<p>Please also see our&nbsp;<a href="https://moe-nationaljc-staging.netlify.app/faq/" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>.</p>
+<p>We thank you for your interest in National Junior College<s>.</s>
+</p>
+<p>&nbsp;</p>
