@@ -56,14 +56,32 @@ will be shortlisted or given an offer.</p>
 <p>1.Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Ball sense, agility, coordination</p>
-<p>(2) Playmaking and teamwork</p>
-<p>(3) Assists and (offensive and defensive) rebound</p>
-<p>(4) Offensive skills such as ball handling, shooting, layup</p>
-<p>(5) Defensive skills such as man to man defense and zone defense</p>
-<p>(6) Experiences at competitive games would be an advantage</p>
-<p>(7) Stamina for guards would be an advantage</p>
-<p>(8) Size and height for centers and small forwards would be an advantage</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ball sense, agility, coordination</p>
+</li>
+<li>
+<p>Playmaking and teamwork</p>
+</li>
+<li>
+<p>Assists and (offensive and defensive) rebound</p>
+</li>
+<li>
+<p>Offensive skills such as ball handling, shooting, layup</p>
+</li>
+<li>
+<p>Defensive skills such as man to man defense and zone defense</p>
+</li>
+<li>
+<p>Experiences at competitive games would be an advantage</p>
+</li>
+<li>
+<p>Stamina for guards would be an advantage</p>
+</li>
+<li>
+<p>Size and height for centers and small forwards would be an advantage</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
@@ -74,8 +92,14 @@ will be shortlisted or given an offer.</p>
 <p>2. Canoeing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Psychomotor coordination
-<br>(2) Balance</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Psychomotor coordination</p>
+</li>
+<li>
+<p>Balance</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>· 4-year commitment to CCA
@@ -89,11 +113,23 @@ will be shortlisted or given an offer.</p>
 <br>4. Cross Country</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Coordination
-<br>(2) Speed
-<br>(3) Explosiveness
-<br>(4) Agility
-<br>(5) Endurance</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Coordination</p>
+</li>
+<li>
+<p>Speed</p>
+</li>
+<li>
+<p>Explosiveness</p>
+</li>
+<li>
+<p>Agility</p>
+</li>
+<li>
+<p>Endurance</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>· 4-year commitment to CCA
@@ -107,9 +143,14 @@ Cross-Country are expected to commit to Track &amp; Field, and vice versa</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Consistency of shots
-<br>(2) NAPFA Silver Award or above preferred</p>
-<p>&nbsp;</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Consistency of shots</p>
+</li>
+<li>
+<p>NAPFA Silver Award or above preferred</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
@@ -123,12 +164,24 @@ Cross-Country are expected to commit to Track &amp; Field, and vice versa</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Have attributes and fitness levels that are required for the sport</p>
-<p>(2) Have technical skills that are required for the sport</p>
-<p>(3) Have tactical understanding of softball and game sense</p>
-<p>(4) Have good character and attitude</p>
-<p>(5) Interest in leading and guiding peers who are new to the sport, and
-in building positive team culture.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Have attributes and fitness levels that are required for the sport</p>
+</li>
+<li>
+<p>Have technical skills that are required for the sport</p>
+</li>
+<li>
+<p>Have tactical understanding of softball and game sense</p>
+</li>
+<li>
+<p>Have good character and attitude</p>
+</li>
+<li>
+<p>Interest in leading and guiding peers who are new to the sport, and in
+building positive team culture.</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA and high commitments to softball competitions
@@ -140,8 +193,14 @@ and events</p>
 <p>7. Squash</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Ball sense
-<br>(2) Hand-eye coordination</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ball sense</p>
+</li>
+<li>
+<p>Hand-eye coordination</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
