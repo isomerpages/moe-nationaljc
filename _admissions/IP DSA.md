@@ -4,7 +4,7 @@ permalink: /admissions/ip-dsa/
 description: ""
 variant: tiptap
 ---
-<h2><strong>Integrated Programme (Direct School Admission)</strong></h2>
+<h3><strong>Integrated Programme (Direct School Admission)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width:99%" height="auto" width="100%" alt="banner" src="/images/ad1.png">
 </div>
