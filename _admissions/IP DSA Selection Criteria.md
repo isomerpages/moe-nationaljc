@@ -307,10 +307,20 @@ bassoon, double bass, harp, saxophone OR a range of percussion instruments</p>
 <p>4. &nbsp;Western (Modern) Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Movement comprehension and technical ability/potential
-<br>(2) Spatial awareness
-<br>(3) Dynamic awareness</p>
-<p>(4) Performance quality</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Movement comprehension and technical ability/potential</p>
+</li>
+<li>
+<p>Spatial awareness</p>
+</li>
+<li>
+<p>Dynamic awareness</p>
+</li>
+<li>
+<p>Performance quality</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
@@ -321,9 +331,17 @@ bassoon, double bass, harp, saxophone OR a range of percussion instruments</p>
 <p>5. Indian Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Technique such as posture, araimandi and overall presentation style
-<br>(2) Exhibition of excellent footwork and impressive gestures
-<br>(3) Versatility in different genre (Classical, Bollywood and Folk)</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Technique such as posture, araimandi and overall presentation style</p>
+</li>
+<li>
+<p>Exhibition of excellent footwork and impressive gestures</p>
+</li>
+<li>
+<p>Versatility in different genre (Classical, Bollywood and Folk)</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
@@ -334,10 +352,20 @@ bassoon, double bass, harp, saxophone OR a range of percussion instruments</p>
 <p>6. Malay Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Performance quality</p>
-<p>(2) Flexibility and coordination
-<br>(3) Exhibit excellent footwork and impressive gestures
-<br>(4) Skills acquisition during dance modeling</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Performance quality</p>
+</li>
+<li>
+<p>Flexibility and coordination</p>
+</li>
+<li>
+<p>Exhibit excellent footwork and impressive gestures</p>
+</li>
+<li>
+<p>Skills acquisition during dance modeling</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
@@ -445,23 +473,37 @@ years by subject tutors.</p>
 <p>1. Engineering Innovation and Solutions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Ability to understand issues from multiple perspectives</p>
-<p>(2) Has a strong curiosity for the unknown and keenness for learning</p>
-<p>(3) Is innovative, adaptive and has an inclusive mindset which is integrative
+<ol data-tight="true" class="tight">
+<li>
+<p>Ability to understand issues from multiple perspectives</p>
+</li>
+<li>
+<p>Has a strong curiosity for the unknown and keenness for learning</p>
+</li>
+<li>
+<p>Is innovative, adaptive and has an inclusive mindset which is integrative
 and evaluative</p>
-<p>(4) Effective team player</p>
-<p>(5) Potential and interest to develop as an Innovation and Entrepreneurship
+</li>
+<li>
+<p>Effective team player</p>
+</li>
+<li>
+<p>Potential and interest to develop as an Innovation and Entrepreneurship
 Leader</p>
-<p>(6) Passion for championing sustainability and community initiatives using
+</li>
+<li>
+<p>Passion for championing sustainability and community initiatives using
 STEAM.</p>
-<p>&nbsp;</p>
+</li>
+</ol>
+<p></p>
 <p>Candidates will undergo a two-phase shortlisting process.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>During the initial phase, the school's admission team will reach out to
 applicants in early July to request their portfolios.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Portfolio Submission Guidelines (submit as 2 separate PDF documents):</p>
-<p>&nbsp;</p>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Mandatory:</strong> A one-page portfolio outlining reasons for
@@ -471,7 +513,7 @@ selection and his/her involvement in STEM/research activities.</p>
 <p><em>Optional:</em> Candidates may provide additional supporting documents.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p></p>
 <p>Phase 1 shortlisted applicants will then be invited to participate in
 an in-person situational task, for which all necessary materials will be
 provided.</p>
