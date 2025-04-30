@@ -376,9 +376,17 @@ bassoon, double bass, harp, saxophone OR a range of percussion instruments</p>
 <p>7. Guitar Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Ability to play the Guitar
-<br>(2) Aural ability
-<br>(3) Musicianship</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ability to play the Guitar</p>
+</li>
+<li>
+<p>Aural ability</p>
+</li>
+<li>
+<p>Musicianship</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
@@ -389,11 +397,21 @@ bassoon, double bass, harp, saxophone OR a range of percussion instruments</p>
 <p>8. String Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Ability to play at least one of the following string instruments:
-Violin, Viola, Cello, Double Bass
-<br>(2) Aural ability
-<br>(3) Musicianship</p>
-<p>(4) Performance quality</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ability to play at least one of the following string instruments: Violin,
+Viola, Cello, Double Bass</p>
+</li>
+<li>
+<p>Aural ability</p>
+</li>
+<li>
+<p>Musicianship</p>
+</li>
+<li>
+<p>Performance quality</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>4-year commitment to CCA</p>
