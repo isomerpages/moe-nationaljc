@@ -247,11 +247,20 @@ Competitions</p>
 <p>9. Floorball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Interest and experience to lead and guide peers who are new to the
-sport
-<br>(2) Team player</p>
-<p>(3) Ball sense and game sense</p>
-<p>(4) Competitive experience in floorball</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Interest and experience to lead and guide peers who are new to the sport</p>
+</li>
+<li>
+<p>Team player</p>
+</li>
+<li>
+<p>Ball sense and game sense</p>
+</li>
+<li>
+<p>Competitive experience in floorball</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
@@ -263,10 +272,18 @@ sport
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Proficiency in shooting (if applicable)
-<br>(2) Proficiency in footwork and good ball sense
-<br>(3) Prior experience in the sport (Represented school and competed in
-NSG and/or recognised Netball Competitions)</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Proficiency in shooting (if applicable)</p>
+</li>
+<li>
+<p>Proficiency in footwork and good ball sense</p>
+</li>
+<li>
+<p>Prior experience in the sport (Represented school and competed in NSG
+and/or recognised Netball Competitions)</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
@@ -278,9 +295,17 @@ NSG and/or recognised Netball Competitions)</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Prior experience in secondary school in a territorial-invasion CCA</p>
-<p>(2) Interest to lead and guide peers who are new to the sport
-<br>(3) Team player</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Prior experience in secondary school in a territorial-invasion CCA</p>
+</li>
+<li>
+<p>Interest to lead and guide peers who are new to the sport</p>
+</li>
+<li>
+<p>Team player</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
@@ -708,4 +733,4 @@ projects, SISTEMIC etc.).</p>
 </tbody>
 </table>
 <p>Click&nbsp;<a href="https://nationaljc.moe.edu.sg/admissions/jc-dsa/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-return to the JC DSA page.</p>
+return to the JC DSA page</p>
