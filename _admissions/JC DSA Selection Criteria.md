@@ -207,9 +207,15 @@ Cross-Country are expected to commit to Track &amp; Field, and vice versa.</p>
 <p>7. Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Represented school and competed in NSG and/or any SBA-recognised Open
+<ol data-tight="true" class="tight">
+<li>
+<p>Represented school and competed in NSG and/or any SBA-recognised Open
 Competitions</p>
-<p>(2) Skill set required for Singles or Doubles play</p>
+</li>
+<li>
+<p>Skill set required for Singles or Doubles play</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
@@ -220,9 +226,17 @@ Competitions</p>
 <p>8. Rock Wall Climbing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Balance
-<br>(2) Coordination
-<br>(3) Core and upper-body strength</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Balance</p>
+</li>
+<li>
+<p>Coordination</p>
+</li>
+<li>
+<p>Core and upper-body strength</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
