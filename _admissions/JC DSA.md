@@ -224,6 +224,6 @@ year 2026.</p>
 1144 during office hours (9 am to 5 pm) or drop us an email at <a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a> with the subject “DSA-JC”.
 <br>
 <br>For more information on DSA-JC, please refer to the MOE website:&nbsp;
-<a href="www.moe.gov.sg/dsa-jc" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-jc</a>.</p>
+<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-jc</a>.</p>
 <p>We thank you for your interest in our College.</p>
 <p>&nbsp;</p>
