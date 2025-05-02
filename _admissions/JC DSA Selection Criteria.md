@@ -617,8 +617,7 @@ to mitigate community issues</p>
 <p>Prior experience and ranking in Debate competitions preferred</p>
 </li>
 </ol>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Drama</strong>
 </p>
 <ol data-tight="true" class="tight">
