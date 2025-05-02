@@ -472,21 +472,44 @@ community</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Debate</strong>
-<br>(1) Ability to communicate eloquently in a clear and logical manner
-<br>(2) Effective team player</p>
-<p>(3) Interest in local and global issues</p>
-<p>(4) Prior experience and ranking in Debate competitions preferred</p>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ability to communicate eloquently in a clear and logical manner</p>
+</li>
+<li>
+<p>Effective team player</p>
+</li>
+<li>
+<p>Interest in local and global issues</p>
+</li>
+<li>
+<p>Prior experience and ranking in Debate competitions preferred</p>
+</li>
+</ol>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>Drama</strong>
-<br>(1) Ability to express oneself in an eloquent / engaging manner</p>
-<p>(2) Effective team player</p>
-<p>(3) Recent school-based performance/ production experience (e.g SYF Arts
-Presentation/ School production)</p>
-<p>(4) Portfolio showcasing a maximum of 2 links to video clips (maximum
-4-5mins long each) of applicant in action (e.g rehearsal clips, or performed
-monologues)&nbsp;&nbsp;</p>
-<p>(5) (Optional) External theatrical experience/ certification</p>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ability to express oneself in an eloquent / engaging manner</p>
+</li>
+<li>
+<p>Effective team player</p>
+</li>
+<li>
+<p>Recent school-based performance/ production experience (e.g SYF Arts Presentation/
+School production)</p>
+</li>
+<li>
+<p>Portfolio showcasing a maximum of 2 links to video clips (maximum 4-5mins
+long each) of applicant in action (e.g rehearsal clips, or performed monologues)&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>(Optional) External theatrical experience/ certification</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
@@ -522,14 +545,22 @@ monologues)&nbsp;&nbsp;</p>
 <p>1. Art Elective Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1)&nbsp;&nbsp; <strong>Talent </strong>– applicant has unique and interesting
-ideas and messages about what/how to make art.</p>
-<p>(2)&nbsp;&nbsp; <strong>Passion</strong> – applicant frequently takes the
-initiative to seek out art and new ways of making art.</p>
-<p>(3)&nbsp;&nbsp; <strong>Fortitude</strong> – applicant is excited by artistic
-challenges and committed to overcome them in order to create great/exciting
-artworks. He/she looks forward to AEP lessons and is committed to the 2
-years at Senior High.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Talent </strong>– applicant has unique and interesting ideas and
+messages about what/how to make art.</p>
+</li>
+<li>
+<p><strong>Passion</strong> – applicant frequently takes the initiative to
+seek out art and new ways of making art.</p>
+</li>
+<li>
+<p><strong>Fortitude</strong> – applicant is excited by artistic challenges
+and committed to overcome them in order to create great/exciting artworks.
+He/she looks forward to AEP lessons and is committed to the 2 years at
+Senior High.</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 <p>Shortlisting is through evaluation of potential for exploiting educational,
 growth and contribution opportunities available within NJC, NJC AEP and
@@ -549,12 +580,22 @@ H3 Art. These are examinable A-Level subjects.</p>
 <p>2. Malay Language Elective Programme (MLEP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) At least a ‘B3’ in HML/ ‘A2’ in ML/ ‘B4’ in HML <u>AND</u> ‘B3’ in Malay
-Literature [full/elective] (based on Sec 3 or 4 school assessment)
-<br>(2) Clear reasons and goals in joining MLEP
-<br>(3) Aspirations on how your skills acquired from MLEP could help the wider
+<ol data-tight="true" class="tight">
+<li>
+<p>At least a ‘B3’ in HML/ ‘A2’ in ML/ ‘B4’ in HML <u>AND</u> ‘B3’ in Malay
+Literature [full/elective] (based on Sec 3 or 4 school assessment)</p>
+</li>
+<li>
+<p>Clear reasons and goals in joining MLEP</p>
+</li>
+<li>
+<p>Aspirations on how your skills acquired from MLEP could help the wider
 community in future</p>
-<p>(4) Effectively bilingual in both Malay and English languages</p>
+</li>
+<li>
+<p>Effectively bilingual in both Malay and English languages</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students admitted through MLEP must offer H2 Malay Language &amp; Literature.
@@ -566,12 +607,22 @@ This is an examinable A-Level subject.</p>
 <p>3. Tamil Language Elective Programme (TLEP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) At least a ‘B3’ in HTL/ ‘A2’ in TL (based on Sec 3 or 4 school assessment)
-<br>(2) Clear reasons and goals in joining TLEP
-<br>(3) Aspirations on how your skills acquired from TLEP could help the wider
+<ol data-tight="true" class="tight">
+<li>
+<p>At least a ‘B3’ in HTL/ ‘A2’ in TL (based on Sec 3 or 4 school assessment)</p>
+</li>
+<li>
+<p>Clear reasons and goals in joining TLEP</p>
+</li>
+<li>
+<p>Aspirations on how your skills acquired from TLEP could help the wider
 community in future</p>
-<p>(4) Keen to pursue further studies/professions where modules learnt in
-TLEP can be applied.</p>
+</li>
+<li>
+<p>Keen to pursue further studies/professions where modules learnt in TLEP
+can be applied.</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students admitted through TLEP must offer H2 Tamil Language &amp; Literature.
