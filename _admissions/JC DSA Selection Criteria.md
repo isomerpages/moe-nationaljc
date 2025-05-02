@@ -815,5 +815,5 @@ projects, SISTEMIC etc.).</p>
 </tr>
 </tbody>
 </table>
-<p>Click&nbsp;<a href="https://nationaljc.moe.edu.sg/admissions/jc-dsa/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
+<p>Click&nbsp;<a href="/admissions/jc-dsa/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 return to the JC DSA page</p>
