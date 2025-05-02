@@ -200,9 +200,9 @@ motivation and integrity; and</p>
 as well as other opportunities to serve.</p>
 </li>
 </ol>
-<p>as well as <a href="https://www.nationaljc.moe.edu.sg/junior-college-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> specific
+<p>as well as <a href="/admissions/junior-college-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> specific
 to each talent area.</p>
-<p><strong>Please read through the <a href="https://www.nationaljc.moe.edu.sg/junior-college-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> carefully for each talent area. It also shows the portfolio requirements for the talent areas that require portfolio submission.</strong>
+<p><strong>Please read through the <a href="/admissions/junior-college-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> carefully for each talent area. It also shows the portfolio requirements for the talent areas that require portfolio submission.</strong>
 </p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
