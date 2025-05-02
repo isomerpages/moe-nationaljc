@@ -783,14 +783,11 @@ STEM Research and Innovation</p>
 STEM.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p></p>
 <p>Candidates will undergo a two-phase shortlisting process.</p>
-<p>&nbsp;</p>
 <p>In the initial phase, the school's admission team will reach out to applicants
-in mid to late June to request their portfolios.</p>
-<p>&nbsp;</p>
+in mid to late June to request their portfolios.&nbsp;</p>
 <p>Portfolio Submission Guidelines (submit as 2 separate PDF documents):</p>
-<p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Mandatory:</strong> A one-page portfolio outlining reasons for
@@ -800,7 +797,6 @@ selection and your involvement in STEM/research activities.</p>
 <p><em>Optional:</em> Candidates may provide additional supporting documents.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
 <p>Phase 1 shortlisted applicants will then be invited to participate in
 an interview.</p>
 </td>
