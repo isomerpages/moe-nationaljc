@@ -183,8 +183,7 @@ and&nbsp;<strong>must</strong>&nbsp;be submitted online at&nbsp;<a href="https:/
 <p>In the event that you are unable to upload your documents through the
 online application, you may email your documents to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>&nbsp;with the subject
 “DSA-JC Supporting Documents”.</p>
-<p><strong>Selection Process</strong>
-</p>
+<h4><strong>Selection Process</strong></h4>
 <p>Applicants will be shortlisted and selected based on the following overarching
 criteria:</p>
 <ol data-tight="true" class="tight">
@@ -212,14 +211,12 @@ attend an in-person audition / trial&nbsp;held in National Junior College.
 More details on the performance task will be provided in the email notification.</p>
 <p>Thereafter, applicants who are further shortlisted will be&nbsp;<strong>notified via email</strong>&nbsp;to
 attend an in-person interview in July, held in National Junior College.</p>
-<p><strong>Offer of Places</strong>
-</p>
+<h4><strong>Offer of Places</strong></h4>
 <p>Successful applicants will be notified via email of the results of their
 DSA-JC application by&nbsp;<strong>12 August 2025</strong>. Successful
 applicants will be offered a place in National Junior College for the academic
 year 2026.</p>
-<p><strong>Enquiries</strong>
-</p>
+<h4><strong>Enquiries</strong></h4>
 <p>For further enquiries on DSA-JC, you may call our General Office at 6466
 1144 during office hours (9 am to 5 pm) or drop us an email at <a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a> with the subject “DSA-JC”.
 <br>
