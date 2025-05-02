@@ -150,13 +150,23 @@ and competitive experience)</p>
 <p>5. Softball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>(1) Have attributes and fitness levels that are required for the sport</p>
-<p>(2) Have technical skills that are required for the sport</p>
-<p>(3) Have tactical understanding of softball and game sense</p>
-<p>(4) Have good character and attitude</p>
-<p>(5) Interest in leading and guiding peers, and in building positive team
-culture</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Have attributes and fitness levels that are required for the sport</p>
+</li>
+<li>
+<p>Have technical skills that are required for the sport</p>
+</li>
+<li>
+<p>Have tactical understanding of softball and game sense</p>
+</li>
+<li>
+<p>Have good character and attitude</p>
+</li>
+<li>
+<p>Interest in leading and guiding peers, and in building positive team culture</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA, and high commitments to softball competitions
@@ -168,14 +178,23 @@ and events.</p>
 <p>6. Track &amp; Field / Cross Country</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Prior competitive experience in sports (not limited to track &amp;
-field) - please submit supporting information regarding relevant competitive
-experience - e.g. NAPFA 2.4km results, performance in school track/cross-country
-meet, NSG representation in other sports etc.
-<br>(2) Coordination &amp; Agility
-<br>(3) Stamina
-<br>(4) Speed</p>
-<p>&nbsp;</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Prior competitive experience in sports (not limited to track &amp; field)
+- please submit supporting information regarding relevant competitive experience
+- e.g. NAPFA 2.4km results, performance in school track/cross-country meet,
+NSG representation in other sports etc.</p>
+</li>
+<li>
+<p>Coordination &amp; Agility</p>
+</li>
+<li>
+<p>Stamina</p>
+</li>
+<li>
+<p>Speed</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>· 2-year commitment to CCA
