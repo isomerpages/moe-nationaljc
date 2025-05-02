@@ -456,11 +456,18 @@ Violin, Viola, Cello, Double Bass
 </td>
 <td rowspan="1" colspan="1">
 <p>The portfolio must contain the following evidence:</p>
-<p>(1) Showcase the projects you have led in community service
-<br>(2) Leadership positions which require you to lead a team in strategic
-thinking to mitigate community issues
-<br>(3) Have relevant experiences to engage with the diverse groups in the
-community</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Showcase the projects you have led in community service</p>
+</li>
+<li>
+<p>Leadership positions which require you to lead a team in strategic thinking
+to mitigate community issues</p>
+</li>
+<li>
+<p>Have relevant experiences to engage with the diverse groups in the community</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
