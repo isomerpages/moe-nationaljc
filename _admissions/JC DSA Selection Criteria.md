@@ -690,7 +690,7 @@ He/she looks forward to AEP lessons and is committed to the 2 years at
 Senior High.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p></p>
 <p>Shortlisting is through evaluation of potential for exploiting educational,
 growth and contribution opportunities available within NJC, NJC AEP and
 beyond.</p>
