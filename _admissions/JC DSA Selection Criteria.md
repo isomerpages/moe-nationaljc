@@ -343,11 +343,19 @@ and/or recognised Netball Competitions)</p>
 <p>1. Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Ability to play proficiently one of the following band instruments:
-euphonium, tuba, trumpet, trombone, horn, cornet, flute, oboe, clarinet,
-bassoon, double bass, harp, saxophone OR a range of percussion instruments
-<br>(2) Aural and sight-reading ability
-<br>(3) Musicianship</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ability to play proficiently one of the following band instruments: euphonium,
+tuba, trumpet, trombone, horn, cornet, flute, oboe, clarinet, bassoon,
+double bass, harp, saxophone OR a range of percussion instruments</p>
+</li>
+<li>
+<p>Aural and sight-reading ability</p>
+</li>
+<li>
+<p>Musicianship</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
@@ -358,9 +366,17 @@ bassoon, double bass, harp, saxophone OR a range of percussion instruments
 <p>2. Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Ability to reproduce a series of notes accurately and with ease
-<br>(2) Musical sensitivity
-<br>(3) Ability to sing with expression</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ability to reproduce a series of notes accurately and with ease</p>
+</li>
+<li>
+<p>Musical sensitivity</p>
+</li>
+<li>
+<p>Ability to sing with expression</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
@@ -371,10 +387,20 @@ bassoon, double bass, harp, saxophone OR a range of percussion instruments
 <p>3. Chinese Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Fundamental skills of flexibility and coordination
-<br>(2) Clarity, flow and control of body movements
-<br>(3) Skills acquisition during choreography</p>
-<p>(4) Performance quality</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Fundamental skills of flexibility and coordination</p>
+</li>
+<li>
+<p>Clarity, flow and control of body movements</p>
+</li>
+<li>
+<p>Skills acquisition during choreography</p>
+</li>
+<li>
+<p>Performance quality</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
@@ -385,10 +411,20 @@ bassoon, double bass, harp, saxophone OR a range of percussion instruments
 <p>4. Western (Modern) Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Movement comprehension and technical ability/potential
-<br>(2) Spatial awareness
-<br>(3) Dynamic awareness</p>
-<p>(4) Performance quality</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Movement comprehension and technical ability/potential</p>
+</li>
+<li>
+<p>Spatial awareness</p>
+</li>
+<li>
+<p>Dynamic awareness</p>
+</li>
+<li>
+<p>Performance quality</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
