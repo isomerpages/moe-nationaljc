@@ -783,7 +783,6 @@ STEM Research and Innovation</p>
 STEM.</p>
 </li>
 </ol>
-<p></p>
 <p>Candidates will undergo a two-phase shortlisting process.</p>
 <p>In the initial phase, the school's admission team will reach out to applicants
 in mid to late June to request their portfolios.&nbsp;</p>
