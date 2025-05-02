@@ -435,10 +435,18 @@ double bass, harp, saxophone OR a range of percussion instruments</p>
 <p>5. Indian Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Demonstrate dance technique such as posture, araimandi and overall
-presentation style
-<br>(2) Exhibit excellent footwork and impressive gestures
-<br>(3) Being versatile in different genre (Classical, Bollywood and Folk)</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Demonstrate dance technique such as posture, araimandi and overall presentation
+style</p>
+</li>
+<li>
+<p>Exhibit excellent footwork and impressive gestures</p>
+</li>
+<li>
+<p>Being versatile in different genre (Classical, Bollywood and Folk)</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
@@ -449,10 +457,20 @@ presentation style
 <p>6. Malay Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Performance quality</p>
-<p>(2) Flexibility and coordination
-<br>(3) Exhibit excellent footwork and impressive gestures
-<br>(4) Skills acquisition during dance modeling</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Performance quality</p>
+</li>
+<li>
+<p>Flexibility and coordination</p>
+</li>
+<li>
+<p>Exhibit excellent footwork and impressive gestures</p>
+</li>
+<li>
+<p>Skills acquisition during dance modeling</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
@@ -463,9 +481,17 @@ presentation style
 <p>7. Guitar Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Basic guitar playing techniques
-<br>(2) Aural ability
-<br>(3) Musicianship</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Basic guitar playing techniques</p>
+</li>
+<li>
+<p>Aural ability</p>
+</li>
+<li>
+<p>Musicianship</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
@@ -476,12 +502,24 @@ presentation style
 <p>8. String Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Ability to play at least one of the following string instruments:
-Violin, Viola, Cello, Double Bass
-<br>(2) Aural ability
-<br>(3) Musicianship</p>
-<p>(4) Performance quality</p>
-<p>(5) Performance experience</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ability to play at least one of the following string instruments: Violin,
+Viola, Cello, Double Bass</p>
+</li>
+<li>
+<p>Aural ability</p>
+</li>
+<li>
+<p>Musicianship</p>
+</li>
+<li>
+<p>Performance quality</p>
+</li>
+<li>
+<p>Performance experience</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
@@ -492,9 +530,17 @@ Violin, Viola, Cello, Double Bass
 <p>9. Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Ability to play at least one instrument associated with Chinese Orchestra
-<br>(2) Aural ability
-<br>(3) Musicianship</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Ability to play at least one instrument associated with Chinese Orchestra</p>
+</li>
+<li>
+<p>Aural ability</p>
+</li>
+<li>
+<p>Musicianship</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
 <p>2-year commitment to CCA</p>
