@@ -583,13 +583,25 @@ This is an examinable A-Level subject.</p>
 <p>4. Science Research Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(1) Demonstration of knowledge, clear motivation, interest and passion
-in STEM Research and Innovation
-<br>(2) Strong communication and systematic thinking skills</p>
-<p>(3) Effective team player and leadership qualities</p>
-<p>(4) Potential and interest to pursue STEM-related career</p>
-<p>(5) Passion for championing sustainability and community initiatives using
+<ol data-tight="true" class="tight">
+<li>
+<p>Demonstration of knowledge, clear motivation, interest and passion in
+STEM Research and Innovation</p>
+</li>
+<li>
+<p>Strong communication and systematic thinking skills</p>
+</li>
+<li>
+<p>Effective team player and leadership qualities</p>
+</li>
+<li>
+<p>Potential and interest to pursue STEM-related career</p>
+</li>
+<li>
+<p>Passion for championing sustainability and community initiatives using
 STEM.</p>
+</li>
+</ol>
 <p>&nbsp;</p>
 <p>Candidates will undergo a two-phase shortlisting process.</p>
 <p>&nbsp;</p>
