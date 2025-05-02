@@ -7,8 +7,10 @@ variant: tiptap
 <h3><strong><u>DSA-JC Selection Criteria</u></strong></h3>
 <p>Applicants will be shortlisted and selected based on the following overarching
 criteria:</p>
-<p>Demonstrate passion for and commitment to grow in the area of interest;</p>
 <ol data-tight="true" class="tight">
+<li>
+<p>Demonstrate passion for and commitment to grow in the area of interest;</p>
+</li>
 <li>
 <p>Exemplify and role model positive character traits, including resilience,
 motivation and integrity; and</p>
