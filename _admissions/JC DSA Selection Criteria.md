@@ -690,15 +690,12 @@ He/she looks forward to AEP lessons and is committed to the 2 years at
 Senior High.</p>
 </li>
 </ol>
-<p></p>
 <p>Shortlisting is through evaluation of potential for exploiting educational,
 growth and contribution opportunities available within NJC, NJC AEP and
 beyond.</p>
-<p>&nbsp;</p>
 <p><strong>For more details, including the portfolio submission requirements, please click </strong>
 <a href="/files/NJC_DSA__AEP__GUIDE__PDF_.pdf" rel="noopener nofollow" target="_blank">file</a><strong>.</strong>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students admitted to the Art Elective Programme must offer H2 Art and
