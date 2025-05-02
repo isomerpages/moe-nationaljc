@@ -181,8 +181,8 @@ areas to apply:</p>
 <p>Applications for the DSA-JC to National Junior College are free-of-charge
 and&nbsp;<strong>must</strong>&nbsp;be submitted online at&nbsp;<a href="https://go.gov.sg/njc2025jcdsa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/njc2025jcdsa</a> between&nbsp;<strong>7&nbsp;May 2025 (Wed)</strong>,&nbsp;<strong>12 pm&nbsp;and&nbsp;30 June 2025 (Mon)</strong>,&nbsp;<strong>5 pm</strong>.</p>
 <p>In the event that you are unable to upload your documents through the
-online application, you may email your documents to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>&nbsp;with
-the subject “DSA-JC Supporting Documents”.</p>
+online application, you may email your documents to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>&nbsp;with the subject
+“DSA-JC Supporting Documents”.</p>
 <p><strong>Selection Process</strong>
 </p>
 <p>Applicants will be shortlisted and selected based on the following overarching
@@ -221,11 +221,9 @@ year 2026.</p>
 <p><strong>Enquiries</strong>
 </p>
 <p>For further enquiries on DSA-JC, you may call our General Office at 6466
-1144 during office hours (9 am to 5 pm) or drop us an email at <a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a> with
-the subject “DSA-JC”.
+1144 during office hours (9 am to 5 pm) or drop us an email at <a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a> with the subject “DSA-JC”.
 <br>
 <br>For more information on DSA-JC, please refer to the MOE website:&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-jc.
-<br>
-<br>We</a>thank you for your interest in our College.</p>
+<a href="www.moe.gov.sg/dsa-jc" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-jc</a>.</p>
+<p>We thank you for your interest in our College.</p>
 <p>&nbsp;</p>
