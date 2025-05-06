@@ -355,7 +355,7 @@ I was able to enjoy every moment spent in NJC, and I am ever ready to go
 above and beyond my responsibilities as a Stringer to always give my very
 best for my teachers and friends.</p>
 <p></p>
-<p><strong><u>The Outstanding Leadership Award	</u></strong>
+<p><strong><u>The Outstanding Leadership Award</u></strong>
 </p>
 <p>The Outstanding Leadership Award recognises student leaders who have displayed
 leadership with sensitivity and service with honour.</p>
@@ -439,6 +439,113 @@ has guided every step of my leadership journey in NJC.</p>
 <p></p>
 <p><strong>TENG YWEE SEE</strong>
 </p>
+<p>I am truly honoured to receive this award. To me, a leader is someone
+who acts with kindness and integrity, while striving to be the best version
+of themselves — a best friend, a best teammate, a best student. I am thankful
+to have been surrounded by the amazing people in NJC who modelled what
+it means to be a leader, and the safe space provided for me to grow as
+a leader. My NJ journey has been defined by the relationships that I have
+forged over the years. The friends I have made are amongst the most loyal
+and supportive groups of people I have ever met — we helped each other
+through tough times and celebrated each other’s wins. We worked hard together,
+and played even harder together. I would not be who I am today without
+the support of all my friends. To all my friends, thank you from the bottom
+of my heart. My teachers and mentors have also helped shape who I am and
+gave me the confidence to pursue my passions, and I am forever grateful
+to them. I hope to continue to grow as a leader and serve my community
+in meaningful ways.</p>
+<p></p>
+<p><strong><u>The Junior High All-Round Excellence Award</u></strong>
+</p>
+<p>The Junior High All-Round Excellence Award is the pinnacle of all Junior
+High student awards, recognising all-round excellence in academia, CCA,
+leadership and service.</p>
+<p></p>
+<p><strong>LIM HUAMING</strong>
+</p>
+<p>My time at NJC has certainly been an eventful journey, one that has shaped
+both my character and my values. Through commitments I have undertaken
+over the years, I have been fortunate to be mentored by teachers who went
+the extra mile and showed me genuine care while consistently keeping track
+of my personal growth. Their sincere dedication towards developing me all-roundedly
+extended beyond the classroom, as they often checked in on me, encouraging
+my interests and guiding me through challenges. Their belief in me has
+been an anchor, and without their care and support, I wouldn’t have the
+confidence I have today. Equally important to my journey were the seniors
+who first welcomed me when I started undertaking more extracurricular commitments
+like Student Council. They went out of their way to show me the ropes and
+helped me develop a strong work ethic. It was through them that I learned
+to be self-sufficient, focused, and meticulous in my work, and the skills
+and mindset I possess today are a direct result of being inspired by them
+when I first joined as a clueless junior. This ties in well with this year’s
+theme - Loyalty in builders, Integrity in Bricks. The people who have stood
+by me throughout my time in Junior High are also those who have built me
+up into who I am today, from a lost and easily stressed JH1 to someone
+who has better composure and undertakes responsibilities with grit, hard
+work and motivation — but more importantly, with the spirit of serving
+with honour.</p>
+<p></p>
+<p><strong><u>The Elizabeth Poey Inspiration and Courage Award</u></strong>
+</p>
+<p>The Elizabeth Poey Inspiration and Courage (EPIC) Award is designed to
+recognise and celebrate outstanding students, from all academic levels,
+who have shown the courage and vision to actively advocate for transformational
+change in Singapore society or in the world. This award is the first team
+award designed in National Junior College and is the first step towards
+stimulating a greater adventurous spirit and a “rugged society” mentality
+in a collaborative manner amongst NJC students.</p>
+<p></p>
+<p><strong>HILLCREST WILDFLOWERS</strong>
+</p>
+<p>The Hillcrest Wildflowers comprises 112 students from National Junior
+College who partnered with Wildflower Studio SG to rescue and take care
+of stray cats that are then fostered and put up for adoption. The programme
+supports the beneficiary in meeting various animal welfare needs and raising
+funds for the cause. Since 2023, our volunteers have visited the studio
+on a daily basis to help with feeding, cleaning and socialising the cats.
+The dynamic and ever changing nature of our work has developed adaptable
+and resourceful problem solvers, as we learned to make tutorial videos,
+info-sheets and more to train all volunteers to be qualified to handle
+any situation, such as medical emergencies or urgent rescue cases. Trust
+between the volunteers and the studio owners – Darius Low and Amanda Cho
+– is essential in maintaining good working relationships and ensuring every
+cat is well cared for. From ill, feral, or even pregnant cats, our volunteers
+have grown to overcome their initial fears of handling live animals, and
+gained a deeper understanding into Singapore's animal rescue and welfare
+scene. With over 300 fostered and 200 rehomed cats, our efforts have helped
+our furry feline friends find new families, and we hope to continue touching
+the lives of more pets and owners.</p>
+<p></p>
+<p>The Hillcrest Wildflowers EPIC awardees are: Xee Zun Yee, Kyra Tan, Hew
+Kai Yi, Sung Wai Lam, Felicia Yang, Tan Ying Shan, Jasmine Saw Mei Yun,
+Tanittha Sangrung, Gwyneth Tan Zi Yi, Ng Yan Ting Jolin</p>
+<p></p>
+<p><strong>SERVANT LEADERSHIP TRAINING CAMP (SLTC)</strong>
+</p>
+<p>Integrating aspects from Overseas Values-In-Action and Youth Leadership
+Training Camp, the yearly SLTC programme nurtures Servant Leaders who are
+authentic and build up the people around them. In November 2024’s SLTC,
+78 Student CCA Leaders and 14 Teachers from National Junior College partnered
+with Sambour Primary School in Siem Reap, Cambodia to teach, inspire and
+raise funds for the students. We contributed to the Cambodian community
+with skills transfer through hands-on experiments, interactive games and
+personalised teaching. Over the weeks spent bonding with our buddies, we
+inspired them to strive for different career paths and guided them on external
+learning journeys, such as to the iconic UNESCO temple, Angkor Wat. They
+warmly welcomed us into their rich culture, and through them we gained
+a broadened worldview, new convictions, and a sense of gratefulness. Although
+the eventual farewell was bittersweet and teary, we left knowing we were
+part of a successful long-lasting collaboration where NJC has maintained
+consistent efforts with the beneficiary including and especially when times
+get tough. Each year of donations contributes towards building a safer
+and more conducive school environment, and each year of NJCians fostering
+genuine connections with the Cambodian students goes a long way in ensuring
+an effective rippling impact.</p>
+<p></p>
+<p>The SLTC EPIC awardees are: Yap Zhi Yan Crystal, Wu Kai Wen Kelvin, Calvin
+Firdaus Panggabean, Cao Yuxuan, Tracey Christianti, Chan Yew Zhi, Lim Jiaqi,
+Josh Phua, Lim Dong Xian, Choi Jaeeun, Li Yuanzheng, Xu Erchen, Xee Zun
+Yee</p>
 <p></p>
 </div>
 </details>
