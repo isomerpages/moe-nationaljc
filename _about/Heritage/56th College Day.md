@@ -203,6 +203,242 @@ sportsmanship and sporting excellence.</p>
 <p></p>
 <p><strong>ARIEL LIN JING HAN</strong>
 </p>
+<p>I am truly honoured to receive this SAC sports excellence award. Receiving
+this award really makes me feel like all my hard work paid off and motivates
+me to work even harder to become better in my sport and as a person as
+well. I really do believe that sports isn’t just about winning, but it’s
+about building a good character. Be it perseverance, kindness or integrity,
+the values that you can learn are endless! Personally, I feel that I've
+become more resilient through my sports, and I've learnt to not give up
+the moment I encounter problems, or stop trying when I know I can't do
+it. It has truly taught me to do my very best in every circumstance and
+no matter what the result is, it’s okay because I know I gave it my all!
+So, I just want to encourage anyone who reads this to keep on trying! And
+ultimately, it’s not about the results or medals you win, but the values
+you’ve learnt that stick with you for the rest of your life.</p>
+<p></p>
+<p><strong>TAMARA TYLES</strong>
+</p>
+<p>My journey in NJC has been shaped by the people who stood by me, especially
+when I felt like giving up. One moment I’ll never forget was in Secondary
+2, during the 400m finals. Having fallen just before the finish line, it
+felt like everything I had worked for slipped away in that instant. But
+my teachers and coaches never let that moment define me. Their belief taught
+me that failure isn’t the end, and gave me the strength to pick myself
+up — both on and off the track. That experience showed me the meaning of
+“Loyalty in the Builders, Integrity in the Bricks.” Loyalty is about people
+standing by you at your lowest, and integrity is about staying true to
+your values, even when no one’s watching. Receiving this award reminds
+me of how much I’ve grown, and how much I owe to the community that believed
+in me through every high and low. I’ll be proud to carry these lessons
+with me, long after I leave NJC.</p>
+<p></p>
+<p><strong>ESTHER SIAK KA YEE</strong>
+</p>
+<p>Before coming to NJ, I would have never imagined myself winning a sports
+award. I had thought that student athletes were hardcore and dedicated
+but also wasting their time on an activity they might not even be doing
+a few years down the road — until I became one myself. Canoeing has really
+taught me what being an athlete is — not just as a racer but as a person.
+Together in the gruelling training sessions, we were disciplined, racing
+in different competitions. I would be lying if I said I had never thought
+of just quitting this sport because of the sheer amount of mental pressure
+it gave me. However, I chose to stay and keep pushing on because of my
+seniors who had chosen to stay for the team. “I feel like my work here
+isn’t done” was their reply to my question on why they stayed in this CCA.
+It has inspired me to keep pushing on, not just in the sport but for the
+team as well, coming together to build a community and as a team to lift
+one another up. Thank you to my coaches, teachers and teammates for the
+heart and effort you have put into this CCA.</p>
+<p></p>
+<p><strong><u>The NJC@69ners Award</u></strong>
+</p>
+<p>The NJC@69ers award, initiated and structured by the first cohort of NJCians,
+recognises excellence in the arts and humanities, both in core-curricular
+and co-curricular endeavours.</p>
+<p></p>
+<p><strong>LIAN YUYANG</strong>
+</p>
+<p>Receiving this award feels like a moment where all the pieces of my academic
+and co-curricular journeys in the arts and humanities align gracefully.
+My role as Vice President of the Editorial Club, and the countless hours
+spent preparing for writing and recital competitions - these experiences
+have been my canvas, painted with perseverance and avid enthusiasm.</p>
+<p></p>
+<p>I owe this recognition to my teachers, who’ve been loyal builders, laying
+down the foundation of wisdom with unwavering commitment. I must especially
+thank Ms Ho Hui Lin and Ms Sylvia Soh for kindling my passions in History
+and Literature - passions that define me today.</p>
+<p></p>
+<p>As a sapling, I have worked to build my own integrity, brick by brick,
+through every edit and every line written. It is the trust and guidance
+of my educators that have allowed me to stand strong, enabling me to venture
+further on my chosen path.</p>
+<p></p>
+<p><strong><u>The Stephen Loh Sports Excellence Award</u></strong>
+</p>
+<p>The Stephen Loh Sports Excellence Award is the pinnacle sports award,
+recognising sportsmanship and sporting excellence in Track &amp; Field,
+Squash and Canoeing.</p>
+<p></p>
+<p><strong>LOVELEY NG</strong>
+</p>
+<p>It is such an honour to have been awarded the Stephen Loh Sports Excellence
+Award. Throughout my six years in the College’s Shooting Club, I have come
+to appreciate how being a sportsperson is more than just celebrating the
+wins. I have experienced ups and downs - from winning competitions to facing
+challenges during training. Being in the National Youth Team, I found it
+not so easy to balance my academic work and sporting commitments, but this
+taught me the importance of self-discipline. Many people have also supported
+me: my family, teachers and friends who were always encouraging, and my
+coaches who spurred me to reach greater heights. I have learnt what it
+is to exemplify sportsmanship, to show respect to others, to constantly
+remain committed to growth and to inspire my peers to be passionate and
+resilient in their sporting endeavours. This award, to me, is not just
+a celebration of my achievements but also a testament to a fulfilling journey,
+to the valuable experiences I have gained thus far. The lessons I have
+learnt in my sporting journey will continue to stay with me - for they
+are lifelong and unforgettable.</p>
+<p></p>
+<p><strong>LOH HIN YIN, LANGSTON</strong>
+</p>
+<p>I am honoured to have been selected for the Stephen Loh Sports Excellence
+Award. I would not have been able to get to where I am without the support
+of my friends, teachers and coaches in NJC. Although I was in NJ Track
+and Field for 2 years, the friends I made there and my coaches have pushed
+me to heights I never thought was possible. They encouraged me to carry
+on even when I couldn’t push on during training. I learnt how to lead my
+peers as an event Captain, with mentoring support from my teachers and
+coaches along the way. I learnt that sportsmanship is not simply about
+being good at the sport you play, but also about hard work, discipline,
+leadership and humility. I hope that the sports scene can continue to grow
+in these four aspects, towards an exciting future for NJC sports!</p>
+<p></p>
+<p><strong>TAN PENG RUI LAUREN</strong>
+</p>
+<p>Being able to play basketball and represent NJC has been a huge blessing
+to me. The last six years have shaped me to be a better person by inculcating
+a sense of discipline, commitment, where it was important to show up even
+when the going got tough. Basketball is a team sport and being part of
+a team means belonging to something bigger than myself. It places others
+above self and taught me what it means to invest time and effort to support
+my teammates, to build a culture of trust, camaraderie and a sense of mission
+to move as one. Reflecting on this journey, I am deeply appreciative of
+teachers, coaches and seniors for their guidance, and teammates who have
+stood by me. Through these years, I have seen how perseverance and resilience
+build strength of character, especially when we fail and resolutely pick
+ourselves up. These little building blocks and memories mould us and are
+valuable life lessons that we carry through to adulthood, reminding me
+of a core tenet of Team NJC’s basketball commandment of being unbeatable
+when standing together.</p>
+<p></p>
+<p><strong><u>The PAACT Aesthetics Excellence Award</u></strong>
+</p>
+<p>The PAACT Aesthetics Excellence Award recognises excellence in the aesthetics.</p>
+<p></p>
+<p><strong>AIDAN YEONG LEE HENG</strong>
+</p>
+<p>I believe that having a sense of Loyalty is not limited to leaders or
+exco members; each CCA members’ loyalty means that they put in their best
+effort in everything they do for the CCA, and this makes a massive difference.
+I have had a very close connection to the String Orchestra for a very long
+time, starting from when my brother joined the orchestra in 2019. I was
+allowed to participate in a masterclass and a few rehearsals with NJCSO
+before I even joined the school. I had the opportunity to interact with
+the Stringers and socialise with them. All this allowed me to establish
+a bond with the orchestra early on, and that was when my mind was set on
+being part of the NJCSO family. I am extremely appreciative of the opportunities
+the teachers have given me – what are the chances that one gets to play
+in masterclasses with internationally acclaimed cellists and travel overseas
+with the friends doing what they love? Because of my CCA mates and teachers,
+I was able to enjoy every moment spent in NJC, and I am ever ready to go
+above and beyond my responsibilities as a Stringer to always give my very
+best for my teachers and friends.</p>
+<p></p>
+<p><strong><u>The Outstanding Leadership Award	</u></strong>
+</p>
+<p>The Outstanding Leadership Award recognises student leaders who have displayed
+leadership with sensitivity and service with honour.</p>
+<p></p>
+<p><strong>GOH YU XIN</strong>
+</p>
+<p>Stepping into NJC in 2019, I was a little girl with limited confidence
+in my leadership abilities and never thought to step up as one. My first
+exposure as a student leader was when I was appointed the Values-in-Action
+representative of my lower JH class. Under the guidance of my teachers
+and taking the chance to spearhead the class’s discussions, I slowly felt
+comfortable in my role. I found fulfilment in forging meaningful connections
+with others, listening to my fellow leaders and those we aim to serve,
+and working towards our common goal. Throughout my time in NJC, I have
+learnt that leadership is about empowering others — providing platforms
+for our fellow leaders to contribute and supporting them in their growth.
+It is a profound honour to receive the Outstanding Leadership Award as
+it signifies my growth in NJC over the past six years. More importantly,
+it is a testament to the community’s efforts in cultivating me into who
+I am today.</p>
+<p></p>
+<p><strong>LEOW ZI HAN GERMAINE</strong>
+</p>
+<p>My journey in NJC has been shaped by rewarding moments, such as staying
+back after school to plan initiatives with my CCA, navigating difficult
+conversations as a Peer Support Leader, and learning how to be present
+for others during uncertain times. These experiences showed me that leadership
+is rarely about standing at the front, it’s about standing with others,
+building trust, and growing alongside them. These experiences taught me
+that real leadership means listening deeply, following through on commitments,
+and doing the right thing even when no one is watching. It’s in these quiet
+decisions and steady actions that integrity is built and sustained. I’m
+deeply grateful to receive this award as it serves as a reminder of those
+who have walked this journey with me — those who encouraged, challenged,
+and supported me in ways that allowed me to learn and lead with greater
+purpose. This experience has also deepened my appreciation for the collective
+effort behind every milestone. It is the persistence, generosity, and loyalty
+of many—driven by a shared commitment to something greater—that empower
+us to value the experience as much as we value the outcomes. That, to me,
+is what makes this journey truly lasting.</p>
+<p></p>
+<p><strong>CHONG KAI XU</strong>
+</p>
+<p>I am extremely honoured to receive the Outstanding Leadership Award. Personally,
+leadership is about bridging connections with people, journeying together
+as one whilst uplifting others. Above all, leadership encompasses service
+with loyalty, integrity, respect and humility whilst upholding one’s moral
+values especially when faced with dilemmas. NJ has taught me how service
+through the smallest actions, like being present for others to lending
+a listening ear, goes a long way to make a difference in forging an inclusive
+and united community which helps us to take bigger leaps together. Ultimately,
+leadership is about willingly serving others around us no matter the size
+of our actions, community and titles we hold. Although my journey was fraught
+with challenges, I believe that these hurdles serve as learning opportunities
+for me to learn and grow as a person. I am deeply thankful for the unwavering
+support and dedication my teachers, friends and family have given me throughout
+my 2 years in NJ. I am very grateful for the myriad of opportunities NJ
+has given to me to serve the community in several ways. Looking back, my
+time in NJ has been a fulfilling one filled with valuable lessons and countless
+memories that I will forever treasure.</p>
+<p></p>
+<p><strong>NG XIN YI</strong>
+</p>
+<p>Receiving this award is a humbling honour. It reflects not just my personal
+journey, but the collective strength of those I’ve led and learned from.
+The leadership opportunities I’ve had at NJC have taught me that true leadership
+isn’t about being in front—it’s about standing beside others, especially
+when the stakes are high. As a captain, loyalty meant showing up consistently
+for my team, not just during matches, but in early mornings, tough training
+sessions, and difficult moments of self-doubt. It was about being a dependable
+presence, someone my teammates could count on both on and off the field.
+Integrity guided every decision I made. I learned that leadership isn’t
+about giving orders, it’s about listening with empathy and making the right
+choices, even when they’re difficult. Whether it meant taking responsibility
+for my mistakes or standing up for what was fair, I aimed to lead in a
+way that fostered trust and mutual respect. I truly resonate with the quote,
+“The servant-leader is servant first. It begins with the natural feeling
+that one wants to serve, to serve first.” If someone asks why I serve,
+I can only say—I don’t know exactly. It’s just a feeling! And this feeling
+has guided every step of my leadership journey in NJC.</p>
+<p></p>
+<p><strong>TENG YWEE SEE</strong>
+</p>
 <p></p>
 </div>
 </details>
