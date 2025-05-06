@@ -4,7 +4,7 @@ permalink: /admissions/jc-dsa/
 description: ""
 variant: tiptap
 ---
-<h2>Junior College (Direct School Admission)</h2>
+<h3>Junior College (Direct School Admission)</h3>
 <div class="isomer-image-wrapper">
 <img style="width:99%" height="auto" width="100%" src="/images/ad1.png">
 </div>
@@ -23,6 +23,7 @@ their commitment to the JC and to participate in activities related to
 the talent selected in, for the duration of the programme admitted to.
 Students who do not fulfil their DSA commitment without valid reason may
 be required to transfer out to another school.</p>
+<p>For 2025, the DSA-JC Exercise will take place from May to September.</p>
 <h4><strong>Talent Areas&nbsp;</strong></h4>
 <p>We invite students with special talents and/or achievements in the following
 areas to apply:</p>
@@ -109,7 +110,7 @@ areas to apply:</p>
 <p>Malay Dance</p>
 </li>
 <li>
-<p>Modern Dance (Western Dance)</p>
+<p>Western Dance</p>
 </li>
 <li>
 <p>String Ensemble</p>
@@ -176,7 +177,13 @@ areas to apply:</p>
 </tr>
 </tbody>
 </table>
-<h5><strong>Selection Process</strong></h5>
+<h5><strong>Online Application</strong></h5>
+<p>Applications for the DSA-JC to National Junior College are free-of-charge
+and&nbsp;<strong>must</strong>&nbsp;be submitted online at&nbsp;<a href="https://go.gov.sg/njc2025jcdsa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/njc2025jcdsa</a> between&nbsp;<strong>7&nbsp;May 2025 (Wed)</strong>,&nbsp;<strong>12 pm&nbsp;and&nbsp;30 June 2025 (Mon)</strong>,&nbsp;<strong>5 pm</strong>.</p>
+<p>In the event that you are unable to upload your documents through the
+online application, you may email your documents to&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a>&nbsp;with the subject
+“DSA-JC Supporting Documents”.</p>
+<h4><strong>Selection Process</strong></h4>
 <p>Applicants will be shortlisted and selected based on the following overarching
 criteria:</p>
 <ol data-tight="true" class="tight">
@@ -192,11 +199,28 @@ motivation and integrity; and</p>
 as well as other opportunities to serve.</p>
 </li>
 </ol>
-<p>as well as criteria specific to each talent area.</p>
+<p>as well as <a href="/admissions/junior-college-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> specific
+to each talent area.</p>
+<p><strong>Please read through the <a href="/admissions/junior-college-selection-criteria/" rel="noopener noreferrer nofollow" target="_blank">criteria</a> carefully for each talent area. It also shows the portfolio requirements for the talent areas that require portfolio submission.</strong>
+</p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
-<p>The selection criteria and process for the talent areas will be updated
-from early May. For more information on DSA-JC, please refer to the MOE
-website:&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-jc</a>.</p>
-<p>We thank you for your interest in National Junior College.</p>
+<p>All shortlisted candidates will be&nbsp;<strong>notified via email by early July 2025</strong>&nbsp;to
+attend an in-person audition / trial&nbsp;held in National Junior College.
+More details on the performance task will be provided in the email notification.</p>
+<p>Thereafter, applicants who are further shortlisted will be&nbsp;<strong>notified via email</strong>&nbsp;to
+attend an in-person interview in July, held in National Junior College.</p>
+<h4><strong>Offer of Places</strong></h4>
+<p>Successful applicants will be notified via email of the results of their
+DSA-JC application by&nbsp;<strong>12 August 2025</strong>. Successful
+applicants will be offered a place in National Junior College for the academic
+year 2026.</p>
+<h4><strong>Enquiries</strong></h4>
+<p>For further enquiries on DSA-JC, you may call our General Office at 6466
+1144 during office hours (9 am to 5 pm) or drop us an email at <a rel="noopener noreferrer nofollow" target="_blank">njc@moe.edu.sg</a> with the subject “DSA-JC”.
+<br>
+<br>For more information on DSA-JC, please refer to the MOE website:&nbsp;
+<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-jc</a>.</p>
+<p>We thank you for your interest in our College.</p>
+<p>&nbsp;</p>
