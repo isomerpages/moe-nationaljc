@@ -1296,8 +1296,2191 @@ respective CCAs and have contributed in leading their CCAs to greater heights.</
 </tr>
 </tbody>
 </table>
+<hr>
+<h4>College Achievements</h4>
+<p><strong>Academic</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore National Institute of Chemistry&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Medal Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Claire Lee Yi Shuen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Singapore Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chow Yi Xuan, Claire</p>
+<p>Qiang Kaixin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Singapore Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adam Shane Kuan</p>
+<p>Chng Benjamin</p>
+<p>Eng Sin Wee Wesley</p>
+<p>Lim Jian Wei</p>
+<p>Serene Song</p>
+<p>Yeo Li Xiang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Singapore Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eunice Ang Geh Kar</p>
+<p>Isabelle Ang En Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Sejarah Inquisition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: First Runners-Up</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Arivalagan Sharmadha</p>
+<p>Ashvin Gunasekaran</p>
+<p>Venise Hah Xin Yi</p>
+<p>Sujith Kumar Swetha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bahas 4PM 2024 (4PM National Malay Debate Competition 2024) - Secondary
+Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Quarter Finalists</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nadine Alya Ramdhan</p>
+<p>Mahith Manesh</p>
+<p>Joan Phillipe Lo</p>
+<p>Nur Sabrina Binte Shahmudin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bisikan Pena 2024 (National Malay Poetry Writing And Recitation Competition)
+- JC Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brigitta Ariella Inigo Widiaatmaja</p>
+<p>Muaz'Zam Bin Azman</p>
+<p>Mellia Andelick Halim</p>
+<p>Dominique Jotin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bisikan Pena 2024 (National Malay Poetry Writing And Recitation Competition)
+- JC Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Consolation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Abigail Natali Susanto</p>
+<p>Misha Adrianna Binte Mohammed Salleh</p>
+<p>Alifah Ilyana Binte Mohammad Jawahir</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Historical Scene Investigation&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ananya Cinderella</p>
+<p>Arikrishnan Harshini</p>
+<p>Kylie Chua</p>
+<p>Kaitlyn Teo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Historical Scene Investigation 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alexis Sim Yan Yi</p>
+<p>Anya Teo Hwee</p>
+<p>Reiko Loo</p>
+<p>Wong Yi Xuan&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Illustratum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gau Yu Chian</p>
+<p>Tan Min Hean</p>
+<p>Nadine Alya Ramdhan</p>
+<p>Thondaiman Ramprabhu</p>
+<p>Liew Hng Kai Jethro</p>
+<p>Quek Mingxi Owen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE History Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Selected For MOE History Talent Development Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joel Ngu Yue Zhe</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Stem Championship 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Semi-Finalists</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Lue Kiat</p>
+<p>Surya Srinivasan</p>
+<p>Zafyra Keinastya Syahdeni</p>
+<p>Leia Ning En Kohl</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NLB Prove It! Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aniq Hanz Rayyan Bin Hanifah, Salihan Bin Sulaiman</p>
+<p>Laqeesha Aliya Staatsmann</p>
+<p>Janani Rama Saravanan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NLB Prove It! Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Angelina Cho</p>
+<p>Taranee Sri Annadurai</p>
+<p>Joshua Goh Joon Kai</p>
+<p>Ng Tze Rey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Yu Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Min Hean (Chen Minxian)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Louise Lek Rui Min</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Hui En Charlotte&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Surya Srinivasan&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUS Geography Challenge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Top Performing Student (Preliminary Round Individual Component)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Hui En Charlotte&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peraduan Saya Boleh Berpidato (Malay Oratorical Competition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Abdul Hadi Bin Ahmad Abdillah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peraduan Saya Boleh Berpidato (Malay Oratorical Competition)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mahith Manesh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peraduan Saya Boleh Mengarang 2024 (Malay Essay Writing Competition 2024)
+- Secondary Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Overall Third (Finals)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Estrella Orked Binte Abdul Sizdiq</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peraduan Saya Boleh Mengarang 2024 (Malay Essay Writing Competition 2024)
+- Secondary Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joan Phillipe Lo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peraduan Saya Boleh Mengarang 2024 (Malay Essay Writing Competition 2024)
+- Secondary Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alya Arisha Binte Mohammad Azri</p>
+<p>Salihan Bin Sulaiman</p>
+<p>Rochana Rajendra</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peraduan Saya Boleh Mengarang 2024 (Malay Essay Writing Competition 2024)
+- Secondary Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eryna Amelie Binte Nurul Hatta</p>
+<p>Nadine Alya Ramdhan</p>
+<p>Aniq Hanz Rayyan Bin Hanifiah</p>
+<p>Aaliya Maisarah Binte Muhammad Fauzan</p>
+<p>Sumayya Safa Binte Haslan</p>
+<p>Siti Nasirah Binte Mohamad Nasir</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peraduan Saya Boleh Mengarang 2024 (Malay Essay Writing Competition 2024)
+- Secondary Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Gold With Distinction Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Laqeesha Aliya Staatsmann</p>
+<p>Estrella Orked Binte Abdul Sizdiq</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science Buskers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Finalist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zahra Nerissa Bruin</p>
+<p>Chen Siyuan</p>
+<p>Thant Cho Oo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yang Anhe</p>
+<p>Quek Mingxi Owen</p>
+<p>Sai Wai Yan Lin</p>
+<p>Aarthi Suhitharan</p>
+<p>Damien Lee Ming Hui</p>
+<p>Claire Lee Yi Shuen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Le Xuan Khoi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Bronze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Clarence Lee Ming Zhe</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Janelle Soh Hui En</p>
+<p>Joan Phillipe Lo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Honourable Mention</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zheng Yixuan</p>
+<p>Nadine Alya Ramdhan</p>
+<p>Andrew Ong Zheng Kai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Junior Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Le Xuan Khoi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Junior Category (Bronze)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Yize</p>
+<p>Aravind Narun</p>
+<p>Chai Ming Zhu Andrew</p>
+<p>Gareth Phua Yong Teck</p>
+<p>Jayden Chua Wei Tzer</p>
+<p>Leong An Yi, Jh201</p>
+<p>Wong Yi Xuan, Jh202</p>
+<p>Selvakumar Varshini, Jh203</p>
+<p>Ng Yun Lin, Jh205</p>
+<p>Phan Vinh Anh, Jh205</p>
+<p>Alester Sim Zhiheng, Jh206</p>
+<p>Isabel Lee Xinyi, Jh206</p>
+<p>Wong Tung Ji Garath, Jh206</p>
+<p>Chong Le Yang, Jh207</p>
+<p>Farrel Tan Yen Keong, Jh207</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Junior Category (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gan Ming Ee</p>
+<p>Fong Jian Rui, Kaden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Senior Category (Bronze)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kai Yuan Donovan</p>
+<p>Joan Phillipe Lo</p>
+<p>Jamie Ng Shi Ting</p>
+<p>Tey Joshua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Senior Category (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Broadstock Thomas Darwin</p>
+<p>Evan Tyler Siytiu Sy</p>
+<p>Phan Phu Anh</p>
+<p>Xu Runzhang</p>
+<p>Aries Ariella Sy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Open Category (Bronze)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhou Mengting</p>
+<p>Xin Anxiaoyang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematical Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Open Category (Silver)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng You Xiang</p>
+<p>Kang Yu Kiat Zavier</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Mathematics Project Festival 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quek Mingxi Owen</p>
+<p>Tan Min Hean</p>
+<p>Yen Ming Zhen</p>
+<p>Damien Lee Ming Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Gold (Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Zi Xuan Natalyn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Gold (Senior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Jing Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Runner Up (Senior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeo Ying-Hsi Cristabelle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Silver (Junior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eryn Phng Yi Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Silver (Senior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selvakumar Vashini</p>
+<p>Esha Chau</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Bronze (Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kasthuriregan Sudhasakhi</p>
+<p>Kylie Chua Yi Qian</p>
+<p>Kwek Yee Shian Victoria</p>
+<p>Li Tianai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Bronze (Senior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeow Jia Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Silver (Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Odele Lim Xiao Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Bronze (Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Megan Lim</p>
+<p>Kaitlyn Teo Kai Wei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Silver (Senior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ainsley Neo Kaixin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Queen's Commonwealth Essay Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Bronze (Senior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Laqeesha Aliya Staatsmann</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<p><strong>Cultural</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Summa Cum Laude International Youth Music Festival, Vienna, Austria</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 3rd Place In The String Orchestra Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aaden Tan Ye Kai</p>
+<p>Aidan Koh</p>
+<p>Aidan Yeong Lee Heng</p>
+<p>Charlotte Wang Shen May</p>
+<p>Cheng Wang Hoi, Jacob Reuben</p>
+<p>Cherrlyn Chiah Jia Ying</p>
+<p>Goh Boon Wan, Branden</p>
+<p>Ho Yu Tong</p>
+<p>Hoon En Qi Gracia</p>
+<p>Hu Haochen</p>
+<p>Isabelle Lee Kai Xin</p>
+<p>Liu Yip Chor Rio</p>
+<p>Magnus Lachlan Forbes</p>
+<p>Nevin Shi En Yu</p>
+<p>Ng Yik Tao</p>
+<p>Odele Lim Xiao Xuan</p>
+<p>Phoebe Anne Hamdani</p>
+<p>Serene Song</p>
+<p>Song Shuailin Carey</p>
+<p>Sung Wai Lam</p>
+<p>Tan Hui En Charlotte (Chen Hui'En)</p>
+<p>Tan Jing Xuan</p>
+<p>Tristen Yuwee Ng</p>
+<p>Wang Qianhui</p>
+<p>Xu Youlin</p>
+<p>Zuriel Te Yourui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7th National Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Merit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Sicheng</p>
+<p>Lian Yuyang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7th National Text Recital Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhong Yixin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Naanum Oru Padaippaali (NOP) 2024: Budding Poets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Certificate Of Achievement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chandramohan Harshini</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Naanum Oru Padaippaali (NOP) 2024: Budding Poets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Certificate Of Achievement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dhakshinamurthi Saadhana</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Naanum Oru Padaippaali (NOP) 2024: Budding Poets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Certificate Of Achievement</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Venkitapathy Kirubhavathi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Public Speaking Competition 2025&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Top 5 Individual Speaker</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sundara Rajan Sadhana</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore International Choral Festival 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nicole Wong Hui Qi</p>
+<p>See Yi Xuan Matilda</p>
+<p>Gay En Xu Xavier</p>
+<p>Low Ray Teng</p>
+<p>Joelle Wong Jyn En</p>
+<p>Aymeric Lee Quan Jun (Dsa)</p>
+<p>Venise Hah Xin Yi</p>
+<p>Choo Jit Xen, John</p>
+<p>Kee Bing Xu Jayden</p>
+<p>Madeleine Maria Laude</p>
+<p>Lim Shan Qi</p>
+<p>Wu Kai Wen Kelvin</p>
+<p>Sabriel Chin Jing Ting</p>
+<p>Megan Lye Gin Woon</p>
+<p>Reanne Yeo</p>
+<p>Fung Yu Han, Colleen</p>
+<p>Natalie Chai Ruiwen</p>
+<p>Lebron Soh Zhen Teng</p>
+<p>Anya Teo Hwee</p>
+<p>Zoe Hoh Enxi</p>
+<p>Timothy James Lee Yun-Feng</p>
+<p>Meera Venkatraman</p>
+<p>Cao Thi Minh Ha</p>
+<p>Sophie Ong Mei Han</p>
+<p>Yang Miaohan</p>
+<p>Anik Kaushik Kumar</p>
+<p>Na Guanlin</p>
+<p>Kyra Tuyen Le</p>
+<p>Ng Yun Lin</p>
+<p>Lu Xinyu</p>
+<p>Charmaine Chan</p>
+<p>Chen Rui'En, Raine</p>
+<p>Gao Luodanchen</p>
+<p>Jasmine Saw Mei Yun</p>
+<p>Koh Ting Rui</p>
+<p>Gladys Chow Shi Xuan</p>
+<p>Tang Wai Kit Jireh</p>
+<p>Koh Yu Xuan</p>
+<p>Laiqah Shaista Binte Shahrul</p>
+<p>Evan Tyler Siytiu Sy</p>
+<p>Tran Hoang Phat</p>
+<p>Madhusudhanan Swasthikaa Sree</p>
+<p>Vu Nguyen Nhat Minh</p>
+<p>Gan Rui Xin</p>
+<p>Vasunthra D/O Palanivel</p>
+<p>Chong Han Xuan Chloe</p>
+<p>Janelle Tan Hui Ying</p>
+<p>Gerald Tan Jiaye</p>
+<p>Lim Huaming</p>
+<p>Nehaarika Deeliprakash</p>
+<p>Elysia Gabrielle Joseph</p>
+<p>Tey Joshua</p>
+<p>Rebecca Aung</p>
+<p>Ho Rui Min Isabelle</p>
+<p>Akash Shrinivas</p>
+<p>Yen Qian Bai</p>
+<p>Ooi De Fu</p>
+<p>Choo Yun Qi&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts (Drama) Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Accomplishment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sahoo Saatwika Satyabrata</p>
+<p>Chow Yi Ying</p>
+<p>Pragathi Bilamkar</p>
+<p>Emiley J Williams</p>
+<p>Nashita Jothi Shaik Mohamed Shakeel</p>
+<p>Albino Gabriel Li Ramos</p>
+<p>Lenin Subhash Leon</p>
+<p>Prakash Priyanka</p>
+<p>Anbu Kritikka Anbalagan</p>
+<p>Robert An-Cheng Shacklock</p>
+<p>Sujith Kumar Swetha</p>
+<p>Jasmine Lee Jing Wen</p>
+<p>Ng Rui Yee Chloe</p>
+<p>Prisha Vijai Parwani</p>
+<p>Chen Guanye</p>
+<p>Dong Yuantian</p>
+<p>Ong Kuang Cheong, Clifton</p>
+<p>Yap Zhi Cheng</p>
+<p>Riyasha Chattaraj</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Sporting</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 A Division Boys National School Games (Basketball)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: National 4th Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeap Zheng Ting</p>
+<p>Samuel Keith Price</p>
+<p>Aryan Sharma</p>
+<p>Keane Nua Jun Jie</p>
+<p>Ranadip Saha</p>
+<p>Ho Yuheng</p>
+<p>Lee Meng Kit</p>
+<p>Choo Kai Le Keller</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 A Division Girls National School Games (Basketball)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: National 3rd Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yang Xi Yi</p>
+<p>Boo Zhi Xuan</p>
+<p>Stella Lim Kai-June</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 B Division Boys National School Games (Basketball)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: South Zone 4th Place&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Tze Kiat Jayden</p>
+<p>Lucas Tay Ren Jun</p>
+<p>Chionh Jun Kye</p>
+<p>Soh Jing Kai</p>
+<p>Aaron Chuang Hao Ping</p>
+<p>Paing Zin Min Kyi</p>
+<p>Koh Yan Teng Max</p>
+<p>Xavier Teo Chee Zhuan</p>
+<p>Calvin Koh Ding Sheng 25Sh18:</p>
+<p>Peh Kan Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 B Division Girls National School Games (Basketball)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: South Zone 3rd Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Jiaxuan</p>
+<p>Tan Yu Fang</p>
+<p>Wang Zi Xin</p>
+<p>Gabrielle Tang Mei Xuan</p>
+<p>Mok Hui Ting Victoria</p>
+<p>Yin Bohan</p>
+<p>Tay Yi Xuan Michelle</p>
+<p>Tan Le Qi Leatrise</p>
+<p>Zoe Chen Jieyi</p>
+<p>Chua Link Xuen</p>
+<p>Ng Ying Xi Geraldine</p>
+<p>Sarah Lim Tjia Wen (Lin Jiawen)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 C Division Boys National School Games (Basketball)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: National Champions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Samuel Yang</p>
+<p>David Ho</p>
+<p>Quak Qi Wen</p>
+<p>Woo Wei Jun</p>
+<p>Joshua Chan Yi Kai</p>
+<p>Ooi Wei Xiang</p>
+<p>Li Yue Ming</p>
+<p>Yang Zhi Shan</p>
+<p>Yeo Zhe Kai</p>
+<p>Chong Le Yang</p>
+<p>Larren Kiew Yi Heng</p>
+<p>Chen Dingwen Jareth</p>
+<p>Sean Ang Jun Le</p>
+<p>Shaun Lim Yong Jun</p>
+<p>Daniel Luong Gia Hao</p>
+<p>Joshua Lim Yikai</p>
+<p>Lim Jun Xi Zechariah</p>
+<p>Sun Shibo Andy</p>
+<p>Callum Foo Mingzhi</p>
+<p>Rayden Yoong Han Teng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 C Division Girls National School Games (Basketball)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: National Top 16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ananya Cinderella</p>
+<p>Arika Ng Rui Yao</p>
+<p>Arularasan Hanshika</p>
+<p>Kong Ai Shan Chloe</p>
+<p>Singaravelan Ranjani Sri</p>
+<p>Meredith Chan Yuit Lyn</p>
+<p>Shaiza Yusrah Binte Shaikh Ismail</p>
+<p>Ong Kah Yen</p>
+<p>Tan Jun Xuan Denise</p>
+<p>Thanashree Darshini D/O Thamil Selvan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 National School Games Artistic Gymnastics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Floor - 2nd, Vault - 1st, Bars - 1st, Beam - 1st, All Round
+- 1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ariel Lin Jing Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 National School Games Artistic Gymnastics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Floor - 2nd, Vault - 2nd, Bars - 3rd, Beam - 4th, All Round
+- 2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Kwan Han, Samantha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 National Schools Games Shooting Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Gold&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loveley Ng</p>
+<p>Arshia Vijesh&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 National Schools Games Shooting Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Bronze&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loganathan Krithik</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 National Schools Games Shooting Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: 4th Placing&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Qi An</p>
+<p>Yeo Li Xiang&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 National Schools Games Shooting Competition&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Boys Divisional 2nd&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toh Cheng Xun Wilfred</p>
+<p>Kaung Htoo Kyaw</p>
+<p>Ding Li Chaw Maung</p>
+<p>Loganathan Krithik</p>
+<p>Law Chen Feng, Shean</p>
+<p>Loh Qi An</p>
+<p>Bryan Khoo Zhi Ren</p>
+<p>Fong Kah Chong</p>
+<p>Wu Ao</p>
+<p>Karumuru Krish</p>
+<p>Cheung Jehann</p>
+<p>Lucas Ching Ka-Shing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 National Schools Games Shooting Competition&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Girls Divisional 2nd&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Andria Bong Jia Wen</p>
+<p>Loveley Ng</p>
+<p>B Lathika</p>
+<p>Yeo Li Xiang</p>
+<p>Nicole Tan Li Yun</p>
+<p>Ang Yue Ting</p>
+<p>Kulandaivel Udayar Senthilkumar Lakshayaa</p>
+<p>Annabelle Ng Yi Xuan</p>
+<p>Fariah Tiat Safa</p>
+<p>Shanyce Goh</p>
+<p>Arshia Vijesh</p>
+<p>Lin Xi Elva&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 National Schools Games Shooting Competition&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Silver&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Law Chen Feng, Shean</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 National Sport Games (Basketball) A Division Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: National 4th Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeap Zheng Ting</p>
+<p>Samuel Keith Price</p>
+<p>Aryan Sharma</p>
+<p>Keane Nua Jun Jie</p>
+<p>Ranadip Saha</p>
+<p>Ho Yuheng</p>
+<p>Lee Meng Kit</p>
+<p>Choo Kai Le Keller</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 NSG Softball C Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: League 2 Champion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Si Ying Rene</p>
+<p>Chloe Lau Jing Hui</p>
+<p>Fang Qi</p>
+<p>Tan Yi Jun</p>
+<p>Kate Seow Yu Tian</p>
+<p>Kerry Lim</p>
+<p>Valerie Ong Leng Xuan (Wang Linxuan)</p>
+<p>Thakur Sanvi</p>
+<p>Kylie Chua Yi Qian</p>
+<p>Angelina Cho</p>
+<p>Reiko Loo</p>
+<p>Yoon Eunseoh</p>
+<p>Koh Ya Teng Ophelia</p>
+<p>Lai Vu Hai Anh</p>
+<p>Natalie Yeo</p>
+<p>Vadlamani Prianka</p>
+<p>Duong Chau Anh</p>
+<p>Evie Goh Si Yu</p>
+<p>Fang Zhilin Olivia</p>
+<p>Ananya Vedvyas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Penang International Dragon Boat Regatta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 400m International Junior U24 Mixed 1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xu Jie Ya</p>
+<p>Jayian Tan Rui Sheng</p>
+<p>Thant Cho Oo</p>
+<p>Lim Jia Jun Torres</p>
+<p>Gan Qi-En Avril</p>
+<p>Lim Kaijing</p>
+<p>Yap Tun Sheng</p>
+<p>Lee Jun Nis</p>
+<p>Raiyan Leong Ming Xi</p>
+<p>Josh Phua</p>
+<p>Amira Akhtar</p>
+<p>Ng Chonn Hur</p>
+<p>How Huilin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Penang International Dragon Boat Regatta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 400m International Junior U24 Mixed 2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ignatius Dharma Gunawan</p>
+<p>Lucas Tan Yi En</p>
+<p>Esther Siak Ka Yee</p>
+<p>Ryan Yap Yu Heng</p>
+<p>Tan Kai Yuan Donovan</p>
+<p>Giselle Wu Xiu Hui</p>
+<p>Yang Xinlei Janelle</p>
+<p>Lim Chee Kai Garren</p>
+<p>Soh Yu Rui</p>
+<p>Quek Seng Ee</p>
+<p>Teo Ming En Joanna</p>
+<p>Natalie Anne Teoh Li Yun</p>
+<p>Lokesh Pranav Karthik</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Penang International Dragon Boat Regatta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 400m International Junior U24 Opens 3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ignatius Dharma Gunawan</p>
+<p>Tan Kai Yuan Donovan</p>
+<p>Josh Phua</p>
+<p>Sai Wai Yan Lin</p>
+<p>Ng Chonn Hur</p>
+<p>Lokesh Pranav Karthik</p>
+<p>Thant Cho Oo</p>
+<p>Soh Yu Rui</p>
+<p>Yap Tun Sheng</p>
+<p>Lucas Tan Yi En</p>
+<p>Samuel Choo Hao Xuan</p>
+<p>Raiyan Leong Ming Xi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Penang International Dragon Boat Regatta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 250m International Junior U24 Girls 1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xu Jie Ya</p>
+<p>Amira Akhtar</p>
+<p>Teo Ming En Joanna</p>
+<p>Esther Siak Ka Yee</p>
+<p>How Huilin</p>
+<p>Lee Jun Nis</p>
+<p>Yang Xinlei Janelle</p>
+<p>Lim Kaijing</p>
+<p>Giselle Wu Xiu Hui</p>
+<p>Gan Qi-En Avril</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Penang International Dragon Boat Regatta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 250m International Junior U24 Mixed 1st</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Kai Yuan Donovan</p>
+<p>Josh Phua</p>
+<p>Xu Jie Ya</p>
+<p>Amira Akhtar</p>
+<p>How Huilin</p>
+<p>Ng Chonn Hur</p>
+<p>Andrew Ong Zheng Kai</p>
+<p>Gan Qi-En Avril</p>
+<p>Lim Kaijing</p>
+<p>Teo Ming En Joanna</p>
+<p>Thant Cho Oo</p>
+<p>Jayian Tan Rui Sheng</p>
+<p>Oza Jayaditya</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024 Penang International Dragon Boat Regatta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 250m International Junior U24 Mixed 3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ignatius Dharma Gunawan</p>
+<p>Xie Jinyan</p>
+<p>Lim Chee Kai Garren</p>
+<p>Lim Jia Jun Torres</p>
+<p>Quek Seng Ee</p>
+<p>Giselle Wu Xiu Hui</p>
+<p>Esther Siak Ka Yee</p>
+<p>Brendon Lim Yu Hung</p>
+<p>Lee Jun Nis</p>
+<p>Yang Xinlei Janelle</p>
+<p>Lokesh Pranav Karthik</p>
+<p>Natalie Anne Teoh Li Yun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Nanyang Technological University Invitation Shoot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Air Rifle Women(South) C Division&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Rui En Giselle</p>
+<p>Kong Sze Sen Cecilia</p>
+<p>Heng Zhe En Elizabeth</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Nanyang Technological University Invitation Shoot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Air Rifle Women(South) B Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tanittha Sangrung</p>
+<p>Lim Lok Yee</p>
+<p>Wong Jing Shen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Nanyang Technological University Invitation Shoot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Air Rifle Women C Division 3rd&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Rui En Giselle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 Nanyang Technological University Invitation Shoot&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: Air Pistol Men (South) 1st&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Law Chen Feng Shean</p>
+<p>Jayden Ng Le Tien</p>
+<p>Loh Qi An</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025 National University Singapore Invitation Shoot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: A Div Air Pistol Men 3rd&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Law Chen Feng Shean</p>
+<p>Jayden Ng Le Tien</p>
+<p>Loh Qi An</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hong Kong Cup Open Aesthetic Group Gymnastics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Megan Lim Woon Siew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Championship Gymnastics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Floor - 7th, Vault - 8th, Bars - 5th, Beam - 8th, All Round
+- 7th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ariel Lin Jing Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Championship Gymnastics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Floor - 4th, Vault - 8th, Bars - 3rd, Beam - 2nd, All Round
+- 2nd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Kwan Han, Samantha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Gymnastics Open Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Vault - 4th, Bars - 6th, All Round - 8th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ariel Lin Jing Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Gymnastics Open Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Individual: Floor - 4th, Bars - 2nd, All Round - 6th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loh Kwan Han, Samantha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Schools Sports Council (SSSC) National A Division Boys Championship
+2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 3rd Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Chiot Ek, Justus</p>
+<p>Kwok Lik Ian</p>
+<p>Lee Kar Kit</p>
+<p>Nguyen Khac Binh Minh</p>
+<p>Nicholas Tan Jun Wei</p>
+<p>Somanchi Rahul</p>
+<p>Henry Soh Tze Hao</p>
+<p>Lin Hao Yang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Schools Sports Council (SSSC) National School Games Squash National
+A Division Girls Championship 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 4th Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choy Yi Xuan, Dayna</p>
+<p>Eunice Goh Zi Ying</p>
+<p>Febella Ong Jie Yi</p>
+<p>Jiao Puxi</p>
+<p>Nivetha Saravanan</p>
+<p>Wai Yi Xuan</p>
+<p>Nichole Neo Ling Ming</p>
+<p>Xee Zun Yee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Schools Sports Council (SSSC) National School Games Squash National
+A Division Girls Championship 2024&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 4th Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choy Yi Xuan, Dayna</p>
+<p>Eunice Goh Zi Ying</p>
+<p>Febella Ong Jie Yi</p>
+<p>Jiao Puxi</p>
+<p>Nivetha Saravanan</p>
+<p>Wai Yi Xuan</p>
+<p>Nicole Neo Ling Ming</p>
+<p>Xee Zun Yee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Schools Sports Council (SSSC) National School Games Squash National
+B Division Boys Championship 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 4th Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Kheng Ek, Jethro</p>
+<p>Ethan Wan</p>
+<p>Lam Kai Xin</p>
+<p>Subramanian Sanjay</p>
+<p>Sze En Hao Gabriel</p>
+<p>Wai Yan Lin</p>
+<p>Li Zhiheng</p>
+<p>Pek Jeng Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Schools Sports Council (SSSC) National School Games Squash National
+B Division Girls Championship 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 4th Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Calista Yau</p>
+<p>Ephea Tay Yu Xuan</p>
+<p>Gervin Tan Shin Hui</p>
+<p>Jing Chu Yao</p>
+<p>Manikandan Akshaya</p>
+<p>Nova Chandran</p>
+<p>Sadhana Krishna Kumar</p>
+<p>Seraphina Ong En Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Schools Sports Council (SSSC) National School Games Squash National
+C Division Boys Championship 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 2nd Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Jia Shun</p>
+<p>Farrel Tan Yen Keong</p>
+<p>Jack Turner Anderson</p>
+<p>Liang Zi An</p>
+<p>Liew Wei Teng</p>
+<p>Fong Jian Rui Kaden</p>
+<p>Lim Jian You</p>
+<p>Teo Woo Hian Zavier</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Schools Sports Council (SSSC) National School Games Squash National
+C Division Girls Championship 2024&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team: 4th Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rochana Rajendra</p>
+<p>Choi Yeseul</p>
+<p>Laqeesha Aliya Staatsmann</p>
+<p>Tan Ye Wen Hayden</p>
+<p>Kwek Yee Shan Victoria</p>
+<p>Lo Fang Min Adora</p>
+<p>Selvakumar Varshini</p>
+<p>Pek Yeng Yeng</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Loyalty in the Builders</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>Long Service Awards</h4>
+<p></p>
+<p><strong><u>35 Years</u></strong>
+</p>
+<p><strong>NOORMA JUWETA BINTE MURAD</strong>
+</p>
+<p>It has been a true honour to serve NJC for over 20 years — a journey that
+has shaped not only my professional path, but also, my personal growth.
+Being part of a community that nurtures young minds and celebrates excellence
+has filled me with immense pride.</p>
+<p></p>
+<p>I’m deeply grateful for the unconditional support from all my colleagues,
+the teaching staff, and students over the past years I've had the privilege
+to work with. While there have been challenges and changes, what stays
+with me the most is the enduring sense of purpose, and the meaningful relationships
+built over the years.</p>
+<p></p>
+<p>This journey has always been more than just work; it is about growing
+together, learning from each other, and fostering a shared commitment.
+As I reflect on these years, I feel a profound sense of gratitude for the
+bonds formed here.</p>
+<p></p>
+<p>Thank you everyone for being a part of this incredible experience — may
+the NJC spirit continue to thrive in each of you.</p>
+<p></p>
+<p><strong><u>30 Years</u></strong>
+</p>
+<p><strong>DASSIAH VICTOR JOHN</strong>
+</p>
+<p>It is with great pride and humility that I reflect on the remarkable achievement
+of thirty years of dedicated service at National Junior College. As I celebrate
+this milestone, I extend my deepest gratitude to the College for providing
+me with the opportunity to serve and make a difference.</p>
+<p></p>
+<p>As a teacher, my hopes for students are deeply rooted in their growth,
+success, and overall well-being. I hope to empower students to believe
+in themselves and their abilities. By making education engaging, I want
+them to develop a lifelong passion for knowledge and everything they do.
+My goal is to have a positive impact on students' lives, shaping their
+future and helping them become responsible, compassionate, and well-rounded
+individuals.</p>
+<p></p>
+<p>I firmly believe that the phrase “quick to hear, slow to speak, slow to
+anger” serves as a guiding principle on how to develop as a good citizen.
+As I have applied this phrase in my life, I have also imparted this in
+my students for their growth in our society.</p>
+<p></p>
+<p><strong><u>25 Years</u></strong>
+</p>
+<p><strong>BEK AIK CHIANG ALVIN </strong>
+</p>
+<p>It has been a privilege to serve in NJC for so many years. The experience
+has been both meaningful and rewarding, as I have not only witnessed the
+school’s growth alongside the changing educational landscape, but also
+my transformation from a novice teacher to a more confident and competent
+educator.</p>
+<p></p>
+<p>What continues to motivate me over the years is the opportunity to contribute
+to the development of young minds. Additionally, the support and professionalism
+of my colleagues create a collaborative and safe environment that fosters
+continuous learning and growth.</p>
+<p></p>
+<p>As I often share with my students, learning math is not just about solving
+for the correct answers but being engaged in learning from failures too;
+“Mistakes Allow Thinking to Happen” is an acronym for MATH, after all.
+I wish for NJC students to embrace lifelong learning, to face challenges
+with resilience, and to make meaningful contributions to their communities.</p>
+<p></p>
+<p><strong><u>20 Years</u></strong>
+</p>
+<p><strong>NG JOON HONG</strong>
+</p>
+<p>Over the years, I’ve found immense joy in witnessing my students grow
+in confidence, character, and knowledge. Their success—whether big or small—has
+always been a source of quiet pride and motivation. I continue to find
+fulfilment in the everyday interactions with my students, which keep me
+grounded and inspired. Teaching has also been a journey of constant learning
+for me; it reminds me to stay curious, adaptable, and open to new perspectives.
+The sense of satisfaction that comes from making a difference, even in
+small ways, reaffirms my commitment to this profession. I’m grateful for
+the opportunities I’ve had and look forward to the continued privilege
+of growing alongside the young minds I teach.</p>
+<p></p>
+<p><strong>ARTINA BINTE SELAMAT</strong>
+</p>
+<p>I’m humbled to be recognised for my long service at National Junior College.
+What keeps me grounded is my passion for teaching and for growing as both
+a person and an educator. The opportunities I’ve received here have shown
+me how much more I can give back to the community, especially to my students.
+Though the years have brought change and challenges, the continuous support
+from colleagues and the shared spirit of resilience and altruism have kept
+me motivated. The joy of learning from both colleagues and students continues
+to inspire me and reminds me why I remain in this profession. I am grateful
+to still be in service at NJC – being part of a community where we learn
+and grow together, while celebrating the love for what we do, makes me
+look forward to coming to school every day.</p>
+<p></p>
+<p><strong>CHUA MANPING </strong>
+</p>
+<p>“Don’t count the years. Make the years count.” is something I believe
+in. Throughout these years as a teacher, I’ve never felt the need to count
+the years; teaching makes me feel as young as my students!</p>
+<p></p>
+<p>Every batch of students makes me learn as much as a beginning teacher.
+No two years pose the same challenge. No two students pose the same question.
+The moment I step into the classroom, I magically transform into someone
+who is full of joyful energy. The moment I step out of the classroom, I
+instantly return to my human form—a person who worries about time or gets
+exhausted from running out of energy. Yet the moment I make a difference
+to one life at a time through a smile, a text, or a chat, I am recharged
+once more to serve with honour year after year.</p>
+<p></p>
+<p>To the NJCians of every class, I wish you a heart of gold, a peace of
+mind, a body of strength, and a soul of light.</p>
+<p></p>
+<p><strong>ADRIAN LOH SIN LOY </strong>
+</p>
+<p>Serving in NJC has been very rewarding. I remember clearly wanting to
+contribute to the college as a new teacher, but was unclear of where I
+belonged at the time. I am glad that I have been afforded the space and
+resources to find my true calling and develop my teaching techniques. I
+am fortunate to have taught a wonderful collection of students whose enthusiasm
+further fueled my desire to do more. From the tiny steps of SPIRE to H3-Star
+and then to E-Star, from the east zone science fair to SSEF and ISEF, each
+journey makes me realize that this is where I want to be.</p>
+<p></p>
+<p>To my students, teaching you has been the best thing that I have ever
+done. You really are wonderful. My advice to you is to do what you want
+to achieve. There are risks that need to be taken, but you can manage this
+and move forward. For if not now, when?</p>
+<p></p>
+<p><strong>WEE KENG HAN </strong>
+</p>
+<p>As I look back on 20 years at National Junior College, I find myself filled
+with a mix of pride, gratitude, and a bit of disbelief — has it really
+been two decades? When I first started teaching Chemistry here, I thought
+I was simply passing on knowledge. I didn’t realise how much my students,
+colleagues, and this community would end up teaching me. NJC has been more
+than just a workplace; it has been a second home filled with laughter,
+learning, and the occasional unexpected lab experiment! Every lesson taught
+and every conversation shared has been a reminder of why I chose this path.
+I am deeply thankful for the friendships built, the trust given, and the
+memories created. As I receive this Long Service Award, I carry with me
+not just years of service, but years of meaningful moments that I will
+always treasure.</p>
+<p></p>
+<p><strong><u>15 Years</u></strong>
+</p>
+<p><strong>LIM WEI LI</strong>
+</p>
+<p>Teaching in NJC has been an incredibly fulfilling journey. Over the years,
+I have not only enjoyed the process of guiding and nurturing students,
+but I have also grown as an educator and as a person.</p>
+<p></p>
+<p>NJC has given me countless opportunities to explore, learn, and evolve.
+What keeps me going is the spark in my students’ eyes when they finally
+grasp a concept they were struggling with, or the joy they show when they
+achieve something they worked so hard for.</p>
+<p></p>
+<p>My hope for our NJC students is that they grow not just academically,
+but also in character — to develop a strong sense of purpose and become
+compassionate, thoughtful individuals. Moments that bring me the most fulfilment
+are when graduated students return, eager to give back and support their
+juniors. That’s when I know NJC has done something right. Service with
+Honour!</p>
+<p></p>
+<p><strong>ONG MING ANN</strong>
+</p>
+<p>NJC is the school that I’ve spent most of my teaching years in. It is
+a dynamic environment where we always reflect on student outcomes and how
+we can improve our practice to better meet student needs in a changing
+world.</p>
+<p></p>
+<p>It is a joy to work with young lives and see each bloom in their own time.
+Some hardly need any guidance but for those who do, the impact is life
+changing and uplifting even for their families.</p>
+<p></p>
+<p>Through the examples of many dedicated staff they encounter, I hope that
+NJC students appreciate the holistic quality education they receive and
+are inspired and emboldened to leave a legacy for their future batches
+and society as they have been blessed.</p>
+<p></p>
+<p><strong>WANG SHILIANG</strong>
+</p>
+<p>As I mark my 15th year as an educator in this college, I feel deeply grateful
+for the people I’ve worked alongside—each interaction has brought joy and
+inspired me to give my best in helping students learn and grow. While I’ve
+light-heartedly told students that “my future depends on theirs,” this
+sentiment carries truth: education is the bedrock of sustainable progress.
+The world has changed drastically over the past five years, yet my purpose
+remains steadfast: to teach, to coach, and to inspire. The greatest challenge
+in teaching is balancing adaptability with groundedness—meeting diverse
+learning needs while ensuring that every student learns meaningfully. Despite
+the changes and challenges, my commitment to being a good teacher endures.
+I remain hopeful and dedicated to empowering each student who passes through
+my hands, with the hope that they, too, will do good for society.</p>
+<p></p>
+<p><strong>OH JIA LIN, KAREN</strong>
+</p>
+<p>As an alumnus, I am very grateful to have had the opportunity to be back
+to serve in NJC and work alongside my teachers. Although most of them have
+since retired, I would still like to thank them for guiding me along as
+a student and as a teacher.</p>
+<p></p>
+<p>It really does not feel like I have already spent 15 years teaching in
+NJC. Every day feels new because of new challenges and opportunities to
+develop and grow. The world is constantly changing too, and we learn to
+adapt. As I teach my students, I continue to learn from them too. Regardless
+of our paths in life, may we continue to find joy in learning.</p>
+<p></p>
+<p><strong>LEE JIAN HAO JASON</strong>
+</p>
+<p>National Junior College is the first and only school that I have taught
+at since I began my teaching career. While I have served in this college
+for 15 years, it honestly does not feel like so much time has passed.</p>
+<p></p>
+<p>Being a teacher has both its peaks and challenges. While I am here to
+help my students learn, I find that I myself have learnt a lot in my journey
+as a teacher.</p>
+<p></p>
+<p>Teaching is undoubtedly tough but what keeps me going is getting to interact
+with my students and engaging in conversations with them. This is what
+I look forward to the most everyday.</p>
+<p></p>
+<p>The world is evolving and the challenges we face as a society have changed
+tremendously. Thus, I hope that my students look beyond just academic grades
+and appreciate that at the end of the day, what is most important, is the
+competencies that they develop to stay adaptable and resilient.</p>
+<p></p>
+<p><strong>LIM ZONG LIANG</strong>
+</p>
+<p>As I look back on my years in education, I'm struck by the incredible
+journey of learning and growth that teaching has provided. I've seen countless
+examples of students overcoming obstacles and achieving their potential,
+and that is a constant source of motivation for me. Of course, teaching
+has not always been easy. There have been challenges, setbacks, and moments
+of doubt. But each of these experiences has taught me valuable lessons
+about myself, about teaching, and about the importance of perseverance.
+Looking ahead, I am excited about the future of education and the continued
+opportunity to make a difference in the lives of young people. My years
+of service have not only allowed me to shape the futures of countless individuals
+but have also profoundly shaped my own life and growth as an educator.</p>
+<p></p>
+<p><strong>NUR AMIRAH BINTE KHAIRUDIN</strong>
+</p>
+<p>It feels like it was just yesterday that I first came to NJC but lo and
+behold it has already been a fulfilling 15 years here. A lot has changed
+and will continue to change but I will always continue to strive and be
+the best version of myself.</p>
+<p></p>
+<p>Knowing that I’ve played and continue to play a part in ensuring that
+practical lessons in the biology labs run smoothly has been a motivation,
+as well as the camaraderie I’ve forged with my colleagues all these years.
+They’ve definitely made it enjoyable to be working here; many times, we
+share the same struggles but we also celebrate our small wins together.</p>
+<p></p>
+<p>I hope at the end of the 2 or 6 years in NJC, students will be able to
+leave with the knowledge and skills that have been imparted to them and
+with confidence I’m sure they’ll be able to make a positive change in the
+world.</p>
+<p></p>
+<p><strong>ALICE GEORGE</strong>
+</p>
+<p>It’s hard to believe that 15 years have flown by at National Junior College!
+Being part of this wonderful NJC family as an Operation Support Officer
+has been a truly rewarding experience. Every day, whether helping to set
+up events, keeping the campus in order, or lending a hand wherever needed,
+has given me a sense of purpose and pride. Along the way, I’ve shared countless
+laughs, made great friendships, and collected memories that I will always
+treasure. It’s the little moments — a simple thank you, a smile from a
+student, or a team effort behind a successful event — that have made this
+journey so special. I am grateful to be part of a community where everyone’s
+role matters, big or small. As I celebrate this milestone, I look forward
+to many more years of working, learning, and growing together with the
+NJC family!</p>
+<p></p>
+<p><strong><u>10 Years</u></strong>
+</p>
+<p><strong>HON TIN SENG</strong>
+</p>
+<p>Celebrating a decade of teaching at NJC has been an incredibly rewarding
+journey. Over the past ten years, I’ve had the privilege of watching students
+grow, learn, and discover their potential. Each classroom experience has
+shaped me—not just as an educator, but as a lifelong learner. I’ve built
+lasting relationships with colleagues, collaborated on meaningful projects,
+and adapted to the evolving needs of education. Every challenge faced brought
+new opportunities to grow, and every success, no matter how small, reminded
+me why I chose this path.</p>
+<p></p>
+<p><strong>SNG YEOW BOON HENRY</strong>
+</p>
+<p>I can hardly believe it, but it’s been 10 years since I first walked into
+NJC. That’s right, a full decade of blowing whistles, dodging flying frisbees,
+and reminding students that running is not optional. When I first started,
+I had one mission: to make a positive impact (and maybe survive friendly
+games without straining my hamstring). Ten years later, the mission stands
+strong, though my knees now provide a running commentary every time I demonstrate
+a lunge.</p>
+<p></p>
+<p>Over these years, I have picked up some vital survival skills, like thriving
+on canteen kopi and operating a stubborn projector through sheer willpower.
+At NJC, two guiding principles have kept me going: “Safety first” (especially
+when sprinting across the field to chase students indoors during lightning
+alert) and “Students first” because, let’s face it, they are the reason
+we are here (and also the reason we occasionally question our sanity).</p>
+<p></p>
+<p>To my students, thank you for your energy, your humour, and your never-ending
+supply of creative excuses. To my colleagues, thank you for your support,
+friendship, and emergency snacks.</p>
+<p></p>
+<p>This is not just a career, it is a calling. Here’s to many more years
+of laughter, learning, and maybe, just maybe, finally mastering the new
+tech.</p>
+<p></p>
+<p><strong>TAN SHU-WEI</strong>
+</p>
+<p>2015 marked the beginning of my 17th year in teaching—and my first at
+NJC. Now, many moons and monsoons later, it is 2025. These ten years have
+been filled with vibrancy and personal growth. I embraced new ideas through
+enriching professional development opportunities, found inspiration in
+the everyday rhythms of school life, and built meaningful connections with
+colleagues and students. Over time, those connections blossomed into friendships
+that extend far beyond the workplace. NJC became more than just a place
+to teach—it became a space of growth, and a trove of memories. For all
+these experiences, I am deeply grateful. As I look to the future, I carry
+the faith and hope that each NJCian will continue to grow with confidence,
+curiosity, and the courage to shape a meaningful world.</p>
+<p></p>
+<p><strong>LING WEE LEE</strong>
+</p>
+<p>For teachers, the connections we form with our students are what make
+our work special. It really means a lot when students want to know us beyond
+the classroom or when they open up and share more than just “I’m okay”.
+We walk alongside them on their journey, believing that some may just need
+a bit more time to find their way, discover who they are, and choose who
+— not what — they want to be. I’m glad that as a teaching community, we
+have a hand in nurturing students who value kindness and human connection
+above all else.</p>
+<p></p>
+<p>Beyond the meaningful interactions with students, I’m also really thankful
+for the friendships among colleagues. They are the ones who look out for
+one another, always ready to help, share advice, or just listen. I’m also
+thankful for our school leadership who stands firmly behind us, always
+supporting the work we do. Looking back, it’s been a wonderful ten years
+at NJC, and I’m really happy to be here!</p>
+<p></p>
+<p><strong>KWEK YUAN CHIA</strong>
+</p>
+<p>Receiving this Long Service Award fills me with immense pride and happiness.
+Over the past decade at National Junior College, I have found deep fulfillment
+in teaching Mathematics and Computing, watching my students grow not just
+academically but also in leadership, character, and co-curricular pursuits.
+What motivates me most is seeing former students return with warm greetings,
+sharing their progress—proof that our efforts extend beyond the classroom.</p>
+<p></p>
+<p>I am grateful for my supportive Head of Department and collaborative colleagues
+who make NJC an inclusive and uplifting workplace. Our teamwork and shared
+dedication make every challenge worthwhile.</p>
+<p></p>
+<p>As I reflect on these 10 years, my greatest hope is that our students
+carry forward a lifelong love for learning and use their knowledge to contribute
+meaningfully to society. NJC has been more than a workplace—it’s a community
+I am honored to serve.</p>
+<p></p>
+<p><strong>YONG MAN YUN</strong>
+</p>
+<p>National Junior College is a place of growth, learning and building relationships
+for me. I have learnt from many passionate colleagues and even students.
+Being surrounded by like-minded, supportive and positive people help to
+make everyday work easier. Motivation comes from students’ appreciation
+towards their teachers and peers.</p>
+<p></p>
+<p>I hope that NJCians will find the confidence, drive and passion in the
+things they believe in as they navigate through life.</p>
+<p></p>
+<p><strong>NG XIU-LI</strong>
+</p>
+<p>Teaching at NJC for all these years has been such a great journey. I’ve
+learned that teaching isn’t just about getting through lessons, it’s about
+building connections, getting students to be curious, and creating a classroom
+where they can really thrive. Seeing those "aha!" moments, when students
+finally understand something, they’ve been struggling with, is one of the
+best parts. It’s not only about academic growth but watching them grow
+as people too.</p>
+<p></p>
+<p>What keeps me going is knowing that the impact we have here really lasts.
+Education shapes so much of my students' futures, and it’s amazing to be
+part of that. NJC has been a place where I’ve grown and every year brings
+something new, but the sense of community here always keeps me inspired.
+My hope for our students is that they become men and women that embody
+the values imparted to them in NJC.</p>
+<p></p>
+<p><strong>FONG CHEE HOE</strong>
+</p>
+<p>Honestly, I am beyond thankful and grateful for my time here in NJC. To
+be surrounded by such a great community is indeed a blessing. In particular,
+my students, past and present, are constant reminders of why I love to
+teach. My hope for our NJC students is this – they go out there and do
+good for the community.</p>
+<p></p>
+<p><strong>TAY WEN LIN MELANIE</strong>
+</p>
+<p>I feel privileged to be part of a community that values both academic
+rigour and character development. What keeps me going is the opportunity
+to witness growth in students, watching students discover their strengths,
+overcome challenges, and become thoughtful and capable individuals.</p>
+<p></p>
+<p>My hope for NJC students is that they continue to embrace curiosity and
+stay resilient in face of adversity. “When you come out of the storm, you
+won’t be the same person who walked in.” Keep going – you are growing in
+ways you may not yet see.</p>
+<hr>
+<h4><strong>Building with our Friends and Partners</strong></h4>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>The Friends of NJC Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friends of NJC Award</p>
+<p>(Individual)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Shu En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kranji Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friends of NJC Award</p>
+<p>(Organisation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Lek Hong&nbsp;</p>
+<p>(Principal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kranji Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friends of NJC Award</p>
+<p>(Organisation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chew Chee Tong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Moulmein-Cairnhill&nbsp;</p>
+<p>Youth Network</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friends of NJC Award</p>
+<p>(Organisation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jonna Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NTUC Health&nbsp;</p>
+<p>Active Ageing Centre (Care)&nbsp;</p>
+<p>(Jurong Central Plaza)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>The NJC Esteemed Partners’ Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NJC Esteemed Partners' Award&nbsp;</p>
+<p>(Organisation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Joseph Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Family Central&nbsp;</p>
+<p>(Tiong Bahru)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NJC Esteemed Partners' Award</p>
+<p>(Individual)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr. Nikolai Yakovlev</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National University of Singapore</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>The NJC Partners’ Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NJC Partners’ Award</p>
+<p>(Individual)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Jesher Loi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ya Kun International Pte Ltd</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
