@@ -40,6 +40,8 @@ courage, uplifting others, and striving for excellence.</p>
 <summary><strong>Integrity in the Bricks</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<h4>Student Awards</h4>
+<p></p>
 <p><strong><u>The NJC Student of the Year</u></strong>
 </p>
 <p>The National Junior College Student of the Year is the pinnacle of all
@@ -546,7 +548,309 @@ an effective rippling impact.</p>
 Firdaus Panggabean, Cao Yuxuan, Tracey Christianti, Chan Yew Zhi, Lim Jiaqi,
 Josh Phua, Lim Dong Xian, Choi Jaeeun, Li Yuanzheng, Xu Erchen, Xee Zun
 Yee</p>
+<hr>
+<h4>Academic Excellence Awards</h4>
+<p><strong><u>The NJC Subject Excellence Awards</u></strong>
+</p>
+<p>The NJC Subject Excellence Awards recognise NJC graduates based on excellence
+in each discipline/subject.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardee</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H1 Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Evan Kek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H1 Economics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kagrana Nyasha Samir</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H1 General Paper</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lian Yuyang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H1 Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saravanan Nandhini</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Art</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debby Teng Qin Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Biology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ding Li Chaw Maung</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Xu Yang Timothy</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Chinese Language and Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Yunxi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Computing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Izaac</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Economics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wai Yi Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 English Language and Linguistics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Callum Seah Quee Lun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Further Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lin Jun Qiang, Marcus</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Geography</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Luo Chang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 History&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lian Yuyang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Knowledge &amp; Inquiry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Somanchi Rahul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Literature in English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To Rui Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Malay Language and Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Nurshasha Binte Mohamad Raime</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Benedict Goh Yong En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Physics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Benedict Goh Yong En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>H2 Tamil Language and Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mirdusni Madhavan</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<p><strong><u>2024 GCE ‘A’ Level Examinations</u></strong>
+</p>
+<p>We congratulate our 480 NJCians who sat for the 2024 GCE A-Level Examinations
+for their excellent performance. Their results are a testament to their
+dedication and perseverance.</p>
+<p>Apart from their academic successes, we are also very proud of our student’s
+unwavering commitment to Service with Honour, their active participation
+in CCAs, and their contributions to both the College and the wider community.
+We wish them all a very bright, promising and fulfilling future ahead!</p>
+<p></p>
+<p><strong><u>The NJC Academic Excellence Awards</u></strong>
+</p>
+<p>The NJC Academic Excellence Awards recognise students from Junior High
+1 through to Senior High 1 who have excelled academically.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award:&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees:&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JH1 Academic Excellence Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wu Rui Tian Genevieve</p>
+<p>Jubilee Yim</p>
+<p>Anton Chia Su Yi</p>
+<p>Koh Yu Zhe, Azriel</p>
+<p>Gan Ming Ee</p>
+<p>Elil Nila D/O Mahendran</p>
+<p>Pek Yeng Yeng</p>
+<p>Wan Mika</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JH2 Academic Excellence Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sarah Katie Koo</p>
+<p>Joey Kang Yu Tong</p>
+<p>Kwek Yee Shian Victoria</p>
+<p>Wu Yitian Isabella</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JH3 Academic Excellence Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vu Nguyen Nhat Minh</p>
+<p>Lin Huai'En Reann</p>
+<p>Tran Huong Giang</p>
+<p>Lim Lok Yee</p>
+<p>Ainsley Neo Kaixin</p>
+<p>Manikandan Akshaya</p>
+<p>Zhang Huiwen</p>
+<p>Surya Srinivasan</p>
+<p>Xie Jinyan</p>
+<p>Tan Hui En Charlotte (Chen Hui' En)</p>
+<p>Chua Lue Kiat</p>
+<p>Clarence Lee Ming Zhe (Li Mingzhe)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JH4 Academic Excellence Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aarthi Suhitharan</p>
+<p>Tan Min Hean (Chen Minxian)</p>
+<p>Claire Lee Yi Shuen</p>
+<p>Lim Huaming</p>
+<p>Tan Yu Ying</p>
+<p>Mahith Manesh</p>
+<p>Fong Si Xuan Charlyn</p>
+<p>Nadine Alya Ramdhan</p>
+<p>Damien Lee Ming Hui (Li Minghui)</p>
+<p>Seah Ern Ting (She Enting)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH1 Academic Excellence Awards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pham Anh Thi</p>
+<p>Clairine Amadea Muljana</p>
+<p>Hon Zen Yi Jarett</p>
+<p>Low Ray Teng</p>
+<p>Chan Yin Yee Jeanine</p>
+<p>Chua Lok Yi</p>
+<p>Poh Kai Li</p>
+<p>Cheng Hui Ling , Chloe</p>
+<p>Kan Yuhui</p>
+<p>Nicole Phua Yew Rong</p>
+<p>Wanyan Yuxuan</p>
+<p>Yeo Li Xiang</p>
+<p>Chow Yi Xuan, Claire</p>
+<p>Eunice Ang Geh Kar</p>
+<p>Ian Iong Song En</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
