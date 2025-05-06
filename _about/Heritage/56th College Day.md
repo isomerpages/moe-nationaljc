@@ -2980,7 +2980,7 @@ my students for their growth in our society.</p>
 <p></p>
 <p><strong><u>25 Years</u></strong>
 </p>
-<p><strong>BEK AIK CHIANG ALVIN </strong>
+<p><strong>BEK AIK CHIANG ALVIN</strong>
 </p>
 <p>It has been a privilege to serve in NJC for so many years. The experience
 has been both meaningful and rewarding, as I have not only witnessed the
@@ -3028,7 +3028,7 @@ to still be in service at NJC – being part of a community where we learn
 and grow together, while celebrating the love for what we do, makes me
 look forward to coming to school every day.</p>
 <p></p>
-<p><strong>CHUA MANPING </strong>
+<p><strong>CHUA MANPING</strong>
 </p>
 <p>“Don’t count the years. Make the years count.” is something I believe
 in. Throughout these years as a teacher, I’ve never felt the need to count
@@ -3046,7 +3046,7 @@ once more to serve with honour year after year.</p>
 <p>To the NJCians of every class, I wish you a heart of gold, a peace of
 mind, a body of strength, and a soul of light.</p>
 <p></p>
-<p><strong>ADRIAN LOH SIN LOY </strong>
+<p><strong>ADRIAN LOH SIN LOY</strong>
 </p>
 <p>Serving in NJC has been very rewarding. I remember clearly wanting to
 contribute to the college as a new teacher, but was unclear of where I
@@ -3062,7 +3062,7 @@ done. You really are wonderful. My advice to you is to do what you want
 to achieve. There are risks that need to be taken, but you can manage this
 and move forward. For if not now, when?</p>
 <p></p>
-<p><strong>WEE KENG HAN </strong>
+<p><strong>WEE KENG HAN</strong>
 </p>
 <p>As I look back on 20 years at National Junior College, I find myself filled
 with a mix of pride, gratitude, and a bit of disbelief — has it really
