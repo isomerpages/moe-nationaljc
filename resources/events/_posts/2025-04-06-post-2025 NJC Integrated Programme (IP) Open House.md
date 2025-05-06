@@ -31,3 +31,7 @@ flow is expected.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_06_105727.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_06_105823.png">
+</div>
+<p></p>
