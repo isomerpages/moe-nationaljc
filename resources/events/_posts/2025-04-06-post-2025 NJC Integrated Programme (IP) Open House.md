@@ -27,3 +27,7 @@ at public car parks outside NJC (Bougainvillea Park and Greenwood area).</p>
 flow is expected.</p>
 <p>Drop-off point will be located in NJC via the main gate.</p>
 <p>See you this Saturday, 10 May 2025, at NJC!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_05_06_105727.png">
+</div>
+<p></p>
