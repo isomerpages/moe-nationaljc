@@ -851,6 +851,453 @@ We wish them all a very bright, promising and fulfilling future ahead!</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<h4>Leadership and CCA Awards</h4>
+<p><strong><u>The NJC Leadership Awards</u></strong>
+</p>
+<p>The NJC Leadership Awards recognise students who have demonstrated excellent
+leadership.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Leadership</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Council</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHEO CHIONG TENG</p>
+<p>YANG WEIXIONG</p>
+<p>AMANDA LEE YEE XUAN</p>
+<p>HONG YAR WERN, VIVIAN</p>
+<p>SHANYCE GOH</p>
+<p>LUO CHANG (LOH CHANG)</p>
+<p>SEE THOU JUN KAI</p>
+<p>SU PEI CHEN, NATALIE</p>
+<p>TOH SHI JIE</p>
+<p>ZHANG ZHENQI</p>
+<p>GOH YU XIN</p>
+<p>LIM WAN YING</p>
+<p>GRACIA TOE WEN HIN</p>
+<p>DANELLE KAYLEE KHOO BACOMO</p>
+<p>KAUNG HTET ZAR NIE</p>
+<p>BEATRICE FOO YAQI (FU YAQI)</p>
+<p>JORDAN NG JUN QUAN</p>
+<p>TAN PENG SIONG JETHRO</p>
+<p>EPHEA TAY YU XUAN</p>
+<p>ERIN POK ERN YEE (BU ENYI)</p>
+<p>KYLENE KRISTYN LEW</p>
+<p>TAY JIA HUI DAYNA</p>
+<p>GAU YU CHIAN</p>
+<p>LIM HUAMING</p>
+<p>TAN YU YING</p>
+<p>KYANNE TAN KAI-AN</p>
+<p>JOEY TOH TING YI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Peer Support Leaders</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAE TANG</p>
+<p>EVONNE LEW XUAN YI</p>
+<p>HUANG JUNDONG</p>
+<p>NURSAFFIYAH BINTE ABDUL RAHMAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VIA Leaders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EVONNE LEW XUAN YI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Servant Leadership Training Camp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG XIN YI</p>
+<p>XEE ZUN YEE</p>
+<p>JOSH PHUA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sapphire Leaders</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HO YOON SIM</p>
+<p>SOH YAN XI</p>
+<p>TAN EE HSUEN, CONAN</p>
+<p>KYRA TAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Funtasia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EMMA LEE WEN QI</p>
+<p>HENRY CHA YU HANG</p>
+<p>KYRA TAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Games Festivals</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GANESAMOORTHY PRATHYUSZH</p>
+<p>CHAI WAN HAO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Day Celebrations 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WAI LOK</p>
+<p>XANDER LEE RONN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>The NJC CCA Awards</u></strong>
+</p>
+<p>The NJC CCA Awards recognise students who have achieved success in their
+respective CCAs and have contributed in leading their CCAs to greater heights.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sports and Games</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BASKETBALL</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUI JUN LING ELROY</p>
+<p>BOO ZHI XUAN</p>
+<p>YANG XI YI</p>
+<p>HO MING XU, DAVID</p>
+<p>YANG LECONG, SAMUEL</p>
+<p>SARAH LIM TJIA WEN (LIN JIAWEN)</p>
+<p>XAVIER TEO CHEE ZHUAN (ZHANG ZHIZHUAN)</p>
+<p>CHUA LINK XUEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CANOEING &amp; DRAGON BOAT</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TASYA DARAMALINGGAM</p>
+<p>CHOW JED IAN SAMUEL</p>
+<p>NICOLE TAN LI YUN</p>
+<p>LOY QI RONG, JAYDEN</p>
+<p>ALISON FOO MANLIN</p>
+<p>AMIRA AKHTAR</p>
+<p>YAP TUN SHENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ROCKWALL CLIMBING</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOY TAY RUI EN</p>
+<p>KEISHA ANNE ROBLES</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHOOTING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOGANATHAN KRITHIK</p>
+<p>ANNABELLE NG YI XUAN</p>
+<p>TOH CHENG XUN WILFRED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SOFTBALL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANGELINA CHO</p>
+<p>NATALIE YEO</p>
+<p>EVIE GOH SI YU</p>
+<p>FANG ZHILIN OLIVIA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SQUASH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHOY YI XUAN, DAYNA</p>
+<p>DING LI CHAW MAUNG</p>
+<p>LIN HAO YANG</p>
+<p>GERVIN TAN SHIN HUI</p>
+<p>SZE EN HAO GABRIEL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TRACK AND FIELD AND CROSS-COUNTRY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zKUEK YU JING</p>
+<p>LIM JUN YI MATTHEW</p>
+<p>ISAAC SIM CHENG JUN</p>
+<p>SHOBI YAP WOON AI</p>
+<p>SHANICE TAN HARIDAS</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Performing Arts</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHINESE ORCHESTRA &amp; GUZHENG ENSEMBLE</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN WEE HIN</p>
+<p>SHARON POH SHIHUI</p>
+<p>CHEN PINGXIN</p>
+<p>TAN YAN NING, TRINICE</p>
+<p>ARIS LOH JENTENG</p>
+<p>NEO SU EN, CHARMAINE</p>
+<p>NG YAN TING JOLIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHOIR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN LI XIN, GEMMA</p>
+<p>ZHANG XUANYI</p>
+<p>GERALD TAN JIAYE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GUITAR ENSEMBLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NINDYA ADHWA RAMDHAN</p>
+<p>SEAH NING NING, MABEL</p>
+<p>MAHITH MANESH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>INDIAN DANCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S J HARSHITHA</p>
+<p>SIVAKUMAR NANDHANA</p>
+<p>LAKSHMINARAYANAN THARUNIKA</p>
+<p>AASHIRA MOHAMED BILAL</p>
+<p>HARINI JAYAKUMAR</p>
+<p>MURARI AASRITHA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MALAY DANCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SITI NURSHASHA BINTE MOHAMAD RAIME</p>
+<p>BRIGITTA ARIELLA INIGO WIDIAATMAJA</p>
+<p>ESTABEL LEE</p>
+<p>GWYNETH TAN ZI YI (CHEN ZIYI)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STRING ENSEMBLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HO YU TONG</p>
+<p>SUNG WAI LAM</p>
+<p>CHENG WANG HOI, JACOB REUBEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYMPHONIC BAND</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RACHAEL HO XIN YUN</p>
+<p>NUR SABRINA BINTE SHAHMUDIN</p>
+<p>SHOUN NAY YEE KO KO</p>
+<p>CLARA TAN SHIQI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WESTERN DANCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RYAN LEE YI SHENG</p>
+<p>SABELLE TOH SHUN NING</p>
+<p>KYANNE TAN KAI-AN</p>
+<p>GISELE CHIAM XIN XUAN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Clubs and Societies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Awardees</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASTRONOMY</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOE JUN WEI</p>
+<p>LIU LINXI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AVA &amp; PA CLUB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIN JUN QIANG, MARCUS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CLDDS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEN YUNXI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELDDES</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RIFQAH BINTE MOHAMED RAFEE</p>
+<p>EMILEY J WILLIAMS</p>
+<p>NASHITA JOTHI SHAIK MOHAMED SHAKEEL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ILDDS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANBU KRITIKKA ANBALAGAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MLDDS</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FIKRI HAKIM BIN SHAHRIN</p>
+<p>MUHAMMAD ARSYA FAHREZI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GREENLINK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAE TANG</p>
+<p>NG XIN EN</p>
+<p>JOCELYN WINATA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NJPRODUCTIONS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EDISON ANG TING-O</p>
+<p>MYAT NOE EIN CHAI</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 </div>
 </details>
 </div>
