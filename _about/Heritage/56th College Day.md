@@ -3466,6 +3466,9 @@ me why I chose this path.</p>
 <p></p>
 <p><strong>SNG YEOW BOON HENRY</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mr_Sng_Yeow_Boon_Henry.jpg">
+</div>
 <p>I can hardly believe it, but it’s been 10 years since I first walked into
 NJC. That’s right, a full decade of blowing whistles, dodging flying frisbees,
 and reminding students that running is not optional. When I first started,
@@ -3491,6 +3494,9 @@ tech.</p>
 <p></p>
 <p><strong>TAN SHU-WEI</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Ms_Tan_Shu_Wei.jpg">
+</div>
 <p>2015 marked the beginning of my 17th year in teaching—and my first at
 NJC. Now, many moons and monsoons later, it is 2025. These ten years have
 been filled with vibrancy and personal growth. I embraced new ideas through
@@ -3505,6 +3511,9 @@ curiosity, and the courage to shape a meaningful world.</p>
 <p></p>
 <p><strong>LING WEE LEE</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Ms_Ling_Wee_Lee.jpg">
+</div>
 <p>For teachers, the connections we form with our students are what make
 our work special. It really means a lot when students want to know us beyond
 the classroom or when they open up and share more than just “I’m okay”.
@@ -3523,6 +3532,9 @@ at NJC, and I’m really happy to be here!</p>
 <p></p>
 <p><strong>KWEK YUAN CHIA</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mr_Kwek_Yuan_Chia.jpg">
+</div>
 <p>Receiving this Long Service Award fills me with immense pride and happiness.
 Over the past decade at National Junior College, I have found deep fulfillment
 in teaching Mathematics and Computing, watching my students grow not just
@@ -3541,6 +3553,9 @@ I am honored to serve.</p>
 <p></p>
 <p><strong>YONG MAN YUN</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Ms_Yong_Man_Yun.jpg">
+</div>
 <p>National Junior College is a place of growth, learning and building relationships
 for me. I have learnt from many passionate colleagues and even students.
 Being surrounded by like-minded, supportive and positive people help to
@@ -3552,6 +3567,9 @@ things they believe in as they navigate through life.</p>
 <p></p>
 <p><strong>NG XIU-LI</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Ms_Ng_Xiu__Li.jpg">
+</div>
 <p>Teaching at NJC for all these years has been such a great journey. I’ve
 learned that teaching isn’t just about getting through lessons, it’s about
 building connections, getting students to be curious, and creating a classroom
@@ -3569,6 +3587,9 @@ the values imparted to them in NJC.</p>
 <p></p>
 <p><strong>FONG CHEE HOE</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mr_Fong_Chee_Hoe.jpg">
+</div>
 <p>Honestly, I am beyond thankful and grateful for my time here in NJC. To
 be surrounded by such a great community is indeed a blessing. In particular,
 my students, past and present, are constant reminders of why I love to
@@ -3577,6 +3598,9 @@ good for the community.</p>
 <p></p>
 <p><strong>TAY WEN LIN MELANIE</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Ms_Tay_Wen_Lin_Melanie.jpg">
+</div>
 <p>I feel privileged to be part of a community that values both academic
 rigour and character development. What keeps me going is the opportunity
 to witness growth in students, watching students discover their strengths,
