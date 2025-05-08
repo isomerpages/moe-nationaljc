@@ -928,6 +928,9 @@ in each discipline/subject.</p>
 <p></p>
 <p><strong><u>2024 GCE ‘A’ Level Examinations</u></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/A_Level_2024_Results_Release__2_.jpg">
+</div>
 <p>We congratulate our 480 NJCians who sat for the 2024 GCE A-Level Examinations
 for their excellent performance. Their results are a testament to their
 dedication and perseverance.</p>
