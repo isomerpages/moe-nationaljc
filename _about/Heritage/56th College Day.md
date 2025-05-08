@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Heritage
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/56th_College_Day_Logo__Full__resized_for_website.png">
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Loyalty in the Builders, Integrity in the Bricks</strong>
@@ -26,14 +29,138 @@ courage, uplifting others, and striving for excellence.</p>
 <summary><strong>Guest of Honour</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Mr Joseph Leong Weng Keong</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/GOH_PS_Joseph_Leong.jpg">
+</div>
+<p>Mr Joseph Leong Weng Keong is an alumnus of National Junior College from
+the class of 88-89. He joined the Singapore Armed Forces in 1990 serving
+in the Republic of Singapore Navy for 24 years. Mr Leong held several senior
+positions before taking on his current appointments, including Fleet Commander,
+Director Military Intelligence and Chief C4I and Director, Security &amp;
+Intelligence Division.</p>
 <p></p>
+<p>Mr Leong was previously Permanent Secretary for Defence Development at
+the Ministry of Defence and concurrently Second Permanent Secretary for
+Communications and Information. He was Chairman of Defence Science and
+Technology Agency (DSTA), Defence Science Organisation National Laboratories
+(DSO-NL) and his past board appointments include Singapore Technologies
+Engineering Ltd, Housing and Development Board (HDB) and the Civil Service
+College.</p>
+<p></p>
+<p>Currently, Mr Leong’s portfolio centres around developing and deepening
+Singapore’s Smart Nation infrastructures. To this end, he serves as Permanent
+Secretary (Digital Development and Information) for the Ministry of Digital
+Development and Information, and Permanent Secretary (Smart Nation and
+Cybersecurity) for the Prime Minister's Office. He is also the Chairman
+of the Government Technology Agency of Singapore (GovTech) Board.</p>
+<p></p>
+<p>He graduated with a Bachelor of Arts (First Class Honours) in Engineering
+from the University of Cambridge, a Master of Arts from the University
+of Cambridge as well as a Master of Business Administration from Massachusetts
+Institute of Technology. He is also a Fulbrighter and Eisenhower Fellow.</p>
+<p></p>
+<p>Mr Leong is married to Linda and they have been blessed with four children.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Message from our Principal</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Mrs Lucy Toh</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mrs_Lucy_Toh.jpg">
+</div>
+<p>In our 56th year and in my 3rd year as Principal, I have been reflecting
+on NJC’s four-fold Vision Statement which was developed by the College
+community almost twenty years ago. On College Day, we give thanks for and
+recognise members of the NJC community who exemplify Leadership with Sensitivity,
+Scholarship with Creativity, Loyalty with Integrity and, above all, Service
+with Honour.</p>
 <p></p>
+<p>There are two schools of thought about Vision and Mission statements.
+Some feel that these should be evergreen – describing the unchanging values
+and purpose of an organisation. Others take the view that the Vision should
+be a picture of a reality that we must achieve in a defined period of time.
+I think there is wisdom and truth in both these views.</p>
+<p></p>
+<p>So how about NJC? It is my view that there are and have always been members
+of the College community who exemplify our four-fold Vision Statement.
+What we do not yet see, however, is that these powerful statements can
+characterise all of us – staff, students and alumni – all the time. Imagine
+the impact of NJC on Singapore and the world if this truth was kept within
+our line of sight.</p>
+<p></p>
+<p>This year, we are focusing on Loyalty with Integrity. The theme of College
+Day: Loyalty in the Builders, Integrity in the Bricks draws from the metaphor
+of the activity of constructing a building. As it happens, the College
+has just undergone its cyclical General Repair and Renovation (GR&amp;R)
+which MOE undertakes for all schools on a roughly five-year basis. Ours
+was a little delayed due to the Covid-19 Pandemic.</p>
+<p></p>
+<p>The College GR&amp;R may seem mundane but upon reflection there is much
+that we can learn from it. It is so easy for us to take for granted our
+buildings and facilities. In a tropical climate, if we do not maintain
+them, they will deteriorate to the point of being unusable in no time.
+I am grateful that, thanks to prudent stewardship of government revenues,
+the MOE gets the budget to spend every year on the cyclical maintenance
+of all of Singapore’s school buildings. No one gets left out. Every school
+is kept in good condition so that learning can take place. Invisible perhaps,
+but non-trivial.</p>
+<p></p>
+<p>On a more sober note, let us remember that the constant battle against
+entropy and decay is true not just for buildings but for us all. Individually,
+our lives move from birth inexorably on to death. Nations rise and fall.
+Some may say, why bother to try to improve things if the world is dark
+and getting darker? I remember asking my father this very question when
+I was a JC student. His reply was, “It’s true that the world grows darker.
+I choose to push back the darkness.”</p>
+<p></p>
+<p>There are very specific things that we can do that will outlast us if
+we choose to do them. As loyal builders – loyal to our fellow human beings
+– and as bricks with integrity – a small part of the structure contributing
+strength to the whole – let us make those choices today.</p>
+<p></p>
+<p>I commend to you here a short description of how Loyalty with Integrity
+might be manifest for each of us in our daily lives, especially, in the
+various groups we belong to – from our CCA groups to our various chat groups!
+And from this ‘group’ called NJC to the larger groups of our nation and
+our world!</p>
+<p></p>
+<blockquote>
+<p><strong><em>Loyalty</em></strong><em> means that I will:&nbsp;</em>
+</p>
+<ul>
+<li>
+<p><em>Ask not what my group can do for me,&nbsp;but what I can do for them</em>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong><em>Integrity</em></strong><em> means that I will:</em>
+</p>
+<ul>
+<li>
+<p><em>Uphold moral standards and sportsmanship</em>
+</p>
+</li>
+<li>
+<p><em>Celebrate the success and victories of others</em>
+</p>
+</li>
+<li>
+<p><em>Do what is right even when no one is watching</em>
+</p>
+</li>
+</ul>
+</blockquote>
+<p></p>
+<p>Service with Honour!</p>
+<p></p>
+<p>Your Principal,</p>
+<p>Mrs Lucy Toh</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -50,6 +177,9 @@ and service.</p>
 <p></p>
 <p><strong>LUO CHANG</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/LUO_CHANG.jpg">
+</div>
 <p>My six years in NJC are marked by deep gratitude for the faculty, facilities,
 and friends who have shaped my journey. The College’s culture of care has
 nurtured me holistically and inspired me to give back through service.
@@ -78,6 +208,9 @@ characteristics and traits of our motto, Service with Honour.</p>
 <p></p>
 <p><strong>ANGELENE KHO KAR YI</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/ANGELENE_KHO_KAR_YI.jpg">
+</div>
 <p>I am truly honoured to be receiving the Lim Kim Woon Award, and would
 like to thank my teachers, friends, and family who have stood by me and
 supported me throughout my journey in NJC.</p>
@@ -100,6 +233,9 @@ those around them, no matter how small.</p>
 <p></p>
 <p><strong>TOH SHI JIE</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/TOH_SHI_JIE.jpg">
+</div>
 <p>Reflecting on my journey in NJC, a word I believe encapsulates my experience
 as an NJCian is kindness - specifically, the many acts of kindness I was
 fortunate enough to witness and receive over the past six years, which
@@ -127,6 +263,9 @@ encouraged and inspired me along the way.</p>
 <p></p>
 <p><strong>LIAN YUYANG</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Lian_YuYang.jpg">
+</div>
 <p>Receiving this award is both fulfilling and, admittedly, a bit of a surprise
 to me. When I first encountered English-dependent subjects like History
 and Literature, they felt almost too foreign and intimidating - full of
@@ -148,6 +287,9 @@ and integrity in the bricks.</p>
 <p></p>
 <p><strong>TASYA DARAMALINGGAM</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/TASYA_DARAMALINGGAM.jpg">
+</div>
 <p>In my time studying the humanities, the values of loyalty and integrity
 were key in discussions, essays, and reflections. Staying true to one’s
 beliefs while making the effort to understand alternate perspectives was
@@ -176,6 +318,9 @@ both in core curricula and in co-curricular scientific endeavours.</p>
 <p></p>
 <p><strong>GALEN GAY</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Galen_Gay.jpg">
+</div>
 <p>Receiving the SAC Science Excellence Award is both a humbling and affirming
 moment to cap off my NJC journey. From trying to find my bearings in the
 SPIRE programme as a wide-eyed student in Junior High to becoming a confident
@@ -205,6 +350,9 @@ sportsmanship and sporting excellence.</p>
 <p></p>
 <p><strong>ARIEL LIN JING HAN</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/ARIEL_LIN_JING_HAN.jpg">
+</div>
 <p>I am truly honoured to receive this SAC sports excellence award. Receiving
 this award really makes me feel like all my hard work paid off and motivates
 me to work even harder to become better in my sport and as a person as
@@ -221,6 +369,9 @@ you’ve learnt that stick with you for the rest of your life.</p>
 <p></p>
 <p><strong>TAMARA TYLES</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/TAMARA_TYLES.jpg">
+</div>
 <p>My journey in NJC has been shaped by the people who stood by me, especially
 when I felt like giving up. One moment I’ll never forget was in Secondary
 2, during the 400m finals. Having fallen just before the finish line, it
@@ -237,6 +388,9 @@ with me, long after I leave NJC.</p>
 <p></p>
 <p><strong>ESTHER SIAK KA YEE</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Esther_Siak_Ka_Yee.jpg">
+</div>
 <p>Before coming to NJ, I would have never imagined myself winning a sports
 award. I had thought that student athletes were hardcore and dedicated
 but also wasting their time on an activity they might not even be doing
@@ -261,6 +415,9 @@ and co-curricular endeavours.</p>
 <p></p>
 <p><strong>LIAN YUYANG</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Lian_YuYang.jpg">
+</div>
 <p>Receiving this award feels like a moment where all the pieces of my academic
 and co-curricular journeys in the arts and humanities align gracefully.
 My role as Vice President of the Editorial Club, and the countless hours
@@ -285,6 +442,9 @@ Squash and Canoeing.</p>
 <p></p>
 <p><strong>LOVELEY NG</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/LOVELEY_NG.jpg">
+</div>
 <p>It is such an honour to have been awarded the Stephen Loh Sports Excellence
 Award. Throughout my six years in the College’s Shooting Club, I have come
 to appreciate how being a sportsperson is more than just celebrating the
@@ -304,6 +464,9 @@ are lifelong and unforgettable.</p>
 <p></p>
 <p><strong>LOH HIN YIN, LANGSTON</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Langston_Loh.jpg">
+</div>
 <p>I am honoured to have been selected for the Stephen Loh Sports Excellence
 Award. I would not have been able to get to where I am without the support
 of my friends, teachers and coaches in NJC. Although I was in NJ Track
@@ -318,6 +481,9 @@ in these four aspects, towards an exciting future for NJC sports!</p>
 <p></p>
 <p><strong>TAN PENG RUI LAUREN</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/TAN_PENG_RUI_LAUREN.jpg">
+</div>
 <p>Being able to play basketball and represent NJC has been a huge blessing
 to me. The last six years have shaped me to be a better person by inculcating
 a sense of discipline, commitment, where it was important to show up even
@@ -340,6 +506,9 @@ when standing together.</p>
 <p></p>
 <p><strong>AIDAN YEONG LEE HENG</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/AIDAN_YEONG_LEE_HENG.jpg">
+</div>
 <p>I believe that having a sense of Loyalty is not limited to leaders or
 exco members; each CCA members’ loyalty means that they put in their best
 effort in everything they do for the CCA, and this makes a massive difference.
@@ -364,6 +533,9 @@ leadership with sensitivity and service with honour.</p>
 <p></p>
 <p><strong>GOH YU XIN</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/GOH_YU_XIN.jpg">
+</div>
 <p>Stepping into NJC in 2019, I was a little girl with limited confidence
 in my leadership abilities and never thought to step up as one. My first
 exposure as a student leader was when I was appointed the Values-in-Action
@@ -381,6 +553,9 @@ I am today.</p>
 <p></p>
 <p><strong>LEOW ZI HAN GERMAINE</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/LEOW_ZI_HAN_GERMAINE.jpg">
+</div>
 <p>My journey in NJC has been shaped by rewarding moments, such as staying
 back after school to plan initiatives with my CCA, navigating difficult
 conversations as a Peer Support Leader, and learning how to be present
@@ -401,6 +576,9 @@ is what makes this journey truly lasting.</p>
 <p></p>
 <p><strong>CHONG KAI XU</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Chong_Kai_Xu_resized_for_website.jpg">
+</div>
 <p>I am extremely honoured to receive the Outstanding Leadership Award. Personally,
 leadership is about bridging connections with people, journeying together
 as one whilst uplifting others. Above all, leadership encompasses service
