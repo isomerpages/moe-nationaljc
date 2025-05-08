@@ -3130,6 +3130,9 @@ C Division Girls Championship 2024&nbsp;</p>
 </p>
 <p><strong>NOORMA JUWETA BINTE MURAD</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Ms_Noorma_Juweta_Binte_Abdul_Murad.jpg">
+</div>
 <p>It has been a true honour to serve NJC for over 20 years — a journey that
 has shaped not only my professional path, but also, my personal growth.
 Being part of a community that nurtures young minds and celebrates excellence
@@ -3153,6 +3156,9 @@ the NJC spirit continue to thrive in each of you.</p>
 </p>
 <p><strong>DASSIAH VICTOR JOHN</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mr_Dassiah_Victor_John.jpg">
+</div>
 <p>It is with great pride and humility that I reflect on the remarkable achievement
 of thirty years of dedicated service at National Junior College. As I celebrate
 this milestone, I extend my deepest gratitude to the College for providing
@@ -3175,6 +3181,9 @@ my students for their growth in our society.</p>
 </p>
 <p><strong>BEK AIK CHIANG ALVIN</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mr_Bek_Aik_Chiang_Alvin.jpg">
+</div>
 <p>It has been a privilege to serve in NJC for so many years. The experience
 has been both meaningful and rewarding, as I have not only witnessed the
 school’s growth alongside the changing educational landscape, but also
@@ -3196,6 +3205,9 @@ with resilience, and to make meaningful contributions to their communities.</p>
 </p>
 <p><strong>NG JOON HONG</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mr_Ng_Joon_Hong.jpg">
+</div>
 <p>Over the years, I’ve found immense joy in witnessing my students grow
 in confidence, character, and knowledge. Their success—whether big or small—has
 always been a source of quiet pride and motivation. I continue to find
@@ -3209,6 +3221,9 @@ of growing alongside the young minds I teach.</p>
 <p></p>
 <p><strong>ARTINA BINTE SELAMAT</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mdm_Artina_Binte_Selamat.jpg">
+</div>
 <p>I’m humbled to be recognised for my long service at National Junior College.
 What keeps me grounded is my passion for teaching and for growing as both
 a person and an educator. The opportunities I’ve received here have shown
@@ -3223,6 +3238,9 @@ look forward to coming to school every day.</p>
 <p></p>
 <p><strong>CHUA MANPING</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mdm_Chua_Manping.jpg">
+</div>
 <p>“Don’t count the years. Make the years count.” is something I believe
 in. Throughout these years as a teacher, I’ve never felt the need to count
 the years; teaching makes me feel as young as my students!</p>
@@ -3241,6 +3259,9 @@ mind, a body of strength, and a soul of light.</p>
 <p></p>
 <p><strong>ADRIAN LOH SIN LOY</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Dr_Adrian_Loh_Sin_Loy.jpg">
+</div>
 <p>Serving in NJC has been very rewarding. I remember clearly wanting to
 contribute to the college as a new teacher, but was unclear of where I
 belonged at the time. I am glad that I have been afforded the space and
@@ -3257,6 +3278,9 @@ and move forward. For if not now, when?</p>
 <p></p>
 <p><strong>WEE KENG HAN</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mr_Wee_Keng_Han.jpg">
+</div>
 <p>As I look back on 20 years at National Junior College, I find myself filled
 with a mix of pride, gratitude, and a bit of disbelief — has it really
 been two decades? When I first started teaching Chemistry here, I thought
@@ -3274,6 +3298,9 @@ always treasure.</p>
 </p>
 <p><strong>LIM WEI LI</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Ms_Lim_Wei_Li.jpg">
+</div>
 <p>Teaching in NJC has been an incredibly fulfilling journey. Over the years,
 I have not only enjoyed the process of guiding and nurturing students,
 but I have also grown as an educator and as a person.</p>
@@ -3292,6 +3319,9 @@ Honour!</p>
 <p></p>
 <p><strong>ONG MING ANN</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mdm_Ong_Ming_Ann.jpg">
+</div>
 <p>NJC is the school that I’ve spent most of my teaching years in. It is
 a dynamic environment where we always reflect on student outcomes and how
 we can improve our practice to better meet student needs in a changing
@@ -3308,6 +3338,9 @@ and society as they have been blessed.</p>
 <p></p>
 <p><strong>WANG SHILIANG</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Ms_Wang_Shiliang.jpg">
+</div>
 <p>As I mark my 15th year as an educator in this college, I feel deeply grateful
 for the people I’ve worked alongside—each interaction has brought joy and
 inspired me to give my best in helping students learn and grow. While I’ve
@@ -3323,6 +3356,9 @@ my hands, with the hope that they, too, will do good for society.</p>
 <p></p>
 <p><strong>OH JIA LIN, KAREN</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Ms_Oh_Jia_Lin_Karen.jpg">
+</div>
 <p>As an alumnus, I am very grateful to have had the opportunity to be back
 to serve in NJC and work alongside my teachers. Although most of them have
 since retired, I would still like to thank them for guiding me along as
@@ -3336,6 +3372,9 @@ of our paths in life, may we continue to find joy in learning.</p>
 <p></p>
 <p><strong>LEE JIAN HAO JASON</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mr_Lee_Jian_Hao_Jason.jpg">
+</div>
 <p>National Junior College is the first and only school that I have taught
 at since I began my teaching career. While I have served in this college
 for 15 years, it honestly does not feel like so much time has passed.</p>
@@ -3355,6 +3394,9 @@ competencies that they develop to stay adaptable and resilient.</p>
 <p></p>
 <p><strong>LIM ZONG LIANG</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mr_Lim_Zong_Liang_Eli.jpg">
+</div>
 <p>As I look back on my years in education, I'm struck by the incredible
 journey of learning and growth that teaching has provided. I've seen countless
 examples of students overcoming obstacles and achieving their potential,
@@ -3369,6 +3411,9 @@ but have also profoundly shaped my own life and growth as an educator.</p>
 <p></p>
 <p><strong>NUR AMIRAH BINTE KHAIRUDIN</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Ms_Nur_Amirah_Bte_Khairudin.jpg">
+</div>
 <p>It feels like it was just yesterday that I first came to NJC but lo and
 behold it has already been a fulfilling 15 years here. A lot has changed
 and will continue to change but I will always continue to strive and be
@@ -3387,6 +3432,9 @@ world.</p>
 <p></p>
 <p><strong>ALICE GEORGE</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mdm_Alice_George.jpg">
+</div>
 <p>It’s hard to believe that 15 years have flown by at National Junior College!
 Being part of this wonderful NJC family as an Operation Support Officer
 has been a truly rewarding experience. Every day, whether helping to set
@@ -3404,6 +3452,9 @@ NJC family!</p>
 </p>
 <p><strong>HON TIN SENG</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Mr_Hon_Tin_Seng.jpg">
+</div>
 <p>Celebrating a decade of teaching at NJC has been an incredibly rewarding
 journey. Over the past ten years, I’ve had the privilege of watching students
 grow, learn, and discover their potential. Each classroom experience has
