@@ -599,6 +599,9 @@ memories that I will forever treasure.</p>
 <p></p>
 <p><strong>NG XIN YI</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/NG_XIN_YI.jpg">
+</div>
 <p>Receiving this award is a humbling honour. It reflects not just my personal
 journey, but the collective strength of those I’ve led and learned from.
 The leadership opportunities I’ve had at NJC have taught me that true leadership
@@ -619,6 +622,9 @@ has guided every step of my leadership journey in NJC.</p>
 <p></p>
 <p><strong>TENG YWEE SEE</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/TENG_YWEE_SEE.jpg">
+</div>
 <p>I am truly honoured to receive this award. To me, a leader is someone
 who acts with kindness and integrity, while striving to be the best version
 of themselves — a best friend, a best teammate, a best student. I am thankful
@@ -643,6 +649,9 @@ leadership and service.</p>
 <p></p>
 <p><strong>LIM HUAMING</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/LIM_HUAMING.jpg">
+</div>
 <p>My time at NJC has certainly been an eventful journey, one that has shaped
 both my character and my values. Through commitments I have undertaken
 over the years, I have been fortunate to be mentored by teachers who went
@@ -677,6 +686,9 @@ in a collaborative manner amongst NJC students.</p>
 <p></p>
 <p><strong>HILLCREST WILDFLOWERS</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/Hillcrest_Wildflowers_EPIC.jpg">
+</div>
 <p>The Hillcrest Wildflowers comprises 112 students from National Junior
 College who partnered with Wildflower Studio SG to rescue and take care
 of stray cats that are then fostered and put up for adoption. The programme
@@ -702,6 +714,9 @@ Tanittha Sangrung, Gwyneth Tan Zi Yi, Ng Yan Ting Jolin</p>
 <p></p>
 <p><strong>SERVANT LEADERSHIP TRAINING CAMP (SLTC)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/College Day 2025/SLTC_EPIC.jpg">
+</div>
 <p>Integrating aspects from Overseas Values-In-Action and Youth Leadership
 Training Camp, the yearly SLTC programme nurtures Servant Leaders who are
 authentic and build up the people around them. In November 2024’s SLTC,
