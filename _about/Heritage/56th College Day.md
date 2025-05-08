@@ -934,6 +934,7 @@ in each discipline/subject.</p>
 <p>We congratulate our 480 NJCians who sat for the 2024 GCE A-Level Examinations
 for their excellent performance. Their results are a testament to their
 dedication and perseverance.</p>
+<p></p>
 <p>Apart from their academic successes, we are also very proud of our student’s
 unwavering commitment to Service with Honour, their active participation
 in CCAs, and their contributions to both the College and the wider community.
@@ -3755,4 +3756,5 @@ ways you may not yet see.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
