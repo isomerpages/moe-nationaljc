@@ -1980,16 +1980,16 @@ Category</p>
 <p>Chai Ming Zhu Andrew</p>
 <p>Gareth Phua Yong Teck</p>
 <p>Jayden Chua Wei Tzer</p>
-<p>Leong An Yi, Jh201</p>
-<p>Wong Yi Xuan, Jh202</p>
-<p>Selvakumar Varshini, Jh203</p>
-<p>Ng Yun Lin, Jh205</p>
-<p>Phan Vinh Anh, Jh205</p>
-<p>Alester Sim Zhiheng, Jh206</p>
-<p>Isabel Lee Xinyi, Jh206</p>
-<p>Wong Tung Ji Garath, Jh206</p>
-<p>Chong Le Yang, Jh207</p>
-<p>Farrel Tan Yen Keong, Jh207</p>
+<p>Leong An Yi</p>
+<p>Wong Yi Xuan</p>
+<p>Selvakumar Varshini</p>
+<p>Ng Yun Lin</p>
+<p>Phan Vinh Anh</p>
+<p>Alester Sim Zhiheng</p>
+<p>Isabel Lee Xinyi</p>
+<p>Wong Tung Ji Garath</p>
+<p>Chong Le Yang</p>
+<p>Farrel Tan Yen Keong</p>
 </td>
 </tr>
 <tr>
