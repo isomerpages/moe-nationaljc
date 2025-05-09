@@ -3028,25 +3028,6 @@ A Division Girls Championship 2024</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Singapore Schools Sports Council (SSSC) National School Games Squash National
-A Division Girls Championship 2024&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Team: 4th Place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Choy Yi Xuan, Dayna</p>
-<p>Eunice Goh Zi Ying</p>
-<p>Febella Ong Jie Yi</p>
-<p>Jiao Puxi</p>
-<p>Nivetha Saravanan</p>
-<p>Wai Yi Xuan</p>
-<p>Nicole Neo Ling Ming</p>
-<p>Xee Zun Yee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Schools Sports Council (SSSC) National School Games Squash National
 B Division Boys Championship 2024</p>
 </td>
 <td rowspan="1" colspan="1">
