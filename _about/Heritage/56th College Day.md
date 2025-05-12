@@ -1207,13 +1207,13 @@ respective CCAs and have contributed in leading their CCAs to greater heights.</
 </td>
 <td rowspan="1" colspan="1">
 <p>CHUI JUN LING ELROY</p>
-<p>BOO ZHI XUAN</p>
-<p>YANG XI YI</p>
 <p>HO MING XU, DAVID</p>
 <p>YANG LECONG, SAMUEL</p>
 <p>SARAH LIM TJIA WEN (LIN JIAWEN)</p>
 <p>XAVIER TEO CHEE ZHUAN (ZHANG ZHIZHUAN)</p>
 <p>CHUA LINK XUEN</p>
+<p>BOO ZHI XUAN</p>
+<p>YANG XI YI</p>
 </td>
 </tr>
 <tr>
@@ -1223,8 +1223,9 @@ respective CCAs and have contributed in leading their CCAs to greater heights.</
 </td>
 <td rowspan="1" colspan="1">
 <p>TASYA DARAMALINGGAM</p>
+<p>LOY QI EN JAELYN</p>
 <p>CHOW JED IAN SAMUEL</p>
-<p>NICOLE TAN LI YUN</p>
+<p>JAEDON JOHN</p>
 <p>LOY QI RONG, JAYDEN</p>
 <p>ALISON FOO MANLIN</p>
 <p>AMIRA AKHTAR</p>
@@ -1238,6 +1239,8 @@ respective CCAs and have contributed in leading their CCAs to greater heights.</
 </td>
 <td rowspan="1" colspan="1">
 <p>JOY TAY RUI EN</p>
+<p>TAN XUE YU EUAN</p>
+<p>EVAN KEK</p>
 <p>KEISHA ANNE ROBLES</p>
 </td>
 </tr>
@@ -1247,6 +1250,8 @@ respective CCAs and have contributed in leading their CCAs to greater heights.</
 </td>
 <td rowspan="1" colspan="1">
 <p>LOGANATHAN KRITHIK</p>
+<p>ANDRIA BONG JIA WEN</p>
+<p>DING LI CHAW MAUNG</p>
 <p>ANNABELLE NG YI XUAN</p>
 <p>TOH CHENG XUN WILFRED</p>
 </td>
@@ -1268,10 +1273,9 @@ respective CCAs and have contributed in leading their CCAs to greater heights.</
 </td>
 <td rowspan="1" colspan="1">
 <p>CHOY YI XUAN, DAYNA</p>
-<p>DING LI CHAW MAUNG</p>
-<p>LIN HAO YANG</p>
 <p>GERVIN TAN SHIN HUI</p>
 <p>SZE EN HAO GABRIEL</p>
+<p>LIN HAO YANG</p>
 </td>
 </tr>
 <tr>
@@ -1279,9 +1283,12 @@ respective CCAs and have contributed in leading their CCAs to greater heights.</
 <p>TRACK AND FIELD AND CROSS-COUNTRY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zKUEK YU JING</p>
+<p>BAN XIN HUI</p>
+<p>KUEK YU JING</p>
+<p>TASHA LIEW EN-RUI</p>
 <p>LIM JUN YI MATTHEW</p>
 <p>ISAAC SIM CHENG JUN</p>
+<p>FANG CHEN</p>
 <p>SHOBI YAP WOON AI</p>
 <p>SHANICE TAN HARIDAS</p>
 </td>
@@ -1311,7 +1318,9 @@ respective CCAs and have contributed in leading their CCAs to greater heights.</
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>TAN ZHENG RUI</p>
 <p>TAN WEE HIN</p>
+<p>CHRISTELLE NG LI XUAN</p>
 <p>SHARON POH SHIHUI</p>
 <p>CHEN PINGXIN</p>
 <p>TAN YAN NING, TRINICE</p>
@@ -1325,6 +1334,7 @@ respective CCAs and have contributed in leading their CCAs to greater heights.</
 <p>CHOIR</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>JOANNA YEO RUI-EN</p>
 <p>TAN LI XIN, GEMMA</p>
 <p>ZHANG XUANYI</p>
 <p>GERALD TAN JIAYE</p>
@@ -1336,6 +1346,7 @@ respective CCAs and have contributed in leading their CCAs to greater heights.</
 </td>
 <td rowspan="1" colspan="1">
 <p>NINDYA ADHWA RAMDHAN</p>
+<p>SHAW KHU RUI LIN</p>
 <p>SEAH NING NING, MABEL</p>
 <p>MAHITH MANESH</p>
 </td>
@@ -1347,10 +1358,10 @@ respective CCAs and have contributed in leading their CCAs to greater heights.</
 <td rowspan="1" colspan="1">
 <p>S J HARSHITHA</p>
 <p>SIVAKUMAR NANDHANA</p>
-<p>LAKSHMINARAYANAN THARUNIKA</p>
 <p>AASHIRA MOHAMED BILAL</p>
 <p>HARINI JAYAKUMAR</p>
 <p>MURARI AASRITHA</p>
+<p>LAKSHMINARAYANAN THARUNIKA</p>
 </td>
 </tr>
 <tr>
@@ -1359,9 +1370,9 @@ respective CCAs and have contributed in leading their CCAs to greater heights.</
 </td>
 <td rowspan="1" colspan="1">
 <p>SITI NURSHASHA BINTE MOHAMAD RAIME</p>
-<p>BRIGITTA ARIELLA INIGO WIDIAATMAJA</p>
 <p>ESTABEL LEE</p>
 <p>GWYNETH TAN ZI YI (CHEN ZIYI)</p>
+<p>BRIGITTA ARIELLA INIGO WIDIAATMAJA</p>
 </td>
 </tr>
 <tr>
@@ -1369,9 +1380,10 @@ respective CCAs and have contributed in leading their CCAs to greater heights.</
 <p>STRING ENSEMBLE</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>TRISTEN YUWEE NG</p>
+<p>CHENG WANG HOI, JACOB REUBEN</p>
 <p>HO YU TONG</p>
 <p>SUNG WAI LAM</p>
-<p>CHENG WANG HOI, JACOB REUBEN</p>
 </td>
 </tr>
 <tr>
