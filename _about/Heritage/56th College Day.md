@@ -1078,23 +1078,21 @@ leadership.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SHEO CHIONG TENG</p>
+<p>BEATRICE FOO YAQI (FU YAQI)</p>
+<p>DANELLE KAYLEE KHOO BACOMO</p>
 <p>YANG WEIXIONG</p>
 <p>AMANDA LEE YEE XUAN</p>
 <p>HONG YAR WERN, VIVIAN</p>
 <p>SHANYCE GOH</p>
+<p>GOH YU XIN</p>
 <p>LUO CHANG (LOH CHANG)</p>
 <p>SEE THOU JUN KAI</p>
 <p>SU PEI CHEN, NATALIE</p>
 <p>TOH SHI JIE</p>
 <p>ZHANG ZHENQI</p>
-<p>GOH YU XIN</p>
-<p>LIM WAN YING</p>
-<p>GRACIA TOE WEN HIN</p>
-<p>DANELLE KAYLEE KHOO BACOMO</p>
-<p>KAUNG HTET ZAR NIE</p>
-<p>BEATRICE FOO YAQI (FU YAQI)</p>
 <p>JORDAN NG JUN QUAN</p>
 <p>TAN PENG SIONG JETHRO</p>
+<p>KAUNG HTET ZAR NIE</p>
 <p>EPHEA TAY YU XUAN</p>
 <p>ERIN POK ERN YEE (BU ENYI)</p>
 <p>KYLENE KRISTYN LEW</p>
@@ -1113,14 +1111,13 @@ leadership.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>RAE TANG</p>
-<p>EVONNE LEW XUAN YI</p>
 <p>HUANG JUNDONG</p>
 <p>NURSAFFIYAH BINTE ABDUL RAHMAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>VIA Leaders</p>
+<p>VIA Leaders &amp; Peer Support Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>EVONNE LEW XUAN YI</p>
@@ -1132,6 +1129,19 @@ leadership.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>NG XIN YI</p>
+<p>TRACEY CHRISTIANTI</p>
+<p>YAP ZHI YAN CRYSTAL</p>
+<p>WU KAI WEN KELVIN</p>
+<p>CALVIN FIRDAUS PANGGABEAN</p>
+<p>CAO YUXUAN</p>
+<p>XEE ZUN YEE</p>
+<p>CHAN YEW ZHI</p>
+<p>LIM JIAQI</p>
+<p>JOSH PHUA</p>
+<p>LIM DONG XIAN</p>
+<p>CHOI JAEEUN</p>
+<p>LI YUANZHENG</p>
+<p>XU ERCHEN</p>
 <p>XEE ZUN YEE</p>
 <p>JOSH PHUA</p>
 </td>
