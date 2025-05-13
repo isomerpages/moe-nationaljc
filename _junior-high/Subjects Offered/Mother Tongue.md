@@ -15,7 +15,6 @@ Our curriculum emphasizes the development of five core language skills: speaking
 
 **HMTL Admission Criteria (for Junior High 1, from 2026 onwards):**  
 Students must meet at least one of the following:
-
 1.  MTL Achievement Level (AL) 1 or 2;
 2.  HMTL grade of Distinction or Merit;
 3.  MTL AL3 with a PSLE Overall Score of AL ≤ 8.
