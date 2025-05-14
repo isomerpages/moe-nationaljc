@@ -192,7 +192,7 @@ national issues and learn about Bill crafting under the guidance of expert-mento
 from the legal profession.</p>
 </li>
 </ul>
-<h3><strong>Thinking</strong></h3>
+<h2><strong>Thinking</strong></h2>
 <p>Critical thinking is incorporated and taught throughout the 4 years in
 Language Arts lessons. Students are introduced to Richard Paul’s Wheel
 of Reason to help them to analyse, understand and evaluate the texts and
