@@ -12,7 +12,6 @@ variant: tiptap
 <p><strong>&nbsp;</strong>
 </p>
 <h4><strong>LA Department Philosophy, Mission, Vision</strong></h4>
-<p>&nbsp;</p>
 <h4><strong>Philosophy</strong></h4>
 <p>The LA Dept believes that language is the vehicle of thought. Language
 is not just a tool for thinking, learning and sharing of learning, it is
@@ -24,7 +23,6 @@ competence. The teaching of literacy and linguistic skills in English needs
 to include multiliteracies so that students can respond to and effectively
 use multiple modes of communication, with audience, purpose and context
 in mind.</p>
-<p>&nbsp;</p>
 <h4><strong>Mission</strong></h4>
 <p>The Language Arts programme aims to develop students’ ability to communicate
 effectively by developing their receptive skills (listening, reading and
@@ -32,13 +30,10 @@ viewing), productive skills (speaking, writing and representing) and thinking
 skills in a progressive way. Students will recognize that text and language
 choices are based on audience, purpose and context. Through our programme,
 students become empathetic communicators, discerning readers and critical
-thinkers.&nbsp;</p>
-<p>&nbsp;</p>
+thinkers.</p>
 <h4><strong>Vision</strong></h4>
 <p>To empower students to think critically, express themselves confidently,
 accurately and fluently and communicate and collaborate well with others.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <h4><strong>LA Programme and Electives</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
