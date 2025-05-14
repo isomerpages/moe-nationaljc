@@ -104,14 +104,12 @@ and open calls.</p>
 <p>Students get the opportunity to share/feature &nbsp;their writing in NJC,
 whether in an online zine or in a performance event, and contribute to
 the reading and writing culture in NJC and beyond.</p>
-<p>&nbsp;</p>
 <h4><strong>Writing Competitions</strong></h4>
 <p>All students are invited to write creatively and analytically and many
 platforms are available within the college as well as externally for students
 to share and showcase their work. Some writing competitions include the
 Royal Commonwealth Essay, Torrance Creative Writing, Foyle Young Poets,
 A*STAR Science Chronicles, and more.</p>
-<p>&nbsp;</p>
 <h4><strong>National Schools Literature Festival (NSLF)</strong></h4>
 <p>Held biannually, the National Schools Literature Festival (NSLF) is a
 literary festival for students in Singapore and has provided a powerful
@@ -156,7 +154,6 @@ an art form under the charge of an arts practitioner and come up with a
 performance which may be chosen for showcase</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <h4><strong>Literature Seminar (organised by MOE GEB)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -168,7 +165,6 @@ the breadth of literary studies. This is typically offered to upper JH
 students offering Advanced Language Arts.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <h4><strong>Humanities and Social Sciences Research Programme (HSSRP) (organised by MOE GEB)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -177,7 +173,6 @@ a valuable opportunity to engage in humanities and social sciences research
 under the guidance of academic researchers.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <h4><strong>Moot Parliament Programme (MPP) (organised by MOE GEB)</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
