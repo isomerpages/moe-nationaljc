@@ -33,9 +33,8 @@ thinkers.</p>
 <p>To empower students to think critically, express themselves confidently,
 accurately and fluently and communicate and collaborate well with others.</p>
 <h4><strong>LA Programme and Electives</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -43,43 +42,43 @@ accurately and fluently and communicate and collaborate well with others.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level</strong>
-</p>
+<p>Level</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Subject</strong>
-</p>
+<p>Subject(s) for All Students</p>
 </td>
-<td rowspan="1" colspan="2">
-<p><strong>Electives</strong>
-</p>
+<td rowspan="1" colspan="1">
+<p>Electives (for Selected Students)</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JH1 and JH2</p>
+<p>&nbsp;JH1 and JH2</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
+<p>&nbsp;Language Arts</p>
+<p>and</p>
+<p>Thinking</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>Language Arts</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>JH3</p>
-</td>
-<td rowspan="2" colspan="1">
-<p>Advanced Language Arts (for selected students)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="2" colspan="1">
-<p>Man and Ideas (for selected students)</p>
+<p>&nbsp;</p>
+<p>Language Arts</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>&nbsp;Advanced Language Arts &nbsp;</p>
+<p>&nbsp;</p>
+<p>Man and Ideas &nbsp;</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
