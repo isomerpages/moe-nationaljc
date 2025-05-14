@@ -57,10 +57,14 @@ accurately and fluently and communicate and collaborate well with others.</p>
 <p>&nbsp;JH1 and JH2</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Language Arts and Thinking</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -70,12 +74,21 @@ accurately and fluently and communicate and collaborate well with others.</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Language Arts</p>
+</li>
+</ul>
 </td>
 <td rowspan="2" colspan="1">
-<p>&nbsp;Advanced Language Arts &nbsp;</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Advanced Language Arts</p>
+</li>
+<li>
 <p>Man and Ideas &nbsp;</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
