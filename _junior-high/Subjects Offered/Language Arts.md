@@ -67,15 +67,14 @@ accurately and fluently and communicate and collaborate well with others.</p>
 <p>JH1 and JH2</p>
 </td>
 <td rowspan="3" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Language Arts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -97,13 +96,9 @@ accurately and fluently and communicate and collaborate well with others.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
 <h4><strong>LA Talent Development Opportunities</strong></h4>
-<p>&nbsp;</p>
 <p>Students who have displayed aptitude in our discipline may be identified
 for talent development. Here is an overview of our Talent Development Opportunities:</p>
-<p>&nbsp;</p>
 <h4><strong>Writer’s Circle</strong></h4>
 <p>A mentorship programme run by NJC for JH students, focused on creative
 writing.</p>
@@ -125,7 +120,11 @@ Royal Commonwealth Essay, Torrance Creative Writing, Foyle Young Poets,
 A*STAR Science Chronicles, and more.</p>
 <p>&nbsp;</p>
 <h4><strong>National Schools Literature Festival (NSLF)</strong></h4>
-<h4>Held biannually, the National Schools Literature Festival (NSLF) is a literary festival for students in Singapore and has provided a powerful platform to develop students’ passion and love for literature. Students get to take part in activities such as choral speaking, flash fiction writing, unseen debate and book trailer!</h4>
+<p>Held biannually, the National Schools Literature Festival (NSLF) is a
+literary festival for students in Singapore and has provided a powerful
+platform to develop students’ passion and love for literature. Students
+get to take part in activities such as choral speaking, flash fiction writing,
+unseen debate and book trailer!</p>
 <h4><strong>Plain English Speaking Competition (PESA)</strong></h4>
 <p>Students who are proficient in speaking and are keen to hone their public
 speaking skills may be selected to take part in PESA. The objectives of
