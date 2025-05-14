@@ -126,18 +126,26 @@ A*STAR Science Chronicles, and more.</p>
 <p>&nbsp;</p>
 <h4><strong>National Schools Literature Festival (NSLF)</strong></h4>
 <h4>Held biannually, the National Schools Literature Festival (NSLF) is a literary festival for students in Singapore and has provided a powerful platform to develop students’ passion and love for literature. Students get to take part in activities such as choral speaking, flash fiction writing, unseen debate and book trailer!</h4>
-<p>&nbsp;</p>
 <h4><strong>Plain English Speaking Competition (PESA)</strong></h4>
 <p>Students who are proficient in speaking and are keen to hone their public
 speaking skills may be selected to take part in PESA. The objectives of
 PESA are:</p>
-<p>1. To promote public speaking as an important social and academic skill</p>
-<p>2. To provide an avenue for students to sharpen their speaking skills
-and to build confidence in public presentation</p>
-<p>3. To provide opportunity to learn by observing other proficient speakers</p>
-<p>4. To develop a personal voice ("Believe in what you are saying and enjoy
+<ol data-tight="true" class="tight">
+<li>
+<p>To promote public speaking as an important social and academic skill</p>
+</li>
+<li>
+<p>To provide an avenue for students to sharpen their speaking skills and
+to build confidence in public presentation</p>
+</li>
+<li>
+<p>To provide opportunity to learn by observing other proficient speakers</p>
+</li>
+<li>
+<p>To develop a personal voice ("Believe in what you are saying and enjoy
 speaking. Let your own voice be heard.")</p>
-<p>&nbsp;</p>
+</li>
+</ol>
 <h4><strong>Creative Arts Programme (CAP)</strong></h4>
 <p>Secondary 2-3 students who have submitted good portfolios and are selected
 will attend</p>
