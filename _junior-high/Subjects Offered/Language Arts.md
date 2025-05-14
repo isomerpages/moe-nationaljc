@@ -57,9 +57,7 @@ accurately and fluently and communicate and collaborate well with others.</p>
 <p>&nbsp;JH1 and JH2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Language Arts</p>
-<p>and</p>
-<p>Thinking</p>
+<p>Language Arts and Thinking</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
