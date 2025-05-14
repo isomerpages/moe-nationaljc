@@ -59,7 +59,10 @@ accurately and fluently and communicate and collaborate well with others.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Language Arts and Thinking</p>
+<p>Language Arts</p>
+</li>
+<li>
+<p>Thinking</p>
 </li>
 </ul>
 </td>
