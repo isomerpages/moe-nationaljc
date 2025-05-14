@@ -141,16 +141,21 @@ speaking. Let your own voice be heard.")</p>
 <h4><strong>Creative Arts Programme (CAP)</strong></h4>
 <p>Secondary 2-3 students who have submitted good portfolios and are selected
 will attend</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; writing workshops which give
-young writers the chance to work with other young writers and learn from
-established writers;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; enrichment sessions which
-expose participants to interesting and relevant issues on writing and the
-arts;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; performance workshops which
-offer participants the opportunity to learn an art form under the charge
-of an arts practitioner and come up with a performance which may be chosen
-for showcase</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>writing workshops which give young writers the chance to work with other
+young writers and learn from established writers;</p>
+</li>
+<li>
+<p>enrichment sessions which expose participants to interesting and relevant
+issues on writing and the arts;</p>
+</li>
+<li>
+<p>performance workshops which offer participants the opportunity to learn
+an art form under the charge of an arts practitioner and come up with a
+performance which may be chosen for showcase</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <h4><strong>Literature Seminar (organised by MOE GEB)</strong></h4>
 <ul data-tight="true" class="tight">
