@@ -19,8 +19,3 @@ In addition, career talks are being conducted periodically to expose students to
 The Programme is currently exploring possibilities for inter-disciplinary collaborative learning in music composition and history of the arts.
 
 Please note that the Music Programme is only offered to Junior High students.
-
-| Name | Email |
-|:---:|:---:|
-| Ms Gayle Sim | gayle_sim@moe.edu.sg |
-| Mr Aaron Lum | lum_zhi_yong_aaron@moe.edu.sg |
