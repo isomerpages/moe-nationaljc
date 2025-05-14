@@ -6,11 +6,9 @@ third_nav_title: Subjects Offered
 variant: tiptap
 ---
 <h3><strong>LA Dept Writeup for Website 2025</strong></h3>
-<p><strong>&nbsp;</strong>
-</p>
-<p></p>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LA_Dept_Writeup_2025.jpg">
+</div>
 <h4><strong>LA Department Philosophy, Mission, Vision</strong></h4>
 <h4><strong>Philosophy</strong></h4>
 <p>The LA Dept believes that language is the vehicle of thought. Language
@@ -205,3 +203,4 @@ an elective called Man and Ideas (MI). Using inquiry as the approach to
 learning, MI engages students in questioning, challenging assumptions and
 known knowledge, exploring what they do not yet know, and in so doing,
 make them better thinkers and decision-makers.</p>
+<p></p>
