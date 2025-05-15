@@ -49,12 +49,11 @@ accurately and fluently and communicate and collaborate well with others.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Electives (for Selected Students)</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;JH1 and JH2</p>
+<p>JH1 &amp; JH2</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -72,18 +71,16 @@ accurately and fluently and communicate and collaborate well with others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>JH3</p>
-<p>&nbsp;</p>
+<p>JH3 &amp; JH4</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>&nbsp;</p>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Language Arts</p>
 </li>
 </ul>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Advanced Language Arts</p>
@@ -93,11 +90,6 @@ accurately and fluently and communicate and collaborate well with others.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>JH4</p>
 </td>
 </tr>
 </tbody>
