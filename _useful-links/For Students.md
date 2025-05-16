@@ -13,9 +13,8 @@ variant: markdown
 
 <p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a></p>
 
-<p><a href="http://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a></p>
+<p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a></p>
 
 <p><a href="https://go.gov.sg/ecgchat-njc" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance</a></p>
 
 <p><a href="https://www.njgradnet.com/" rel="noopener noreferrer nofollow" target="_blank">NJ Gradnet</a></p><p></p>
-
