@@ -105,52 +105,57 @@ during the JH3 subject combination exercise at the end of JH2</p>
 <p>HOD Humanities: Ms Valerie Cher</p>
 <p><a href="mailto:cher_caifeng_valerie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cher_caifeng_valerie@moe.edu.sg</u></a>&nbsp;</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH Advanced Humanities/ah1.jpg">
+</div>
 <p>AH students exploring the Bukit Timah Railway Station with Ms Stella Wee
 of URA.</p>
 <p></p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH Advanced Humanities/ah2.jpg">
+</div>
 <p>AH students attending a workshop conducted by Urban Sketchers</p>
-<p>
-<br>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH Advanced Humanities/ah3.jpg">
+</div>
 <p>AH students working on maps in the Geopolitics module.&nbsp;</p>
-<p>
-<br>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH Advanced Humanities/ah4.jpg">
+</div>
 <p>AH students working on their urban mapping of Little India.</p>
-<p>
-<br>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH Advanced Humanities/ah5.png">
+</div>
 <p>AH students were awarded the Best Research Award for their research project
 on Migrants in the 2021 International Humanities Symposium.</p>
-<p>
-<br>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH Advanced Humanities/ah6.jpg">
+</div>
 <p>AH students taking part in the Singapore Model Cabinet organised by VJC.</p>
-<p>
-<br>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH Advanced Humanities/AH7.png">
+</div>
 <p>AH students on their Heritage field trip at Joo Chiat Road.&nbsp;</p>
-<p>
-<br>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH Advanced Humanities/AH8.jpg">
+</div>
 <p>Hosting our friends from Kanazawa University Senior High School - they
-were in Singapore to present at our International Humanities Symposium!</p>
-<p>
+were in Singapore to present at our International Humanities Symposium!
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH Advanced Humanities/AH9.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JH Advanced Humanities/AH10.jpg">
+</div>
 <p>AH students presenting their project at the MOE Humanities and Social
 Sciences Research Programme (HSSRP) Symposium.&nbsp;</p>
 <p>
