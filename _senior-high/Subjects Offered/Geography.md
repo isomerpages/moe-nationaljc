@@ -28,9 +28,6 @@ students are imbued with a sense of wonder and curiosity about the world
 in which they live, and a feeling of awe and respect for the environment
 surrounding them, as well as the capacity to be self-regulated and critical
 in their mastery of the subject.</p>
-<p>
-<br>
-</p>
 <p><strong><u>Senior High Geography Curriculum:&nbsp;</u></strong>
 </p>
 <p>The Senior High Geography curriculum is guided by what is laid out in
