@@ -58,7 +58,7 @@ and Health &amp; Diseases. In the light of the growing world population,
 these 3 themes explore the challenges of environmental sustainability.
 A central concept that runs through these 3 themes is variation in development
 (poverty).&nbsp;&nbsp;&nbsp;</p>
-<p><u>Extension of Learning:&nbsp;</u>
+<p><strong><u>Extension of Learning:</u></strong>
 </p>
 <p>The JH Geography Curriculum also includes field trips to carry out Geographical
 Investigations. This includes local trips to Bishan Park and Changi Village.
