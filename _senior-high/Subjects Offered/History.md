@@ -45,6 +45,6 @@ that shaped our past continue to manifest today.</p>
 </p>
 <p>Students who demonstrate great passion and potential in the subject will
 be selected to represent the college in various history competitions and
-interschool seminars.&nbsp;</p>
+interschool seminars.</p>
 <p><strong>“There is nothing new in the world except the history you do not know.” - Harry S. Truman</strong>
 </p>
