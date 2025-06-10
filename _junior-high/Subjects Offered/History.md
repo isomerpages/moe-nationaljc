@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Subjects Offered
 variant: tiptap
 ---
-<h3>History</h3>
+<h1><strong>History</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/history%20jh.jpg">
 </div>
