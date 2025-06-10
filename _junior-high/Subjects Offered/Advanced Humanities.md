@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Subjects Offered
 variant: tiptap
 ---
-<h1>Advanced Humanities</h1>
+<h1><strong>Advanced Humanities</strong></h1>
 <p><strong>“The arts and the humanities teach us who we are and what we can be.” - Ronald Reagan</strong>
 </p>
 <ol>
