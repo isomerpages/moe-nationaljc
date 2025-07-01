@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Subjects Offered
 variant: tiptap
 ---
-<h3>Geography</h3>
+<h1><strong>Geography</strong></h1>
 <div class="isomer-image-wrapper">
 <img style="width:80%" height="auto" width="100%" src="/images/geo1.png">
 </div>
