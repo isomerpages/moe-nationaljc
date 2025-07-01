@@ -60,6 +60,14 @@ to present their findings at the end of the project&nbsp;</p>
 on their learning experiences, we hope to help the students further their
 self-understanding, be meta-cognitive in their learning, and make meaning
 of their learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/governance and society 1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/governance and society 2.jpg">
+</div>
 <p>
 <br>
 </p>
