@@ -55,9 +55,6 @@ interschool seminars.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/Valerie_History__2_.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/governance and society 1.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/Valerie_History__6_.jpg">
 </div>
 <div class="isomer-image-wrapper">
@@ -74,8 +71,5 @@ interschool seminars.</p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/Valerie_History__1_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/governance and society 2.jpg">
 </div>
 <p></p>
