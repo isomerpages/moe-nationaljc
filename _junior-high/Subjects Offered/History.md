@@ -51,3 +51,29 @@ as the Historical Scene Investigation and MOE History Challenge, and may
 be selected for the MOE History Talent Development Programme.</p>
 <p><strong>“There is nothing new in the world except the history you do not know.” - Harry S. Truman</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/Valerie_History__2_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/Valerie_History__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/Valerie_History__6_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/Valerie_History__5_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/Valerie_History__4_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/Valerie_History__3_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/Valerie_History__2_.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BYTZ/Valerie/Valerie_History__1_.png">
+</div>
+<p></p>
